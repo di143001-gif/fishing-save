@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 10,
-    "coins": 2818,
+    "coins": 2618,
     "gems": 0,
     "health": 14,
     "maxHealth": 100,
@@ -47,8 +47,8 @@
     "maxRods": 5,
     "skills": {
       "fishing": 2,
-      "luck": 1,
-      "endurance": 1
+      "luck": 2,
+      "endurance": 2
     },
     "statistics": {
       "totalFishCaught": 1,
@@ -223,7 +223,7 @@
       ]
     }
   },
-  "timestamp": 1763651552324,
+  "timestamp": 1763651555321,
   "version": "3.0-cloud",
   "user": "Admin"
 }
