@@ -4,10 +4,18 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 80,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Trộm",
+        "weight": 1.76,
+        "exp": 26,
+        "value": 140,
+        "rarity": "stolen"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -137,7 +145,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "steal-menu",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -203,7 +211,7 @@
       ]
     }
   },
-  "timestamp": 1763618265740,
+  "timestamp": 1763618267954,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
