@@ -13,7 +13,7 @@
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -22,7 +22,7 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -147,9 +147,9 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-channel",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": null,
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763655528290,
     "activeEvents": [],
@@ -158,20 +158,20 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": "1763654192673_mtf9cj2ic",
+        "startTime": 1763655552633,
+        "endTime": 1763656152633,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": "1763654192673_qb74lygjm",
+        "startTime": 1763655553038,
+        "endTime": 1763656153038,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763655551712,
+  "timestamp": 1763655553046,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
