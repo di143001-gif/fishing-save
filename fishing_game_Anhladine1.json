@@ -2,15 +2,15 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 141248,
     "gems": 0,
-    "health": 100,
+    "health": 98,
     "maxHealth": 100,
-    "points": 0,
+    "points": 30,
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": "1763661035310_di6od7xno",
+        "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -19,13 +19,22 @@
         "type": "bamboo"
       },
       {
-        "id": "1763661035310_9c7wj5lxz",
+        "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
@@ -38,19 +47,111 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 0,
+      "totalEarnings": 648,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0,
+      "dailyEarnings": 648,
       "tradesCompleted": 0
+    },
+    "achievements": {
+      "firstCatch": {
+        "id": "firstCatch",
+        "name": "Lần Đầu Câu Cá",
+        "description": "Bắt được con cá đầu tiên",
+        "type": "fishing",
+        "target": 1,
+        "reward": 100,
+        "points": 10,
+        "unlocked": false
+      },
+      "catch10Fish": {
+        "id": "catch10Fish",
+        "name": "Ngư Phủ Nghiệp Dư",
+        "description": "Bắt được 10 con cá",
+        "type": "fishing",
+        "target": 10,
+        "reward": 500,
+        "points": 20,
+        "unlocked": false
+      },
+      "catch100Fish": {
+        "id": "catch100Fish",
+        "name": "Ngư Phủ Chuyên Nghiệp",
+        "description": "Bắt được 100 con cá",
+        "type": "fishing",
+        "target": 100,
+        "reward": 2000,
+        "points": 50,
+        "unlocked": false
+      },
+      "bigFish": {
+        "id": "bigFish",
+        "name": "Cá Lớn",
+        "description": "Bắt được con cá nặng 2kg trở lên",
+        "type": "fishing",
+        "target": 2,
+        "reward": 1000,
+        "points": 30,
+        "unlocked": false
+      },
+      "firstSale": {
+        "id": "firstSale",
+        "name": "Bán Hàng Đầu Tiên",
+        "description": "Bán cá lần đầu tiên",
+        "type": "economy",
+        "target": 1,
+        "reward": 200,
+        "points": 10,
+        "unlocked": false
+      },
+      "earn10k": {
+        "id": "earn10k",
+        "name": "Doanh Nhân Nhí",
+        "description": "Kiếm được 10,000 xu",
+        "type": "economy",
+        "target": 10000,
+        "reward": 1000,
+        "points": 30,
+        "unlocked": false
+      },
+      "earn100k": {
+        "id": "earn100k",
+        "name": "Đại Gia",
+        "description": "Kiếm được 100,000 xu",
+        "type": "economy",
+        "target": 100000,
+        "reward": 5000,
+        "points": 100,
+        "unlocked": false
+      },
+      "level10": {
+        "id": "level10",
+        "name": "Lên Cấp",
+        "description": "Đạt cấp 10",
+        "type": "personal",
+        "target": 10,
+        "reward": 1500,
+        "points": 40,
+        "unlocked": false
+      },
+      "upgradeSkills": {
+        "id": "upgradeSkills",
+        "name": "Nâng Cấp Kỹ Năng",
+        "description": "Nâng cấp tất cả kỹ năng lên cấp 5",
+        "type": "personal",
+        "target": 5,
+        "reward": 2000,
+        "points": 50,
+        "unlocked": false
+      }
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "market-exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763661035310,
+    "lastHpRegen": 1763660672384,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -77,9 +178,44 @@
       }
     ],
     "marketItems": [],
-    "transactions": []
+    "transactions": [],
+    "dailyQuests": {
+      "date": "Thu Nov 20 2025",
+      "quests": [
+        {
+          "id": "catch5Fish",
+          "name": "Câu 5 Con Cá",
+          "description": "Bắt được 5 con cá trong ngày hôm nay",
+          "target": 5,
+          "progress": 1,
+          "reward": 500,
+          "completed": false,
+          "claimed": false
+        },
+        {
+          "id": "sell1000Coins",
+          "name": "Bán Cá 1,000 Xu",
+          "description": "Bán cá với tổng giá trị 1,000 xu",
+          "target": 1000,
+          "progress": 0,
+          "reward": 300,
+          "completed": false,
+          "claimed": false
+        },
+        {
+          "id": "upgradeSkill",
+          "name": "Nâng Cấp Kỹ Năng",
+          "description": "Nâng cấp bất kỳ kỹ năng nào 1 lần",
+          "target": 1,
+          "progress": 0,
+          "reward": 400,
+          "completed": false,
+          "claimed": false
+        }
+      ]
+    }
   },
-  "timestamp": 1763661036988,
+  "timestamp": 1763661139991,
   "version": "3.0-cloud",
   "user": "Anhladine1"
 }
