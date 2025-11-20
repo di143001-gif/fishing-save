@@ -147,7 +147,7 @@
     "currentLocation": "Khu Äá»ng Lá»n",
     "currentChannel": "KÃªnh A",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763636782071,
+    "lastHpRegen": 1763636998592,
     "activeEvents": [
       "goldenFish"
     ],
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763636998099,
+  "timestamp": 1763637001102,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
