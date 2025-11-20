@@ -35,7 +35,7 @@
         "id": 1,
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -44,7 +44,7 @@
         "id": 2,
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -79,20 +79,20 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rodId": 1,
-        "startTime": 1763647140668,
-        "endTime": 1763647740668,
+        "startTime": 1763647157465,
+        "endTime": 1763647757465,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rodId": 2,
-        "startTime": 1763647115035,
-        "endTime": 1763647715035,
+        "startTime": 1763647157976,
+        "endTime": 1763647757976,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -101,7 +101,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647157021,
+  "timestamp": 1763647160579,
   "version": "3.0-cloud",
   "user": "Admin"
 }
