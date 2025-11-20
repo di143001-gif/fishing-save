@@ -142,7 +142,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763653993128,
+    "lastHpRegen": 1763654641506,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -206,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654201255,
+  "timestamp": 1763654641883,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
