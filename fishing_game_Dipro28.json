@@ -128,7 +128,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "market-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -233,7 +233,7 @@
       ]
     }
   },
-  "timestamp": 1763637797767,
+  "timestamp": 1763637799493,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
