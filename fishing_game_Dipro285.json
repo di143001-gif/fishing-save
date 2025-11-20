@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1048,
+    "coins": 1248,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 50,
+    "points": 60,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -183,7 +183,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -251,7 +251,7 @@
       ]
     }
   },
-  "timestamp": 1763672632434,
+  "timestamp": 1763672635437,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
