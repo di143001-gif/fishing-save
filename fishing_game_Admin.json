@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 40,
+    "health": 20,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -94,7 +94,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647091576,
+  "timestamp": 1763647093623,
   "version": "3.0-cloud",
   "user": "Admin"
 }
