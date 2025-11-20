@@ -151,7 +151,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672508931,
+    "lastHpRegen": 1763661137484,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763672509436,
+  "timestamp": 1763672589439,
   "version": "3.0-cloud",
   "user": "Anhladine1"
 }
