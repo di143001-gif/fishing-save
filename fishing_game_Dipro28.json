@@ -4,7 +4,7 @@
     "exp": 42,
     "coins": 42612,
     "gems": 0,
-    "health": 20,
+    "health": 0,
     "maxHealth": 100,
     "points": 90,
     "fishInventory": [
@@ -27,6 +27,13 @@
         "weight": 1.96,
         "exp": 29,
         "value": 156,
+        "rarity": "stolen"
+      },
+      {
+        "name": "Cá Trộm",
+        "weight": 1.54,
+        "exp": 23,
+        "value": 123,
         "rarity": "stolen"
       }
     ],
@@ -160,7 +167,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "steal-menu",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -230,7 +237,7 @@
       ]
     }
   },
-  "timestamp": 1763672434352,
+  "timestamp": 1763672436353,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
