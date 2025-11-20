@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 448,
+    "coins": 848,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
@@ -183,7 +183,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "quests-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -251,7 +251,7 @@
       ]
     }
   },
-  "timestamp": 1763672569437,
+  "timestamp": 1763672572435,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
