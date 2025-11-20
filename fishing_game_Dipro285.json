@@ -141,7 +141,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763633928006,
+    "lastHpRegen": 1763634271738,
     "activeEvents": [
       "goldenFish"
     ],
@@ -217,7 +217,7 @@
       ]
     }
   },
-  "timestamp": 1763633980022,
+  "timestamp": 1763634271741,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
