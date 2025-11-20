@@ -42,7 +42,7 @@
         "id": 1,
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -51,7 +51,7 @@
         "id": 2,
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -75,7 +75,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "achievements-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -88,7 +88,7 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Đang câu",
+        "status": "Trống",
         "rodId": 1,
         "startTime": 1763647157465,
         "endTime": 1763647757465,
@@ -98,7 +98,7 @@
       },
       {
         "id": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rodId": 2,
         "startTime": 1763647182029,
         "endTime": 1763647782029,
@@ -110,7 +110,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647273576,
+  "timestamp": 1763647275583,
   "version": "3.0-cloud",
   "user": "Admin"
 }
