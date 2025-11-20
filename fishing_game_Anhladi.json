@@ -1,24 +1,38 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 42,
-    "coins": 42612,
+    "exp": 0,
+    "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 40,
     "maxHealth": 100,
-    "points": 90,
+    "points": 0,
     "fishInventory": [
       {
-        "name": "Cá Lóc",
-        "weight": 1.04,
-        "exp": 20,
-        "value": 156,
-        "rarity": "common"
+        "name": "Cá Trộm",
+        "weight": 2.22,
+        "exp": 33,
+        "value": 177,
+        "rarity": "stolen"
+      },
+      {
+        "name": "Cá Trộm",
+        "weight": 1.49,
+        "exp": 22,
+        "value": 119,
+        "rarity": "stolen"
+      },
+      {
+        "name": "Cá Trộm",
+        "weight": 1.06,
+        "exp": 15,
+        "value": 84,
+        "rarity": "stolen"
       }
     ],
     "rodsInventory": [
       {
-        "id": "1763654192673_qb74lygjm",
+        "id": "1763672675590_2r8nhckm2",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -27,29 +41,29 @@
         "type": "bamboo"
       },
       {
-        "id": "1763654913025_wz6w2x7g4",
-        "name": "Cần Sắt",
+        "id": "1763672675590_nbfggbbf2",
+        "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 7,
+    "maxRods": 5,
     "skills": {
       "fishing": 1,
       "luck": 1,
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 3,
-      "biggestFish": 1.04,
-      "totalEarnings": 812,
+      "totalFishCaught": 0,
+      "biggestFish": 0,
+      "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 3,
-      "dailyEarnings": 812,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 0,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -147,10 +161,10 @@
   },
   "gameState": {
     "currentScreen": "main-menu",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672372514,
+    "lastHpRegen": 1763672675590,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -214,7 +228,7 @@
       ]
     }
   },
-  "timestamp": 1763672507434,
+  "timestamp": 1763672765997,
   "version": "3.0-cloud",
   "user": "Anhladi"
 }
