@@ -152,7 +152,9 @@
     "currentChannel": "Kênh 3",
     "lastFishingTime": 0,
     "lastHpRegen": 1763654945298,
-    "activeEvents": [],
+    "activeEvents": [
+      "luckyDay"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -215,7 +217,7 @@
       ]
     }
   },
-  "timestamp": 1763654995800,
+  "timestamp": 1763654998806,
   "version": "3.0-cloud",
   "user": "Admin"
 }
