@@ -118,7 +118,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "inventory-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -221,7 +221,7 @@
     "tradeOffers": [],
     "selectedRodForTrade": null
   },
-  "timestamp": 1763644960988,
+  "timestamp": 1763644964097,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
