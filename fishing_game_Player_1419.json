@@ -2,11 +2,11 @@
   "playerData": {
     "level": 2,
     "exp": 10,
-    "coins": 6532,
+    "coins": 6332,
     "gems": 0,
     "health": 110,
     "maxHealth": 110,
-    "points": 260,
+    "points": 250,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -137,11 +137,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "exchange-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763640039564,
+    "lastHpRegen": 1763644926811,
     "activeEvents": [
       "doubleExp"
     ],
@@ -209,7 +209,7 @@
     "tradeOffers": [],
     "selectedRodForTrade": null
   },
-  "timestamp": 1763644928315,
+  "timestamp": 1763644974096,
   "version": "3.0-cloud",
   "user": "Player_1419"
 }
