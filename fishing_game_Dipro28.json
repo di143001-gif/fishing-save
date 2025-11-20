@@ -1,23 +1,43 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 0,
-    "coins": 21448,
+    "exp": 42,
+    "coins": 42612,
     "gems": 0,
-    "health": 100,
+    "health": 0,
     "maxHealth": 100,
-    "points": 40,
-    "fishInventory": [],
-    "rodsInventory": [
+    "points": 90,
+    "fishInventory": [
       {
-        "id": "1763654192673_mtf9cj2ic",
-        "name": "Cần Tre",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "common",
-        "maxFishingTime": 600000,
-        "type": "bamboo"
+        "name": "Cá Lóc",
+        "weight": 1.04,
+        "exp": 20,
+        "value": 156,
+        "rarity": "common"
       },
+      {
+        "name": "Cá Trộm",
+        "weight": 2.42,
+        "exp": 36,
+        "value": 193,
+        "rarity": "stolen"
+      },
+      {
+        "name": "Cá Trộm",
+        "weight": 1.96,
+        "exp": 29,
+        "value": 156,
+        "rarity": "stolen"
+      },
+      {
+        "name": "Cá Trộm",
+        "weight": 1.54,
+        "exp": 23,
+        "value": 123,
+        "rarity": "stolen"
+      }
+    ],
+    "rodsInventory": [
       {
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
@@ -35,24 +55,6 @@
         "rarity": "uncommon",
         "maxFishingTime": 900000,
         "type": "iron"
-      },
-      {
-        "id": "1763660884816_cgbue00ia",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
-      },
-      {
-        "id": "1763660885521_lci9y8l1g",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
       }
     ],
     "itemsInventory": [],
@@ -63,12 +65,12 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
-      "totalEarnings": 648,
+      "totalFishCaught": 3,
+      "biggestFish": 1.04,
+      "totalEarnings": 812,
       "playTime": 0,
-      "dailyFishCaught": 0,
-      "dailyEarnings": 648,
+      "dailyFishCaught": 3,
+      "dailyEarnings": 812,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -165,13 +167,13 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentScreen": "market-exchange-screen",
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763661067495,
+    "lastHpRegen": 1763672413584,
     "activeEvents": [
-      "doubleExp"
+      "goldenFish"
     ],
     "achievements": [],
     "dailyRewards": {},
@@ -235,7 +237,7 @@
       ]
     }
   },
-  "timestamp": 1763672445357,
+  "timestamp": 1763672447358,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
