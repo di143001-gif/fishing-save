@@ -169,7 +169,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763660835148,
+    "lastHpRegen": 1763660895983,
     "activeEvents": [
       "doubleExp"
     ],
@@ -235,7 +235,7 @@
       ]
     }
   },
-  "timestamp": 1763660894486,
+  "timestamp": 1763660896993,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
