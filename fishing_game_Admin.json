@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 36948,
+    "coins": 29748,
     "gems": 0,
     "health": 99,
     "maxHealth": 100,
@@ -49,9 +49,9 @@
     "itemsInventory": [],
     "maxRods": 6,
     "skills": {
-      "fishing": 7,
-      "luck": 7,
-      "endurance": 7
+      "fishing": 10,
+      "luck": 10,
+      "endurance": 10
     },
     "statistics": {
       "totalFishCaught": 0,
@@ -156,7 +156,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "character-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -226,7 +226,7 @@
       ]
     }
   },
-  "timestamp": 1763660736552,
+  "timestamp": 1763660742891,
   "version": "3.0-cloud",
   "user": "Admin"
 }
