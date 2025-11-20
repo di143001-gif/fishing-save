@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 140848,
+    "coins": 1500,
     "gems": 0,
-    "health": 3,
+    "health": 100,
     "maxHealth": 100,
-    "points": 10,
+    "points": 0,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -26,15 +26,6 @@
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
-      },
-      {
-        "id": "1763654913025_wz6w2x7g4",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
       }
     ],
     "itemsInventory": [],
@@ -47,10 +38,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 648,
+      "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 648,
+      "dailyEarnings": 0,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -147,11 +138,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654883170,
+    "lastHpRegen": 1763654888297,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654923798,
+  "timestamp": 1763654928802,
   "version": "3.0-cloud",
   "user": "Admin"
 }
