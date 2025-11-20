@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 140848,
     "gems": 0,
-    "health": 13,
+    "health": 3,
     "maxHealth": 100,
     "points": 10,
     "fishInventory": [],
@@ -147,11 +147,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "market-exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655494320,
+    "lastHpRegen": 1763654883170,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763655499092,
+  "timestamp": 1763655534046,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
