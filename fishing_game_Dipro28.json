@@ -141,7 +141,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763640039564,
+    "lastHpRegen": 1763644975592,
     "activeEvents": [
       "doubleExp"
     ],
@@ -209,7 +209,7 @@
     "tradeOffers": [],
     "selectedRodForTrade": null
   },
-  "timestamp": 1763644975102,
+  "timestamp": 1763644978099,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
