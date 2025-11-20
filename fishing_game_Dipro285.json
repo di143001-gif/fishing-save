@@ -147,14 +147,12 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763655433591,
-    "activeEvents": [
-      "goldenFish"
-    ],
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -217,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763655470093,
+  "timestamp": 1763655472092,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
