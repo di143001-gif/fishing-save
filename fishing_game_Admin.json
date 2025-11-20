@@ -2,18 +2,18 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 140848,
     "gems": 0,
-    "health": 100,
+    "health": 8,
     "maxHealth": 100,
-    "points": 0,
+    "points": 10,
     "fishInventory": [],
     "rodsInventory": [
       {
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -22,10 +22,19 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
@@ -38,10 +47,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 0,
+      "totalEarnings": 648,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0,
+      "dailyEarnings": 648,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -138,12 +147,14 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentScreen": "main-menu",
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 3",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655202591,
-    "activeEvents": [],
+    "lastHpRegen": 1763655194884,
+    "activeEvents": [
+      "luckyDay"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -218,7 +229,7 @@
       ]
     }
   },
-  "timestamp": 1763655203097,
+  "timestamp": 1763655205097,
   "version": "3.0-cloud",
   "user": "Admin"
 }
