@@ -137,12 +137,14 @@
     }
   },
   "gameState": {
-    "currentScreen": "login-screen",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763597072224,
-    "activeEvents": [],
+    "lastHpRegen": 1763634466056,
+    "activeEvents": [
+      "goldenFish"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -167,8 +169,18 @@
         "fishCaught": null
       }
     ],
-    "tradeOffers": [],
-    "selectedRodForTrade": null,
+    "tradeOffers": [
+      {
+        "id": "1763633875553",
+        "fromPlayer": "Dipro285",
+        "toPlayer": "Anhdine",
+        "offeredRod": 1,
+        "requestedRodType": "bamboo",
+        "status": "pending",
+        "timestamp": 1763633875553
+      }
+    ],
+    "selectedRodForTrade": 2,
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -205,7 +217,7 @@
       ]
     }
   },
-  "timestamp": 1763633805759,
+  "timestamp": 1763634496471,
   "version": "3.0-cloud",
   "user": "Player_1024"
 }
