@@ -183,7 +183,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -251,7 +251,7 @@
       ]
     }
   },
-  "timestamp": 1763672609437,
+  "timestamp": 1763672611950,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
