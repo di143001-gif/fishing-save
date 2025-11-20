@@ -26,6 +26,15 @@
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
@@ -168,24 +177,7 @@
         "fishCaught": null
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763660691079_xbfdvddlj",
-        "seller": "Admin",
-        "rod": {
-          "id": "1763654913025_wz6w2x7g4",
-          "name": "Cần Sắt",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "uncommon",
-          "maxFishingTime": 900000,
-          "type": "iron"
-        },
-        "price": 1000,
-        "timestamp": 1763660691079,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -223,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763660693895,
+  "timestamp": 1763660695899,
   "version": "3.0-cloud",
   "user": "Admin"
 }
