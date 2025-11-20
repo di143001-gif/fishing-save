@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 42,
-    "coins": 141212,
+    "coins": 141712,
     "gems": 0,
     "health": 99,
     "maxHealth": 100,
@@ -157,43 +157,32 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": "1763654192673_qb74lygjm",
+        "startTime": 1763660726921,
+        "endTime": 1763661326921,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Cá dính câu!",
+        "rodId": "1763654192673_mtf9cj2ic",
+        "startTime": 1763660726523,
+        "endTime": 1763661326523,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.16,
+          "exp": 3,
+          "value": 24,
+          "rarity": "common"
+        }
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763655416895_ah4axosog",
-        "seller": "Admin",
-        "rod": {
-          "id": "1763654192673_mtf9cj2ic",
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 500,
-        "timestamp": 1763655416895,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -231,7 +220,7 @@
       ]
     }
   },
-  "timestamp": 1763660678896,
+  "timestamp": 1763660796401,
   "version": "3.0-cloud",
   "user": "Anhladi1"
 }
