@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 30009,
+    "coins": 29509,
     "gems": 0,
     "health": 20,
     "maxHealth": 100,
@@ -44,6 +44,15 @@
         "rarity": "rare",
         "maxFishingTime": 1200000,
         "type": "gold"
+      },
+      {
+        "id": "1763660798797_1nxk6jp1e",
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
       }
     ],
     "itemsInventory": [],
@@ -195,7 +204,25 @@
       }
     ],
     "marketItems": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "id": "1763660798797_mtvg96nl4",
+        "buyer": "Admin",
+        "seller": "Anhladi1",
+        "item": {
+          "id": "1763654192673_mtf9cj2ic",
+          "name": "Cần Tre",
+          "level": 1,
+          "status": "Đang bán",
+          "rarity": "common",
+          "maxFishingTime": 600000,
+          "type": "bamboo"
+        },
+        "price": 500,
+        "timestamp": 1763660798797,
+        "status": "completed"
+      }
+    ],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -232,7 +259,7 @@
       ]
     }
   },
-  "timestamp": 1763660794895,
+  "timestamp": 1763660798797,
   "version": "3.0-cloud",
   "user": "Admin"
 }
