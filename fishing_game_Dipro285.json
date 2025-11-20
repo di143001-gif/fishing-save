@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 141248,
+    "coins": 131248,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
@@ -29,6 +29,15 @@
       },
       {
         "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763660884816_cgbue00ia",
         "name": "Cần Sắt",
         "level": 1,
         "status": "Trống",
@@ -147,7 +156,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "shop-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -215,7 +224,7 @@
       ]
     }
   },
-  "timestamp": 1763660883490,
+  "timestamp": 1763660885485,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
