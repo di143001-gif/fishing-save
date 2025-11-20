@@ -142,8 +142,10 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763653993128,
-    "activeEvents": [],
+    "lastHpRegen": 1763654641506,
+    "activeEvents": [
+      "doubleExp"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -206,7 +208,7 @@
       ]
     }
   },
-  "timestamp": 1763654650886,
+  "timestamp": 1763654677886,
   "version": "3.0-cloud",
   "user": "Gigigi"
 }
