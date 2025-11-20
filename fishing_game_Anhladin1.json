@@ -1,13 +1,21 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 0,
-    "coins": 2107,
+    "exp": 28,
+    "coins": 2207,
     "gems": 0,
     "health": 8,
     "maxHealth": 100,
-    "points": 10,
-    "fishInventory": [],
+    "points": 20,
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.44,
+        "exp": 28,
+        "value": 144,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -36,11 +44,11 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 1,
+      "biggestFish": 1.44,
       "totalEarnings": 407,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 1,
       "dailyEarnings": 407
     },
     "achievements": {
@@ -137,7 +145,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-channel",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -148,19 +156,13 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
+        "status": "Đang câu",
         "rodId": 1,
-        "startTime": 1763618442974,
-        "endTime": 1763619042974,
+        "startTime": 1763618791743,
+        "endTime": 1763619391743,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 1.44,
-          "exp": 28,
-          "value": 144,
-          "rarity": "common"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
@@ -181,7 +183,7 @@
           "name": "Câu 5 Con Cá",
           "description": "Bắt được 5 con cá trong ngày hôm nay",
           "target": 5,
-          "progress": 0,
+          "progress": 1,
           "reward": 500,
           "completed": false,
           "claimed": false
@@ -209,7 +211,7 @@
       ]
     }
   },
-  "timestamp": 1763618789463,
+  "timestamp": 1763618792248,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
