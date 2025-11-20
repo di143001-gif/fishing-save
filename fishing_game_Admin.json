@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 40348,
+    "coins": 36948,
     "gems": 0,
     "health": 99,
     "maxHealth": 100,
-    "points": 30,
+    "points": 80,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -49,9 +49,9 @@
     "itemsInventory": [],
     "maxRods": 6,
     "skills": {
-      "fishing": 3,
-      "luck": 3,
-      "endurance": 3
+      "fishing": 7,
+      "luck": 7,
+      "endurance": 7
     },
     "statistics": {
       "totalFishCaught": 0,
@@ -226,7 +226,7 @@
       ]
     }
   },
-  "timestamp": 1763660733897,
+  "timestamp": 1763660736552,
   "version": "3.0-cloud",
   "user": "Admin"
 }
