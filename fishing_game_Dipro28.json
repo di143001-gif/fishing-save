@@ -1,43 +1,23 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 42,
-    "coins": 42612,
+    "exp": 0,
+    "coins": 141248,
     "gems": 0,
-    "health": 0,
+    "health": 100,
     "maxHealth": 100,
-    "points": 90,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.04,
-        "exp": 20,
-        "value": 156,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 2.42,
-        "exp": 36,
-        "value": 193,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.96,
-        "exp": 29,
-        "value": 156,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.54,
-        "exp": 23,
-        "value": 123,
-        "rarity": "stolen"
-      }
-    ],
+    "points": 30,
+    "fishInventory": [],
     "rodsInventory": [
+      {
+        "id": "1763654192673_mtf9cj2ic",
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      },
       {
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
@@ -46,22 +26,31 @@
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 7,
+    "maxRods": 5,
     "skills": {
       "fishing": 1,
       "luck": 1,
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 3,
-      "biggestFish": 1.04,
-      "totalEarnings": 812,
+      "totalFishCaught": 0,
+      "biggestFish": 0,
+      "totalEarnings": 648,
       "playTime": 0,
-      "dailyFishCaught": 3,
-      "dailyEarnings": 812,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 648,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -159,13 +148,11 @@
   },
   "gameState": {
     "currentScreen": "market-exchange-screen",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672413584,
-    "activeEvents": [
-      "goldenFish"
-    ],
+    "lastHpRegen": 1763672509931,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -190,24 +177,7 @@
         "fishCaught": null
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763672454678_3mmuv55nh",
-        "seller": "Dipro28",
-        "rod": {
-          "id": "1763654913025_wz6w2x7g4",
-          "name": "Cần Sắt",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "uncommon",
-          "maxFishingTime": 900000,
-          "type": "iron"
-        },
-        "price": 1000,
-        "timestamp": 1763672454678,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -245,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763672464357,
+  "timestamp": 1763672591438,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
