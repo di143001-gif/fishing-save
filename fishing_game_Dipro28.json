@@ -4,7 +4,7 @@
     "exp": 42,
     "coins": 42612,
     "gems": 0,
-    "health": 40,
+    "health": 20,
     "maxHealth": 100,
     "points": 90,
     "fishInventory": [
@@ -230,7 +230,7 @@
       ]
     }
   },
-  "timestamp": 1763672432303,
+  "timestamp": 1763672434352,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
