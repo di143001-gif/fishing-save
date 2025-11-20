@@ -139,7 +139,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh A",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763632088348,
+    "lastHpRegen": 1763632149101,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -203,7 +203,7 @@
       ]
     }
   },
-  "timestamp": 1763632148109,
+  "timestamp": 1763632150119,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
