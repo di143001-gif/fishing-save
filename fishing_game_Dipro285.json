@@ -8,17 +8,7 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [
-      {
-        "id": 2,
-        "name": "Cần Tre",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "common",
-        "maxFishingTime": 600000,
-        "type": "bamboo"
-      }
-    ],
+    "rodsInventory": [],
     "itemsInventory": [],
     "maxRods": 5,
     "skills": {
@@ -176,6 +166,22 @@
         "price": 1000,
         "timestamp": 1763636791095,
         "status": "selling"
+      },
+      {
+        "id": "1763636801640",
+        "seller": "Dipro285",
+        "rod": {
+          "id": 2,
+          "name": "Cần Tre",
+          "level": 1,
+          "status": "Trống",
+          "rarity": "common",
+          "maxFishingTime": 600000,
+          "type": "bamboo"
+        },
+        "price": 1234,
+        "timestamp": 1763636801640,
+        "status": "selling"
       }
     ],
     "transactions": [],
@@ -215,7 +221,7 @@
       ]
     }
   },
-  "timestamp": 1763636795549,
+  "timestamp": 1763636802541,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
