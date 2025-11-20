@@ -41,7 +41,8 @@
       "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0
+      "dailyEarnings": 0,
+      "tradesCompleted": 0
     },
     "achievements": {
       "firstCatch": {
@@ -133,18 +134,36 @@
         "reward": 2000,
         "points": 50,
         "unlocked": false
+      },
+      "firstTrade": {
+        "id": "firstTrade",
+        "name": "Giao Dịch Đầu Tiên",
+        "description": "Hoàn thành giao dịch đầu tiên",
+        "type": "economy",
+        "target": 1,
+        "reward": 500,
+        "points": 20,
+        "unlocked": false
+      },
+      "masterTrader": {
+        "id": "masterTrader",
+        "name": "Thương Nhân Bậc Thầy",
+        "description": "Hoàn thành 10 giao dịch",
+        "type": "economy",
+        "target": 10,
+        "reward": 2000,
+        "points": 50,
+        "unlocked": false
       }
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "login-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763634466056,
-    "activeEvents": [
-      "goldenFish"
-    ],
+    "lastHpRegen": 1763636742969,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -169,18 +188,10 @@
         "fishCaught": null
       }
     ],
-    "tradeOffers": [
-      {
-        "id": "1763633875553",
-        "fromPlayer": "Dipro285",
-        "toPlayer": "Anhdine",
-        "offeredRod": 1,
-        "requestedRodType": "bamboo",
-        "status": "pending",
-        "timestamp": 1763633875553
-      }
-    ],
-    "selectedRodForTrade": 2,
+    "tradeOffers": [],
+    "selectedRodForTrade": null,
+    "marketItems": [],
+    "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -217,7 +228,7 @@
       ]
     }
   },
-  "timestamp": 1763634468381,
+  "timestamp": 1763636753541,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
