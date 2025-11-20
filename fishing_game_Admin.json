@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 141248,
+    "coins": 91248,
     "gems": 0,
     "health": 98,
     "maxHealth": 100,
@@ -35,6 +35,15 @@
         "rarity": "uncommon",
         "maxFishingTime": 900000,
         "type": "iron"
+      },
+      {
+        "id": "1763660717606_xddnusvjk",
+        "name": "Cần Vàng",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "rare",
+        "maxFishingTime": 1200000,
+        "type": "gold"
       }
     ],
     "itemsInventory": [],
@@ -147,7 +156,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "shop-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -215,7 +224,7 @@
       ]
     }
   },
-  "timestamp": 1763660715891,
+  "timestamp": 1763660718107,
   "version": "3.0-cloud",
   "user": "Admin"
 }
