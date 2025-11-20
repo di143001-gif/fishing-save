@@ -8,7 +8,26 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      },
+      {
+        "id": 2,
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 5,
     "skills": {
@@ -22,7 +41,8 @@
       "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0
+      "dailyEarnings": 0,
+      "tradesCompleted": 0
     },
     "achievements": {
       "firstCatch": {
@@ -118,11 +138,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "login-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763637852642,
+    "lastHpRegen": 1763644948586,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -148,40 +168,7 @@
         "fishCaught": null
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763636791095",
-        "seller": "Dipro285",
-        "rod": {
-          "id": 1,
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Trống",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 1000,
-        "timestamp": 1763636791095,
-        "status": "selling"
-      },
-      {
-        "id": "1763636801640",
-        "seller": "Dipro285",
-        "rod": {
-          "id": 2,
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Trống",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 1234,
-        "timestamp": 1763636801640,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -217,11 +204,9 @@
           "claimed": false
         }
       ]
-    },
-    "tradeOffers": [],
-    "selectedRodForTrade": null
+    }
   },
-  "timestamp": 1763644926316,
+  "timestamp": 1763644960092,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
