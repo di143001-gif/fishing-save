@@ -68,8 +68,8 @@
     }
   },
   "gameState": {
-    "currentScreen": "achievements-screen",
-    "currentLocation": null,
+    "currentScreen": "select-channel",
+    "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763647079469,
@@ -101,7 +101,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647110577,
+  "timestamp": 1763647113576,
   "version": "3.0-cloud",
   "user": "Admin"
 }
