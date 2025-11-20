@@ -137,7 +137,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "quests-screen",
+    "currentScreen": "steal-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -203,7 +203,7 @@
       ]
     }
   },
-  "timestamp": 1763618263958,
+  "timestamp": 1763618265740,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
