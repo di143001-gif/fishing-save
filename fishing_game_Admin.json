@@ -2,41 +2,12 @@
   "playerData": {
     "level": 1,
     "exp": 10,
-    "coins": 1800,
+    "coins": 2518,
     "gems": 0,
     "health": 73,
     "maxHealth": 100,
-    "points": 30,
-    "fishInventory": [
-      {
-        "name": "Cá Trộm",
-        "weight": 1.09,
-        "exp": 16,
-        "value": 87,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 2.27,
-        "exp": 34,
-        "value": 181,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 2.46,
-        "exp": 36,
-        "value": 196,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.54,
-        "exp": 10,
-        "value": 54,
-        "rarity": "common"
-      }
-    ],
+    "points": 40,
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -67,10 +38,10 @@
     "statistics": {
       "totalFishCaught": 1,
       "biggestFish": 0.54,
-      "totalEarnings": 0,
+      "totalEarnings": 518,
       "playTime": 0,
       "dailyFishCaught": 1,
-      "dailyEarnings": 0,
+      "dailyEarnings": 518,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -167,7 +138,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -237,7 +208,7 @@
       ]
     }
   },
-  "timestamp": 1763651478326,
+  "timestamp": 1763651481195,
   "version": "3.0-cloud",
   "user": "Admin"
 }
