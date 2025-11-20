@@ -142,7 +142,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654927297,
+    "lastHpRegen": 1763654943297,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -206,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654927802,
+  "timestamp": 1763654943803,
   "version": "3.0-cloud",
   "user": "Gigigi"
 }
