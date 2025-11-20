@@ -1,13 +1,28 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 0,
-    "coins": 140848,
+    "exp": 22,
+    "coins": 140948,
     "gems": 0,
     "health": 8,
     "maxHealth": 100,
-    "points": 10,
-    "fishInventory": [],
+    "points": 20,
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.25,
+        "exp": 5,
+        "value": 37,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.85,
+        "exp": 17,
+        "value": 127,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": "1763654192673_mtf9cj2ic",
@@ -45,11 +60,11 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 2,
+      "biggestFish": 0.85,
       "totalEarnings": 648,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 2,
       "dailyEarnings": 648,
       "tradesCompleted": 0
     },
@@ -147,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "select-channel",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -160,35 +175,23 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
+        "status": "Đang câu",
         "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763654955839,
-        "endTime": 1763655555839,
+        "startTime": 1763655214443,
+        "endTime": 1763655814443,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 0.25,
-          "exp": 5,
-          "value": 37,
-          "rarity": "common"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Cá dính câu!",
+        "status": "Đang câu",
         "rodId": "1763654192673_qb74lygjm",
-        "startTime": 1763654952583,
-        "endTime": 1763655552583,
+        "startTime": 1763655214833,
+        "endTime": 1763655814833,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 0.85,
-          "exp": 17,
-          "value": 127,
-          "rarity": "common"
-        }
+        "fishCaught": null
       }
     ],
     "marketItems": [],
@@ -229,7 +232,7 @@
       ]
     }
   },
-  "timestamp": 1763655212953,
+  "timestamp": 1763655216094,
   "version": "3.0-cloud",
   "user": "Admin"
 }
