@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 121448,
+    "coins": 71448,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
@@ -56,7 +56,7 @@
       }
     ],
     "itemsInventory": [],
-    "maxRods": 5,
+    "maxRods": 6,
     "skills": {
       "fishing": 1,
       "luck": 1,
@@ -235,7 +235,7 @@
       ]
     }
   },
-  "timestamp": 1763661082987,
+  "timestamp": 1763661083994,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
