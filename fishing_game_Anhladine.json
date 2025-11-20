@@ -2,13 +2,23 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 500,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 5,
     "skills": {
@@ -122,7 +132,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763637851641,
+    "lastHpRegen": 1763640036563,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -152,22 +162,6 @@
     "selectedRodForTrade": null,
     "marketItems": [
       {
-        "id": "1763636791095",
-        "seller": "Dipro285",
-        "rod": {
-          "id": 1,
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Trống",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 1000,
-        "timestamp": 1763636791095,
-        "status": "selling"
-      },
-      {
         "id": "1763636801640",
         "seller": "Dipro285",
         "rod": {
@@ -184,7 +178,25 @@
         "status": "selling"
       }
     ],
-    "transactions": [],
+    "transactions": [
+      {
+        "id": "1763637787883",
+        "buyer": "Dipro28",
+        "seller": "Dipro285",
+        "item": {
+          "id": 1,
+          "name": "Cần Tre",
+          "level": 1,
+          "status": "Trống",
+          "rarity": "common",
+          "maxFishingTime": 600000,
+          "type": "bamboo"
+        },
+        "price": 1000,
+        "timestamp": 1763637787883,
+        "status": "completed"
+      }
+    ],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -221,7 +233,7 @@
       ]
     }
   },
-  "timestamp": 1763637852145,
+  "timestamp": 1763640037066,
   "version": "3.0-cloud",
   "user": "Anhladine"
 }
