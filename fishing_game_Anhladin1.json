@@ -2,48 +2,12 @@
   "playerData": {
     "level": 2,
     "exp": 8,
-    "coins": 2507,
+    "coins": 3035,
     "gems": 0,
     "health": 11,
     "maxHealth": 110,
     "points": 20,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.44,
-        "exp": 28,
-        "value": 144,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.71,
-        "exp": 28,
-        "value": 71,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.31,
-        "exp": 52,
-        "value": 131,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 0.64,
-        "exp": 9,
-        "value": 51,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.64,
-        "exp": 24,
-        "value": 131,
-        "rarity": "stolen"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -74,10 +38,10 @@
     "statistics": {
       "totalFishCaught": 3,
       "biggestFish": 1.44,
-      "totalEarnings": 407,
+      "totalEarnings": 935,
       "playTime": 0,
       "dailyFishCaught": 3,
-      "dailyEarnings": 407
+      "dailyEarnings": 935
     },
     "achievements": {
       "firstCatch": {
@@ -223,7 +187,7 @@
           "name": "Bán Cá 1,000 Xu",
           "description": "Bán cá với tổng giá trị 1,000 xu",
           "target": 1000,
-          "progress": 407,
+          "progress": 935,
           "reward": 300,
           "completed": false,
           "claimed": false
@@ -241,7 +205,7 @@
       ]
     }
   },
-  "timestamp": 1763619092961,
+  "timestamp": 1763619094954,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
