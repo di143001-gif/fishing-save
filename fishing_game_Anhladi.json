@@ -10,7 +10,16 @@
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": "1763653875848_3p10gjbau",
+        "id": "1763654192673_mtf9cj2ic",
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      },
+      {
+        "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -129,11 +138,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "market-exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654199750,
+    "lastHpRegen": 1763654192673,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -159,24 +168,7 @@
         "fishCaught": null
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763653901955_86eaa0s1i",
-        "seller": "Dipro285",
-        "rod": {
-          "id": "1763653875848_7se5fe6q4",
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 100000,
-        "timestamp": 1763653901955,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -214,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654200256,
+  "timestamp": 1763654648883,
   "version": "3.0-cloud",
   "user": "Anhladi"
 }
