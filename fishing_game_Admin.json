@@ -129,11 +129,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "market-exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763653936518,
+    "lastHpRegen": 1763653875848,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -214,7 +214,7 @@
       ]
     }
   },
-  "timestamp": 1763653937020,
+  "timestamp": 1763653940021,
   "version": "3.0-cloud",
   "user": "Admin"
 }
