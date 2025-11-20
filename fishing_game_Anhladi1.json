@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 42,
-    "coins": 141112,
+    "coins": 141212,
     "gems": 0,
-    "health": 11,
+    "health": 99,
     "maxHealth": 100,
-    "points": 20,
+    "points": 30,
     "fishInventory": [
       {
         "name": "Cá Lóc",
@@ -150,7 +150,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655375591,
+    "lastHpRegen": 1763660678389,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -231,7 +231,7 @@
       ]
     }
   },
-  "timestamp": 1763655533047,
+  "timestamp": 1763660678896,
   "version": "3.0-cloud",
   "user": "Anhladi1"
 }
