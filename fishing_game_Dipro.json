@@ -147,7 +147,7 @@
     "currentLocation": "Khu Äá»ng Lá»n",
     "currentChannel": "KÃªnh A",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763634493964,
+    "lastHpRegen": 1763636763970,
     "activeEvents": [
       "goldenFish"
     ],
@@ -177,6 +177,8 @@
     ],
     "tradeOffers": [],
     "selectedRodForTrade": null,
+    "marketItems": [],
+    "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -213,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763634494473,
+  "timestamp": 1763636769980,
   "version": "3.0-cloud",
   "user": "Dipro"
 }
