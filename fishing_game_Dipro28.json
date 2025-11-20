@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 42,
-    "coins": 42012,
+    "coins": 141712,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 50,
+    "points": 30,
     "fishInventory": [
       {
         "name": "Cá Lóc",
@@ -37,7 +37,7 @@
       }
     ],
     "itemsInventory": [],
-    "maxRods": 7,
+    "maxRods": 5,
     "skills": {
       "fishing": 1,
       "luck": 1,
@@ -150,7 +150,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763661100366,
+    "lastHpRegen": 1763660797389,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -214,7 +214,7 @@
       ]
     }
   },
-  "timestamp": 1763661134987,
+  "timestamp": 1763661143988,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
