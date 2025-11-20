@@ -128,11 +128,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763640036563,
+    "lastHpRegen": 1763644923811,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -158,8 +158,6 @@
         "fishCaught": null
       }
     ],
-    "tradeOffers": [],
-    "selectedRodForTrade": null,
     "marketItems": [
       {
         "id": "1763636801640",
@@ -180,7 +178,7 @@
     ],
     "transactions": [
       {
-        "id": "1763637787883",
+        "id": "1763639902800",
         "buyer": "Dipro28",
         "seller": "Dipro285",
         "item": {
@@ -193,7 +191,7 @@
           "type": "bamboo"
         },
         "price": 1000,
-        "timestamp": 1763637787883,
+        "timestamp": 1763639902800,
         "status": "completed"
       }
     ],
@@ -231,9 +229,11 @@
           "claimed": false
         }
       ]
-    }
+    },
+    "tradeOffers": [],
+    "selectedRodForTrade": null
   },
-  "timestamp": 1763640037066,
+  "timestamp": 1763644970093,
   "version": "3.0-cloud",
   "user": "Anhladine"
 }
