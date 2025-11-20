@@ -2,18 +2,18 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 140848,
+    "coins": 141248,
     "gems": 0,
-    "health": 13,
+    "health": 28,
     "maxHealth": 100,
-    "points": 10,
+    "points": 30,
     "fishInventory": [],
     "rodsInventory": [
       {
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -22,7 +22,7 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -148,10 +148,10 @@
   },
   "gameState": {
     "currentScreen": "main-menu",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655494320,
+    "lastHpRegen": 1763656471763,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763655535048,
+  "timestamp": 1763660681895,
   "version": "3.0-cloud",
   "user": "Gigigi"
 }
