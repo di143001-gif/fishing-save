@@ -46,7 +46,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "steal-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -79,7 +79,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647085577,
+  "timestamp": 1763647087582,
   "version": "3.0-cloud",
   "user": "Admin"
 }
