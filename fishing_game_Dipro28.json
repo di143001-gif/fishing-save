@@ -151,7 +151,9 @@
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763661160484,
-    "activeEvents": [],
+    "activeEvents": [
+      "goldenFish"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -214,7 +216,7 @@
       ]
     }
   },
-  "timestamp": 1763661199712,
+  "timestamp": 1763661201713,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
