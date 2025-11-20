@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 56,
-    "coins": 2207,
+    "coins": 2107,
     "gems": 0,
     "health": 11,
     "maxHealth": 100,
@@ -48,7 +48,7 @@
     "skills": {
       "fishing": 1,
       "luck": 1,
-      "endurance": 1
+      "endurance": 2
     },
     "statistics": {
       "totalFishCaught": 2,
@@ -212,15 +212,15 @@
           "name": "Nâng Cấp Kỹ Năng",
           "description": "Nâng cấp bất kỳ kỹ năng nào 1 lần",
           "target": 1,
-          "progress": 0,
+          "progress": 1,
           "reward": 400,
-          "completed": false,
+          "completed": true,
           "claimed": false
         }
       ]
     }
   },
-  "timestamp": 1763619005954,
+  "timestamp": 1763619008720,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
