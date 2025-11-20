@@ -45,7 +45,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "inventory-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -76,7 +76,7 @@
       }
     ]
   },
-  "timestamp": 1763618245317,
+  "timestamp": 1763618247321,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
