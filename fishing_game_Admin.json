@@ -1,19 +1,27 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 22,
+    "exp": 42,
     "coins": 141112,
     "gems": 0,
     "health": 11,
     "maxHealth": 100,
     "points": 20,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.04,
+        "exp": 20,
+        "value": 156,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -22,7 +30,7 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -45,11 +53,11 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 2,
-      "biggestFish": 0.85,
+      "totalFishCaught": 3,
+      "biggestFish": 1.04,
       "totalEarnings": 812,
       "playTime": 0,
-      "dailyFishCaught": 2,
+      "dailyFishCaught": 3,
       "dailyEarnings": 812,
       "tradesCompleted": 0
     },
@@ -147,7 +155,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-location",
+    "currentScreen": "select-channel",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -158,29 +166,23 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Đang câu",
-        "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763655214443,
-        "endTime": 1763655814443,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Cá dính câu!",
-        "rodId": "1763654192673_qb74lygjm",
-        "startTime": 1763655214833,
-        "endTime": 1763655814833,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 1.04,
-          "exp": 20,
-          "value": 156,
-          "rarity": "common"
-        }
+        "fishCaught": null
       }
     ],
     "marketItems": [],
@@ -221,7 +223,7 @@
       ]
     }
   },
-  "timestamp": 1763655398093,
+  "timestamp": 1763655402093,
   "version": "3.0-cloud",
   "user": "Admin"
 }
