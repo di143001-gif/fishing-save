@@ -122,7 +122,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763644915953,
+    "lastHpRegen": 1763644960486,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -221,7 +221,7 @@
     "tradeOffers": [],
     "selectedRodForTrade": null
   },
-  "timestamp": 1763644923313,
+  "timestamp": 1763644968704,
   "version": "3.0-cloud",
   "user": "Anhdine"
 }
