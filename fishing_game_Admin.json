@@ -1,42 +1,13 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 10,
-    "coins": 1700,
+    "exp": 0,
+    "coins": 1500,
     "gems": 0,
-    "health": 4,
+    "health": 100,
     "maxHealth": 100,
-    "points": 20,
-    "fishInventory": [
-      {
-        "name": "Cá Trộm",
-        "weight": 1.09,
-        "exp": 16,
-        "value": 87,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 2.27,
-        "exp": 34,
-        "value": 181,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 2.46,
-        "exp": 36,
-        "value": 196,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.54,
-        "exp": 10,
-        "value": 54,
-        "rarity": "common"
-      }
-    ],
+    "points": 0,
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -65,11 +36,11 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 1,
-      "biggestFish": 0.54,
+      "totalFishCaught": 0,
+      "biggestFish": 0,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 1,
+      "dailyFishCaught": 0,
       "dailyEarnings": 0,
       "tradesCompleted": 0
     },
@@ -82,7 +53,8 @@
         "target": 1,
         "reward": 100,
         "points": 10,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "catch10Fish": {
         "id": "catch10Fish",
@@ -92,7 +64,8 @@
         "target": 10,
         "reward": 500,
         "points": 20,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "catch100Fish": {
         "id": "catch100Fish",
@@ -102,7 +75,8 @@
         "target": 100,
         "reward": 2000,
         "points": 50,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "bigFish": {
         "id": "bigFish",
@@ -112,7 +86,8 @@
         "target": 2,
         "reward": 1000,
         "points": 30,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "firstSale": {
         "id": "firstSale",
@@ -122,7 +97,8 @@
         "target": 1,
         "reward": 200,
         "points": 10,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "earn10k": {
         "id": "earn10k",
@@ -132,7 +108,8 @@
         "target": 10000,
         "reward": 1000,
         "points": 30,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "earn100k": {
         "id": "earn100k",
@@ -142,7 +119,8 @@
         "target": 100000,
         "reward": 5000,
         "points": 100,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "level10": {
         "id": "level10",
@@ -152,7 +130,8 @@
         "target": 10,
         "reward": 1500,
         "points": 40,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "upgradeSkills": {
         "id": "upgradeSkills",
@@ -162,19 +141,18 @@
         "target": 5,
         "reward": 2000,
         "points": 50,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       }
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentScreen": "login-screen",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763647321054,
-    "activeEvents": [
-      "doubleExp"
-    ],
+    "lastHpRegen": 1763651450755,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -209,7 +187,7 @@
           "name": "Câu 5 Con Cá",
           "description": "Bắt được 5 con cá trong ngày hôm nay",
           "target": 5,
-          "progress": 1,
+          "progress": 0,
           "reward": 500,
           "completed": false,
           "claimed": false
@@ -237,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763647324558,
+  "timestamp": 1763651462322,
   "version": "3.0-cloud",
   "user": "Admin"
 }
