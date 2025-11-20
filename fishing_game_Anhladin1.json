@@ -2,41 +2,12 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 2107,
     "gems": 0,
     "health": 1,
     "maxHealth": 100,
-    "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Trộm",
-        "weight": 1.76,
-        "exp": 26,
-        "value": 140,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.48,
-        "exp": 22,
-        "value": 118,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 0.65,
-        "exp": 9,
-        "value": 52,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.22,
-        "exp": 18,
-        "value": 97,
-        "rarity": "stolen"
-      }
-    ],
+    "points": 10,
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -67,10 +38,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 0,
+      "totalEarnings": 407,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0
+      "dailyEarnings": 407
     },
     "achievements": {
       "firstCatch": {
@@ -166,7 +137,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -214,7 +185,7 @@
           "name": "Bán Cá 1,000 Xu",
           "description": "Bán cá với tổng giá trị 1,000 xu",
           "target": 1000,
-          "progress": 0,
+          "progress": 407,
           "reward": 300,
           "completed": false,
           "claimed": false
@@ -232,7 +203,7 @@
       ]
     }
   },
-  "timestamp": 1763618308763,
+  "timestamp": 1763618309953,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
