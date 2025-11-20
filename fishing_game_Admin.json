@@ -185,13 +185,19 @@
       },
       {
         "id": 1,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": "1763654192673_qb74lygjm",
         "startTime": 1763655214833,
         "endTime": 1763655814833,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 1.07,
+          "exp": 21,
+          "value": 160,
+          "rarity": "common"
+        }
       }
     ],
     "marketItems": [],
@@ -232,7 +238,7 @@
       ]
     }
   },
-  "timestamp": 1763655243098,
+  "timestamp": 1763655246096,
   "version": "3.0-cloud",
   "user": "Admin"
 }
