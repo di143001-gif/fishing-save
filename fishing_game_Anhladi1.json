@@ -138,11 +138,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654676380,
+    "lastHpRegen": 1763654673554,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -206,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654676883,
+  "timestamp": 1763654738890,
   "version": "3.0-cloud",
   "user": "Anhladi1"
 }
