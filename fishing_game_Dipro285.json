@@ -2,15 +2,15 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 1448,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 0,
+    "points": 70,
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": 1,
+        "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -19,29 +19,74 @@
         "type": "bamboo"
       },
       {
-        "id": 2,
+        "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672536137_y1r4rcror",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672536646_zvyq218q7",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672537227_aanm9271f",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672537753_c7iqfnvux",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 5,
+    "maxRods": 7,
     "skills": {
-      "fishing": 1,
+      "fishing": 5,
       "luck": 1,
       "endurance": 1
     },
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 0,
+      "totalEarnings": 648,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0,
+      "dailyEarnings": 648,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -138,11 +183,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "login-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672748469,
+    "lastHpRegen": 1763672758572,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -171,14 +216,14 @@
     "marketItems": [],
     "transactions": [],
     "dailyQuests": {
-      "date": "Fri Nov 21 2025",
+      "date": "Thu Nov 20 2025",
       "quests": [
         {
           "id": "catch5Fish",
           "name": "Câu 5 Con Cá",
           "description": "Bắt được 5 con cá trong ngày hôm nay",
           "target": 5,
-          "progress": 0,
+          "progress": 1,
           "reward": 500,
           "completed": false,
           "claimed": false
@@ -206,7 +251,7 @@
       ]
     }
   },
-  "timestamp": 1763672757990,
+  "timestamp": 1763672758990,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
