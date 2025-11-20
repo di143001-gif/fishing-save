@@ -10,7 +10,7 @@
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": "1763653993128_p269wshv4",
+        "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -19,7 +19,7 @@
         "type": "bamboo"
       },
       {
-        "id": "1763653993128_mdajwarvk",
+        "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -138,14 +138,12 @@
     }
   },
   "gameState": {
-    "currentScreen": "login-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654641506,
-    "activeEvents": [
-      "doubleExp"
-    ],
+    "lastHpRegen": 1763654673554,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -208,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654672882,
+  "timestamp": 1763654674883,
   "version": "3.0-cloud",
   "user": "Anhladi"
 }
