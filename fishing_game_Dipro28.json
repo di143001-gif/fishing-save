@@ -2,9 +2,9 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 2098,
+    "coins": 1500,
     "gems": 0,
-    "health": 1,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -19,10 +19,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 598,
+      "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 598
+      "dailyEarnings": 0
     },
     "achievements": {
       "firstCatch": {
@@ -118,11 +118,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763637844641,
+    "lastHpRegen": 1763637857534,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -221,7 +221,7 @@
       ]
     }
   },
-  "timestamp": 1763637848144,
+  "timestamp": 1763637858542,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
