@@ -137,7 +137,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -209,7 +209,7 @@
     "tradeOffers": [],
     "selectedRodForTrade": null
   },
-  "timestamp": 1763644978099,
+  "timestamp": 1763644981099,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
