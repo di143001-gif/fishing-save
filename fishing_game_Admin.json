@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 10,
-    "coins": 2418,
+    "coins": 2818,
     "gems": 0,
     "health": 14,
     "maxHealth": 100,
@@ -223,7 +223,7 @@
       ]
     }
   },
-  "timestamp": 1763651527323,
+  "timestamp": 1763651529058,
   "version": "3.0-cloud",
   "user": "Admin"
 }
