@@ -168,7 +168,7 @@
       }
     ],
     "tradeOffers": [],
-    "selectedRodForTrade": null,
+    "selectedRodForTrade": 2,
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -205,7 +205,7 @@
       ]
     }
   },
-  "timestamp": 1763634501472,
+  "timestamp": 1763634503466,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
