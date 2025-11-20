@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -178,7 +178,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654740380,
+    "lastHpRegen": 1763654801095,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -242,7 +242,7 @@
       ]
     }
   },
-  "timestamp": 1763654799101,
+  "timestamp": 1763654801101,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
