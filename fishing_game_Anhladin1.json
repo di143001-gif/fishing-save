@@ -137,7 +137,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "quests-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -203,7 +203,7 @@
       ]
     }
   },
-  "timestamp": 1763618261954,
+  "timestamp": 1763618263958,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
