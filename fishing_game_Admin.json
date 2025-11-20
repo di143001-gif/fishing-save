@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1048,
+    "coins": 1448,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 50,
+    "points": 70,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -183,11 +183,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "market-exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672653624,
+    "lastHpRegen": 1763672758572,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -251,7 +251,7 @@
       ]
     }
   },
-  "timestamp": 1763672661228,
+  "timestamp": 1763672762990,
   "version": "3.0-cloud",
   "user": "Admin"
 }
