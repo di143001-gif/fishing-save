@@ -142,30 +142,42 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654943297,
+    "lastHpRegen": 1763655201591,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Cá dính câu!",
+        "rodId": "1763654192673_mtf9cj2ic",
+        "startTime": 1763654955839,
+        "endTime": 1763655555839,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.25,
+          "exp": 5,
+          "value": 37,
+          "rarity": "common"
+        }
       },
       {
         "id": 1,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Cá dính câu!",
+        "rodId": "1763654192673_qb74lygjm",
+        "startTime": 1763654952583,
+        "endTime": 1763655552583,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.85,
+          "exp": 17,
+          "value": 127,
+          "rarity": "common"
+        }
       }
     ],
     "marketItems": [],
@@ -206,7 +218,7 @@
       ]
     }
   },
-  "timestamp": 1763654943803,
+  "timestamp": 1763655202096,
   "version": "3.0-cloud",
   "user": "Gigigi"
 }
