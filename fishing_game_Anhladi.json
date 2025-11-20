@@ -129,11 +129,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "login-screen",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763653936518,
+    "lastHpRegen": 1763654199750,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -214,7 +214,7 @@
       ]
     }
   },
-  "timestamp": 1763653985020,
+  "timestamp": 1763654200256,
   "version": "3.0-cloud",
   "user": "Anhladi"
 }
