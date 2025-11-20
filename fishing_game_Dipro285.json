@@ -143,7 +143,9 @@
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763654641506,
-    "activeEvents": [],
+    "activeEvents": [
+      "doubleExp"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -206,7 +208,7 @@
       ]
     }
   },
-  "timestamp": 1763654660883,
+  "timestamp": 1763654662883,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
