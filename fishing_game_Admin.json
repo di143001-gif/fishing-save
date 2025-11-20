@@ -1,19 +1,19 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 22,
-    "coins": 141112,
+    "exp": 0,
+    "coins": 1500,
     "gems": 0,
-    "health": 10,
+    "health": 100,
     "maxHealth": 100,
-    "points": 20,
+    "points": 0,
     "fishInventory": [],
     "rodsInventory": [
       {
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -22,19 +22,10 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
-      },
-      {
-        "id": "1763654913025_wz6w2x7g4",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
       }
     ],
     "itemsInventory": [],
@@ -45,12 +36,12 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 2,
-      "biggestFish": 0.85,
-      "totalEarnings": 812,
+      "totalFishCaught": 0,
+      "biggestFish": 0,
+      "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 2,
-      "dailyEarnings": 812,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 0,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -147,11 +138,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentScreen": "account-screen",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655315591,
+    "lastHpRegen": 1763655356591,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -221,7 +212,7 @@
       ]
     }
   },
-  "timestamp": 1763655352093,
+  "timestamp": 1763655357097,
   "version": "3.0-cloud",
   "user": "Admin"
 }
