@@ -1,22 +1,23 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 42,
-    "coins": 141112,
+    "exp": 0,
+    "coins": 141048,
     "gems": 0,
-    "health": 12,
+    "health": 13,
     "maxHealth": 100,
     "points": 20,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.04,
-        "exp": 20,
-        "value": 156,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
+      {
+        "id": "1763654192673_mtf9cj2ic",
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      },
       {
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
@@ -44,12 +45,12 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 3,
-      "biggestFish": 1.04,
-      "totalEarnings": 812,
+      "totalFishCaught": 0,
+      "biggestFish": 0,
+      "totalEarnings": 648,
       "playTime": 0,
-      "dailyFishCaught": 3,
-      "dailyEarnings": 812,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 648,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -146,11 +147,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentScreen": "market-exchange-screen",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655436593,
+    "lastHpRegen": 1763655528290,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -176,24 +177,7 @@
         "fishCaught": null
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763655416895_ah4axosog",
-        "seller": "Admin",
-        "rod": {
-          "id": "1763654192673_mtf9cj2ic",
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 500,
-        "timestamp": 1763655416895,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -231,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763655439887,
+  "timestamp": 1763655531041,
   "version": "3.0-cloud",
   "user": "Admin"
 }
