@@ -10,7 +10,7 @@
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": "1763672665354_srxhklcgy",
+        "id": "1763672666429_l7qvuxbot",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -19,7 +19,7 @@
         "type": "bamboo"
       },
       {
-        "id": "1763672665354_1wwt3lxjj",
+        "id": "1763672666429_hsefo64l8",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -50,7 +50,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672665354,
+    "lastHpRegen": 1763672666429,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -79,7 +79,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763672666224,
+  "timestamp": 1763672668224,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
