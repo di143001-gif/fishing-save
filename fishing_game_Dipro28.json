@@ -147,11 +147,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "login-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655493591,
+    "lastHpRegen": 1763655494320,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763655494092,
+  "timestamp": 1763655494823,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
