@@ -149,7 +149,7 @@
   "gameState": {
     "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 2",
+    "currentChannel": "Kênh 3",
     "lastFishingTime": 0,
     "lastHpRegen": 1763654945298,
     "activeEvents": [],
@@ -160,8 +160,8 @@
         "id": 0,
         "status": "Đang câu",
         "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763654952111,
-        "endTime": 1763655552111,
+        "startTime": 1763654955839,
+        "endTime": 1763655555839,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763654954999,
+  "timestamp": 1763654958200,
   "version": "3.0-cloud",
   "user": "Admin"
 }
