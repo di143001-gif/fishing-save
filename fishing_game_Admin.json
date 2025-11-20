@@ -44,6 +44,15 @@
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763660717606_xddnusvjk",
+        "name": "Cần Vàng",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "rare",
+        "maxFishingTime": 1200000,
+        "type": "gold"
       }
     ],
     "itemsInventory": [],
@@ -194,24 +203,7 @@
         }
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763660811604_8lh6qvdyc",
-        "seller": "Admin",
-        "rod": {
-          "id": "1763660717606_xddnusvjk",
-          "name": "Cần Vàng",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "rare",
-          "maxFishingTime": 1200000,
-          "type": "gold"
-        },
-        "price": 100,
-        "timestamp": 1763660811604,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [
       {
         "id": "1763660798797_mtvg96nl4",
@@ -267,7 +259,7 @@
       ]
     }
   },
-  "timestamp": 1763660811892,
+  "timestamp": 1763660814894,
   "version": "3.0-cloud",
   "user": "Admin"
 }
