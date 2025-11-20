@@ -10,15 +10,6 @@
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": 1,
-        "name": "Cần Tre",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "common",
-        "maxFishingTime": 600000,
-        "type": "bamboo"
-      },
-      {
         "id": 2,
         "name": "Cần Tre",
         "level": 1,
@@ -169,7 +160,24 @@
     ],
     "tradeOffers": [],
     "selectedRodForTrade": null,
-    "marketItems": [],
+    "marketItems": [
+      {
+        "id": "1763636791095",
+        "seller": "Dipro285",
+        "rod": {
+          "id": 1,
+          "name": "Cần Tre",
+          "level": 1,
+          "status": "Trống",
+          "rarity": "common",
+          "maxFishingTime": 600000,
+          "type": "bamboo"
+        },
+        "price": 1000,
+        "timestamp": 1763636791095,
+        "status": "selling"
+      }
+    ],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -207,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763636790546,
+  "timestamp": 1763636792543,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
