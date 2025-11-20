@@ -89,19 +89,25 @@
       },
       {
         "id": 1,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": 2,
         "startTime": 1763647157976,
         "endTime": 1763647757976,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.54,
+          "exp": 10,
+          "value": 54,
+          "rarity": "common"
+        }
       }
     ],
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647173575,
+  "timestamp": 1763647175576,
   "version": "3.0-cloud",
   "user": "Admin"
 }
