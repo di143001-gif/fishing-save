@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 30009,
+    "coins": 141248,
     "gems": 0,
-    "health": 19,
+    "health": 100,
     "maxHealth": 100,
-    "points": 80,
+    "points": 30,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -35,31 +35,22 @@
         "rarity": "uncommon",
         "maxFishingTime": 900000,
         "type": "iron"
-      },
-      {
-        "id": "1763660717606_xddnusvjk",
-        "name": "Cần Vàng",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "rare",
-        "maxFishingTime": 1200000,
-        "type": "gold"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 6,
+    "maxRods": 5,
     "skills": {
-      "fishing": 10,
-      "luck": 10,
-      "endurance": 10
+      "fishing": 1,
+      "luck": 1,
+      "endurance": 1
     },
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 909,
+      "totalEarnings": 648,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 909,
+      "dailyEarnings": 648,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -156,14 +147,12 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763660732389,
-    "activeEvents": [
-      "luckyDay"
-    ],
+    "lastHpRegen": 1763660792389,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -232,7 +221,7 @@
       ]
     }
   },
-  "timestamp": 1763660788891,
+  "timestamp": 1763660792895,
   "version": "3.0-cloud",
   "user": "Admin"
 }
