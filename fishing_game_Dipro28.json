@@ -46,7 +46,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "market-exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -81,7 +81,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763636922896,
+  "timestamp": 1763636925204,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
