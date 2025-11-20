@@ -37,15 +37,6 @@
         "type": "iron"
       },
       {
-        "id": "1763660717606_xddnusvjk",
-        "name": "Cần Vàng",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "rare",
-        "maxFishingTime": 1200000,
-        "type": "gold"
-      },
-      {
         "id": "1763660798797_1nxk6jp1e",
         "name": "Cần Tre",
         "level": 1,
@@ -203,7 +194,24 @@
         }
       }
     ],
-    "marketItems": [],
+    "marketItems": [
+      {
+        "id": "1763660811604_8lh6qvdyc",
+        "seller": "Admin",
+        "rod": {
+          "id": "1763660717606_xddnusvjk",
+          "name": "Cần Vàng",
+          "level": 1,
+          "status": "Đang bán",
+          "rarity": "rare",
+          "maxFishingTime": 1200000,
+          "type": "gold"
+        },
+        "price": 100,
+        "timestamp": 1763660811604,
+        "status": "selling"
+      }
+    ],
     "transactions": [
       {
         "id": "1763660798797_mtvg96nl4",
@@ -259,7 +267,7 @@
       ]
     }
   },
-  "timestamp": 1763660809893,
+  "timestamp": 1763660811892,
   "version": "3.0-cloud",
   "user": "Admin"
 }
