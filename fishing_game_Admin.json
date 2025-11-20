@@ -80,7 +80,9 @@
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763647200074,
-    "activeEvents": [],
+    "activeEvents": [
+      "doubleExp"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -108,7 +110,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647200576,
+  "timestamp": 1763647202580,
   "version": "3.0-cloud",
   "user": "Admin"
 }
