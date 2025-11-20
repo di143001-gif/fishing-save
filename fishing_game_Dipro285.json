@@ -180,7 +180,7 @@
         "timestamp": 1763633875553
       }
     ],
-    "selectedRodForTrade": 1,
+    "selectedRodForTrade": 2,
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -217,7 +217,7 @@
       ]
     }
   },
-  "timestamp": 1763634466058,
+  "timestamp": 1763634468381,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
