@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 42,
-    "coins": 141212,
+    "coins": 141712,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
@@ -150,7 +150,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763660790389,
+    "lastHpRegen": 1763660797389,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -182,24 +182,7 @@
         }
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763655416895_ah4axosog",
-        "seller": "Admin",
-        "rod": {
-          "id": "1763654192673_mtf9cj2ic",
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 500,
-        "timestamp": 1763655416895,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
@@ -237,7 +220,7 @@
       ]
     }
   },
-  "timestamp": 1763660790893,
+  "timestamp": 1763660803894,
   "version": "3.0-cloud",
   "user": "Dipro28"
 }
