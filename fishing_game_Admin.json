@@ -68,7 +68,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "quests-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -101,7 +101,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763647098579,
+  "timestamp": 1763647100582,
   "version": "3.0-cloud",
   "user": "Admin"
 }
