@@ -46,7 +46,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -79,7 +79,7 @@
     "marketItems": [],
     "transactions": []
   },
-  "timestamp": 1763661049988,
+  "timestamp": 1763661052694,
   "version": "3.0-cloud",
   "user": "Anhladinen"
 }
