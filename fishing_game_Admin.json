@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 91248,
+    "coins": 41248,
     "gems": 0,
     "health": 98,
     "maxHealth": 100,
@@ -47,7 +47,7 @@
       }
     ],
     "itemsInventory": [],
-    "maxRods": 5,
+    "maxRods": 6,
     "skills": {
       "fishing": 1,
       "luck": 1,
@@ -161,7 +161,9 @@
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763660672384,
-    "activeEvents": [],
+    "activeEvents": [
+      "luckyDay"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -224,7 +226,7 @@
       ]
     }
   },
-  "timestamp": 1763660718107,
+  "timestamp": 1763660719982,
   "version": "3.0-cloud",
   "user": "Admin"
 }
