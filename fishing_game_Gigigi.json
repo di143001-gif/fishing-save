@@ -2,15 +2,15 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 21448,
+    "coins": 1500,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 40,
+    "points": 0,
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": "1763654192673_mtf9cj2ic",
+        "id": "1763661046603_r5rh72ekn",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -19,44 +19,17 @@
         "type": "bamboo"
       },
       {
-        "id": "1763654192673_qb74lygjm",
+        "id": "1763661046603_4iohxsw2q",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
-      },
-      {
-        "id": "1763654913025_wz6w2x7g4",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
-      },
-      {
-        "id": "1763660884816_cgbue00ia",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
-      },
-      {
-        "id": "1763660885521_lci9y8l1g",
-        "name": "Cần Sắt",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 7,
+    "maxRods": 5,
     "skills": {
       "fishing": 1,
       "luck": 1,
@@ -65,10 +38,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 648,
+      "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 648,
+      "dailyEarnings": 0,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -165,14 +138,12 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763661067495,
-    "activeEvents": [
-      "doubleExp"
-    ],
+    "lastHpRegen": 1763661046603,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -235,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763661142988,
+  "timestamp": 1763672444355,
   "version": "3.0-cloud",
   "user": "Gigigi"
 }
