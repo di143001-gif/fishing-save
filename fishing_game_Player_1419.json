@@ -137,11 +137,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "login-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763598540884,
+    "lastHpRegen": 1763634496964,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -205,7 +205,7 @@
       ]
     }
   },
-  "timestamp": 1763632087852,
+  "timestamp": 1763634497472,
   "version": "3.0-cloud",
   "user": "Player_1419"
 }
