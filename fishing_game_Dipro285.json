@@ -152,7 +152,9 @@
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763655433591,
-    "activeEvents": [],
+    "activeEvents": [
+      "goldenFish"
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -215,7 +217,7 @@
       ]
     }
   },
-  "timestamp": 1763655468092,
+  "timestamp": 1763655470093,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
