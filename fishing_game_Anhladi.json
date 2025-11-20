@@ -1,23 +1,22 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 0,
-    "coins": 141248,
+    "exp": 42,
+    "coins": 141612,
     "gems": 0,
-    "health": 98,
+    "health": 99,
     "maxHealth": 100,
-    "points": 30,
-    "fishInventory": [],
-    "rodsInventory": [
+    "points": 20,
+    "fishInventory": [
       {
-        "id": "1763654192673_mtf9cj2ic",
-        "name": "Cần Tre",
-        "level": 1,
-        "status": "Trống",
-        "rarity": "common",
-        "maxFishingTime": 600000,
-        "type": "bamboo"
-      },
+        "name": "Cá Lóc",
+        "weight": 1.04,
+        "exp": 20,
+        "value": 156,
+        "rarity": "common"
+      }
+    ],
+    "rodsInventory": [
       {
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
@@ -45,12 +44,12 @@
       "endurance": 1
     },
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
-      "totalEarnings": 648,
+      "totalFishCaught": 3,
+      "biggestFish": 1.04,
+      "totalEarnings": 812,
       "playTime": 0,
-      "dailyFishCaught": 0,
-      "dailyEarnings": 648,
+      "dailyFishCaught": 3,
+      "dailyEarnings": 812,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -148,10 +147,10 @@
   },
   "gameState": {
     "currentScreen": "market-exchange-screen",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763660672384,
+    "lastHpRegen": 1763660699389,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +214,7 @@
       ]
     }
   },
-  "timestamp": 1763660698896,
+  "timestamp": 1763660700896,
   "version": "3.0-cloud",
   "user": "Anhladi"
 }
