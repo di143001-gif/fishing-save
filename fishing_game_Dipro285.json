@@ -39,7 +39,9 @@
       "totalFishCaught": 0,
       "biggestFish": 0,
       "totalEarnings": 0,
-      "playTime": 0
+      "playTime": 0,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 0
     },
     "achievements": {
       "firstCatch": {
@@ -135,11 +137,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh A",
+    "currentScreen": "account-screen",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763633798788,
+    "lastHpRegen": 1763633807253,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -166,7 +168,7 @@
       }
     ],
     "tradeOffers": [],
-    "selectedRodForTrade": 1,
+    "selectedRodForTrade": null,
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -203,7 +205,7 @@
       ]
     }
   },
-  "timestamp": 1763633800754,
+  "timestamp": 1763633807760,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
