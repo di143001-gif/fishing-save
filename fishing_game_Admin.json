@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 10,
+    "exp": 37,
     "coins": 2618,
     "gems": 0,
     "health": 28,
@@ -21,6 +21,13 @@
         "exp": 16,
         "value": 85,
         "rarity": "stolen"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.37,
+        "exp": 27,
+        "value": 137,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -28,7 +35,7 @@
         "id": 1,
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -51,11 +58,11 @@
       "endurance": 2
     },
     "statistics": {
-      "totalFishCaught": 1,
-      "biggestFish": 0.54,
+      "totalFishCaught": 2,
+      "biggestFish": 1.37,
       "totalEarnings": 518,
       "playTime": 0,
-      "dailyFishCaught": 1,
+      "dailyFishCaught": 2,
       "dailyEarnings": 518,
       "tradesCompleted": 0
     },
@@ -166,19 +173,13 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
-        "rodId": 1,
-        "startTime": 1763652114041,
-        "endTime": 1763652714041,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 1.37,
-          "exp": 27,
-          "value": 137,
-          "rarity": "common"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
@@ -229,7 +230,7 @@
       ]
     }
   },
-  "timestamp": 1763652420634,
+  "timestamp": 1763652422625,
   "version": "3.0-cloud",
   "user": "Admin"
 }
