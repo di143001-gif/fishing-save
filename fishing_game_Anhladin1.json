@@ -2,13 +2,23 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 2098,
+    "coins": 500,
     "gems": 0,
-    "health": 1,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 5,
     "skills": {
@@ -19,10 +29,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 598,
+      "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 598
+      "dailyEarnings": 0
     },
     "achievements": {
       "firstCatch": {
@@ -118,11 +128,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "exchange-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763637844641,
+    "lastHpRegen": 1763644923811,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -148,25 +158,7 @@
         "fishCaught": null
       }
     ],
-    "tradeOffers": [],
-    "selectedRodForTrade": null,
     "marketItems": [
-      {
-        "id": "1763636791095",
-        "seller": "Dipro285",
-        "rod": {
-          "id": 1,
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Trống",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 1000,
-        "timestamp": 1763636791095,
-        "status": "selling"
-      },
       {
         "id": "1763636801640",
         "seller": "Dipro285",
@@ -184,7 +176,25 @@
         "status": "selling"
       }
     ],
-    "transactions": [],
+    "transactions": [
+      {
+        "id": "1763639902800",
+        "buyer": "Dipro28",
+        "seller": "Dipro285",
+        "item": {
+          "id": 1,
+          "name": "Cần Tre",
+          "level": 1,
+          "status": "Trống",
+          "rarity": "common",
+          "maxFishingTime": 600000,
+          "type": "bamboo"
+        },
+        "price": 1000,
+        "timestamp": 1763639902800,
+        "status": "completed"
+      }
+    ],
     "dailyQuests": {
       "date": "Thu Nov 20 2025",
       "quests": [
@@ -219,9 +229,11 @@
           "claimed": false
         }
       ]
-    }
+    },
+    "tradeOffers": [],
+    "selectedRodForTrade": null
   },
-  "timestamp": 1763640036063,
+  "timestamp": 1763644924315,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
