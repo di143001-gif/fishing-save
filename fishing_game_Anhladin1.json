@@ -1,11 +1,11 @@
 {
   "playerData": {
-    "level": 1,
-    "exp": 56,
+    "level": 2,
+    "exp": 8,
     "coins": 2507,
     "gems": 0,
-    "health": 12,
-    "maxHealth": 100,
+    "health": 110,
+    "maxHealth": 110,
     "points": 20,
     "fishInventory": [
       {
@@ -20,6 +20,13 @@
         "weight": 0.71,
         "exp": 28,
         "value": 71,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.31,
+        "exp": 52,
+        "value": 131,
         "rarity": "common"
       }
     ],
@@ -51,11 +58,11 @@
       "endurance": 2
     },
     "statistics": {
-      "totalFishCaught": 2,
+      "totalFishCaught": 3,
       "biggestFish": 1.44,
       "totalEarnings": 407,
       "playTime": 0,
-      "dailyFishCaught": 2,
+      "dailyFishCaught": 3,
       "dailyEarnings": 407
     },
     "achievements": {
@@ -165,19 +172,13 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
+        "status": "Đang câu",
         "rodId": 1,
-        "startTime": 1763618791743,
-        "endTime": 1763619391743,
+        "startTime": 1763619038828,
+        "endTime": 1763619638828,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 1.31,
-          "exp": 52,
-          "value": 131,
-          "rarity": "common"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
@@ -198,7 +199,7 @@
           "name": "Câu 5 Con Cá",
           "description": "Bắt được 5 con cá trong ngày hôm nay",
           "target": 5,
-          "progress": 2,
+          "progress": 3,
           "reward": 500,
           "completed": false,
           "claimed": false
@@ -226,7 +227,7 @@
       ]
     }
   },
-  "timestamp": 1763619036955,
+  "timestamp": 1763619039954,
   "version": "3.0-cloud",
   "user": "Anhladin1"
 }
