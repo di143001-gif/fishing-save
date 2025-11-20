@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 141448,
+    "coins": 848,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
@@ -35,12 +35,48 @@
         "rarity": "uncommon",
         "maxFishingTime": 900000,
         "type": "iron"
+      },
+      {
+        "id": "1763672536137_y1r4rcror",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672536646_zvyq218q7",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672537227_aanm9271f",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672537753_c7iqfnvux",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 5,
+    "maxRods": 7,
     "skills": {
-      "fishing": 1,
+      "fishing": 5,
       "luck": 1,
       "endurance": 1
     },
@@ -151,7 +187,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763672503592,
+    "lastHpRegen": 1763672563932,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +251,7 @@
       ]
     }
   },
-  "timestamp": 1763672506434,
+  "timestamp": 1763672587434,
   "version": "3.0-cloud",
   "user": "Admin"
 }
