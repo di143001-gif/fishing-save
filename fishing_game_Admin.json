@@ -138,7 +138,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "shop-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -206,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654910801,
+  "timestamp": 1763654912801,
   "version": "3.0-cloud",
   "user": "Admin"
 }
