@@ -44,6 +44,15 @@
         "rarity": "rare",
         "maxFishingTime": 1200000,
         "type": "gold"
+      },
+      {
+        "id": "1763660798797_1nxk6jp1e",
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
       }
     ],
     "itemsInventory": [],
@@ -156,7 +165,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-exchange-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -194,24 +203,7 @@
         }
       }
     ],
-    "marketItems": [
-      {
-        "id": "1763660817321_b1ragd3li",
-        "seller": "Admin",
-        "rod": {
-          "id": "1763660798797_1nxk6jp1e",
-          "name": "Cần Tre",
-          "level": 1,
-          "status": "Đang bán",
-          "rarity": "common",
-          "maxFishingTime": 600000,
-          "type": "bamboo"
-        },
-        "price": 100,
-        "timestamp": 1763660817321,
-        "status": "selling"
-      }
-    ],
+    "marketItems": [],
     "transactions": [
       {
         "id": "1763660798797_mtvg96nl4",
@@ -267,7 +259,7 @@
       ]
     }
   },
-  "timestamp": 1763660818892,
+  "timestamp": 1763660821057,
   "version": "3.0-cloud",
   "user": "Admin"
 }
