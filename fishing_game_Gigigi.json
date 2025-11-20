@@ -13,7 +13,7 @@
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -138,9 +138,9 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-location",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentScreen": "fishing-screen",
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763654192673,
     "activeEvents": [],
@@ -149,10 +149,10 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": "1763654192673_mtf9cj2ic",
+        "startTime": 1763654209483,
+        "endTime": 1763654809483,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -206,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654207725,
+  "timestamp": 1763654209986,
   "version": "3.0-cloud",
   "user": "Gigigi"
 }
