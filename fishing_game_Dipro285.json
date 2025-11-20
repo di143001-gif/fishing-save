@@ -4,46 +4,10 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 2,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Trộm",
-        "weight": 1.31,
-        "exp": 19,
-        "value": 104,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.63,
-        "exp": 24,
-        "value": 130,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.55,
-        "exp": 23,
-        "value": 124,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 2.24,
-        "exp": 33,
-        "value": 179,
-        "rarity": "stolen"
-      },
-      {
-        "name": "Cá Trộm",
-        "weight": 1.39,
-        "exp": 20,
-        "value": 111,
-        "rarity": "stolen"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": "1763654192673_mtf9cj2ic",
@@ -174,14 +138,12 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "account-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763654801095,
-    "activeEvents": [
-      "luckyDay"
-    ],
+    "lastHpRegen": 1763654888297,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
@@ -244,7 +206,7 @@
       ]
     }
   },
-  "timestamp": 1763654818100,
+  "timestamp": 1763654888804,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
