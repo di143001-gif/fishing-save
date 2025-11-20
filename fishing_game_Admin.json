@@ -133,7 +133,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763653875848,
+    "lastHpRegen": 1763653936518,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -214,7 +214,7 @@
       ]
     }
   },
-  "timestamp": 1763653935026,
+  "timestamp": 1763653937020,
   "version": "3.0-cloud",
   "user": "Admin"
 }
