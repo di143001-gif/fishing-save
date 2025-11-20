@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 140848,
     "gems": 0,
-    "health": 8,
+    "health": 3,
     "maxHealth": 100,
     "points": 10,
     "fishInventory": [],
@@ -151,40 +151,34 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655199591,
+    "lastHpRegen": 1763654883170,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
+        "status": "Đang câu",
         "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763654955839,
-        "endTime": 1763655555839,
+        "startTime": 1763655214443,
+        "endTime": 1763655814443,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 0.25,
-          "exp": 5,
-          "value": 37,
-          "rarity": "common"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
         "status": "Cá dính câu!",
         "rodId": "1763654192673_qb74lygjm",
-        "startTime": 1763654952583,
-        "endTime": 1763655552583,
+        "startTime": 1763655214833,
+        "endTime": 1763655814833,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": {
           "name": "Cá Lóc",
-          "weight": 0.85,
-          "exp": 17,
-          "value": 127,
+          "weight": 1.04,
+          "exp": 20,
+          "value": 156,
           "rarity": "common"
         }
       }
@@ -227,7 +221,7 @@
       ]
     }
   },
-  "timestamp": 1763655200097,
+  "timestamp": 1763655354094,
   "version": "3.0-cloud",
   "user": "Anhladi1"
 }
