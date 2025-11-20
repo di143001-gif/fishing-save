@@ -2,39 +2,30 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 141048,
+    "coins": 1500,
     "gems": 0,
-    "health": 20,
+    "health": 100,
     "maxHealth": 100,
-    "points": 20,
+    "points": 0,
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": "1763654192673_mtf9cj2ic",
+        "id": "1763656004958_ah6zb4a9m",
         "name": "Cần Tre",
-        "level": 1,
-        "status": "Đang câu",
-        "rarity": "common",
-        "maxFishingTime": 600000,
-        "type": "bamboo"
-      },
-      {
-        "id": "1763654192673_qb74lygjm",
-        "name": "Cần Tre",
-        "level": 1,
-        "status": "Đang câu",
-        "rarity": "common",
-        "maxFishingTime": 600000,
-        "type": "bamboo"
-      },
-      {
-        "id": "1763654913025_wz6w2x7g4",
-        "name": "Cần Sắt",
         "level": 1,
         "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 900000,
-        "type": "iron"
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
+      },
+      {
+        "id": "1763656004958_qbk147hra",
+        "name": "Cần Tre",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 600000,
+        "type": "bamboo"
       }
     ],
     "itemsInventory": [],
@@ -47,10 +38,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 648,
+      "totalEarnings": 0,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 648,
+      "dailyEarnings": 0,
       "tradesCompleted": 0
     },
     "achievements": {
@@ -62,7 +53,8 @@
         "target": 1,
         "reward": 100,
         "points": 10,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "catch10Fish": {
         "id": "catch10Fish",
@@ -72,7 +64,8 @@
         "target": 10,
         "reward": 500,
         "points": 20,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "catch100Fish": {
         "id": "catch100Fish",
@@ -82,7 +75,8 @@
         "target": 100,
         "reward": 2000,
         "points": 50,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "bigFish": {
         "id": "bigFish",
@@ -92,7 +86,8 @@
         "target": 2,
         "reward": 1000,
         "points": 30,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "firstSale": {
         "id": "firstSale",
@@ -102,7 +97,8 @@
         "target": 1,
         "reward": 200,
         "points": 10,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "earn10k": {
         "id": "earn10k",
@@ -112,7 +108,8 @@
         "target": 10000,
         "reward": 1000,
         "points": 30,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "earn100k": {
         "id": "earn100k",
@@ -122,7 +119,8 @@
         "target": 100000,
         "reward": 5000,
         "points": 100,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "level10": {
         "id": "level10",
@@ -132,7 +130,8 @@
         "target": 10,
         "reward": 1500,
         "points": 40,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       },
       "upgradeSkills": {
         "id": "upgradeSkills",
@@ -142,36 +141,37 @@
         "target": 5,
         "reward": 2000,
         "points": 50,
-        "unlocked": false
+        "unlocked": false,
+        "notified": false
       }
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentScreen": "login-screen",
+    "currentLocation": null,
+    "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763655977773,
+    "lastHpRegen": 1763656004958,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Đang câu",
-        "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763655552633,
-        "endTime": 1763656152633,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Đang câu",
-        "rodId": "1763654192673_qb74lygjm",
-        "startTime": 1763655553038,
-        "endTime": 1763656153038,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -187,7 +187,7 @@
           "name": "Câu 5 Con Cá",
           "description": "Bắt được 5 con cá trong ngày hôm nay",
           "target": 5,
-          "progress": 1,
+          "progress": 0,
           "reward": 500,
           "completed": false,
           "claimed": false
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763656002679,
+  "timestamp": 1763656013466,
   "version": "3.0-cloud",
   "user": "Dipro285"
 }
