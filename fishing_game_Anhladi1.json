@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 141248,
+    "coins": 141048,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 30,
+    "points": 20,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -151,7 +151,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763661138484,
+    "lastHpRegen": 1763661137484,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -215,7 +215,7 @@
       ]
     }
   },
-  "timestamp": 1763661138990,
+  "timestamp": 1763672441356,
   "version": "3.0-cloud",
   "user": "Anhladi1"
 }
