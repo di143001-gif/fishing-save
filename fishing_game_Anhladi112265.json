@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 96,
+    "health": 92,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -142,7 +142,7 @@
       }
     ]
   },
-  "timestamp": 1763766089861,
+  "timestamp": 1763766091077,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
