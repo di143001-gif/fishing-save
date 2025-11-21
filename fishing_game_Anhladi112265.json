@@ -2,20 +2,12 @@
   "playerData": {
     "level": 2,
     "exp": 49,
-    "coins": 2205,
+    "coins": 2241,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 110,
     "points": 20,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.36,
-        "exp": 20,
-        "value": 36,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -55,10 +47,10 @@
     "statistics": {
       "totalFishCaught": 2,
       "biggestFish": 0.81,
-      "totalEarnings": 405,
+      "totalEarnings": 441,
       "playTime": 0,
       "dailyFishCaught": 2,
-      "dailyEarnings": 405
+      "dailyEarnings": 441
     },
     "materials": {
       "bamboo": 10,
@@ -72,11 +64,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "character-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763766654936,
+    "lastHpRegen": 1763766714936,
     "activeEvents": [
       "goldenFish"
     ],
@@ -185,7 +177,7 @@
       }
     ]
   },
-  "timestamp": 1763766703438,
+  "timestamp": 1763766730652,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
