@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 2948,
     "gems": 0,
-    "health": 47,
+    "health": 27,
     "maxHealth": 100,
     "points": 110,
     "fishInventory": [
@@ -27,6 +27,13 @@
         "weight": 0.92,
         "exp": 13,
         "value": 73,
+        "rarity": "stolen"
+      },
+      {
+        "name": "Cá Trộm",
+        "weight": 1.34,
+        "exp": 20,
+        "value": 107,
         "rarity": "stolen"
       }
     ],
@@ -298,7 +305,7 @@
       ]
     }
   },
-  "timestamp": 1763703324006,
+  "timestamp": 1763703325915,
   "version": "3.0-cloud",
   "user": "Admin"
 }
