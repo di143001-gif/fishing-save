@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -29,7 +29,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 913800.0000000001,
         "type": "crafted",
@@ -45,7 +45,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 949200,
         "type": "crafted",
@@ -162,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -173,30 +173,30 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 1,
+        "startTime": 1763768202311,
+        "endTime": 1763768973911,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 2,
+        "startTime": 1763768202848,
+        "endTime": 1763769116648,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 2,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 3,
+        "startTime": 1763768203308,
+        "endTime": 1763769152508,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -273,7 +273,7 @@
       }
     ]
   },
-  "timestamp": 1763768190445,
+  "timestamp": 1763768203352,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
