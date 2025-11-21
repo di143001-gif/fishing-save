@@ -107,6 +107,22 @@
         "rarity": "uncommon",
         "maxFishingTime": 900000,
         "type": "iron"
+      },
+      {
+        "id": 8,
+        "name": "Cần Tre Tự Chế",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 726768.8365538558,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 3.58425613449896,
+          "expBonus": 9.0714007841908,
+          "timeBonus": 2.112813942564263
+        },
+        "craftedId": "id_1763727125865_05l0g8uhc"
       }
     ],
     "itemsInventory": [],
@@ -123,25 +139,11 @@
     "materials": {
       "bamboo": 0,
       "metal": 1,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763727114954_2hzm9zxkv",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763727114954
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763727121064_rbfnfmkea",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763727121064
-        }
-      ],
+      "hooks": [],
+      "rods": [],
       "lines": []
     },
     "achievements": {
@@ -338,7 +340,7 @@
       ]
     }
   },
-  "timestamp": 1763727121567,
+  "timestamp": 1763727126368,
   "version": "3.0-cloud",
   "user": "Admin"
 }
