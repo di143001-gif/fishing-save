@@ -64,7 +64,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "achievements-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -175,7 +175,7 @@
       }
     ]
   },
-  "timestamp": 1763766566690,
+  "timestamp": 1763766583436,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
