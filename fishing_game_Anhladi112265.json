@@ -59,13 +59,19 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": 1,
         "startTime": 1763766139910,
         "endTime": 1763766911510,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "🐠 Cá Vàng",
+          "weight": 0.81,
+          "exp": 129,
+          "value": 405,
+          "rarity": "golden"
+        }
       },
       {
         "id": 1,
@@ -159,7 +165,7 @@
       }
     ]
   },
-  "timestamp": 1763766359069,
+  "timestamp": 1763766394117,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
