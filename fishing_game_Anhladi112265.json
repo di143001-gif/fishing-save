@@ -1,19 +1,27 @@
 {
   "playerData": {
-    "level": 1,
-    "exp": 0,
-    "coins": 1500,
+    "level": 2,
+    "exp": 29,
+    "coins": 1600,
     "gems": 0,
-    "health": 33,
-    "maxHealth": 100,
-    "points": 0,
-    "fishInventory": [],
+    "health": 110,
+    "maxHealth": 110,
+    "points": 10,
+    "fishInventory": [
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.81,
+        "exp": 129,
+        "value": 405,
+        "rarity": "golden"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -29,11 +37,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 1,
+      "biggestFish": 0.81,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 1,
       "dailyEarnings": 0
     },
     "materials": {
@@ -48,7 +56,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -59,19 +67,13 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
-        "rodId": 1,
-        "startTime": 1763766139910,
-        "endTime": 1763766911510,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "🐠 Cá Vàng",
-          "weight": 0.81,
-          "exp": 129,
-          "value": 405,
-          "rarity": "golden"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
@@ -165,7 +167,7 @@
       }
     ]
   },
-  "timestamp": 1763766394117,
+  "timestamp": 1763766402267,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
