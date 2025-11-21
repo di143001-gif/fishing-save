@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 2948,
+    "coins": 3148,
     "gems": 0,
-    "health": 7,
+    "health": 100,
     "maxHealth": 100,
-    "points": 110,
+    "points": 120,
     "fishInventory": [
       {
         "name": "Cá Lóc",
@@ -49,7 +49,7 @@
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -58,7 +58,7 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -119,6 +119,16 @@
       "dailyFishCaught": 0,
       "dailyEarnings": 0,
       "tradesCompleted": 0
+    },
+    "materials": {
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
+    },
+    "craftedItems": {
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "achievements": {
       "firstCatch": {
@@ -248,27 +258,27 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763703305740,
+    "lastHpRegen": 1763727065982,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Đang câu",
-        "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763703313738,
-        "endTime": 1763703913738,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Đang câu",
-        "rodId": "1763654192673_qb74lygjm",
-        "startTime": 1763703314133,
-        "endTime": 1763703914133,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -312,7 +322,7 @@
       ]
     }
   },
-  "timestamp": 1763703347060,
+  "timestamp": 1763727066484,
   "version": "3.0-cloud",
   "user": "Admin"
 }
