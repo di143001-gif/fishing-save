@@ -30,7 +30,7 @@
         "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -220,7 +220,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763701390398,
+    "lastHpRegen": 1763702866250,
     "activeEvents": [
       "doubleExp"
     ],
@@ -245,10 +245,10 @@
       },
       {
         "id": 1,
-        "status": "Đang câu",
-        "rodId": "1763654192673_qb74lygjm",
-        "startTime": 1763701365485,
-        "endTime": 1763701965485,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -292,7 +292,7 @@
       ]
     }
   },
-  "timestamp": 1763701438022,
+  "timestamp": 1763702866389,
   "version": "3.0-cloud",
   "user": "Admin"
 }
