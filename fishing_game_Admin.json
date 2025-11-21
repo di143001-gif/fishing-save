@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 3148,
     "gems": 0,
-    "health": 62,
+    "health": 53,
     "maxHealth": 100,
     "points": 120,
     "fishInventory": [
@@ -137,7 +137,7 @@
       "tradesCompleted": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 2,
       "metal": 10,
       "spiderweb": 10
     },
@@ -338,7 +338,7 @@
       ]
     }
   },
-  "timestamp": 1763732504395,
+  "timestamp": 1763732505972,
   "version": "3.0-cloud",
   "user": "Admin"
 }
