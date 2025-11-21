@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 3819,
     "gems": 0,
-    "health": 3,
+    "health": 1,
     "maxHealth": 100,
     "points": 120,
     "fishInventory": [],
@@ -103,7 +103,7 @@
     "materials": {
       "bamboo": 20,
       "metal": 20,
-      "spiderweb": 10
+      "spiderweb": 11
     },
     "craftedItems": {
       "hooks": [],
@@ -302,7 +302,7 @@
       ]
     }
   },
-  "timestamp": 1763732807217,
+  "timestamp": 1763732809480,
   "version": "3.0-cloud",
   "user": "Admin"
 }
