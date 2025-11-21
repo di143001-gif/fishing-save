@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 2948,
+    "coins": 2748,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 110,
+    "points": 100,
     "fishInventory": [
       {
         "name": "Cá Lóc",
@@ -83,6 +83,11 @@
     ],
     "itemsInventory": [],
     "maxRods": 7,
+    "skills": {
+      "fishing": 5,
+      "luck": 1,
+      "endurance": 1
+    },
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
@@ -208,11 +213,6 @@
         "progressKey": "biggestFish",
         "isWeight": true
       }
-    },
-    "skills": {
-      "fishing": 5,
-      "luck": 1,
-      "endurance": 1
     }
   },
   "gameState": {
@@ -284,7 +284,7 @@
       ]
     }
   },
-  "timestamp": 1763702877144,
+  "timestamp": 1763702879934,
   "version": "3.0-cloud",
   "user": "Admin"
 }
