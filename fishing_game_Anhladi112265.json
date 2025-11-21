@@ -1,0 +1,148 @@
+{
+  "playerData": {
+    "level": 1,
+    "exp": 0,
+    "coins": 1500,
+    "gems": 0,
+    "health": 100,
+    "maxHealth": 100,
+    "points": 0,
+    "fishInventory": [],
+    "rodsInventory": [],
+    "itemsInventory": [],
+    "maxRods": 10,
+    "statistics": {
+      "totalFishCaught": 0,
+      "biggestFish": 0,
+      "totalEarnings": 0,
+      "playTime": 0,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 0
+    },
+    "materials": {
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
+    },
+    "craftedItems": {
+      "hooks": [],
+      "rods": [],
+      "lines": []
+    }
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "currentLocation": null,
+    "currentChannel": null,
+    "lastFishingTime": 0,
+    "lastHpRegen": 1763766044305,
+    "activeEvents": [],
+    "achievements": [],
+    "dailyRewards": {},
+    "fishingSlots": [
+      {
+        "id": 0,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 1,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 2,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 3,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 4,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 5,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 6,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 7,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 8,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 9,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      }
+    ]
+  },
+  "timestamp": 1763766044305,
+  "version": "3.0-cloud",
+  "user": "Anhladi112265"
+}
