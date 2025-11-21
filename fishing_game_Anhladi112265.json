@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 61,
+    "health": 48,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -21,7 +21,7 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 0,
+      "metal": 7,
       "spiderweb": 6
     },
     "craftedItems": {
@@ -35,7 +35,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763766044305,
+    "lastHpRegen": 1763766104371,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -142,7 +142,7 @@
       }
     ]
   },
-  "timestamp": 1763766102641,
+  "timestamp": 1763766105384,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
