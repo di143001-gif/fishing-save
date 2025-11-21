@@ -4,7 +4,7 @@
     "exp": 3,
     "coins": 2541,
     "gems": 0,
-    "health": 63,
+    "health": 43,
     "maxHealth": 120,
     "points": 40,
     "fishInventory": [
@@ -86,7 +86,7 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -105,7 +105,14 @@
           "createdAt": 1763768927302
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763768928287_8bh75fthb",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763768928287
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -191,7 +198,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -302,7 +309,7 @@
       }
     ]
   },
-  "timestamp": 1763768927804,
+  "timestamp": 1763768933439,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
