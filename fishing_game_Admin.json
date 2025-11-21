@@ -220,7 +220,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763700989544,
+    "lastHpRegen": 1763701050018,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -284,7 +284,7 @@
       ]
     }
   },
-  "timestamp": 1763701042024,
+  "timestamp": 1763701053026,
   "version": "3.0-cloud",
   "user": "Admin"
 }
