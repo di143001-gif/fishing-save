@@ -2,27 +2,12 @@
   "playerData": {
     "level": 3,
     "exp": 3,
-    "coins": 2541,
+    "coins": 2726,
     "gems": 0,
     "health": 4,
     "maxHealth": 120,
     "points": 40,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.28,
-        "exp": 15,
-        "value": 28,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.57,
-        "exp": 89,
-        "value": 157,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -94,10 +79,10 @@
     "statistics": {
       "totalFishCaught": 4,
       "biggestFish": 1.57,
-      "totalEarnings": 441,
+      "totalEarnings": 626,
       "playTime": 0,
       "dailyFishCaught": 4,
-      "dailyEarnings": 441
+      "dailyEarnings": 626
     },
     "materials": {
       "bamboo": 0,
@@ -304,7 +289,7 @@
       }
     ]
   },
-  "timestamp": 1763768958951,
+  "timestamp": 1763768965861,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
