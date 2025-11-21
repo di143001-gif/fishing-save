@@ -4,7 +4,7 @@
     "exp": 49,
     "coins": 2241,
     "gems": 0,
-    "health": 4,
+    "health": 6,
     "maxHealth": 110,
     "points": 20,
     "fishInventory": [],
@@ -68,7 +68,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763766834936,
+    "lastHpRegen": 1763766990067,
     "activeEvents": [
       "goldenFish"
     ],
@@ -85,9 +85,9 @@
         "finishTimeout": null,
         "fishCaught": {
           "name": "Cá Lóc",
-          "weight": 1.4,
-          "exp": 75,
-          "value": 140,
+          "weight": 0.79,
+          "exp": 42,
+          "value": 79,
           "rarity": "common"
         }
       },
@@ -183,7 +183,7 @@
       }
     ]
   },
-  "timestamp": 1763766854575,
+  "timestamp": 1763766993277,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
