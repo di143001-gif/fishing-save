@@ -2,15 +2,23 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 2148,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 0,
-    "fishInventory": [],
+    "points": 90,
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.04,
+        "exp": 20,
+        "value": 156,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
-        "id": 1,
+        "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
@@ -19,26 +27,71 @@
         "type": "bamboo"
       },
       {
-        "id": 2,
+        "id": "1763654192673_qb74lygjm",
         "name": "Cần Tre",
         "level": 1,
         "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
+      },
+      {
+        "id": "1763654913025_wz6w2x7g4",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672536137_y1r4rcror",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672536646_zvyq218q7",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672537227_aanm9271f",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
+      },
+      {
+        "id": "1763672537753_c7iqfnvux",
+        "name": "Cần Sắt",
+        "level": 1,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 900000,
+        "type": "iron"
       }
     ],
     "itemsInventory": [],
-    "maxRods": 5,
+    "maxRods": 7,
     "skills": {
-      "fishing": 1,
+      "fishing": 5,
       "luck": 1,
       "endurance": 1
     },
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 0,
+      "totalEarnings": 648,
       "playTime": 0,
       "dailyFishCaught": 0,
       "dailyEarnings": 0,
@@ -134,15 +187,40 @@
         "reward": 2000,
         "points": 50,
         "unlocked": false
+      },
+      "catch100": {
+        "id": "catch100",
+        "name": "Ngư Phủ Chuyên Nghiệp",
+        "description": "Bắt 100 con cá",
+        "type": "fishing",
+        "target": 100,
+        "reward": 10000,
+        "points": 50,
+        "unlocked": false,
+        "notified": false,
+        "progressKey": "totalFishCaught"
+      },
+      "catchBiggest": {
+        "id": "catchBiggest",
+        "name": "Vua Cá Lóc",
+        "description": "Bắt được cá nặng 5kg trở lên",
+        "type": "fishing",
+        "target": 5,
+        "reward": 20000,
+        "points": 100,
+        "unlocked": false,
+        "notified": false,
+        "progressKey": "biggestFish",
+        "isWeight": true
       }
     }
   },
   "gameState": {
-    "currentScreen": "login-screen",
-    "currentLocation": null,
+    "currentScreen": "main-menu",
+    "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763700981510,
+    "lastHpRegen": 1763700989544,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -188,7 +266,7 @@
           "name": "Bán Cá 1,000 Xu",
           "description": "Bán cá với tổng giá trị 1,000 xu",
           "target": 1000,
-          "progress": 0,
+          "progress": 648,
           "reward": 300,
           "completed": false,
           "claimed": false
@@ -206,7 +284,7 @@
       ]
     }
   },
-  "timestamp": 1763700989067,
+  "timestamp": 1763700990091,
   "version": "3.0-cloud",
   "user": "Admin"
 }
