@@ -121,7 +121,7 @@
       "tradesCompleted": 0
     },
     "materials": {
-      "bamboo": 10,
+      "bamboo": 0,
       "metal": 1,
       "spiderweb": 10
     },
@@ -134,7 +134,14 @@
           "createdAt": 1763727114954
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763727121064_rbfnfmkea",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763727121064
+        }
+      ],
       "lines": []
     },
     "achievements": {
@@ -331,7 +338,7 @@
       ]
     }
   },
-  "timestamp": 1763727117377,
+  "timestamp": 1763727121567,
   "version": "3.0-cloud",
   "user": "Admin"
 }
