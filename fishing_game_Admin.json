@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 3819,
     "gems": 0,
-    "health": 4,
+    "health": 3,
     "maxHealth": 100,
     "points": 120,
     "fishInventory": [],
@@ -102,7 +102,7 @@
     },
     "materials": {
       "bamboo": 20,
-      "metal": 19,
+      "metal": 20,
       "spiderweb": 10
     },
     "craftedItems": {
@@ -234,7 +234,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -302,7 +302,7 @@
       ]
     }
   },
-  "timestamp": 1763732788609,
+  "timestamp": 1763732807217,
   "version": "3.0-cloud",
   "user": "Admin"
 }
