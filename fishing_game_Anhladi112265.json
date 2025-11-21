@@ -31,7 +31,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -142,7 +142,7 @@
       }
     ]
   },
-  "timestamp": 1763766044305,
+  "timestamp": 1763766059753,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
