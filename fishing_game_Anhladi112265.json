@@ -21,17 +21,24 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 10,
+      "metal": 0,
       "spiderweb": 11
     },
     "craftedItems": {
-      "hooks": [],
+      "hooks": [
+        {
+          "id": "id_1763766111905_f9mgve0k1",
+          "type": "hook",
+          "quality": "premium",
+          "createdAt": 1763766111905
+        }
+      ],
       "rods": [],
       "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -142,7 +149,7 @@
       }
     ]
   },
-  "timestamp": 1763766110135,
+  "timestamp": 1763766112407,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
