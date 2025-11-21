@@ -2,11 +2,11 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 2148,
+    "coins": 2348,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
-    "points": 90,
+    "points": 100,
     "fishInventory": [
       {
         "name": "Cá Lóc",
@@ -216,7 +216,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "market-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -284,7 +284,7 @@
       ]
     }
   },
-  "timestamp": 1763700999906,
+  "timestamp": 1763701016903,
   "version": "3.0-cloud",
   "user": "Admin"
 }
