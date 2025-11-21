@@ -20,9 +20,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
+      "bamboo": 0,
       "metal": 0,
-      "spiderweb": 11
+      "spiderweb": 1
     },
     "craftedItems": {
       "hooks": [
@@ -33,8 +33,22 @@
           "createdAt": 1763766111905
         }
       ],
-      "rods": [],
-      "lines": []
+      "rods": [
+        {
+          "id": "id_1763766112959_a4w2trp0s",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763766112959
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763766114124_nv9o5relk",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763766114124
+        }
+      ]
     }
   },
   "gameState": {
@@ -149,7 +163,7 @@
       }
     ]
   },
-  "timestamp": 1763766112407,
+  "timestamp": 1763766114626,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
