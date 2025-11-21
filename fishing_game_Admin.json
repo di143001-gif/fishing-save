@@ -21,7 +21,7 @@
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Đang câu",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -221,27 +221,19 @@
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763702866250,
-    "activeEvents": [
-      "doubleExp"
-    ],
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Cá dính câu!",
-        "rodId": "1763654192673_mtf9cj2ic",
-        "startTime": 1763701364935,
-        "endTime": 1763701964935,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 0.42,
-          "exp": 16,
-          "value": 42,
-          "rarity": "common"
-        }
+        "fishCaught": null
       },
       {
         "id": 1,
@@ -292,7 +284,7 @@
       ]
     }
   },
-  "timestamp": 1763702866389,
+  "timestamp": 1763702869937,
   "version": "3.0-cloud",
   "user": "Admin"
 }
