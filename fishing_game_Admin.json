@@ -2,20 +2,12 @@
   "playerData": {
     "level": 7,
     "exp": 1059,
-    "coins": 4741,
+    "coins": 5961,
     "gems": 0,
     "health": 2,
     "maxHealth": 160,
     "points": 140,
-    "fishInventory": [
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 2.44,
-        "exp": 432,
-        "value": 1220,
-        "rarity": "golden"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -167,10 +159,10 @@
     "statistics": {
       "totalFishCaught": 39,
       "biggestFish": 2.44,
-      "totalEarnings": 5541,
+      "totalEarnings": 6761,
       "playTime": 0,
       "dailyFishCaught": 39,
-      "dailyEarnings": 5541
+      "dailyEarnings": 6761
     },
     "materials": {
       "bamboo": 0,
@@ -298,7 +290,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -308,7 +300,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763852844929,
+  "timestamp": 1763852856458,
   "version": "3.0-cloud",
   "user": "Admin"
 }
