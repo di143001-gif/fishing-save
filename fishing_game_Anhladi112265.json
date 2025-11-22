@@ -56,22 +56,6 @@
           "timeBonus": 5.82
         },
         "craftedId": "id_1763768133939_0aywqiyjj"
-      },
-      {
-        "id": 4,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 671400,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 4.41,
-          "expBonus": 10.46,
-          "timeBonus": 1.19
-        },
-        "craftedId": "id_1763768951847_91homiuui"
       }
     ],
     "itemsInventory": [],
@@ -219,7 +203,7 @@
       }
     ]
   },
-  "timestamp": 1763780222799,
+  "timestamp": 1763780228451,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
