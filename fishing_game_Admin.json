@@ -151,14 +151,12 @@
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763828208768,
-    "activeEvents": [
-      "goldenFish"
-    ],
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763828228767,
+  "timestamp": 1763828269217,
   "version": "3.0-cloud",
   "user": "Admin"
 }
