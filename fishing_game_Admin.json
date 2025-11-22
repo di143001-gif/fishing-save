@@ -45,9 +45,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 11,
+      "bamboo": 1,
       "metal": 1,
-      "spiderweb": 15
+      "spiderweb": 5
     },
     "craftedItems": {
       "hooks": [
@@ -58,8 +58,22 @@
           "createdAt": 1763827938795
         }
       ],
-      "rods": [],
-      "lines": []
+      "rods": [
+        {
+          "id": "id_1763827939340_qzzqrxn0z",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763827939340
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763827940193_53wekc7lx",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763827940193
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -155,7 +169,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763827939297,
+  "timestamp": 1763827940696,
   "version": "3.0-cloud",
   "user": "Admin"
 }
