@@ -211,13 +211,19 @@
       },
       {
         "id": 2,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": 3,
         "startTime": 1763770006817,
         "endTime": 1763770956017,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.53,
+          "exp": 26,
+          "value": 79,
+          "rarity": "common"
+        }
       },
       {
         "id": 3,
@@ -291,7 +297,7 @@
       }
     ]
   },
-  "timestamp": 1763770057317,
+  "timestamp": 1763770067327,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
