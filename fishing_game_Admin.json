@@ -4,7 +4,7 @@
     "exp": 63,
     "coins": 3745,
     "gems": 0,
-    "health": 31,
+    "health": 21,
     "maxHealth": 140,
     "points": 60,
     "fishInventory": [],
@@ -133,9 +133,9 @@
       "dailyEarnings": 1145
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 20,
-      "spiderweb": 12
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 20
     },
     "craftedItems": {
       "hooks": [
@@ -144,9 +144,34 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763829564417
+        },
+        {
+          "id": "id_1763829666161_9ytt5m72r",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763829666161
+        },
+        {
+          "id": "id_1763829666328_6ojf1pgio",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763829666328
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763829667069_d2lie5mvn",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763829667069
+        },
+        {
+          "id": "id_1763829667210_6i4uyqi3b",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763829667210
+        }
+      ],
       "lines": [
         {
           "id": "id_1763829566196_hekm575pa",
@@ -240,7 +265,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -252,7 +277,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829663250,
+  "timestamp": 1763829667573,
   "version": "3.0-cloud",
   "user": "Admin"
 }
