@@ -190,6 +190,22 @@
           "timeBonus": 8.61
         },
         "craftedId": "id_1763830322504_21lcfbsj2"
+      },
+      {
+        "id": 11,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 834000,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 4.72,
+          "expBonus": 2.45,
+          "timeBonus": 3.9
+        },
+        "craftedId": "id_1763830359430_xphbpsmxc"
       }
     ],
     "itemsInventory": [],
@@ -205,16 +221,10 @@
     "materials": {
       "bamboo": 1,
       "metal": 1,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763830319356_dvqd8o4cv",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763830319356
-        },
         {
           "id": "id_1763830356784_0l8o6335g",
           "type": "hook",
@@ -222,20 +232,13 @@
           "createdAt": 1763830356784
         }
       ],
-      "rods": [
-        {
-          "id": "id_1763830357164_vkqy9ztxc",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763830357164
-        }
-      ],
+      "rods": [],
       "lines": [
         {
-          "id": "id_1763830320928_kxup1u3jh",
+          "id": "id_1763830358303_3hqfvgph8",
           "type": "line",
           "quality": "normal",
-          "createdAt": 1763830320928
+          "createdAt": 1763830358303
         }
       ]
     },
@@ -333,7 +336,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763830357290,
+  "timestamp": 1763830359935,
   "version": "3.0-cloud",
   "user": "Admin"
 }
