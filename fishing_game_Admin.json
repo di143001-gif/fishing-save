@@ -21,7 +21,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 906000,
         "type": "crafted",
@@ -142,13 +142,27 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763825796092,
-    "activeEvents": [],
+    "lastHpRegen": 1763825782136,
+    "activeEvents": [
+      {
+        "id": "cu_i_tu_n_1763825747946",
+        "name": "Cuối tuần",
+        "type": "multiplier",
+        "description": "Chúc bạn chơi game vui vẻ",
+        "start_time": "2025-11-22T15:35:00.000Z",
+        "end_time": "2025-11-23T15:35:00.000Z",
+        "config": {
+          "exp_multiplier": 5,
+          "coins_multiplier": 5,
+          "catch_multiplier": 3
+        }
+      }
+    ],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763825796594,
+  "timestamp": 1763825806265,
   "version": "3.0-cloud",
   "user": "Admin"
 }
