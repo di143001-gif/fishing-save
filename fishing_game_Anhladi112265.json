@@ -261,7 +261,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 2",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763788698661,
+    "lastHpRegen": 1763788758758,
     "activeEvents": [
       "luckyDay"
     ],
@@ -269,7 +269,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763788736758,
+  "timestamp": 1763788760758,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
