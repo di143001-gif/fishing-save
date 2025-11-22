@@ -414,7 +414,7 @@
   },
   "gameState": {
     "currentScreen": "select-location",
-    "currentLocation": "Khu Đồng Lớn",
+    "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763852595830,
@@ -425,7 +425,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763852630759,
+  "timestamp": 1763852634929,
   "version": "3.0-cloud",
   "user": "Admin"
 }
