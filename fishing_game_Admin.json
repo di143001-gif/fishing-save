@@ -2,20 +2,12 @@
   "playerData": {
     "level": 1,
     "exp": 0,
-    "coins": 1500,
+    "coins": 1806,
     "gems": 0,
     "health": 2,
     "maxHealth": 100,
-    "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Trộm",
-        "weight": 1.33,
-        "exp": 19,
-        "value": 106,
-        "rarity": "stolen"
-      }
-    ],
+    "points": 10,
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -55,10 +47,10 @@
     "statistics": {
       "totalFishCaught": 0,
       "biggestFish": 0,
-      "totalEarnings": 0,
+      "totalEarnings": 106,
       "playTime": 0,
       "dailyFishCaught": 0,
-      "dailyEarnings": 0
+      "dailyEarnings": 106
     },
     "materials": {
       "bamboo": 1,
@@ -154,7 +146,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -166,7 +158,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763828048228,
+  "timestamp": 1763828066229,
   "version": "3.0-cloud",
   "user": "Admin"
 }
