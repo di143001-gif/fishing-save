@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -29,7 +29,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 913800.0000000001,
         "type": "crafted",
@@ -194,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -205,20 +205,20 @@
     "fishingSlots": [
       {
         "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 1,
+        "startTime": 1763780118174,
+        "endTime": 1763780889775,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 1,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 2,
+        "startTime": 1763780118614,
+        "endTime": 1763781032414,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -235,7 +235,7 @@
       }
     ]
   },
-  "timestamp": 1763780111314,
+  "timestamp": 1763780118679,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
