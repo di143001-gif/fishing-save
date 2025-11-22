@@ -200,7 +200,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -241,13 +241,19 @@
       },
       {
         "id": 3,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": 4,
         "startTime": 1763770899294,
         "endTime": 1763771570694,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.38,
+          "exp": 20,
+          "value": 38,
+          "rarity": "common"
+        }
       },
       {
         "id": 4,
@@ -311,7 +317,7 @@
       }
     ]
   },
-  "timestamp": 1763771371073,
+  "timestamp": 1763771379805,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
