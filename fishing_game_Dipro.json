@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1157399.9999999998,
         "type": "crafted",
@@ -64,7 +64,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -76,7 +76,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763816917616,
+  "timestamp": 1763816934331,
   "version": "3.0-cloud",
   "user": "Dipro"
 }
