@@ -4,7 +4,7 @@
     "exp": 52,
     "coins": 2188,
     "gems": 0,
-    "health": 72,
+    "health": 63,
     "maxHealth": 110,
     "points": 20,
     "fishInventory": [],
@@ -54,8 +54,8 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 11,
-      "spiderweb": 6
+      "metal": 15,
+      "spiderweb": 10
     },
     "craftedItems": {
       "hooks": [],
@@ -150,13 +150,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763828389768,
+    "lastHpRegen": 1763828449908,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763828447763,
+  "timestamp": 1763828449923,
   "version": "3.0-cloud",
   "user": "Admin"
 }
