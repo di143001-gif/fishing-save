@@ -1,0 +1,9 @@
+{
+  "active_events": {},
+  "server_settings": {
+    "base_catch_rate": 0.15,
+    "golden_fish_rate": 0.05,
+    "hp_regen_per_minute": 1
+  },
+  "event_history": []
+}
