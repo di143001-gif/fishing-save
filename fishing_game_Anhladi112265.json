@@ -2,18 +2,18 @@
   "playerData": {
     "level": 3,
     "exp": 151,
-    "coins": 3930,
+    "coins": 3630,
     "gems": 0,
-    "health": 57,
+    "health": 69,
     "maxHealth": 120,
-    "points": 100,
+    "points": 80,
     "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -29,7 +29,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 913800.0000000001,
         "type": "crafted",
@@ -45,7 +45,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 949200,
         "type": "crafted",
@@ -56,22 +56,6 @@
           "timeBonus": 5.82
         },
         "craftedId": "id_1763768133939_0aywqiyjj"
-      },
-      {
-        "id": 4,
-        "name": "Cần Tre Thượng Hạng",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "epic",
-        "maxFishingTime": 1200000,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 5,
-          "expBonus": 20,
-          "timeBonus": 10
-        },
-        "craftedId": "id_1763784446460_i5gh2j7hh"
       }
     ],
     "itemsInventory": [],
@@ -85,9 +69,9 @@
       "dailyEarnings": 930
     },
     "materials": {
-      "bamboo": 0,
-      "metal": 0,
-      "spiderweb": 1
+      "bamboo": 10,
+      "metal": 8,
+      "spiderweb": 5
     },
     "craftedItems": {
       "hooks": [],
@@ -178,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "select-channel",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -186,9 +170,40 @@
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
-    "fishingSlots": []
+    "fishingSlots": [
+      {
+        "id": 0,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 1,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      },
+      {
+        "id": 2,
+        "status": "Trống",
+        "rodId": null,
+        "startTime": 0,
+        "endTime": 0,
+        "checkInterval": null,
+        "finishTimeout": null,
+        "fishCaught": null
+      }
+    ]
   },
-  "timestamp": 1763784446964,
+  "timestamp": 1763784457249,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
