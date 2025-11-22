@@ -2,11 +2,11 @@
   "playerData": {
     "level": 3,
     "exp": 151,
-    "coins": 3930,
+    "coins": 4230,
     "gems": 0,
-    "health": 58,
+    "health": 60,
     "maxHealth": 120,
-    "points": 100,
+    "points": 120,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -214,13 +214,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763787813379,
+    "lastHpRegen": 1763787990251,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763787869758,
+  "timestamp": 1763787990754,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
