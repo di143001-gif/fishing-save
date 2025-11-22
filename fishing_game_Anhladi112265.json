@@ -1,19 +1,27 @@
 {
   "playerData": {
     "level": 3,
-    "exp": 151,
+    "exp": 162,
     "coins": 3930,
     "gems": 0,
     "health": 58,
     "maxHealth": 120,
     "points": 100,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.22,
+        "exp": 11,
+        "value": 22,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -77,11 +85,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 7,
+      "totalFishCaught": 8,
       "biggestFish": 1.57,
       "totalEarnings": 930,
       "playTime": 0,
-      "dailyFishCaught": 7,
+      "dailyFishCaught": 8,
       "dailyEarnings": 930
     },
     "materials": {
@@ -178,7 +186,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -188,7 +196,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763784492812,
+  "timestamp": 1763784519479,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
