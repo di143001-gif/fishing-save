@@ -71,25 +71,11 @@
     "materials": {
       "bamboo": 10,
       "metal": 8,
-      "spiderweb": 15
+      "spiderweb": 5
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763780255643_i2g0lexcx",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763780255643
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763780256139_ltff9w5fl",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763780256139
-        }
-      ],
+      "hooks": [],
+      "rods": [],
       "lines": []
     },
     "achievements": {
@@ -176,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -217,7 +203,7 @@
       }
     ]
   },
-  "timestamp": 1763780256146,
+  "timestamp": 1763780270195,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
