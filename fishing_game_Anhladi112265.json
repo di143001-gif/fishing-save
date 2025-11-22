@@ -196,9 +196,9 @@
       "dailyEarnings": 2122
     },
     "materials": {
-      "bamboo": 30,
-      "metal": 10,
-      "spiderweb": 30
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -213,10 +213,54 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763799718199
+        },
+        {
+          "id": "id_1763799718432_9pl5r3cus",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763799718432
         }
       ],
-      "rods": [],
-      "lines": []
+      "rods": [
+        {
+          "id": "id_1763799719028_c4117pray",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763799719028
+        },
+        {
+          "id": "id_1763799719275_0qfg9r597",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763799719275
+        },
+        {
+          "id": "id_1763799719477_m2h7j3sm0",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763799719477
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763799719881_1geeunfeb",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763799719881
+        },
+        {
+          "id": "id_1763799720049_lkarnkz7j",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763799720049
+        },
+        {
+          "id": "id_1763799720222_u6zs3g08n",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763799720222
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -314,7 +358,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763799718410,
+  "timestamp": 1763799720726,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
