@@ -4,7 +4,7 @@
     "exp": 145,
     "coins": 2522,
     "gems": 0,
-    "health": 24,
+    "health": 25,
     "maxHealth": 140,
     "points": 220,
     "fishInventory": [],
@@ -152,6 +152,22 @@
           "timeBonus": 8.1
         },
         "craftedId": "id_1763789306343_2503bf5mw"
+      },
+      {
+        "id": 10,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 665400,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 3.46,
+          "expBonus": 9.84,
+          "timeBonus": 1.09
+        },
+        "craftedId": "id_1763789307281_ldon97637"
       }
     ],
     "itemsInventory": [],
@@ -170,30 +186,9 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763789302669_4dmkqkr62",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763789302669
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763789303700_lq19huum2",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763789303701
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763789305064_gtymf8qyj",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763789305064
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "achievements": {
       "firstCatch": {
@@ -279,11 +274,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 2",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763789256159,
+    "lastHpRegen": 1763789316769,
     "activeEvents": [
       "luckyDay"
     ],
@@ -291,7 +286,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763789306847,
+  "timestamp": 1763789337269,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
