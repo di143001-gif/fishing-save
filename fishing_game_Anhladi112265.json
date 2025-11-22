@@ -4,7 +4,7 @@
     "exp": 151,
     "coins": 3630,
     "gems": 0,
-    "health": 0,
+    "health": 1,
     "maxHealth": 120,
     "points": 80,
     "fishInventory": [],
@@ -162,11 +162,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763780220588,
+    "lastHpRegen": 1763780280588,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -203,7 +203,7 @@
       }
     ]
   },
-  "timestamp": 1763780270195,
+  "timestamp": 1763780301877,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
