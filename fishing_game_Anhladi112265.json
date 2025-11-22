@@ -2,18 +2,18 @@
   "playerData": {
     "level": 3,
     "exp": 151,
-    "coins": 3630,
+    "coins": 3930,
     "gems": 0,
     "health": 69,
     "maxHealth": 120,
-    "points": 80,
+    "points": 100,
     "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -29,7 +29,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 913800.0000000001,
         "type": "crafted",
@@ -45,7 +45,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 949200,
         "type": "crafted",
@@ -162,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-channel",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -170,40 +170,9 @@
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
-    "fishingSlots": [
-      {
-        "id": 0,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 1,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 2,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      }
-    ]
+    "fishingSlots": []
   },
-  "timestamp": 1763784427249,
+  "timestamp": 1763784432811,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
