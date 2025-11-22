@@ -4,7 +4,7 @@
     "exp": 29,
     "coins": 3026,
     "gems": 0,
-    "health": 17,
+    "health": 18,
     "maxHealth": 120,
     "points": 60,
     "fishInventory": [
@@ -190,7 +190,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763771072720,
+    "lastHpRegen": 1763771133719,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -207,13 +207,19 @@
       },
       {
         "id": 1,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": 2,
         "startTime": 1763770897393,
         "endTime": 1763771811193,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 1.5,
+          "exp": 85,
+          "value": 150,
+          "rarity": "common"
+        }
       },
       {
         "id": 2,
@@ -303,7 +309,7 @@
       }
     ]
   },
-  "timestamp": 1763771133479,
+  "timestamp": 1763771138730,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
