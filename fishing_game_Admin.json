@@ -4,7 +4,7 @@
     "exp": 418,
     "coins": 7520,
     "gems": 0,
-    "health": 131,
+    "health": 111,
     "maxHealth": 160,
     "points": 140,
     "fishInventory": [
@@ -228,8 +228,8 @@
     },
     "materials": {
       "bamboo": 11,
-      "metal": 8,
-      "spiderweb": 1
+      "metal": 11,
+      "spiderweb": 10
     },
     "craftedItems": {
       "hooks": [
@@ -344,15 +344,13 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763852656429,
-    "activeEvents": [
-      "luckyDay"
-    ],
+    "lastHpRegen": 1763852716429,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763852712518,
+  "timestamp": 1763852716794,
   "version": "3.0-cloud",
   "user": "Admin"
 }
