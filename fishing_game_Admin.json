@@ -13,7 +13,7 @@
         "id": "1763654192673_mtf9cj2ic",
         "name": "Cần Tre",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 600000,
         "type": "bamboo"
@@ -234,7 +234,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -281,7 +281,7 @@
       ]
     }
   },
-  "timestamp": 1763822531869,
+  "timestamp": 1763822535737,
   "version": "3.0-cloud",
   "user": "Admin"
 }
