@@ -2,11 +2,11 @@
   "playerData": {
     "level": 3,
     "exp": 151,
-    "coins": 3630,
+    "coins": 3930,
     "gems": 0,
     "health": 120,
     "maxHealth": 120,
-    "points": 80,
+    "points": 100,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -204,7 +204,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763787711321,
+  "timestamp": 1763787728363,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
