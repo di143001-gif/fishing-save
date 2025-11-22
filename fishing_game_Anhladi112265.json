@@ -162,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "select-channel",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -203,7 +203,7 @@
       }
     ]
   },
-  "timestamp": 1763780301877,
+  "timestamp": 1763780331878,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
