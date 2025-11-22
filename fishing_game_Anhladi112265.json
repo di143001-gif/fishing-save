@@ -2,11 +2,11 @@
   "playerData": {
     "level": 5,
     "exp": 145,
-    "coins": 3322,
+    "coins": 4122,
     "gems": 0,
-    "health": 29,
+    "health": 30,
     "maxHealth": 140,
-    "points": 260,
+    "points": 300,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -93,7 +93,7 @@
         "id": 6,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 920400,
         "type": "crafted",
@@ -109,7 +109,7 @@
         "id": 7,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 673800.0000000001,
         "type": "crafted",
@@ -125,7 +125,7 @@
         "id": 8,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 1148400,
         "type": "crafted",
@@ -141,7 +141,7 @@
         "id": 9,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 1086000,
         "type": "crafted",
@@ -157,7 +157,7 @@
         "id": 10,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 665400,
         "type": "crafted",
@@ -274,11 +274,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 1",
+    "currentChannel": "Kênh 2",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763789558758,
+    "lastHpRegen": 1763789619198,
     "activeEvents": [
       "luckyDay"
     ],
@@ -286,7 +286,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763789609771,
+  "timestamp": 1763789628766,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
