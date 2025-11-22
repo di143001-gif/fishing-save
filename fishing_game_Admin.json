@@ -86,7 +86,7 @@
     },
     "materials": {
       "bamboo": 3,
-      "metal": 11,
+      "metal": 1,
       "spiderweb": 1
     },
     "craftedItems": {
@@ -96,6 +96,12 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763829388233
+        },
+        {
+          "id": "id_1763829394468_4rilmgucc",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763829394468
         }
       ],
       "rods": [
@@ -217,7 +223,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829393527,
+  "timestamp": 1763829394972,
   "version": "3.0-cloud",
   "user": "Admin"
 }
