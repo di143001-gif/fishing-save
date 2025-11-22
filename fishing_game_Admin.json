@@ -1,6 +1,6 @@
 {
   "playerData": {
-    "level": 1,
+    "level": 10,
     "exp": 0,
     "coins": 1500,
     "gems": 0,
@@ -37,9 +37,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
-      "metal": 3,
-      "spiderweb": 2
+      "bamboo": 1000,
+      "metal": 1000,
+      "spiderweb": 1000
     },
     "craftedItems": {
       "hooks": [],
@@ -60,7 +60,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763825256210,
+  "timestamp": 1763825298020,
   "version": "3.0-cloud",
   "user": "Admin"
 }
