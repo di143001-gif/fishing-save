@@ -1,10 +1,10 @@
 {
   "playerData": {
-    "level": 10,
+    "level": 1,
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 50,
+    "health": 51,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -37,9 +37,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 1000,
-      "metal": 1000,
-      "spiderweb": 1000
+      "bamboo": 0,
+      "metal": 3,
+      "spiderweb": 2
     },
     "craftedItems": {
       "hooks": [],
@@ -52,15 +52,13 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763825205313,
-    "activeEvents": [
-      "doubleExp"
-    ],
+    "lastHpRegen": 1763825266211,
+    "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763825298020,
+  "timestamp": 1763825312244,
   "version": "3.0-cloud",
   "user": "Admin"
 }
