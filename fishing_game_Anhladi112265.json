@@ -4,7 +4,7 @@
     "exp": 145,
     "coins": 2522,
     "gems": 0,
-    "health": 25,
+    "health": 26,
     "maxHealth": 140,
     "points": 220,
     "fishInventory": [],
@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 771599.9999999999,
         "type": "crafted",
@@ -29,7 +29,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 913800.0000000001,
         "type": "crafted",
@@ -45,7 +45,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 949200,
         "type": "crafted",
@@ -274,11 +274,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "events-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
-    "currentChannel": "Kênh 2",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763789316769,
+    "lastHpRegen": 1763789376769,
     "activeEvents": [
       "luckyDay"
     ],
@@ -286,7 +286,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763789367270,
+  "timestamp": 1763789377106,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
