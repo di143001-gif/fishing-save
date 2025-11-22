@@ -123,7 +123,7 @@
       "dailyEarnings": 609
     },
     "materials": {
-      "bamboo": 21,
+      "bamboo": 1,
       "metal": 0,
       "spiderweb": 20
     },
@@ -148,7 +148,20 @@
           "createdAt": 1763829564417
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763829565006_62htjuwu2",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763829565006
+        },
+        {
+          "id": "id_1763829565151_flbvby9te",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763829565151
+        }
+      ],
       "lines": [
         {
           "id": "id_1763829393023_jkjvew3m3",
@@ -254,7 +267,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829564732,
+  "timestamp": 1763829565657,
   "version": "3.0-cloud",
   "user": "Admin"
 }
