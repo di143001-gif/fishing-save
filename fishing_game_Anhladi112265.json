@@ -149,8 +149,8 @@
       "dailyEarnings": 2122
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 10,
+      "bamboo": 0,
+      "metal": 0,
       "spiderweb": 20
     },
     "craftedItems": {
@@ -160,9 +160,28 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763789301888
+        },
+        {
+          "id": "id_1763789302669_4dmkqkr62",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763789302669
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763789303285_ibj0rqf3m",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763789303285
+        },
+        {
+          "id": "id_1763789303700_lq19huum2",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763789303701
+        }
+      ],
       "lines": []
     },
     "achievements": {
@@ -261,7 +280,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763789302395,
+  "timestamp": 1763789304204,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
