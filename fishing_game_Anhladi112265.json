@@ -56,6 +56,22 @@
           "timeBonus": 5.82
         },
         "craftedId": "id_1763768133939_0aywqiyjj"
+      },
+      {
+        "id": 4,
+        "name": "Cần Tre Thượng Hạng",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "epic",
+        "maxFishingTime": 1200000,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 5,
+          "expBonus": 20,
+          "timeBonus": 10
+        },
+        "craftedId": "id_1763784446460_i5gh2j7hh"
       }
     ],
     "itemsInventory": [],
@@ -74,30 +90,9 @@
       "spiderweb": 1
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763784443864_xzf5ioy2e",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763784443864
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763784444131_sclmzcg68",
-          "type": "rod",
-          "quality": "premium",
-          "createdAt": 1763784444131
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763784444541_xedp3yfsg",
-          "type": "line",
-          "quality": "premium",
-          "createdAt": 1763784444541
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "achievements": {
       "firstCatch": {
@@ -193,7 +188,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763784445043,
+  "timestamp": 1763784446964,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
