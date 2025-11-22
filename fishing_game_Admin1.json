@@ -4,7 +4,7 @@
     "exp": 79,
     "coins": 1500,
     "gems": 0,
-    "health": 34,
+    "health": 35,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -21,7 +21,7 @@
         "id": 1,
         "name": "Cần Tre Thần Kỳ",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "legendary",
         "maxFishingTime": 916199.9999999999,
         "type": "crafted",
@@ -57,16 +57,18 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763854719472,
-    "activeEvents": [],
+    "lastHpRegen": 1763854780385,
+    "activeEvents": [
+      "doubleExp"
+    ],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763854777995,
+  "timestamp": 1763854797886,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
