@@ -287,7 +287,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 2",
     "lastFishingTime": 0,
@@ -299,7 +299,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829696409,
+  "timestamp": 1763829721085,
   "version": "3.0-cloud",
   "user": "Admin"
 }
