@@ -211,8 +211,8 @@
         "id": 1,
         "status": "Đang câu",
         "rodId": 2,
-        "startTime": 1763770006211,
-        "endTime": 1763770920011,
+        "startTime": 1763770897393,
+        "endTime": 1763771811193,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -221,8 +221,8 @@
         "id": 2,
         "status": "Đang câu",
         "rodId": 3,
-        "startTime": 1763770073508,
-        "endTime": 1763771022708,
+        "startTime": 1763770898242,
+        "endTime": 1763771847442,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -299,7 +299,7 @@
       }
     ]
   },
-  "timestamp": 1763770897062,
+  "timestamp": 1763770898601,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
