@@ -85,14 +85,41 @@
       "dailyEarnings": 609
     },
     "materials": {
-      "bamboo": 13,
-      "metal": 21,
-      "spiderweb": 21
+      "bamboo": 3,
+      "metal": 11,
+      "spiderweb": 1
     },
     "craftedItems": {
-      "hooks": [],
-      "rods": [],
-      "lines": []
+      "hooks": [
+        {
+          "id": "id_1763829388233_02kjaxdfq",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763829388233
+        }
+      ],
+      "rods": [
+        {
+          "id": "id_1763829388932_anpqm0p7a",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763829388932
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763829390138_e817y3nsv",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763829390138
+        },
+        {
+          "id": "id_1763829393023_jkjvew3m3",
+          "type": "line",
+          "quality": "premium",
+          "createdAt": 1763829393023
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -190,7 +217,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829387925,
+  "timestamp": 1763829393527,
   "version": "3.0-cloud",
   "user": "Admin"
 }
