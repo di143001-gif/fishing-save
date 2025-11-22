@@ -2,11 +2,11 @@
   "playerData": {
     "level": 5,
     "exp": 269,
-    "coins": 5722,
+    "coins": 6522,
     "gems": 0,
     "health": 140,
     "maxHealth": 140,
-    "points": 380,
+    "points": 420,
     "fishInventory": [
       {
         "name": "Cá Lóc",
@@ -301,7 +301,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763799383030,
+  "timestamp": 1763799422436,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
