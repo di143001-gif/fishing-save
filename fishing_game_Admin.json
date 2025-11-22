@@ -168,22 +168,6 @@
         "craftedId": "id_1763829567378_ocjbjqf1e"
       },
       {
-        "id": 9,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 697800,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 0.53,
-          "expBonus": 17.19,
-          "timeBonus": 1.63
-        },
-        "craftedId": "id_1763829671009_xztic5ixf"
-      },
-      {
         "id": 10,
         "name": "Cần Tre Tự Chế",
         "level": 0,
@@ -214,22 +198,6 @@
           "timeBonus": 3.9
         },
         "craftedId": "id_1763830359430_xphbpsmxc"
-      },
-      {
-        "id": 12,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1026000,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 2.96,
-          "expBonus": 2.47,
-          "timeBonus": 7.1
-        },
-        "craftedId": "id_1763851492699_rbfi06uja"
       },
       {
         "id": 13,
@@ -384,7 +352,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763852668833,
+  "timestamp": 1763852673600,
   "version": "3.0-cloud",
   "user": "Admin"
 }
