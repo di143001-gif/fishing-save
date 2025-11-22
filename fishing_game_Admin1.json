@@ -28,7 +28,7 @@
         "id": 1,
         "name": "Cần Tre Thần Kỳ",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "legendary",
         "maxFishingTime": 916199.9999999999,
         "type": "crafted",
@@ -75,7 +75,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763854924169,
+  "timestamp": 1763854926442,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
