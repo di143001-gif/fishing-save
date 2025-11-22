@@ -2,34 +2,12 @@
   "playerData": {
     "level": 3,
     "exp": 151,
-    "coins": 3026,
+    "coins": 3330,
     "gems": 0,
-    "health": 21,
+    "health": 22,
     "maxHealth": 120,
     "points": 60,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.53,
-        "exp": 26,
-        "value": 79,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.5,
-        "exp": 85,
-        "value": 150,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.75,
-        "exp": 37,
-        "value": 75,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -101,10 +79,10 @@
     "statistics": {
       "totalFishCaught": 7,
       "biggestFish": 1.57,
-      "totalEarnings": 626,
+      "totalEarnings": 930,
       "playTime": 0,
       "dailyFishCaught": 7,
-      "dailyEarnings": 626
+      "dailyEarnings": 930
     },
     "materials": {
       "bamboo": 0,
@@ -200,11 +178,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763771366316,
+    "lastHpRegen": 1763771429445,
     "activeEvents": [],
     "achievements": [],
     "dailyRewards": {},
@@ -221,13 +199,19 @@
       },
       {
         "id": 1,
-        "status": "Đang câu",
+        "status": "Cá dính câu!",
         "rodId": 3,
         "startTime": 1763771370570,
         "endTime": 1763772319770,
         "checkInterval": null,
         "finishTimeout": null,
-        "fishCaught": null
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 1.94,
+          "exp": 98,
+          "value": 194,
+          "rarity": "rare"
+        }
       },
       {
         "id": 2,
@@ -317,7 +301,7 @@
       }
     ]
   },
-  "timestamp": 1763771379805,
+  "timestamp": 1763771470624,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
