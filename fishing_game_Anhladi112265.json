@@ -2,11 +2,11 @@
   "playerData": {
     "level": 3,
     "exp": 151,
-    "coins": 3330,
+    "coins": 3630,
     "gems": 0,
     "health": 105,
     "maxHealth": 120,
-    "points": 60,
+    "points": 80,
     "fishInventory": [],
     "rodsInventory": [
       {
@@ -194,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "character-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -232,80 +232,10 @@
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
-      },
-      {
-        "id": 3,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 4,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 5,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 6,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 7,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 8,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
-      },
-      {
-        "id": 9,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
-        "checkInterval": null,
-        "finishTimeout": null,
-        "fishCaught": null
       }
     ]
   },
-  "timestamp": 1763780100870,
+  "timestamp": 1763780111314,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
