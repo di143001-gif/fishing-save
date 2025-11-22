@@ -206,6 +206,38 @@
           "timeBonus": 3.9
         },
         "craftedId": "id_1763830359430_xphbpsmxc"
+      },
+      {
+        "id": 12,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1026000,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 2.96,
+          "expBonus": 2.47,
+          "timeBonus": 7.1
+        },
+        "craftedId": "id_1763851492699_rbfi06uja"
+      },
+      {
+        "id": 13,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 955800,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 3.49,
+          "expBonus": 5.41,
+          "timeBonus": 5.93
+        },
+        "craftedId": "id_1763851493211_dpnqd2zaj"
       }
     ],
     "itemsInventory": [],
@@ -221,22 +253,10 @@
     "materials": {
       "bamboo": 0,
       "metal": 4,
-      "spiderweb": 11
+      "spiderweb": 1
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763830356784_0l8o6335g",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763830356784
-        },
-        {
-          "id": "id_1763851487515_4flzho8ev",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763851487515
-        },
         {
           "id": "id_1763851487835_c71ky5fya",
           "type": "hook",
@@ -244,38 +264,19 @@
           "createdAt": 1763851487835
         }
       ],
-      "rods": [
-        {
-          "id": "id_1763851489498_g44m83gj5",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763851489498
-        },
-        {
-          "id": "id_1763851489691_oiffzcci5",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763851489691
-        }
-      ],
+      "rods": [],
       "lines": [
-        {
-          "id": "id_1763830358303_3hqfvgph8",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763830358303
-        },
-        {
-          "id": "id_1763851490776_gdpwljte7",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763851490776
-        },
         {
           "id": "id_1763851490949_dpviiuhlr",
           "type": "line",
           "quality": "normal",
           "createdAt": 1763851490949
+        },
+        {
+          "id": "id_1763851491493_lepnv9v69",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763851491493
         }
       ]
     },
@@ -373,7 +374,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763851491283,
+  "timestamp": 1763851493716,
   "version": "3.0-cloud",
   "user": "Admin"
 }
