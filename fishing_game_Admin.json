@@ -4,7 +4,7 @@
     "exp": 63,
     "coins": 3745,
     "gems": 0,
-    "health": 21,
+    "health": 22,
     "maxHealth": 140,
     "points": 60,
     "fishInventory": [],
@@ -120,6 +120,38 @@
           "timeBonus": 5.2
         },
         "craftedId": "id_1763829567596_8a6s8cldc"
+      },
+      {
+        "id": 8,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1090200,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 2.86,
+          "expBonus": 12.97,
+          "timeBonus": 8.17
+        },
+        "craftedId": "id_1763829670532_im7x9fiu0"
+      },
+      {
+        "id": 9,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 697800,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 0.53,
+          "expBonus": 17.19,
+          "timeBonus": 1.63
+        },
+        "craftedId": "id_1763829671009_xztic5ixf"
       }
     ],
     "itemsInventory": [],
@@ -135,22 +167,10 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 20
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763829564417_2hmykg6qt",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763829564417
-        },
-        {
-          "id": "id_1763829666161_9ytt5m72r",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763829666161
-        },
         {
           "id": "id_1763829666328_6ojf1pgio",
           "type": "hook",
@@ -158,26 +178,13 @@
           "createdAt": 1763829666328
         }
       ],
-      "rods": [
-        {
-          "id": "id_1763829667069_d2lie5mvn",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763829667069
-        },
-        {
-          "id": "id_1763829667210_6i4uyqi3b",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763829667210
-        }
-      ],
+      "rods": [],
       "lines": [
         {
-          "id": "id_1763829566196_hekm575pa",
+          "id": "id_1763829669062_x2xtpdphz",
           "type": "line",
           "quality": "normal",
-          "createdAt": 1763829566196
+          "createdAt": 1763829669062
         }
       ]
     },
@@ -269,7 +276,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763829609585,
+    "lastHpRegen": 1763829669585,
     "activeEvents": [
       "doubleExp"
     ],
@@ -277,7 +284,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829667573,
+  "timestamp": 1763829671514,
   "version": "3.0-cloud",
   "user": "Admin"
 }
