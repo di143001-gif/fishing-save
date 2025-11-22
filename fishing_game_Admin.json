@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 47,
+    "health": 50,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -52,7 +52,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763824986461,
+    "lastHpRegen": 1763825205313,
     "activeEvents": [
       "doubleExp"
     ],
@@ -60,7 +60,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763825038025,
+  "timestamp": 1763825205814,
   "version": "3.0-cloud",
   "user": "Admin"
 }
