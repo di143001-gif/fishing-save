@@ -8,7 +8,25 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre Thần Kỳ",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "legendary",
+        "maxFishingTime": 916199.9999999999,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 80.91,
+          "expBonus": 11.77,
+          "timeBonus": 5.27,
+          "special": true
+        },
+        "craftedId": "id_1763854612568_nn4sjde89"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -25,30 +43,9 @@
       "spiderweb": 1
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763854604982_0e0xjr8jm",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763854604982
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763854607175_32g68vtx1",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763854607175
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763854608979_vniglmfv8",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763854608979
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     }
   },
   "gameState": {
@@ -61,7 +58,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763854609482,
+  "timestamp": 1763854613070,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
