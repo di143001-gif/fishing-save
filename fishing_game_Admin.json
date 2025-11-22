@@ -214,6 +214,22 @@
           "timeBonus": 5.93
         },
         "craftedId": "id_1763851493211_dpnqd2zaj"
+      },
+      {
+        "id": 9,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 677400,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 2.69,
+          "expBonus": 16.52,
+          "timeBonus": 1.29
+        },
+        "craftedId": "id_1763852745933_yyzcikggy"
       }
     ],
     "itemsInventory": [],
@@ -227,18 +243,12 @@
       "dailyEarnings": 3320
     },
     "materials": {
-      "bamboo": 20,
+      "bamboo": 0,
       "metal": 3,
-      "spiderweb": 30
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763851487835_c71ky5fya",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763851487835
-        },
         {
           "id": "id_1763852741698_62d3tsmxj",
           "type": "hook",
@@ -258,19 +268,38 @@
           "createdAt": 1763852742475
         }
       ],
-      "rods": [],
-      "lines": [
+      "rods": [
         {
-          "id": "id_1763851490949_dpviiuhlr",
-          "type": "line",
+          "id": "id_1763852743150_26udbafhv",
+          "type": "rod",
           "quality": "normal",
-          "createdAt": 1763851490949
-        },
+          "createdAt": 1763852743150
+        }
+      ],
+      "lines": [
         {
           "id": "id_1763851491493_lepnv9v69",
           "type": "line",
           "quality": "normal",
           "createdAt": 1763851491493
+        },
+        {
+          "id": "id_1763852744054_2r9jkuabe",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763852744054
+        },
+        {
+          "id": "id_1763852744227_5xn6v9av4",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763852744227
+        },
+        {
+          "id": "id_1763852744415_5agrbok9z",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763852744415
         }
       ]
     },
@@ -368,7 +397,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763852742572,
+  "timestamp": 1763852745978,
   "version": "3.0-cloud",
   "user": "Admin"
 }
