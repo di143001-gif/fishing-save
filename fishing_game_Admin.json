@@ -4,27 +4,11 @@
     "exp": 1059,
     "coins": 5961,
     "gems": 0,
-    "health": 27,
+    "health": 28,
     "maxHealth": 160,
     "points": 140,
     "fishInventory": [],
     "rodsInventory": [
-      {
-        "id": 11,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 834000,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 4.72,
-          "expBonus": 2.45,
-          "timeBonus": 3.9
-        },
-        "craftedId": "id_1763830359430_xphbpsmxc"
-      },
       {
         "id": 13,
         "name": "Cần Tre Tự Chế",
@@ -182,13 +166,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763854473544,
+    "lastHpRegen": 1763854533584,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763854528866,
+  "timestamp": 1763854534087,
   "version": "3.0-cloud",
   "user": "Admin"
 }
