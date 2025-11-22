@@ -10,38 +10,6 @@
     "fishInventory": [],
     "rodsInventory": [
       {
-        "id": 6,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 977400,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 3.59,
-          "expBonus": 6.49,
-          "timeBonus": 6.29
-        },
-        "craftedId": "id_1763829567378_ocjbjqf1e"
-      },
-      {
-        "id": 10,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1116600,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 4.06,
-          "expBonus": 12.11,
-          "timeBonus": 8.61
-        },
-        "craftedId": "id_1763830322504_21lcfbsj2"
-      },
-      {
         "id": 11,
         "name": "Cần Tre Tự Chế",
         "level": 0,
@@ -72,22 +40,6 @@
           "timeBonus": 5.93
         },
         "craftedId": "id_1763851493211_dpnqd2zaj"
-      },
-      {
-        "id": 10,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 682800,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 3.93,
-          "expBonus": 19.61,
-          "timeBonus": 1.38
-        },
-        "craftedId": "id_1763852746175_s9se6b5ev"
       }
     ],
     "itemsInventory": [],
@@ -236,7 +188,7 @@
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763854525579,
+  "timestamp": 1763854528866,
   "version": "3.0-cloud",
   "user": "Admin"
 }
