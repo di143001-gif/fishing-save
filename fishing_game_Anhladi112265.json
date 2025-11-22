@@ -141,7 +141,7 @@
         "id": 9,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 1086000,
         "type": "crafted",
@@ -157,7 +157,7 @@
         "id": 10,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 2",
         "rarity": "uncommon",
         "maxFishingTime": 665400,
         "type": "crafted",
@@ -274,7 +274,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 2",
     "lastFishingTime": 0,
@@ -286,7 +286,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763789381155,
+  "timestamp": 1763789397269,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
