@@ -4,7 +4,7 @@
     "exp": 151,
     "coins": 3630,
     "gems": 0,
-    "health": 107,
+    "health": 103,
     "maxHealth": 120,
     "points": 80,
     "fishInventory": [],
@@ -69,7 +69,7 @@
       "dailyEarnings": 930
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 3,
       "metal": 0,
       "spiderweb": 0
     },
@@ -162,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -203,7 +203,7 @@
       }
     ]
   },
-  "timestamp": 1763780228451,
+  "timestamp": 1763780233245,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
