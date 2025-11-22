@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 906000,
         "type": "crafted",
@@ -29,7 +29,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 698400.0000000001,
         "type": "crafted",
@@ -56,6 +56,22 @@
           "timeBonus": 8.57
         },
         "craftedId": "id_1763828466137_47przguwv"
+      },
+      {
+        "id": 4,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 909600,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 3.04,
+          "expBonus": 9.93,
+          "timeBonus": 5.16
+        },
+        "craftedId": "id_1763828466663_a7o67t775"
       }
     ],
     "itemsInventory": [],
@@ -74,30 +90,9 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763828464669_1xhxzgy94",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763828464669
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763828462977_blwa0qcba",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763828462977
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763828463588_bar4ju3yq",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763828463588
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "achievements": {
       "firstCatch": {
@@ -183,7 +178,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -193,7 +188,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763828466640,
+  "timestamp": 1763828482082,
   "version": "3.0-cloud",
   "user": "Admin"
 }
