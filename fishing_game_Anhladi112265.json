@@ -45,7 +45,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 949200,
         "type": "crafted",
@@ -194,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -225,17 +225,17 @@
       },
       {
         "id": 2,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 3,
+        "startTime": 1763780118916,
+        "endTime": 1763781068116,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       }
     ]
   },
-  "timestamp": 1763780118679,
+  "timestamp": 1763780131861,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
