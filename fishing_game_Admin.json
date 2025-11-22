@@ -53,14 +53,47 @@
       "dailyEarnings": 388
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 20,
-      "spiderweb": 20
+      "bamboo": 0,
+      "metal": 10,
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [],
-      "rods": [],
-      "lines": []
+      "hooks": [
+        {
+          "id": "id_1763828460595_ct4dtm09y",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763828460596
+        }
+      ],
+      "rods": [
+        {
+          "id": "id_1763828461076_uk1w81rzt",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763828461076
+        },
+        {
+          "id": "id_1763828462977_blwa0qcba",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763828462977
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763828461562_mgzca54dp",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763828461562
+        },
+        {
+          "id": "id_1763828463588_bar4ju3yq",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763828463588
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -146,7 +179,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -156,7 +189,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763828459508,
+  "timestamp": 1763828464091,
   "version": "3.0-cloud",
   "user": "Admin"
 }
