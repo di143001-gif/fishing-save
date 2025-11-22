@@ -2,55 +2,12 @@
   "playerData": {
     "level": 5,
     "exp": 63,
-    "coins": 3209,
+    "coins": 3745,
     "gems": 0,
     "health": 140,
     "maxHealth": 140,
     "points": 60,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.36,
-        "exp": 38,
-        "value": 36,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.58,
-        "exp": 172,
-        "value": 158,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.94,
-        "exp": 226,
-        "value": 194,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.85,
-        "exp": 98,
-        "value": 85,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.4,
-        "exp": 42,
-        "value": 40,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.23,
-        "exp": 24,
-        "value": 23,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -170,10 +127,10 @@
     "statistics": {
       "totalFishCaught": 11,
       "biggestFish": 1.94,
-      "totalEarnings": 609,
+      "totalEarnings": 1145,
       "playTime": 0,
       "dailyFishCaught": 11,
-      "dailyEarnings": 609
+      "dailyEarnings": 1145
     },
     "materials": {
       "bamboo": 1,
@@ -283,11 +240,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763829548775,
+    "lastHpRegen": 1763829609585,
     "activeEvents": [
       "doubleExp"
     ],
@@ -295,7 +252,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763829601451,
+  "timestamp": 1763829613728,
   "version": "3.0-cloud",
   "user": "Admin"
 }
