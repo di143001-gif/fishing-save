@@ -45,7 +45,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 949200,
         "type": "crafted",
@@ -61,7 +61,7 @@
         "id": 4,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu",
         "rarity": "uncommon",
         "maxFishingTime": 671400,
         "type": "crafted",
@@ -209,20 +209,20 @@
       },
       {
         "id": 2,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 3,
+        "startTime": 1763770006817,
+        "endTime": 1763770956017,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
       },
       {
         "id": 3,
-        "status": "Trống",
-        "rodId": null,
-        "startTime": 0,
-        "endTime": 0,
+        "status": "Đang câu",
+        "rodId": 4,
+        "startTime": 1763770012433,
+        "endTime": 1763770683833,
         "checkInterval": null,
         "finishTimeout": null,
         "fishCaught": null
@@ -289,7 +289,7 @@
       }
     ]
   },
-  "timestamp": 1763770006716,
+  "timestamp": 1763770012936,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
