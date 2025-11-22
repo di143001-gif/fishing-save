@@ -1,5 +1,23 @@
 {
-  "active_events": {},
+  "active_events": {
+    "cu_i_tu_n_1763825747946": {
+      "name": "Cuối tuần",
+      "type": "multiplier",
+      "description": "Chúc bạn chơi game vui vẻ",
+      "start_time": "2025-11-22T15:35:00.000Z",
+      "end_time": "2025-11-23T15:35:00.000Z",
+      "config": {
+        "exp_multiplier": 5,
+        "coins_multiplier": 5,
+        "catch_multiplier": 3
+      },
+      "id": "cu_i_tu_n_1763825747946",
+      "created_at": "2025-11-22T15:35:47.946Z",
+      "created_by": "admin",
+      "participants": 0,
+      "total_impact": 0
+    }
+  },
   "server_settings": {
     "base_catch_rate": 0.15,
     "golden_fish_rate": 0.05,
