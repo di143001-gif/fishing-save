@@ -1,13 +1,21 @@
 {
   "playerData": {
-    "level": 3,
-    "exp": 151,
+    "level": 4,
+    "exp": 2,
     "coins": 4230,
     "gems": 0,
-    "health": 62,
-    "maxHealth": 120,
+    "health": 130,
+    "maxHealth": 130,
     "points": 120,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.39,
+        "exp": 76,
+        "value": 139,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -61,7 +69,7 @@
         "id": 4,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 671400,
         "type": "crafted",
@@ -109,11 +117,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 7,
+      "totalFishCaught": 8,
       "biggestFish": 1.57,
       "totalEarnings": 930,
       "playTime": 0,
-      "dailyFishCaught": 7,
+      "dailyFishCaught": 8,
       "dailyEarnings": 930
     },
     "materials": {
@@ -220,7 +228,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763788160487,
+  "timestamp": 1763788164526,
   "version": "3.0-cloud",
   "user": "Anhladi112265"
 }
