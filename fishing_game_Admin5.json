@@ -4,7 +4,7 @@
     "exp": 1823,
     "coins": 2339,
     "gems": 0,
-    "health": 53,
+    "health": 62,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -35,7 +35,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1205400,
         "type": "crafted",
@@ -52,7 +52,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 865800,
         "type": "crafted",
@@ -69,7 +69,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1077000,
         "type": "crafted",
@@ -86,7 +86,7 @@
         "id": "id_1763892548860_1l9xi46g8",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1065000,
         "type": "crafted",
@@ -103,7 +103,7 @@
         "id": "id_1763892549276_0ztq8g4uf",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1050000,
         "type": "crafted",
@@ -120,7 +120,7 @@
         "id": "id_1763892549764_0yoiq4oy3",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 678000,
         "type": "crafted",
@@ -245,11 +245,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-location",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763894649470,
+    "lastHpRegen": 1763895204190,
     "activeEvents": [
       "luckyDay"
     ],
@@ -257,9 +257,10 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "eventStartTimes": {},
+    "mail": [],
     "achievements": []
   },
-  "timestamp": 1763894679970,
+  "timestamp": 1763895206994,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
