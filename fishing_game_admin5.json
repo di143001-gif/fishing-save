@@ -20,9 +20,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 20,
+      "bamboo": 10,
       "metal": 2,
-      "spiderweb": 14
+      "spiderweb": 4
     },
     "craftedItems": {
       "hooks": [
@@ -33,8 +33,22 @@
           "createdAt": 1763884007675
         }
       ],
-      "rods": [],
-      "lines": []
+      "rods": [
+        {
+          "id": "id_1763884008972_2th0wc9cg",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763884008972
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763884010123_72tu8lbir",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763884010123
+        }
+      ]
     }
   },
   "gameState": {
@@ -48,7 +62,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884008189,
+  "timestamp": 1763884010626,
   "version": "3.0-cloud",
   "user": "admin5"
 }
