@@ -145,9 +145,9 @@
       "dailyEarnings": 14339
     },
     "materials": {
-      "bamboo": 10,
+      "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -158,8 +158,22 @@
           "createdAt": 1763897485959
         }
       ],
-      "rods": [],
-      "lines": []
+      "rods": [
+        {
+          "id": "id_1763897486711_db7ojpf3f",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763897486711
+        }
+      ],
+      "lines": [
+        {
+          "id": "id_1763897487558_jd1sjegyf",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763897487558
+        }
+      ]
     },
     "garden": {
       "treeLevel": 4,
@@ -267,7 +281,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763897486464,
+  "timestamp": 1763897488061,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
