@@ -50,9 +50,9 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentScreen": "fishing-screen",
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763901607340,
     "activeEvents": [
@@ -60,13 +60,13 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "eventStartTimes": {
       "luckyDay": 1763901555945
     },
     "mail": []
   },
-  "timestamp": 1763901607853,
+  "timestamp": 1763901616442,
   "version": "3.0-cloud",
   "user": "Admin"
 }
