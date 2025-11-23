@@ -13,7 +13,7 @@
         "id": "id_1763897489449_qtb2mznm2",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 998400.0000000001,
         "type": "crafted",
@@ -186,7 +186,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763901447475,
+  "timestamp": 1763901464592,
   "version": "3.0-cloud",
   "user": "Admin"
 }
