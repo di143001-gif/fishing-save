@@ -4,7 +4,7 @@
     "exp": 1823,
     "coins": 2339,
     "gems": 0,
-    "health": 32,
+    "health": 37,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -150,6 +150,28 @@
         },
         "specialStat": null,
         "craftedId": "id_1763897489449_9cc7d1hrd"
+      },
+      {
+        "id": "id_1763897489449_qtb2mznm2",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 998400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin5",
+        "stats": {
+          "successRate": 1.06,
+          "expBonus": 3.05,
+          "timeBonus": 6.64
+        },
+        "specialStat": null,
+        "craftedId": "id_1763897489449_9cc7d1hrd",
+        "borrowed": false,
+        "borrowedFrom": null,
+        "borrowTime": null,
+        "returnTime": null
       }
     ],
     "itemsInventory": [],
@@ -263,11 +285,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mail-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763897465949,
+    "lastHpRegen": 1763897799147,
     "activeEvents": [
       "luckyDay"
     ],
@@ -275,42 +297,10 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "eventStartTimes": {},
-    "mail": [
-      {
-        "id": "id_1763897781646_ok4xalkdc",
-        "type": "rod_return",
-        "from": "Admin",
-        "to": "Admin5",
-        "rod": {
-          "id": "id_1763897489449_qtb2mznm2",
-          "name": "Cần Tre Tự Chế",
-          "level": 0,
-          "status": "Trống",
-          "rarity": "uncommon",
-          "maxFishingTime": 998400.0000000001,
-          "type": "crafted",
-          "crafted": true,
-          "craftedBy": "Admin5",
-          "stats": {
-            "successRate": 1.06,
-            "expBonus": 3.05,
-            "timeBonus": 6.64
-          },
-          "specialStat": null,
-          "craftedId": "id_1763897489449_9cc7d1hrd",
-          "borrowed": true,
-          "borrowedFrom": "Admin5",
-          "borrowTime": 1763897537566,
-          "returnTime": 1763983907004
-        },
-        "sentTime": 1763897781646,
-        "status": "returned",
-        "read": false
-      }
-    ],
+    "mail": [],
     "achievements": []
   },
-  "timestamp": 1763897798381,
+  "timestamp": 1763897805352,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
