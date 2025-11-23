@@ -4,7 +4,7 @@
     "exp": 1515,
     "coins": 2339,
     "gems": 0,
-    "health": 125,
+    "health": 108,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [],
@@ -73,7 +73,7 @@
     },
     "materials": {
       "bamboo": 20,
-      "metal": 13,
+      "metal": 20,
       "spiderweb": 0
     },
     "craftedItems": {
@@ -186,7 +186,7 @@
     "eventStartTimes": {},
     "achievements": []
   },
-  "timestamp": 1763892508414,
+  "timestamp": 1763892512162,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
