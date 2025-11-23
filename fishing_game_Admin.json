@@ -2,7 +2,7 @@
   "playerData": {
     "level": 7,
     "exp": 1059,
-    "coins": 5961,
+    "coins": 961,
     "gems": 0,
     "health": 1,
     "maxHealth": 160,
@@ -12,16 +12,16 @@
       {
         "id": 1,
         "name": "Cần Tre Tự Chế",
-        "level": 0,
+        "level": 1,
         "status": "Trống",
         "rarity": "uncommon",
-        "maxFishingTime": 1038000,
+        "maxFishingTime": 1081800.0000000002,
         "type": "crafted",
         "crafted": true,
         "stats": {
-          "successRate": 0.19,
-          "expBonus": 14.03,
-          "timeBonus": 7.3
+          "successRate": 0.21,
+          "expBonus": 15.43,
+          "timeBonus": 8.03
         },
         "craftedId": "id_1763858643258_ddds3qdld"
       }
@@ -162,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -172,7 +172,7 @@
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763859274763,
+  "timestamp": 1763859295042,
   "version": "3.0-cloud",
   "user": "Admin"
 }
