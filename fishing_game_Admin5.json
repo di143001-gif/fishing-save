@@ -59,6 +59,40 @@
           "timeBonus": 7.95
         },
         "craftedId": "id_1763888804187_sgtl9x6c4"
+      },
+      {
+        "id": "id_1763892548860_1l9xi46g8",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1065000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 4.7,
+          "expBonus": 20.21,
+          "timeBonus": 7.75
+        },
+        "craftedId": "id_1763892548860_a5kamirij"
+      },
+      {
+        "id": "id_1763892549276_0ztq8g4uf",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1050000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 3.63,
+          "expBonus": 18.61,
+          "timeBonus": 7.5
+        },
+        "craftedId": "id_1763892549276_a3wtf6cfn"
       }
     ],
     "itemsInventory": [],
@@ -74,22 +108,10 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763892537388_vww8c60on",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763892537388
-        },
-        {
-          "id": "id_1763892537524_w2y2npmnj",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763892537524
-        },
         {
           "id": "id_1763892537670_091ymd442",
           "type": "hook",
@@ -99,18 +121,6 @@
       ],
       "rods": [
         {
-          "id": "id_1763892538581_v80zxcaw9",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763892538581
-        },
-        {
-          "id": "id_1763892538780_a6arjyugo",
-          "type": "rod",
-          "quality": "premium",
-          "createdAt": 1763892538780
-        },
-        {
           "id": "id_1763892538957_j2k1qenvm",
           "type": "rod",
           "quality": "normal",
@@ -119,16 +129,10 @@
       ],
       "lines": [
         {
-          "id": "id_1763892540597_75j8gxmvd",
+          "id": "id_1763892541220_ad8a9gz4n",
           "type": "line",
           "quality": "normal",
-          "createdAt": 1763892540597
-        },
-        {
-          "id": "id_1763892541028_0jv8e88sl",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763892541028
+          "createdAt": 1763892541220
         }
       ]
     },
@@ -237,7 +241,7 @@
     "eventStartTimes": {},
     "achievements": []
   },
-  "timestamp": 1763892541099,
+  "timestamp": 1763892549370,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
