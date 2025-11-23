@@ -194,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "garden-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -207,7 +207,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888946380,
+  "timestamp": 1763888951432,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
