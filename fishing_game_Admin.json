@@ -162,7 +162,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -172,7 +172,7 @@
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763858643759,
+  "timestamp": 1763858652002,
   "version": "3.0-cloud",
   "user": "Admin"
 }
