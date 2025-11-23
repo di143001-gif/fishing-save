@@ -4,7 +4,7 @@
     "exp": 345,
     "coins": 3804,
     "gems": 0,
-    "health": 176,
+    "health": 165,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [],
@@ -191,8 +191,8 @@
       "dailyEarnings": 12304
     },
     "materials": {
-      "bamboo": 7,
-      "metal": 0,
+      "bamboo": 10,
+      "metal": 5,
       "spiderweb": 0
     },
     "craftedItems": {
@@ -354,7 +354,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887577959,
+  "timestamp": 1763887580925,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
