@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 1165,
     "gems": 0,
-    "health": 36,
+    "health": 16,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -61,20 +61,27 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 10,
-      "spiderweb": 0
+      "metal": 0,
+      "spiderweb": 10
     },
     "craftedItems": {
-      "hooks": [],
+      "hooks": [
+        {
+          "id": "id_1763888343220_pe0cyajwd",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763888343220
+        }
+      ],
       "rods": [],
       "lines": []
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 0,
+      "currentFruits": 1,
       "maxFruits": 5,
-      "lastFruitTime": 1763888310060,
-      "nextFruitTime": 1763888340060
+      "lastFruitTime": 1763888340070,
+      "nextFruitTime": 1763888370070
     },
     "achievements": {
       "firstCatch": {
@@ -160,7 +167,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -173,7 +180,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888335500,
+  "timestamp": 1763888343727,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
