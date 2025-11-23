@@ -89,7 +89,7 @@
         "id": 7,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1111800.0000000002,
         "type": "crafted",
@@ -312,7 +312,7 @@
     "selectedSlotIndex": 4,
     "achievements": []
   },
-  "timestamp": 1763886848635,
+  "timestamp": 1763886850622,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
