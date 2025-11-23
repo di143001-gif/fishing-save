@@ -2,69 +2,12 @@
   "playerData": {
     "level": 9,
     "exp": 2168,
-    "coins": 6007,
+    "coins": 7196,
     "gems": 0,
     "health": 180,
     "maxHealth": 180,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.12,
-        "exp": 66,
-        "value": 112,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.5,
-        "exp": 150,
-        "value": 250,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.51,
-        "exp": 26,
-        "value": 51,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.98,
-        "exp": 54,
-        "value": 98,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.97,
-        "exp": 53,
-        "value": 97,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.28,
-        "exp": 125,
-        "value": 227,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.19,
-        "exp": 67,
-        "value": 119,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.35,
-        "exp": 119,
-        "value": 235,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -242,10 +185,10 @@
     "statistics": {
       "totalFishCaught": 73,
       "biggestFish": 2.95,
-      "totalEarnings": 9507,
+      "totalEarnings": 10696,
       "playTime": 0,
       "dailyFishCaught": 73,
-      "dailyEarnings": 9507
+      "dailyEarnings": 10696
     },
     "materials": {
       "bamboo": 0,
@@ -341,7 +284,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -354,7 +297,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886610812,
+  "timestamp": 1763886622093,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
