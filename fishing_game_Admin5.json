@@ -281,9 +281,9 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null
+    "selectedSlotIndex": 8
   },
-  "timestamp": 1763877911869,
+  "timestamp": 1763877915706,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
