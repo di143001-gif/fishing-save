@@ -4,7 +4,7 @@
     "exp": 265,
     "coins": 2447,
     "gems": 0,
-    "health": 47,
+    "health": 42,
     "maxHealth": 170,
     "points": 0,
     "fishInventory": [],
@@ -210,7 +210,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884484282,
+  "timestamp": 1763884485810,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
