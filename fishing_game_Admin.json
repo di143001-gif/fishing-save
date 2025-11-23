@@ -20,13 +20,27 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
+      "bamboo": 0,
+      "metal": 0,
       "spiderweb": 10
     },
     "craftedItems": {
-      "hooks": [],
-      "rods": [],
+      "hooks": [
+        {
+          "id": "id_1763895368300_25g3qpz2l",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763895368300
+        }
+      ],
+      "rods": [
+        {
+          "id": "id_1763895368986_rvl9cskl0",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763895368986
+        }
+      ],
       "lines": []
     },
     "garden": {
@@ -120,7 +134,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -137,7 +151,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763895366841,
+  "timestamp": 1763895369516,
   "version": "3.0-cloud",
   "user": "Admin"
 }
