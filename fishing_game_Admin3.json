@@ -8,7 +8,25 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Đang câu - Kênh 1",
+        "rarity": "uncommon",
+        "maxFishingTime": 1057200,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 2.56,
+          "expBonus": 10.38,
+          "timeBonus": 7.62
+        },
+        "craftedId": "id_1763860030187_31kh2f34j"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -25,43 +43,22 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763860027337_lt2s9wtdn",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763860027337
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763860028063_knv12gmwo",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763860028063
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763860029104_ghix5dz2v",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763860029104
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentScreen": "fishing-screen",
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763860004401,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763860029605,
+  "timestamp": 1763860049795,
   "version": "3.0-cloud",
   "user": "Admin3"
 }
