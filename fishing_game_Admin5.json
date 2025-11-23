@@ -4,7 +4,7 @@
     "exp": 1545,
     "coins": 3753,
     "gems": 0,
-    "health": 3,
+    "health": 4,
     "maxHealth": 170,
     "points": 0,
     "fishInventory": [],
@@ -209,11 +209,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763884671866,
+    "lastHpRegen": 1763884732549,
     "activeEvents": [
       "doubleExp"
     ],
@@ -221,7 +221,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884729265,
+  "timestamp": 1763884739035,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
