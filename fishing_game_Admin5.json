@@ -62,7 +62,7 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -81,7 +81,14 @@
           "createdAt": 1763888344830
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763888346428_ze3vrl89i",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763888346428
+        }
+      ]
     },
     "garden": {
       "treeLevel": 4,
@@ -187,7 +194,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888345338,
+  "timestamp": 1763888346943,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
