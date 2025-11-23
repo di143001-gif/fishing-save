@@ -184,7 +184,7 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 20
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -227,7 +227,20 @@
           "createdAt": 1763886912822
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763886914110_qegsqan6j",
+          "type": "line",
+          "quality": "premium",
+          "createdAt": 1763886914110
+        },
+        {
+          "id": "id_1763886914294_441y34x14",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763886914294
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -313,7 +326,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -326,7 +339,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886913334,
+  "timestamp": 1763886916568,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
