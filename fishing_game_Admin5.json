@@ -192,7 +192,7 @@
     },
     "materials": {
       "bamboo": 20,
-      "metal": 20,
+      "metal": 0,
       "spiderweb": 20
     },
     "craftedItems": {
@@ -202,6 +202,18 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763877778798
+        },
+        {
+          "id": "id_1763878924640_az6jczsqh",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763878924640
+        },
+        {
+          "id": "id_1763878924861_9g59ypptf",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763878924861
         }
       ],
       "rods": [
@@ -235,7 +247,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -247,7 +259,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763878923262,
+  "timestamp": 1763878925143,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
