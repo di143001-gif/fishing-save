@@ -281,10 +281,21 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "eventStartTimes": {},
-    "mail": [],
+    "mail": [
+      {
+        "id": "id_1763901460280_sl7i6zegt",
+        "type": "rod_return",
+        "from": "Admin",
+        "to": "Admin5",
+        "originalRodId": "id_1763901355090_mxwnnrirt",
+        "sentTime": 1763901460280,
+        "status": "returned",
+        "read": false
+      }
+    ],
     "achievements": []
   },
-  "timestamp": 1763901374470,
+  "timestamp": 1763901461006,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
