@@ -132,6 +132,24 @@
           "timeBonus": 1.3
         },
         "craftedId": "id_1763892549764_79ousehk2"
+      },
+      {
+        "id": "id_1763897489449_qtb2mznm2",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 998400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin5",
+        "stats": {
+          "successRate": 1.06,
+          "expBonus": 3.05,
+          "timeBonus": 6.64
+        },
+        "specialStat": null,
+        "craftedId": "id_1763897489449_9cc7d1hrd"
       }
     ],
     "itemsInventory": [],
@@ -150,30 +168,9 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763897485959_dcwi25xzd",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763897485959
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763897486711_db7ojpf3f",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763897486711
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763897487558_jd1sjegyf",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763897487558
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "garden": {
       "treeLevel": 4,
@@ -281,7 +278,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763897488061,
+  "timestamp": 1763897489765,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
