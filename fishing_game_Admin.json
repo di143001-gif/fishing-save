@@ -8,26 +8,7 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [
-      {
-        "id": "id_1763901558921_m86oqqlqw",
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1019400.0000000001,
-        "type": "crafted",
-        "crafted": true,
-        "craftedBy": "Admin",
-        "stats": {
-          "successRate": 3.7,
-          "expBonus": 3.46,
-          "timeBonus": 6.99
-        },
-        "specialStat": null,
-        "craftedId": "id_1763901558921_k1ro89tcv"
-      }
-    ],
+    "rodsInventory": [],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -50,7 +31,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -66,7 +47,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763901712027,
+  "timestamp": 1763901722782,
   "version": "3.0-cloud",
   "user": "Admin"
 }
