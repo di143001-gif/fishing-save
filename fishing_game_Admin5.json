@@ -125,6 +125,23 @@
           "timeBonus": 4.53
         },
         "craftedId": "id_1763887892381_cmsgdoftr"
+      },
+      {
+        "id": 7,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 786599.9999999999,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 3.79,
+          "expBonus": 9.66,
+          "timeBonus": 3.11
+        },
+        "craftedId": "id_1763887894693_0p67ikwg4"
       }
     ],
     "itemsInventory": [],
@@ -145,12 +162,6 @@
     "craftedItems": {
       "hooks": [
         {
-          "id": "id_1763887646572_y2k752n6p",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763887646572
-        },
-        {
           "id": "id_1763887646716_6yoxbrazw",
           "type": "hook",
           "quality": "normal",
@@ -159,12 +170,6 @@
       ],
       "rods": [
         {
-          "id": "id_1763887647716_dccooh2j1",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763887647716
-        },
-        {
           "id": "id_1763887647861_w3wyqzwc7",
           "type": "rod",
           "quality": "normal",
@@ -172,12 +177,6 @@
         }
       ],
       "lines": [
-        {
-          "id": "id_1763887648812_p8mcbgwxi",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763887648812
-        },
         {
           "id": "id_1763887648997_hl2qci5am",
           "type": "line",
@@ -283,7 +282,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887892897,
+  "timestamp": 1763887895196,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
