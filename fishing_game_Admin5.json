@@ -38,18 +38,32 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
+      "bamboo": 0,
+      "metal": 0,
       "spiderweb": 10
     },
     "craftedItems": {
-      "hooks": [],
-      "rods": [],
+      "hooks": [
+        {
+          "id": "id_1763867154593_xtrg4e4wm",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763867154593
+        }
+      ],
+      "rods": [
+        {
+          "id": "id_1763867156835_2478pa64c",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763867156835
+        }
+      ],
       "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -58,7 +72,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763867153621,
+  "timestamp": 1763867157337,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
