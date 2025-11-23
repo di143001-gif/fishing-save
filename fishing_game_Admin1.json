@@ -25,22 +25,6 @@
     ],
     "rodsInventory": [
       {
-        "id": 2,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 865200,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 4.91,
-          "expBonus": 11.58,
-          "timeBonus": 4.42
-        },
-        "craftedId": "id_1763858506771_ear650rzs"
-      },
-      {
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
@@ -175,7 +159,7 @@
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763859928866,
+  "timestamp": 1763859931166,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
