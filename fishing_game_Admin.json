@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 34,
+    "health": 35,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -124,7 +124,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763895345604,
+    "lastHpRegen": 1763895427828,
     "activeEvents": [
       "luckyDay"
     ],
@@ -165,7 +165,7 @@
     ],
     "achievements": []
   },
-  "timestamp": 1763895388563,
+  "timestamp": 1763895446995,
   "version": "3.0-cloud",
   "user": "Admin"
 }
