@@ -4,7 +4,7 @@
     "exp": 2208,
     "coins": 7196,
     "gems": 0,
-    "health": 180,
+    "health": 176,
     "maxHealth": 180,
     "points": 0,
     "fishInventory": [
@@ -199,7 +199,7 @@
       "dailyEarnings": 10696
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 2,
       "metal": 0,
       "spiderweb": 0
     },
@@ -292,7 +292,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -305,7 +305,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886670814,
+  "timestamp": 1763886688192,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
