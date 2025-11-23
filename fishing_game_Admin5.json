@@ -64,6 +64,23 @@
           "timeBonus": 4.43
         },
         "craftedId": "id_1763888348900_3f5z754to"
+      },
+      {
+        "id": 3,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1077000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 1.7,
+          "expBonus": 19.79,
+          "timeBonus": 7.95
+        },
+        "craftedId": "id_1763888804187_sgtl9x6c4"
       }
     ],
     "itemsInventory": [],
@@ -82,30 +99,9 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763888792099_6x15za3yu",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763888792100
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763888793155_c387q0iap",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763888793155
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763888803136_y4xveoa3v",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763888803136
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "garden": {
       "treeLevel": 4,
@@ -198,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -211,7 +207,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888803639,
+  "timestamp": 1763888815850,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
