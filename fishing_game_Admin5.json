@@ -4,7 +4,7 @@
     "exp": 1063,
     "coins": 4665,
     "gems": 0,
-    "health": 24,
+    "health": 25,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -142,6 +142,23 @@
           "timeBonus": 1.35
         },
         "craftedId": "id_1763886952175_rewplfhk1"
+      },
+      {
+        "id": 8,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 783600,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 0.42,
+          "expBonus": 11.76,
+          "timeBonus": 3.06
+        },
+        "craftedId": "id_1763887849798_2qwu2bnek"
       }
     ],
     "itemsInventory": [],
@@ -161,12 +178,6 @@
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763886911029_jpl18qlfz",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763886911029
-        },
         {
           "id": "id_1763886911206_q226gepv8",
           "type": "hook",
@@ -200,12 +211,6 @@
       ],
       "rods": [
         {
-          "id": "id_1763886912631_lqskmjjex",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763886912631
-        },
-        {
           "id": "id_1763886912822_xoe3nyja9",
           "type": "rod",
           "quality": "premium",
@@ -237,12 +242,6 @@
         }
       ],
       "lines": [
-        {
-          "id": "id_1763886914294_441y34x14",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763886914294
-        },
         {
           "id": "id_1763887397766_7vh33fpuh",
           "type": "line",
@@ -359,11 +358,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763887751079,
+    "lastHpRegen": 1763887838881,
     "activeEvents": [
       "luckyDay"
     ],
@@ -372,7 +371,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887809582,
+  "timestamp": 1763887850313,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
