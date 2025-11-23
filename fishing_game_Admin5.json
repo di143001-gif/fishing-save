@@ -288,7 +288,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763886328310,
+    "lastHpRegen": 1763886388870,
     "activeEvents": [
       "luckyDay"
     ],
@@ -297,7 +297,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886371863,
+  "timestamp": 1763886401872,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
