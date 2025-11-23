@@ -8,26 +8,7 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [
-      {
-        "id": "id_1763895370972_5m4ze2vf9",
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 826199.9999999999,
-        "type": "crafted",
-        "crafted": true,
-        "craftedBy": "Admin",
-        "stats": {
-          "successRate": 4.64,
-          "expBonus": 19.96,
-          "timeBonus": 3.77
-        },
-        "specialStat": null,
-        "craftedId": "id_1763895370973_75r3vz7yy"
-      }
-    ],
+    "rodsInventory": [],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -153,10 +134,38 @@
     "eventStartTimes": {
       "luckyDay": 1763895356499
     },
-    "mail": [],
+    "mail": [
+      {
+        "id": "id_1763895388051_y3elfocc6",
+        "type": "rod_lend",
+        "from": "Admin",
+        "to": "Admin5",
+        "rod": {
+          "id": "id_1763895370972_5m4ze2vf9",
+          "name": "Cần Tre Tự Chế",
+          "level": 0,
+          "status": "Trống",
+          "rarity": "uncommon",
+          "maxFishingTime": 826199.9999999999,
+          "type": "crafted",
+          "crafted": true,
+          "craftedBy": "Admin",
+          "stats": {
+            "successRate": 4.64,
+            "expBonus": 19.96,
+            "timeBonus": 3.77
+          },
+          "specialStat": null,
+          "craftedId": "id_1763895370973_75r3vz7yy"
+        },
+        "sentTime": 1763895388051,
+        "expireTime": 1763981788051,
+        "status": "pending"
+      }
+    ],
     "achievements": []
   },
-  "timestamp": 1763895386995,
+  "timestamp": 1763895388563,
   "version": "3.0-cloud",
   "user": "Admin"
 }
