@@ -4,7 +4,7 @@
     "exp": 1823,
     "coins": 2339,
     "gems": 0,
-    "health": 4,
+    "health": 35,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -147,7 +147,7 @@
     "materials": {
       "bamboo": 10,
       "metal": 10,
-      "spiderweb": 6
+      "spiderweb": 8
     },
     "craftedItems": {
       "hooks": [],
@@ -245,11 +245,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763895411709,
+    "lastHpRegen": 1763897465949,
     "activeEvents": [
       "luckyDay"
     ],
@@ -260,7 +260,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763897465407,
+  "timestamp": 1763897483846,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
