@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 1165,
     "gems": 0,
-    "health": 117,
+    "health": 127,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -107,8 +107,8 @@
       "treeLevel": 4,
       "currentFruits": 5,
       "maxFruits": 5,
-      "lastFruitTime": 1763889096868,
-      "nextFruitTime": 1763889126868
+      "lastFruitTime": 1763889133782,
+      "nextFruitTime": 1763889163782
     },
     "achievements": {
       "firstCatch": {
@@ -194,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "garden-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -207,7 +207,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763889127864,
+  "timestamp": 1763889133953,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
