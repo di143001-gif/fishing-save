@@ -98,6 +98,40 @@
           "timeBonus": 3.7
         },
         "craftedId": "id_1763870493849_27o99znnl"
+      },
+      {
+        "id": 5,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 993000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 4.32,
+          "expBonus": 6.97,
+          "timeBonus": 6.55
+        },
+        "craftedId": "id_1763870819257_4t2cen7tf"
+      },
+      {
+        "id": 6,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1005599.9999999999,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 4.85,
+          "expBonus": 18.77,
+          "timeBonus": 6.76
+        },
+        "craftedId": "id_1763870819503_lcw9nkfv9"
       }
     ],
     "itemsInventory": [],
@@ -111,38 +145,25 @@
       "dailyEarnings": 293
     },
     "materials": {
-      "bamboo": 20,
+      "bamboo": 0,
       "metal": 0,
-      "spiderweb": 20
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763870816703_1s1492khv",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763870816703
-        },
-        {
-          "id": "id_1763870816943_mtl7nrzyj",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763870816943
-        }
-      ],
+      "hooks": [],
       "rods": [
         {
-          "id": "id_1763870490994_uah2gfyi1",
+          "id": "id_1763870817506_2vd98555x",
           "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763870490994
+          "quality": "premium",
+          "createdAt": 1763870817506
         }
       ],
       "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -154,7 +175,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763870817207,
+  "timestamp": 1763870828966,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
