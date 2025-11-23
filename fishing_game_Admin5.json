@@ -2,7 +2,7 @@
   "playerData": {
     "level": 9,
     "exp": 2350,
-    "coins": 7507,
+    "coins": 7,
     "gems": 0,
     "health": 127,
     "maxHealth": 180,
@@ -63,17 +63,17 @@
       {
         "id": 6,
         "name": "Cần Tre Tự Chế",
-        "level": 1,
+        "level": 2,
         "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
-        "maxFishingTime": 1046400.0000000001,
+        "maxFishingTime": 1090800,
         "type": "crafted",
         "crafted": true,
         "stars": 2,
         "stats": {
-          "successRate": 5.33,
-          "expBonus": 20.65,
-          "timeBonus": 7.44
+          "successRate": 5.86,
+          "expBonus": 22.71,
+          "timeBonus": 8.18
         },
         "craftedId": "id_1763870819503_lcw9nkfv9"
       },
@@ -318,7 +318,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886760813,
+  "timestamp": 1763886763912,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
