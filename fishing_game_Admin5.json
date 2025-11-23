@@ -161,6 +161,23 @@
           "timeBonus": 4.97
         },
         "craftedId": "id_1763884188892_6qjajo3as"
+      },
+      {
+        "id": 10,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1048199.9999999998,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 0.58,
+          "expBonus": 15.72,
+          "timeBonus": 7.47
+        },
+        "craftedId": "id_1763884494268_498ub3k4a"
       }
     ],
     "itemsInventory": [],
@@ -176,24 +193,11 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763884491954_ssdxwd1l6",
-          "type": "hook",
-          "quality": "premium",
-          "createdAt": 1763884491954
-        }
-      ],
+      "hooks": [],
       "rods": [
-        {
-          "id": "id_1763884397930_c6fbzpy8g",
-          "type": "rod",
-          "quality": "premium",
-          "createdAt": 1763884397930
-        },
         {
           "id": "id_1763884398071_qtyfwbqn3",
           "type": "rod",
@@ -217,7 +221,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884492462,
+  "timestamp": 1763884494771,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
