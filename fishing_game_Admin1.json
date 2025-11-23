@@ -25,23 +25,6 @@
     ],
     "rodsInventory": [
       {
-        "id": 1,
-        "name": "Cần Tre Thần Kỳ",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "legendary",
-        "maxFishingTime": 916199.9999999999,
-        "type": "crafted",
-        "crafted": true,
-        "stats": {
-          "successRate": 80.91,
-          "expBonus": 11.77,
-          "timeBonus": 5.27,
-          "special": true
-        },
-        "craftedId": "id_1763854612568_nn4sjde89"
-      },
-      {
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
@@ -185,13 +168,14 @@
     "lastFishingTime": 0,
     "lastHpRegen": 1763859920894,
     "activeEvents": [
-      "goldenFish"
+      "goldenFish",
+      "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763859921397,
+  "timestamp": 1763859928866,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
