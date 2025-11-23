@@ -83,23 +83,6 @@
         "craftedId": "id_1763888804187_sgtl9x6c4"
       },
       {
-        "id": "id_1763892549276_0ztq8g4uf",
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1050000,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 2,
-        "stats": {
-          "successRate": 3.63,
-          "expBonus": 18.61,
-          "timeBonus": 7.5
-        },
-        "craftedId": "id_1763892549276_a3wtf6cfn"
-      },
-      {
         "id": "id_1763892549764_0yoiq4oy3",
         "name": "Cần Tre Tự Chế",
         "level": 0,
@@ -283,7 +266,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763901311154,
+  "timestamp": 1763901325315,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
