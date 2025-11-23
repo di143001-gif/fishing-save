@@ -161,6 +161,23 @@
           "timeBonus": 5.8
         },
         "craftedId": "id_1763874839393_zxq8c1qce"
+      },
+      {
+        "id": 10,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1026000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 3.26,
+          "expBonus": 4.24,
+          "timeBonus": 7.1
+        },
+        "craftedId": "id_1763874840473_lnleneoky"
       }
     ],
     "itemsInventory": [],
@@ -179,21 +196,8 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763874804057_tj3lhxvz5",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763874804057
-        }
-      ],
+      "hooks": [],
       "rods": [
-        {
-          "id": "id_1763874805087_bpb7ek1xh",
-          "type": "rod",
-          "quality": "premium",
-          "createdAt": 1763874805087
-        },
         {
           "id": "id_1763874805473_u2u8lfvz4",
           "type": "rod",
@@ -201,18 +205,11 @@
           "createdAt": 1763874805473
         }
       ],
-      "lines": [
-        {
-          "id": "id_1763874807610_mjqp5rc3n",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763874807610
-        }
-      ]
+      "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -224,7 +221,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763874839896,
+  "timestamp": 1763874844477,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
