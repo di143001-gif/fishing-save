@@ -8,7 +8,26 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": "id_1763895370972_5m4ze2vf9",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 826199.9999999999,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin",
+        "stats": {
+          "successRate": 4.64,
+          "expBonus": 19.96,
+          "timeBonus": 3.77
+        },
+        "specialStat": null,
+        "craftedId": "id_1763895370973_75r3vz7yy"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -22,25 +41,11 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763895368300_25g3qpz2l",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763895368300
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763895368986_rvl9cskl0",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763895368986
-        }
-      ],
+      "hooks": [],
+      "rods": [],
       "lines": []
     },
     "garden": {
@@ -151,7 +156,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763895369516,
+  "timestamp": 1763895371481,
   "version": "3.0-cloud",
   "user": "Admin"
 }
