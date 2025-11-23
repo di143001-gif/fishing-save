@@ -72,7 +72,7 @@
       "dailyEarnings": 14339
     },
     "materials": {
-      "bamboo": 30,
+      "bamboo": 0,
       "metal": 0,
       "spiderweb": 30
     },
@@ -97,7 +97,26 @@
           "createdAt": 1763892537670
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763892538581_v80zxcaw9",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763892538581
+        },
+        {
+          "id": "id_1763892538780_a6arjyugo",
+          "type": "rod",
+          "quality": "premium",
+          "createdAt": 1763892538780
+        },
+        {
+          "id": "id_1763892538957_j2k1qenvm",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763892538957
+        }
+      ],
       "lines": []
     },
     "garden": {
@@ -205,7 +224,7 @@
     "eventStartTimes": {},
     "achievements": []
   },
-  "timestamp": 1763892537904,
+  "timestamp": 1763892539091,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
