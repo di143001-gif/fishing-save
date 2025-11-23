@@ -191,9 +191,9 @@
       "dailyEarnings": 12304
     },
     "materials": {
-      "bamboo": 32,
+      "bamboo": 2,
       "metal": 0,
-      "spiderweb": 30
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -252,6 +252,24 @@
           "type": "rod",
           "quality": "normal",
           "createdAt": 1763887395974
+        },
+        {
+          "id": "id_1763887647540_n7eylcjtn",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763887647540
+        },
+        {
+          "id": "id_1763887647716_dccooh2j1",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763887647716
+        },
+        {
+          "id": "id_1763887647861_w3wyqzwc7",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763887647861
         }
       ],
       "lines": [
@@ -272,6 +290,24 @@
           "type": "line",
           "quality": "normal",
           "createdAt": 1763887397926
+        },
+        {
+          "id": "id_1763887648629_0d8ev1ue7",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763887648629
+        },
+        {
+          "id": "id_1763887648812_p8mcbgwxi",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763887648812
+        },
+        {
+          "id": "id_1763887648997_hl2qci5am",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763887648997
         }
       ]
     },
@@ -372,7 +408,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887647078,
+  "timestamp": 1763887649144,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
