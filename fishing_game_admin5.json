@@ -8,7 +8,25 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1072200,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 4.27,
+          "expBonus": 14.66,
+          "timeBonus": 7.87
+        },
+        "craftedId": "id_1763884011883_rdg7o1sjm"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -25,30 +43,9 @@
       "spiderweb": 4
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763884007675_y2ng86v9p",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763884007675
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763884008972_2th0wc9cg",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763884008972
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763884010123_72tu8lbir",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763884010123
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     }
   },
   "gameState": {
@@ -62,7 +59,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884010626,
+  "timestamp": 1763884012387,
   "version": "3.0-cloud",
   "user": "admin5"
 }
