@@ -2,118 +2,12 @@
   "playerData": {
     "level": 5,
     "exp": 219,
-    "coins": 1793,
+    "coins": 3305,
     "gems": 0,
     "health": 24,
     "maxHealth": 140,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.01,
-        "exp": 56,
-        "value": 101,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.13,
-        "exp": 6,
-        "value": 13,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.51,
-        "exp": 28,
-        "value": 51,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.31,
-        "exp": 17,
-        "value": 31,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.95,
-        "exp": 108,
-        "value": 195,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.96,
-        "exp": 119,
-        "value": 196,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.06,
-        "exp": 59,
-        "value": 106,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.31,
-        "exp": 77,
-        "value": 131,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.96,
-        "exp": 116,
-        "value": 196,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.51,
-        "exp": 80,
-        "value": 151,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.46,
-        "exp": 88,
-        "value": 146,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.41,
-        "exp": 22,
-        "value": 41,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.13,
-        "exp": 7,
-        "value": 13,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.57,
-        "exp": 29,
-        "value": 56,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.85,
-        "exp": 49,
-        "value": 85,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -257,10 +151,10 @@
     "statistics": {
       "totalFishCaught": 19,
       "biggestFish": 1.96,
-      "totalEarnings": 293,
+      "totalEarnings": 1805,
       "playTime": 0,
       "dailyFishCaught": 19,
-      "dailyEarnings": 293
+      "dailyEarnings": 1805
     },
     "materials": {
       "bamboo": 1,
@@ -281,7 +175,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -293,7 +187,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763873041455,
+  "timestamp": 1763873052767,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
