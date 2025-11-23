@@ -20,7 +20,7 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 11,
+      "bamboo": 1,
       "metal": 1,
       "spiderweb": 11
     },
@@ -33,7 +33,14 @@
           "createdAt": 1763867088338
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763867090867_4dga6rc4g",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763867090867
+        }
+      ],
       "lines": []
     }
   },
@@ -47,7 +54,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763867088840,
+  "timestamp": 1763867091368,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
