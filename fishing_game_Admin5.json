@@ -160,7 +160,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "garden-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -173,7 +173,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888301787,
+  "timestamp": 1763888307560,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
