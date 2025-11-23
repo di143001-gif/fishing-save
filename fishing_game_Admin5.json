@@ -105,10 +105,10 @@
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 1,
+      "currentFruits": 2,
       "maxFruits": 5,
-      "lastFruitTime": 1763888870927,
-      "nextFruitTime": 1763888900927
+      "lastFruitTime": 1763888900927,
+      "nextFruitTime": 1763888930927
     },
     "achievements": {
       "firstCatch": {
@@ -194,7 +194,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "garden-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -207,7 +207,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888891431,
+  "timestamp": 1763888901431,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
