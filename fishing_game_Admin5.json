@@ -4,7 +4,7 @@
     "exp": 1823,
     "coins": 2339,
     "gems": 0,
-    "health": 13,
+    "health": 14,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -269,11 +269,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "mail-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763901354305,
+    "lastHpRegen": 1763901472490,
     "activeEvents": [
       "luckyDay"
     ],
@@ -281,21 +281,10 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "eventStartTimes": {},
-    "mail": [
-      {
-        "id": "id_1763901460280_sl7i6zegt",
-        "type": "rod_return",
-        "from": "Admin",
-        "to": "Admin5",
-        "originalRodId": "id_1763901355090_mxwnnrirt",
-        "sentTime": 1763901460280,
-        "status": "returned",
-        "read": false
-      }
-    ],
+    "mail": [],
     "achievements": []
   },
-  "timestamp": 1763901472105,
+  "timestamp": 1763901478175,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
