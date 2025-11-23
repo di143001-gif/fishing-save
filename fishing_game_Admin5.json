@@ -1,11 +1,11 @@
 {
   "playerData": {
-    "level": 5,
-    "exp": 314,
+    "level": 6,
+    "exp": 18,
     "coins": 3305,
     "gems": 0,
-    "health": 34,
-    "maxHealth": 140,
+    "health": 150,
+    "maxHealth": 150,
     "points": 0,
     "fishInventory": [
       {
@@ -20,6 +20,27 @@
         "weight": 0.96,
         "exp": 58,
         "value": 96,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.32,
+        "exp": 75,
+        "value": 132,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.7,
+        "exp": 90,
+        "value": 170,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.76,
+        "exp": 45,
+        "value": 76,
         "rarity": "common"
       }
     ],
@@ -79,7 +100,7 @@
         "id": 4,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 822000,
         "type": "crafted",
@@ -96,7 +117,7 @@
         "id": 5,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 993000,
         "type": "crafted",
@@ -113,7 +134,7 @@
         "id": 6,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1005599.9999999999,
         "type": "crafted",
@@ -164,11 +185,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 21,
+      "totalFishCaught": 24,
       "biggestFish": 1.96,
       "totalEarnings": 1805,
       "playTime": 0,
-      "dailyFishCaught": 21,
+      "dailyFishCaught": 24,
       "dailyEarnings": 1805
     },
     "materials": {
@@ -202,7 +223,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763873617046,
+  "timestamp": 1763873618501,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
