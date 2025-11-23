@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 1165,
     "gems": 0,
-    "health": 71,
+    "health": 55,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -179,8 +179,8 @@
       "dailyEarnings": 13165
     },
     "materials": {
-      "bamboo": 7,
-      "metal": 0,
+      "bamboo": 10,
+      "metal": 1,
       "spiderweb": 0
     },
     "craftedItems": {
@@ -190,10 +190,10 @@
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 0,
+      "currentFruits": 1,
       "maxFruits": 5,
-      "lastFruitTime": 1763888188072,
-      "nextFruitTime": 1763888218072
+      "lastFruitTime": 1763888219057,
+      "nextFruitTime": 1763888249057
     },
     "achievements": {
       "firstCatch": {
@@ -292,7 +292,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888217254,
+  "timestamp": 1763888220981,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
