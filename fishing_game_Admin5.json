@@ -275,10 +275,42 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "eventStartTimes": {},
-    "mail": [],
+    "mail": [
+      {
+        "id": "id_1763897781646_ok4xalkdc",
+        "type": "rod_return",
+        "from": "Admin",
+        "to": "Admin5",
+        "rod": {
+          "id": "id_1763897489449_qtb2mznm2",
+          "name": "Cần Tre Tự Chế",
+          "level": 0,
+          "status": "Trống",
+          "rarity": "uncommon",
+          "maxFishingTime": 998400.0000000001,
+          "type": "crafted",
+          "crafted": true,
+          "craftedBy": "Admin5",
+          "stats": {
+            "successRate": 1.06,
+            "expBonus": 3.05,
+            "timeBonus": 6.64
+          },
+          "specialStat": null,
+          "craftedId": "id_1763897489449_9cc7d1hrd",
+          "borrowed": true,
+          "borrowedFrom": "Admin5",
+          "borrowTime": 1763897537566,
+          "returnTime": 1763983907004
+        },
+        "sentTime": 1763897781646,
+        "status": "returned",
+        "read": false
+      }
+    ],
     "achievements": []
   },
-  "timestamp": 1763897508728,
+  "timestamp": 1763897782025,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
