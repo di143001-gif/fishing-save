@@ -1,13 +1,21 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 0,
+    "exp": 20,
     "coins": 1500,
     "gems": 0,
     "health": 18,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.35,
+        "exp": 20,
+        "value": 35,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -47,11 +55,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 1,
+      "biggestFish": 0.35,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 1,
       "dailyEarnings": 0
     },
     "materials": {
@@ -66,7 +74,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -75,7 +83,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763867959230,
+  "timestamp": 1763867963869,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
