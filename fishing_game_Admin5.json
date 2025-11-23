@@ -32,23 +32,6 @@
     ],
     "rodsInventory": [
       {
-        "id": 1,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1150800,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 4.19,
-          "expBonus": 18.63,
-          "timeBonus": 9.18
-        },
-        "craftedId": "id_1763867095849_07b80h7ey"
-      },
-      {
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
@@ -207,7 +190,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888292502,
+  "timestamp": 1763888296254,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
