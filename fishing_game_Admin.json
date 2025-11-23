@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 81,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -30,6 +30,32 @@
         "borrowedFrom": "Admin5",
         "borrowTime": 1763897537566,
         "returnTime": 1763983907004
+      },
+      {
+        "id": "id_1763901372171_ifj6xmh5x",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1031400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin5",
+        "stats": {
+          "successRate": 2.64,
+          "expBonus": 8.37,
+          "timeBonus": 7.19
+        },
+        "specialStat": null,
+        "craftedId": "id_1763901355090_1qrjcnlep",
+        "lentTo": "Admin",
+        "lendTime": 1763901372171,
+        "originalId": "id_1763901355090_mxwnnrirt",
+        "borrowed": true,
+        "borrowedFrom": "Admin5",
+        "borrowTime": 1763901372171,
+        "returnTime": 1763987772171,
+        "isCopy": true
       }
     ],
     "itemsInventory": [],
@@ -143,11 +169,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "mail-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763898279874,
+    "lastHpRegen": 1763901385304,
     "activeEvents": [
       "luckyDay"
     ],
@@ -157,47 +183,10 @@
     "eventStartTimes": {
       "luckyDay": 1763895356499
     },
-    "mail": [
-      {
-        "id": "id_1763901372171_iij7dzpil",
-        "type": "rod_lend",
-        "from": "Admin5",
-        "to": "Admin",
-        "rod": {
-          "id": "id_1763901372171_ifj6xmh5x",
-          "name": "Cần Tre Tự Chế",
-          "level": 0,
-          "status": "Trống",
-          "rarity": "uncommon",
-          "maxFishingTime": 1031400.0000000001,
-          "type": "crafted",
-          "crafted": true,
-          "craftedBy": "Admin5",
-          "stats": {
-            "successRate": 2.64,
-            "expBonus": 8.37,
-            "timeBonus": 7.19
-          },
-          "specialStat": null,
-          "craftedId": "id_1763901355090_1qrjcnlep",
-          "lentTo": "Admin",
-          "lendTime": 1763901372171,
-          "originalId": "id_1763901355090_mxwnnrirt",
-          "borrowed": true,
-          "borrowedFrom": "Admin5",
-          "borrowTime": 1763901372171,
-          "returnTime": 1763987772171,
-          "isCopy": true
-        },
-        "sentTime": 1763901372171,
-        "expireTime": 1763987772171,
-        "status": "pending",
-        "read": false
-      }
-    ],
+    "mail": [],
     "achievements": []
   },
-  "timestamp": 1763901385166,
+  "timestamp": 1763901392909,
   "version": "3.0-cloud",
   "user": "Admin"
 }
