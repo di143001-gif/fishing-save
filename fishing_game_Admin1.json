@@ -28,7 +28,7 @@
         "id": 1,
         "name": "Cần Tre Thần Kỳ",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "legendary",
         "maxFishingTime": 916199.9999999999,
         "type": "crafted",
@@ -68,14 +68,12 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763854961473,
-    "activeEvents": [
-      "doubleExp"
-    ],
+    "lastHpRegen": 1763857799549,
+    "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763854987472,
+  "timestamp": 1763857800244,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
