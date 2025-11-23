@@ -4,7 +4,7 @@
     "exp": 1823,
     "coins": 2339,
     "gems": 0,
-    "health": 62,
+    "health": 63,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -249,7 +249,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763895204190,
+    "lastHpRegen": 1763895264494,
     "activeEvents": [
       "luckyDay"
     ],
@@ -260,7 +260,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763895236995,
+  "timestamp": 1763895267011,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
