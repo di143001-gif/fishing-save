@@ -163,6 +163,57 @@
           "timeBonus": 7.1
         },
         "craftedId": "id_1763874840473_lnleneoky"
+      },
+      {
+        "id": 8,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 748800.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 4.93,
+          "expBonus": 14.89,
+          "timeBonus": 2.48
+        },
+        "craftedId": "id_1763884138610_pnd4pbo94"
+      },
+      {
+        "id": 9,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1191000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 2.49,
+          "expBonus": 13.96,
+          "timeBonus": 9.85
+        },
+        "craftedId": "id_1763884138875_wc9q1q2px"
+      },
+      {
+        "id": 10,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 728400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 1.35,
+          "expBonus": 7.23,
+          "timeBonus": 2.14
+        },
+        "craftedId": "id_1763884138962_thtt00h7e"
       }
     ],
     "itemsInventory": [],
@@ -178,28 +229,10 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 18
+      "spiderweb": 8
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763877778798_csnylxdvb",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763877778798
-        },
-        {
-          "id": "id_1763878924640_az6jczsqh",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763878924640
-        },
-        {
-          "id": "id_1763878924861_9g59ypptf",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763878924861
-        },
         {
           "id": "id_1763884132483_k58kopyob",
           "type": "hook",
@@ -214,24 +247,6 @@
         }
       ],
       "rods": [
-        {
-          "id": "id_1763874805473_u2u8lfvz4",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763874805473
-        },
-        {
-          "id": "id_1763874881061_75c17nwht",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763874881061
-        },
-        {
-          "id": "id_1763877779251_nrw9maou5",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763877779251
-        },
         {
           "id": "id_1763878925625_k8sqf1ri8",
           "type": "rod",
@@ -259,22 +274,10 @@
       ],
       "lines": [
         {
-          "id": "id_1763877780636_6j5y1okqr",
-          "type": "line",
-          "quality": "premium",
-          "createdAt": 1763877780636
-        },
-        {
-          "id": "id_1763878927045_dlvt4aydk",
+          "id": "id_1763884136059_cxmyu6tk9",
           "type": "line",
           "quality": "normal",
-          "createdAt": 1763878927045
-        },
-        {
-          "id": "id_1763878927193_ok4vv7a2a",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763878927193
+          "createdAt": 1763884136059
         }
       ]
     }
@@ -292,7 +295,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884135509,
+  "timestamp": 1763884139043,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
