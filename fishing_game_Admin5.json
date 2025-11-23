@@ -245,7 +245,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "select-location",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -259,7 +259,7 @@
     "eventStartTimes": {},
     "achievements": []
   },
-  "timestamp": 1763894592269,
+  "timestamp": 1763894602267,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
