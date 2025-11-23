@@ -4,7 +4,7 @@
     "exp": 1059,
     "coins": 5961,
     "gems": 0,
-    "health": 60,
+    "health": 51,
     "maxHealth": 160,
     "points": 140,
     "fishInventory": [],
@@ -21,8 +21,8 @@
     },
     "materials": {
       "bamboo": 12,
-      "metal": 10,
-      "spiderweb": 3
+      "metal": 0,
+      "spiderweb": 10
     },
     "craftedItems": {
       "hooks": [
@@ -37,6 +37,12 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763852742475
+        },
+        {
+          "id": "id_1763858640560_nyzx3o1ia",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763858640560
         }
       ],
       "rods": [],
@@ -145,7 +151,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -155,7 +161,7 @@
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763858637740,
+  "timestamp": 1763858641062,
   "version": "3.0-cloud",
   "user": "Admin"
 }
