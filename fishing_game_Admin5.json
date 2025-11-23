@@ -4,7 +4,7 @@
     "exp": 757,
     "coins": 4943,
     "gems": 0,
-    "health": 4,
+    "health": 47,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -79,7 +79,7 @@
         "id": 4,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 822000,
         "type": "crafted",
@@ -96,7 +96,7 @@
         "id": 5,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 993000,
         "type": "crafted",
@@ -113,7 +113,7 @@
         "id": 6,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1005599.9999999999,
         "type": "crafted",
@@ -130,7 +130,7 @@
         "id": 7,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1111800.0000000002,
         "type": "crafted",
@@ -147,7 +147,7 @@
         "id": 8,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1100400,
         "type": "crafted",
@@ -234,15 +234,15 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763875099978,
+    "lastHpRegen": 1763877739808,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null
+    "selectedSlotIndex": 1
   },
-  "timestamp": 1763875140054,
+  "timestamp": 1763877746525,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
