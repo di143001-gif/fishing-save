@@ -341,11 +341,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763887509079,
+    "lastHpRegen": 1763887569996,
     "activeEvents": [
       "luckyDay"
     ],
@@ -354,7 +354,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887552365,
+  "timestamp": 1763887571319,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
