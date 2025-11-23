@@ -159,6 +159,40 @@
           "timeBonus": 3.06
         },
         "craftedId": "id_1763887849798_2qwu2bnek"
+      },
+      {
+        "id": 9,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 902400,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 0.83,
+          "expBonus": 18.88,
+          "timeBonus": 5.04
+        },
+        "craftedId": "id_1763887850357_0z06zu3t1"
+      },
+      {
+        "id": 10,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 987000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 4,
+        "stats": {
+          "successRate": 2.38,
+          "expBonus": 21.46,
+          "timeBonus": 6.45
+        },
+        "craftedId": "id_1763887851173_vgpa8krlr"
       }
     ],
     "itemsInventory": [],
@@ -178,18 +212,6 @@
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763886911206_q226gepv8",
-          "type": "hook",
-          "quality": "premium",
-          "createdAt": 1763886911206
-        },
-        {
-          "id": "id_1763887394901_xh4vhgmi9",
-          "type": "hook",
-          "quality": "premium",
-          "createdAt": 1763887394901
-        },
         {
           "id": "id_1763887646404_w5keewm2m",
           "type": "hook",
@@ -211,18 +233,6 @@
       ],
       "rods": [
         {
-          "id": "id_1763886912822_xoe3nyja9",
-          "type": "rod",
-          "quality": "premium",
-          "createdAt": 1763886912822
-        },
-        {
-          "id": "id_1763887395974_00t62o334",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763887395974
-        },
-        {
           "id": "id_1763887647540_n7eylcjtn",
           "type": "rod",
           "quality": "normal",
@@ -242,18 +252,6 @@
         }
       ],
       "lines": [
-        {
-          "id": "id_1763887397766_7vh33fpuh",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763887397766
-        },
-        {
-          "id": "id_1763887397926_538vdsmc6",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763887397926
-        },
         {
           "id": "id_1763887648629_0d8ev1ue7",
           "type": "line",
@@ -371,7 +369,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887850313,
+  "timestamp": 1763887851682,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
