@@ -4,7 +4,7 @@
     "exp": 2031,
     "coins": 7325,
     "gems": 0,
-    "health": 9,
+    "health": 2,
     "maxHealth": 180,
     "points": 0,
     "fishInventory": [],
@@ -191,8 +191,8 @@
       "dailyEarnings": 10825
     },
     "materials": {
-      "bamboo": 5,
-      "metal": 10,
+      "bamboo": 10,
+      "metal": 0,
       "spiderweb": 20
     },
     "craftedItems": {
@@ -208,6 +208,12 @@
           "type": "hook",
           "quality": "premium",
           "createdAt": 1763886911206
+        },
+        {
+          "id": "id_1763887394901_xh4vhgmi9",
+          "type": "hook",
+          "quality": "premium",
+          "createdAt": 1763887394901
         }
       ],
       "rods": [
@@ -317,7 +323,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -330,7 +336,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887387873,
+  "timestamp": 1763887395407,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
