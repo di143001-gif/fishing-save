@@ -4,7 +4,7 @@
     "exp": 1124,
     "coins": 5184,
     "gems": 0,
-    "health": 77,
+    "health": 78,
     "maxHealth": 180,
     "points": 0,
     "fishInventory": [
@@ -325,11 +325,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763886897982,
+    "lastHpRegen": 1763886958066,
     "activeEvents": [
       "luckyDay"
     ],
@@ -338,7 +338,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886952679,
+  "timestamp": 1763886964612,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
