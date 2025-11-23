@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 70,
+    "health": 61,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -21,7 +21,7 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 2,
+      "metal": 8,
       "spiderweb": 0
     },
     "craftedItems": {
@@ -125,15 +125,19 @@
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763895345604,
-    "activeEvents": [],
+    "activeEvents": [
+      "luckyDay"
+    ],
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "eventStartTimes": {},
+    "eventStartTimes": {
+      "luckyDay": 1763895356499
+    },
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763895355480,
+  "timestamp": 1763895357464,
   "version": "3.0-cloud",
   "user": "Admin"
 }
