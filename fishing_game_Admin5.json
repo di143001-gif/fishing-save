@@ -4,7 +4,7 @@
     "exp": 1053,
     "coins": 5033,
     "gems": 0,
-    "health": 175,
+    "health": 176,
     "maxHealth": 180,
     "points": 0,
     "fishInventory": [
@@ -169,23 +169,6 @@
           "timeBonus": 4.97
         },
         "craftedId": "id_1763884188892_6qjajo3as"
-      },
-      {
-        "id": 10,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1048199.9999999998,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 0.58,
-          "expBonus": 15.72,
-          "timeBonus": 7.47
-        },
-        "craftedId": "id_1763884494268_498ub3k4a"
       }
     ],
     "itemsInventory": [],
@@ -313,11 +296,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763885964319,
+    "lastHpRegen": 1763886025318,
     "activeEvents": [
       "luckyDay"
     ],
@@ -326,7 +309,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886024478,
+  "timestamp": 1763886032849,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
