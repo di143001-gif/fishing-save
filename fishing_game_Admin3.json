@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 95,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -20,7 +20,7 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 1,
       "metal": 0,
       "spiderweb": 0
     },
@@ -31,7 +31,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -40,7 +40,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763860004401,
+  "timestamp": 1763860014328,
   "version": "3.0-cloud",
   "user": "Admin3"
 }
