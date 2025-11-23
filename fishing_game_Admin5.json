@@ -52,7 +52,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 865800,
         "type": "crafted",
@@ -88,10 +88,10 @@
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 0,
+      "currentFruits": 1,
       "maxFruits": 5,
-      "lastFruitTime": 1763888742338,
-      "nextFruitTime": 1763888772338
+      "lastFruitTime": 1763888773332,
+      "nextFruitTime": 1763888803332
     },
     "achievements": {
       "firstCatch": {
@@ -177,7 +177,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -187,10 +187,10 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888759145,
+  "timestamp": 1763888773839,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
