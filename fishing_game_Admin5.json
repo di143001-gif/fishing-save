@@ -1,11 +1,11 @@
 {
   "playerData": {
-    "level": 4,
-    "exp": 88,
+    "level": 5,
+    "exp": 24,
     "coins": 1793,
     "gems": 0,
-    "health": 130,
-    "maxHealth": 130,
+    "health": 140,
+    "maxHealth": 140,
     "points": 0,
     "fishInventory": [
       {
@@ -56,6 +56,27 @@
         "exp": 59,
         "value": 106,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.31,
+        "exp": 77,
+        "value": 131,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.96,
+        "exp": 116,
+        "value": 196,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.51,
+        "exp": 80,
+        "value": 151,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -63,7 +84,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1150800,
         "type": "crafted",
@@ -114,7 +135,7 @@
         "id": 4,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 822000,
         "type": "crafted",
@@ -131,7 +152,7 @@
         "id": 5,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 993000,
         "type": "crafted",
@@ -148,7 +169,7 @@
         "id": 6,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1005599.9999999999,
         "type": "crafted",
@@ -165,11 +186,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 11,
+      "totalFishCaught": 14,
       "biggestFish": 1.96,
       "totalEarnings": 293,
       "playTime": 0,
-      "dailyFishCaught": 11,
+      "dailyFishCaught": 14,
       "dailyEarnings": 293
     },
     "materials": {
@@ -201,9 +222,9 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null
+    "selectedSlotIndex": 0
   },
-  "timestamp": 1763871480642,
+  "timestamp": 1763871482226,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
