@@ -84,7 +84,7 @@
         "id": 1,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1150800,
         "type": "crafted",
@@ -101,7 +101,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 680400,
         "type": "crafted",
@@ -135,7 +135,7 @@
         "id": 4,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 822000,
         "type": "crafted",
@@ -152,7 +152,7 @@
         "id": 5,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 993000,
         "type": "crafted",
@@ -169,7 +169,7 @@
         "id": 6,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1005599.9999999999,
         "type": "crafted",
@@ -216,7 +216,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763871970041,
+    "lastHpRegen": 1763872706744,
     "activeEvents": [
       "doubleExp"
     ],
@@ -224,7 +224,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763872022224,
+  "timestamp": 1763872707261,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
