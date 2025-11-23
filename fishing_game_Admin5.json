@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 1165,
     "gems": 0,
-    "health": 50,
+    "health": 60,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -192,8 +192,8 @@
       "treeLevel": 4,
       "currentFruits": 2,
       "maxFruits": 5,
-      "lastFruitTime": 1763888158070,
-      "nextFruitTime": 1763888188070
+      "lastFruitTime": 1763888188072,
+      "nextFruitTime": 1763888218072
     },
     "achievements": {
       "firstCatch": {
@@ -292,7 +292,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888187566,
+  "timestamp": 1763888196058,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
