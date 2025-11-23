@@ -4,11 +4,34 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 38,
+    "health": 69,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": "id_1763897489449_qtb2mznm2",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 998400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin5",
+        "stats": {
+          "successRate": 1.06,
+          "expBonus": 3.05,
+          "timeBonus": 6.64
+        },
+        "specialStat": null,
+        "craftedId": "id_1763897489449_9cc7d1hrd",
+        "borrowed": true,
+        "borrowedFrom": "Admin5",
+        "borrowTime": 1763897537566,
+        "returnTime": 1763983907004
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -120,11 +143,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "mail-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1763895609485,
+    "lastHpRegen": 1763897524259,
     "activeEvents": [
       "luckyDay"
     ],
@@ -161,39 +184,11 @@
         "sentTime": 1763895388051,
         "expireTime": 1763981788051,
         "status": "pending"
-      },
-      {
-        "id": "id_1763897507004_rw9k0stdn",
-        "type": "rod_lend",
-        "from": "Admin5",
-        "to": "Admin",
-        "rod": {
-          "id": "id_1763897489449_qtb2mznm2",
-          "name": "Cần Tre Tự Chế",
-          "level": 0,
-          "status": "Trống",
-          "rarity": "uncommon",
-          "maxFishingTime": 998400.0000000001,
-          "type": "crafted",
-          "crafted": true,
-          "craftedBy": "Admin5",
-          "stats": {
-            "successRate": 1.06,
-            "expBonus": 3.05,
-            "timeBonus": 6.64
-          },
-          "specialStat": null,
-          "craftedId": "id_1763897489449_9cc7d1hrd"
-        },
-        "sentTime": 1763897507004,
-        "expireTime": 1763983907004,
-        "status": "pending",
-        "read": false
       }
     ],
     "achievements": []
   },
-  "timestamp": 1763897523751,
+  "timestamp": 1763897538081,
   "version": "3.0-cloud",
   "user": "Admin"
 }
