@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 52,
+    "health": 43,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -21,17 +21,24 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 10,
-      "spiderweb": 4
+      "metal": 0,
+      "spiderweb": 10
     },
     "craftedItems": {
-      "hooks": [],
+      "hooks": [
+        {
+          "id": "id_1763860027337_lt2s9wtdn",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763860027337
+        }
+      ],
       "rods": [],
       "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -40,7 +47,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763860023445,
+  "timestamp": 1763860027838,
   "version": "3.0-cloud",
   "user": "Admin3"
 }
