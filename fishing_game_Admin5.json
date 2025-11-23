@@ -192,7 +192,7 @@
     },
     "materials": {
       "bamboo": 32,
-      "metal": 30,
+      "metal": 0,
       "spiderweb": 30
     },
     "craftedItems": {
@@ -214,6 +214,24 @@
           "type": "hook",
           "quality": "premium",
           "createdAt": 1763887394901
+        },
+        {
+          "id": "id_1763887646404_w5keewm2m",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763887646404
+        },
+        {
+          "id": "id_1763887646572_y2k752n6p",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763887646572
+        },
+        {
+          "id": "id_1763887646716_6yoxbrazw",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763887646716
         }
       ],
       "rods": [
@@ -341,7 +359,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -354,7 +372,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763887631313,
+  "timestamp": 1763887647078,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
