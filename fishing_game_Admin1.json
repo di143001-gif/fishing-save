@@ -8,7 +8,34 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": "id_1763901605174_9rj21tgdi",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1019400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin",
+        "stats": {
+          "successRate": 3.7,
+          "expBonus": 3.46,
+          "timeBonus": 6.99
+        },
+        "specialStat": null,
+        "craftedId": "id_1763901558921_k1ro89tcv",
+        "lentTo": "Admin1",
+        "lendTime": 1763901605174,
+        "originalId": "id_1763901558921_m86oqqlqw",
+        "borrowed": true,
+        "borrowedFrom": "Admin",
+        "borrowTime": 1763901605174,
+        "returnTime": 1763988005174,
+        "isCopy": true
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -31,7 +58,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mail-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -41,46 +68,9 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "eventStartTimes": {},
-    "mail": [
-      {
-        "id": "id_1763901605174_my66kwmk9",
-        "type": "rod_lend",
-        "from": "Admin",
-        "to": "Admin1",
-        "rod": {
-          "id": "id_1763901605174_9rj21tgdi",
-          "name": "Cần Tre Tự Chế",
-          "level": 0,
-          "status": "Trống",
-          "rarity": "uncommon",
-          "maxFishingTime": 1019400.0000000001,
-          "type": "crafted",
-          "crafted": true,
-          "craftedBy": "Admin",
-          "stats": {
-            "successRate": 3.7,
-            "expBonus": 3.46,
-            "timeBonus": 6.99
-          },
-          "specialStat": null,
-          "craftedId": "id_1763901558921_k1ro89tcv",
-          "lentTo": "Admin1",
-          "lendTime": 1763901605174,
-          "originalId": "id_1763901558921_m86oqqlqw",
-          "borrowed": true,
-          "borrowedFrom": "Admin",
-          "borrowTime": 1763901605174,
-          "returnTime": 1763988005174,
-          "isCopy": true
-        },
-        "sentTime": 1763901605174,
-        "expireTime": 1763988005174,
-        "status": "pending",
-        "read": false
-      }
-    ]
+    "mail": []
   },
-  "timestamp": 1763901625954,
+  "timestamp": 1763901630425,
   "version": "3.0-cloud",
   "user": "Admin1"
 }
