@@ -1,13 +1,21 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 1508,
-    "coins": 6007,
+    "exp": 1053,
+    "coins": 5033,
     "gems": 0,
     "health": 180,
     "maxHealth": 180,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.01,
+        "exp": 52,
+        "value": 151,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -168,36 +176,43 @@
         "level": 0,
         "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
-        "maxFishingTime": 935400,
+        "maxFishingTime": 1048199.9999999998,
         "type": "crafted",
         "crafted": true,
         "stars": 1,
         "stats": {
-          "successRate": 0.42,
-          "expBonus": 2.32,
-          "timeBonus": 5.59
+          "successRate": 0.58,
+          "expBonus": 15.72,
+          "timeBonus": 7.47
         },
-        "craftedId": "id_1763886037672_2bb3yosj7"
+        "craftedId": "id_1763884494268_498ub3k4a"
       }
     ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 65,
-      "biggestFish": 2.95,
-      "totalEarnings": 9507,
+      "totalFishCaught": 61,
+      "biggestFish": 2.91,
+      "totalEarnings": 8533,
       "playTime": 0,
-      "dailyFishCaught": 65,
-      "dailyEarnings": 9507
+      "dailyFishCaught": 61,
+      "dailyEarnings": 8533
     },
     "materials": {
       "bamboo": 0,
-      "metal": 0,
-      "spiderweb": 0
+      "metal": 10,
+      "spiderweb": 6
     },
     "craftedItems": {
       "hooks": [],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763884398071_qtyfwbqn3",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763884398071
+        }
+      ],
       "lines": []
     },
     "achievements": {
@@ -284,11 +299,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763886328310,
+    "lastHpRegen": 1763886305877,
     "activeEvents": [
       "luckyDay"
     ],
@@ -297,7 +312,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886348839,
+  "timestamp": 1763886365867,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
