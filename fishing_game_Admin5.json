@@ -4,7 +4,7 @@
     "exp": 1823,
     "coins": 2339,
     "gems": 0,
-    "health": 12,
+    "health": 13,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -138,6 +138,24 @@
         "borrowedFrom": null,
         "borrowTime": null,
         "returnTime": null
+      },
+      {
+        "id": "id_1763901355090_mxwnnrirt",
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1031400.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "craftedBy": "Admin5",
+        "stats": {
+          "successRate": 2.64,
+          "expBonus": 8.37,
+          "timeBonus": 7.19
+        },
+        "specialStat": null,
+        "craftedId": "id_1763901355090_1qrjcnlep"
       }
     ],
     "itemsInventory": [],
@@ -156,30 +174,9 @@
       "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763901351928_02taiiw4j",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763901351928
-        }
-      ],
-      "rods": [
-        {
-          "id": "id_1763901352690_nzare07ao",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763901352690
-        }
-      ],
-      "lines": [
-        {
-          "id": "id_1763901353675_6eant3b67",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763901353675
-        }
-      ]
+      "hooks": [],
+      "rods": [],
+      "lines": []
     },
     "garden": {
       "treeLevel": 4,
@@ -276,7 +273,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763901294304,
+    "lastHpRegen": 1763901354305,
     "activeEvents": [
       "luckyDay"
     ],
@@ -287,7 +284,7 @@
     "mail": [],
     "achievements": []
   },
-  "timestamp": 1763901354177,
+  "timestamp": 1763901355591,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
