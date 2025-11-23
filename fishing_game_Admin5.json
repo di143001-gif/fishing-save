@@ -134,7 +134,7 @@
         "id": 9,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 948000,
         "type": "crafted",
@@ -151,7 +151,7 @@
         "id": 8,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 748800.0000000001,
         "type": "crafted",
@@ -259,7 +259,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884208546,
+  "timestamp": 1763884210460,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
