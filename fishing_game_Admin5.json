@@ -128,21 +128,35 @@
       "dailyEarnings": 13165
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
+      "bamboo": 0,
+      "metal": 0,
       "spiderweb": 10
     },
     "craftedItems": {
-      "hooks": [],
-      "rods": [],
+      "hooks": [
+        {
+          "id": "id_1763888277701_w7a6lvg92",
+          "type": "hook",
+          "quality": "premium",
+          "createdAt": 1763888277701
+        }
+      ],
+      "rods": [
+        {
+          "id": "id_1763888278972_hpiz2yk3l",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763888278972
+        }
+      ],
       "lines": []
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 2,
+      "currentFruits": 3,
       "maxFruits": 5,
-      "lastFruitTime": 1763888249060,
-      "nextFruitTime": 1763888279060
+      "lastFruitTime": 1763888279061,
+      "nextFruitTime": 1763888309061
     },
     "achievements": {
       "firstCatch": {
@@ -241,7 +255,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888277569,
+  "timestamp": 1763888279474,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
