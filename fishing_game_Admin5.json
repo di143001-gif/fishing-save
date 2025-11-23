@@ -4,7 +4,7 @@
     "exp": 757,
     "coins": 4943,
     "gems": 0,
-    "health": 6,
+    "health": 7,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -250,11 +250,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763877739808,
+    "lastHpRegen": 1763877800369,
     "activeEvents": [
       "doubleExp"
     ],
@@ -262,7 +262,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763877791870,
+  "timestamp": 1763877821870,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
