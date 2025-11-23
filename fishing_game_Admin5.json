@@ -169,23 +169,6 @@
           "timeBonus": 4.97
         },
         "craftedId": "id_1763884188892_6qjajo3as"
-      },
-      {
-        "id": 10,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1048199.9999999998,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 0.58,
-          "expBonus": 15.72,
-          "timeBonus": 7.47
-        },
-        "craftedId": "id_1763884494268_498ub3k4a"
       }
     ],
     "itemsInventory": [],
@@ -299,7 +282,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -312,7 +295,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886861013,
+  "timestamp": 1763886869479,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
