@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 1165,
     "gems": 0,
-    "health": 26,
+    "health": 37,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -88,7 +88,7 @@
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 1,
+      "currentFruits": 0,
       "maxFruits": 5,
       "lastFruitTime": 1763888371060,
       "nextFruitTime": 1763888401060
@@ -181,7 +181,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763888322060,
+    "lastHpRegen": 1763888383069,
     "activeEvents": [
       "luckyDay"
     ],
@@ -190,7 +190,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888375207,
+  "timestamp": 1763888397570,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
