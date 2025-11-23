@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 26,
+    "health": 13,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -22,7 +22,7 @@
     "materials": {
       "bamboo": 10,
       "metal": 10,
-      "spiderweb": 12
+      "spiderweb": 17
     },
     "craftedItems": {
       "hooks": [],
@@ -36,11 +36,13 @@
     "currentChannel": null,
     "lastFishingTime": 0,
     "lastHpRegen": 1763859943328,
-    "activeEvents": [],
+    "activeEvents": [
+      "goldenFish"
+    ],
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763859964231,
+  "timestamp": 1763859967175,
   "version": "3.0-cloud",
   "user": "Admin2"
 }
