@@ -161,23 +161,6 @@
           "timeBonus": 4.97
         },
         "craftedId": "id_1763884188892_6qjajo3as"
-      },
-      {
-        "id": 10,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1115400,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 0.3,
-          "expBonus": 2.9,
-          "timeBonus": 8.59
-        },
-        "craftedId": "id_1763884413451_dd36brie2"
       }
     ],
     "itemsInventory": [],
@@ -235,7 +218,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -247,7 +230,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884413969,
+  "timestamp": 1763884420763,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
