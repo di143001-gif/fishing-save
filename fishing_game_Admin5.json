@@ -208,7 +208,7 @@
     "materials": {
       "bamboo": 0,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -239,7 +239,14 @@
           "createdAt": 1763877779251
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763877780636_6j5y1okqr",
+          "type": "line",
+          "quality": "premium",
+          "createdAt": 1763877780636
+        }
+      ]
     }
   },
   "gameState": {
@@ -255,7 +262,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763877779302,
+  "timestamp": 1763877781139,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
