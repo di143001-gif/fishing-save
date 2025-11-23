@@ -169,6 +169,23 @@
           "timeBonus": 4.97
         },
         "craftedId": "id_1763884188892_6qjajo3as"
+      },
+      {
+        "id": 10,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 681000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 2,
+        "stats": {
+          "successRate": 3.54,
+          "expBonus": 18.83,
+          "timeBonus": 1.35
+        },
+        "craftedId": "id_1763886952175_rewplfhk1"
       }
     ],
     "itemsInventory": [],
@@ -189,12 +206,6 @@
     "craftedItems": {
       "hooks": [
         {
-          "id": "id_1763886882695_021s80l2b",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763886882695
-        },
-        {
           "id": "id_1763886911029_jpl18qlfz",
           "type": "hook",
           "quality": "normal",
@@ -209,12 +220,6 @@
       ],
       "rods": [
         {
-          "id": "id_1763884398071_qtyfwbqn3",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763884398071
-        },
-        {
           "id": "id_1763886912631_lqskmjjex",
           "type": "rod",
           "quality": "normal",
@@ -228,12 +233,6 @@
         }
       ],
       "lines": [
-        {
-          "id": "id_1763886914110_qegsqan6j",
-          "type": "line",
-          "quality": "premium",
-          "createdAt": 1763886914110
-        },
         {
           "id": "id_1763886914294_441y34x14",
           "type": "line",
@@ -326,7 +325,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -339,7 +338,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886946568,
+  "timestamp": 1763886952679,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
