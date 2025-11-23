@@ -161,23 +161,6 @@
           "timeBonus": 4.97
         },
         "craftedId": "id_1763884188892_6qjajo3as"
-      },
-      {
-        "id": 10,
-        "name": "Cần Tre Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 735000,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 1.27,
-          "expBonus": 2.28,
-          "timeBonus": 2.25
-        },
-        "craftedId": "id_1763884363202_yh7bt67rf"
       }
     ],
     "itemsInventory": [],
@@ -191,9 +174,9 @@
       "dailyEarnings": 5947
     },
     "materials": {
-      "bamboo": 20,
+      "bamboo": 0,
       "metal": 0,
-      "spiderweb": 20
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
@@ -222,13 +205,38 @@
           "type": "rod",
           "quality": "normal",
           "createdAt": 1763884135386
+        },
+        {
+          "id": "id_1763884397930_c6fbzpy8g",
+          "type": "rod",
+          "quality": "premium",
+          "createdAt": 1763884397930
+        },
+        {
+          "id": "id_1763884398071_qtyfwbqn3",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763884398071
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763884398850_jp734vg4m",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763884398850
+        },
+        {
+          "id": "id_1763884399012_bk601s5f9",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763884399012
+        }
+      ]
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -240,7 +248,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884397614,
+  "timestamp": 1763884407947,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
