@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 4665,
     "gems": 0,
-    "health": 39,
+    "health": 49,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -190,7 +190,7 @@
     },
     "garden": {
       "treeLevel": 1,
-      "currentFruits": 1,
+      "currentFruits": 0,
       "maxFruits": 2,
       "lastFruitTime": 1763888097075,
       "nextFruitTime": 1763888127075
@@ -292,7 +292,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888097583,
+  "timestamp": 1763888099584,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
