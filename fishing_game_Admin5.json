@@ -235,7 +235,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -247,7 +247,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763877939775,
+  "timestamp": 1763877941870,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
