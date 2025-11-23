@@ -4,7 +4,7 @@
     "exp": 1515,
     "coins": 2339,
     "gems": 0,
-    "health": 180,
+    "health": 171,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [],
@@ -72,7 +72,7 @@
       "dailyEarnings": 14339
     },
     "materials": {
-      "bamboo": 7,
+      "bamboo": 11,
       "metal": 0,
       "spiderweb": 0
     },
@@ -186,7 +186,7 @@
     "eventStartTimes": {},
     "achievements": []
   },
-  "timestamp": 1763892497469,
+  "timestamp": 1763892499168,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
