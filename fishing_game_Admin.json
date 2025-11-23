@@ -28,7 +28,7 @@
         "id": "id_1763907062802_1n6xyr5nz",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1185000,
         "type": "crafted",
@@ -81,7 +81,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763908481001,
+  "timestamp": 1763908483921,
   "version": "3.0-cloud",
   "user": "Admin"
 }
