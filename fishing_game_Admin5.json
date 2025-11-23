@@ -4,7 +4,7 @@
     "exp": 1053,
     "coins": 5033,
     "gems": 0,
-    "health": 180,
+    "health": 175,
     "maxHealth": 180,
     "points": 0,
     "fishInventory": [
@@ -200,11 +200,18 @@
     },
     "materials": {
       "bamboo": 0,
-      "metal": 10,
-      "spiderweb": 6
+      "metal": 0,
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [],
+      "hooks": [
+        {
+          "id": "id_1763885982528_fps5nz5qj",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763885982528
+        }
+      ],
       "rods": [
         {
           "id": "id_1763884398071_qtyfwbqn3",
@@ -213,7 +220,14 @@
           "createdAt": 1763884398071
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763885984239_xr7f6hb8x",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763885984239
+        }
+      ]
     },
     "achievements": {
       "firstCatch": {
@@ -299,11 +313,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763885945870,
+    "lastHpRegen": 1763885964319,
     "activeEvents": [
       "luckyDay"
     ],
@@ -312,7 +326,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886005867,
+  "timestamp": 1763886010820,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
