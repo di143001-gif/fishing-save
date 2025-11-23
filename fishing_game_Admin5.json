@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 10,
-    "exp": 1063,
+    "exp": 1202,
     "coins": 4665,
     "gems": 0,
     "health": 28,
@@ -21,6 +21,13 @@
         "exp": 144,
         "value": 271,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.33,
+        "exp": 139,
+        "value": 233,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -164,11 +171,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 81,
+      "totalFishCaught": 82,
       "biggestFish": 2.91,
       "totalEarnings": 13165,
       "playTime": 0,
-      "dailyFishCaught": 81,
+      "dailyFishCaught": 82,
       "dailyEarnings": 13165
     },
     "materials": {
@@ -278,7 +285,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888046185,
+  "timestamp": 1763888048416,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
