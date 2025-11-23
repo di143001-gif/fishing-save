@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 99,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -20,7 +20,7 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 1,
       "metal": 0,
       "spiderweb": 0
     },
@@ -31,9 +31,9 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "currentLocation": null,
-    "currentChannel": null,
+    "currentScreen": "mining-screen",
+    "currentLocation": "Khu Đồng Lớn",
+    "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1763883927792,
     "activeEvents": [],
@@ -41,7 +41,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763883959038,
+  "timestamp": 1763883977587,
   "version": "3.0-cloud",
   "user": "admin5"
 }
