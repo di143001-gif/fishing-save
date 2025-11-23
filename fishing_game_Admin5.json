@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 1402,
+    "exp": 1053,
     "coins": 5033,
     "gems": 0,
-    "health": 179,
+    "health": 180,
     "maxHealth": 180,
     "points": 0,
     "fishInventory": [
@@ -13,27 +13,6 @@
         "weight": 1.01,
         "exp": 52,
         "value": 151,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.33,
-        "exp": 67,
-        "value": 133,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.95,
-        "exp": 168,
-        "value": 295,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.14,
-        "exp": 114,
-        "value": 214,
         "rarity": "common"
       }
     ],
@@ -76,7 +55,7 @@
         "id": 5,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 993000,
         "type": "crafted",
@@ -197,36 +176,43 @@
         "level": 0,
         "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
-        "maxFishingTime": 935400,
+        "maxFishingTime": 1048199.9999999998,
         "type": "crafted",
         "crafted": true,
         "stars": 1,
         "stats": {
-          "successRate": 0.42,
-          "expBonus": 2.32,
-          "timeBonus": 5.59
+          "successRate": 0.58,
+          "expBonus": 15.72,
+          "timeBonus": 7.47
         },
-        "craftedId": "id_1763886037672_2bb3yosj7"
+        "craftedId": "id_1763884494268_498ub3k4a"
       }
     ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 64,
-      "biggestFish": 2.95,
+      "totalFishCaught": 61,
+      "biggestFish": 2.91,
       "totalEarnings": 8533,
       "playTime": 0,
-      "dailyFishCaught": 64,
+      "dailyFishCaught": 61,
       "dailyEarnings": 8533
     },
     "materials": {
       "bamboo": 0,
-      "metal": 0,
-      "spiderweb": 0
+      "metal": 10,
+      "spiderweb": 6
     },
     "craftedItems": {
       "hooks": [],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763884398071_qtyfwbqn3",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763884398071
+        }
+      ],
       "lines": []
     },
     "achievements": {
@@ -317,16 +303,16 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763886207322,
+    "lastHpRegen": 1763886185876,
     "activeEvents": [
       "luckyDay"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 2,
+    "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763886224708,
+  "timestamp": 1763886245872,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
