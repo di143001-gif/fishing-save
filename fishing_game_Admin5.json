@@ -88,10 +88,10 @@
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 1,
+      "currentFruits": 2,
       "maxFruits": 5,
-      "lastFruitTime": 1763888401067,
-      "nextFruitTime": 1763888431067
+      "lastFruitTime": 1763888432059,
+      "nextFruitTime": 1763888462059
     },
     "achievements": {
       "firstCatch": {
@@ -190,7 +190,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888427558,
+  "timestamp": 1763888432568,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
