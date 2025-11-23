@@ -57,6 +57,40 @@
           "timeBonus": 1.34
         },
         "craftedId": "id_1763867161336_2obdew67g"
+      },
+      {
+        "id": 3,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1205400,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 4,
+        "stats": {
+          "successRate": 3.38,
+          "expBonus": 21.65,
+          "timeBonus": 10.09
+        },
+        "craftedId": "id_1763870493362_mcyprro43"
+      },
+      {
+        "id": 4,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 822000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 2.2,
+          "expBonus": 13.82,
+          "timeBonus": 3.7
+        },
+        "craftedId": "id_1763870493849_27o99znnl"
       }
     ],
     "itemsInventory": [],
@@ -72,36 +106,11 @@
     "materials": {
       "bamboo": 0,
       "metal": 9,
-      "spiderweb": 20
+      "spiderweb": 0
     },
     "craftedItems": {
-      "hooks": [
-        {
-          "id": "id_1763870489264_2w8loio7p",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763870489264
-        },
-        {
-          "id": "id_1763870489585_l2f24cjzw",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763870489585
-        }
-      ],
+      "hooks": [],
       "rods": [
-        {
-          "id": "id_1763870490646_024eds80d",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763870490647
-        },
-        {
-          "id": "id_1763870490817_otnnblgcw",
-          "type": "rod",
-          "quality": "normal",
-          "createdAt": 1763870490817
-        },
         {
           "id": "id_1763870490994_uah2gfyi1",
           "type": "rod",
@@ -125,7 +134,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763870491319,
+  "timestamp": 1763870493865,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
