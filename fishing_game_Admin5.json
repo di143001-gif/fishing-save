@@ -2,7 +2,7 @@
   "playerData": {
     "level": 10,
     "exp": 1202,
-    "coins": 4665,
+    "coins": 3165,
     "gems": 0,
     "health": 49,
     "maxHealth": 190,
@@ -189,9 +189,9 @@
       "lines": []
     },
     "garden": {
-      "treeLevel": 1,
+      "treeLevel": 3,
       "currentFruits": 0,
-      "maxFruits": 2,
+      "maxFruits": 4,
       "lastFruitTime": 1763888097075,
       "nextFruitTime": 1763888127075
     },
@@ -292,7 +292,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888099584,
+  "timestamp": 1763888102132,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
