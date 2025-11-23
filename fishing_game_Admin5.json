@@ -60,7 +60,7 @@
       "dailyEarnings": 13165
     },
     "materials": {
-      "bamboo": 10,
+      "bamboo": 0,
       "metal": 0,
       "spiderweb": 10
     },
@@ -73,7 +73,14 @@
           "createdAt": 1763888343220
         }
       ],
-      "rods": [],
+      "rods": [
+        {
+          "id": "id_1763888344830_1ga09v2vj",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763888344830
+        }
+      ],
       "lines": []
     },
     "garden": {
@@ -180,7 +187,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888343727,
+  "timestamp": 1763888345338,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
