@@ -22,7 +22,7 @@
     "materials": {
       "bamboo": 1,
       "metal": 1,
-      "spiderweb": 11
+      "spiderweb": 1
     },
     "craftedItems": {
       "hooks": [
@@ -41,7 +41,14 @@
           "createdAt": 1763867090867
         }
       ],
-      "lines": []
+      "lines": [
+        {
+          "id": "id_1763867093307_c5n4qkskm",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763867093307
+        }
+      ]
     }
   },
   "gameState": {
@@ -54,7 +61,7 @@
     "dailyRewards": {},
     "fishingSlots": []
   },
-  "timestamp": 1763867091368,
+  "timestamp": 1763867093809,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
