@@ -176,8 +176,8 @@
       "dailyEarnings": 4730
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 10,
+      "bamboo": 0,
+      "metal": 0,
       "spiderweb": 18
     },
     "craftedItems": {
@@ -205,6 +205,12 @@
           "type": "hook",
           "quality": "normal",
           "createdAt": 1763884132483
+        },
+        {
+          "id": "id_1763884133426_e9gadqu23",
+          "type": "hook",
+          "quality": "normal",
+          "createdAt": 1763884133426
         }
       ],
       "rods": [
@@ -237,6 +243,18 @@
           "type": "rod",
           "quality": "normal",
           "createdAt": 1763878925996
+        },
+        {
+          "id": "id_1763884134994_dfpzgis8a",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763884134994
+        },
+        {
+          "id": "id_1763884135386_5ps4trnxo",
+          "type": "rod",
+          "quality": "normal",
+          "createdAt": 1763884135386
         }
       ],
       "lines": [
@@ -274,7 +292,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763884132992,
+  "timestamp": 1763884135509,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
