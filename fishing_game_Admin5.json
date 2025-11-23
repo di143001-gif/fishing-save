@@ -4,7 +4,7 @@
     "exp": 1202,
     "coins": 1165,
     "gems": 0,
-    "health": 82,
+    "health": 83,
     "maxHealth": 190,
     "points": 0,
     "fishInventory": [
@@ -35,7 +35,7 @@
         "id": 3,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1205400,
         "type": "crafted",
@@ -52,7 +52,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 865800,
         "type": "crafted",
@@ -105,10 +105,10 @@
     },
     "garden": {
       "treeLevel": 4,
-      "currentFruits": 0,
+      "currentFruits": 1,
       "maxFruits": 5,
-      "lastFruitTime": 1763888833337,
-      "nextFruitTime": 1763888863337
+      "lastFruitTime": 1763888870927,
+      "nextFruitTime": 1763888900927
     },
     "achievements": {
       "firstCatch": {
@@ -194,11 +194,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "garden-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763888802336,
+    "lastHpRegen": 1763888870613,
     "activeEvents": [
       "luckyDay"
     ],
@@ -207,7 +207,7 @@
     "selectedSlotIndex": null,
     "achievements": []
   },
-  "timestamp": 1763888853227,
+  "timestamp": 1763888871430,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
