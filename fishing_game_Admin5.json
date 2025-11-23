@@ -72,13 +72,13 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 20,
-      "spiderweb": 17
+      "bamboo": 10,
+      "metal": 10,
+      "spiderweb": 7
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -89,10 +89,10 @@
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1763915637258
+    "isCrafting": true,
+    "craftingEndTime": 1763916533415
   },
-  "timestamp": 1763916520130,
+  "timestamp": 1763916523918,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
