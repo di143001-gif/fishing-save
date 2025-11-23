@@ -8,7 +8,24 @@
     "maxHealth": 160,
     "points": 140,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Tre Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1038000,
+        "type": "crafted",
+        "crafted": true,
+        "stats": {
+          "successRate": 0.19,
+          "expBonus": 14.03,
+          "timeBonus": 7.3
+        },
+        "craftedId": "id_1763858643258_ddds3qdld"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -20,18 +37,12 @@
       "dailyEarnings": 6761
     },
     "materials": {
-      "bamboo": 12,
+      "bamboo": 2,
       "metal": 0,
-      "spiderweb": 10
+      "spiderweb": 0
     },
     "craftedItems": {
       "hooks": [
-        {
-          "id": "id_1763852742067_ofmuyn9fx",
-          "type": "hook",
-          "quality": "normal",
-          "createdAt": 1763852742067
-        },
         {
           "id": "id_1763852742475_4co8l3egz",
           "type": "hook",
@@ -48,12 +59,6 @@
       "rods": [],
       "lines": [
         {
-          "id": "id_1763852744054_2r9jkuabe",
-          "type": "line",
-          "quality": "normal",
-          "createdAt": 1763852744054
-        },
-        {
           "id": "id_1763852744227_5xn6v9av4",
           "type": "line",
           "quality": "normal",
@@ -64,6 +69,12 @@
           "type": "line",
           "quality": "normal",
           "createdAt": 1763852744415
+        },
+        {
+          "id": "id_1763858641666_jv9r1rbv4",
+          "type": "line",
+          "quality": "normal",
+          "createdAt": 1763858641667
         }
       ]
     },
@@ -161,7 +172,7 @@
     "fishingSlots": [],
     "achievements": []
   },
-  "timestamp": 1763858641062,
+  "timestamp": 1763858643759,
   "version": "3.0-cloud",
   "user": "Admin"
 }
