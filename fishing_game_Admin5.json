@@ -4,7 +4,7 @@
     "exp": 132,
     "coins": 1793,
     "gems": 0,
-    "health": 3,
+    "health": 4,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -45,7 +45,7 @@
         "id": 2,
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 680400,
         "type": "crafted",
@@ -126,7 +126,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763870619976,
+    "lastHpRegen": 1763870680242,
     "activeEvents": [
       "doubleExp"
     ],
@@ -134,7 +134,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null
   },
-  "timestamp": 1763870668404,
+  "timestamp": 1763870700241,
   "version": "3.0-cloud",
   "user": "Admin5"
 }
