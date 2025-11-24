@@ -113,7 +113,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -138,7 +138,9 @@
         ]
       },
       "collection": {
-        "collectedFishes": [],
+        "collectedFishes": [
+          "🦌 Cá Tuần Lộc"
+        ],
         "completed": false
       },
       "inventory": {
@@ -146,7 +148,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 169,
+      "countdownId": 183,
       "testMode": true
     },
     "eventStartTimes": {
@@ -154,7 +156,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763958260026,
+  "timestamp": 1763958266526,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
