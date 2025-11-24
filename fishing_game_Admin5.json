@@ -1,19 +1,27 @@
 {
   "playerData": {
     "level": 5,
-    "exp": 330,
-    "coins": 5060,
+    "exp": 377,
+    "coins": 60,
     "gems": 0,
-    "health": 6,
+    "health": 7,
     "maxHealth": 140,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.91,
+        "exp": 47,
+        "value": 91,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1657800,
         "type": "crafted",
@@ -131,17 +139,17 @@
       {
         "id": 8,
         "name": "Cần Câu Tự Chế",
-        "level": 0,
+        "level": 1,
         "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
-        "maxFishingTime": 2305800,
+        "maxFishingTime": 2476200,
         "type": "crafted",
         "crafted": true,
         "stars": 1,
         "stats": {
-          "successRate": 13.87,
-          "expBonus": 17.58,
-          "timeBonus": 28.43
+          "successRate": 15.26,
+          "expBonus": 19.34,
+          "timeBonus": 31.27
         },
         "craftedId": "id_1763959934121_c74r2wxk0"
       },
@@ -149,7 +157,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2248800,
         "type": "crafted",
@@ -183,11 +191,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 24,
+      "totalFishCaught": 25,
       "biggestFish": 2,
       "totalEarnings": 3560,
       "playTime": 0,
-      "dailyFishCaught": 24,
+      "dailyFishCaught": 25,
       "dailyEarnings": 3560
     },
     "materials": {
@@ -207,11 +215,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960210561,
+    "lastHpRegen": 1763960222561,
     "activeEvents": [
       "doubleExp"
     ],
@@ -251,7 +259,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960212063,
+  "timestamp": 1763960234793,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
