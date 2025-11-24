@@ -95,11 +95,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763946942671,
+    "lastHpRegen": 1763946955295,
     "activeEvents": [
       "doubleExp"
     ],
@@ -109,7 +109,7 @@
     "isCrafting": false,
     "craftingEndTime": 1763916533415
   },
-  "timestamp": 1763946951145,
+  "timestamp": 1763946961170,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
