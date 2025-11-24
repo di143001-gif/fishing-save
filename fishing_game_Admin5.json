@@ -4,7 +4,7 @@
     "exp": 1064,
     "coins": 1543,
     "gems": 0,
-    "health": 19,
+    "health": 20,
     "maxHealth": 140,
     "points": 0,
     "fishInventory": [],
@@ -207,11 +207,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960371560,
+    "lastHpRegen": 1763960383560,
     "activeEvents": [
       "doubleExp"
     ],
@@ -251,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960383493,
+  "timestamp": 1763960392062,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
