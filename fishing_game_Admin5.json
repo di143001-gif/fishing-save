@@ -4,7 +4,7 @@
     "exp": 1371,
     "coins": 5410,
     "gems": 0,
-    "health": 101,
+    "health": 100,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -176,7 +176,7 @@
     "materials": {
       "bamboo": 104,
       "metal": 100,
-      "spiderweb": 108
+      "spiderweb": 109
     },
     "christmasInventory": {
       "snow": 0,
@@ -190,11 +190,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763985440861,
+    "lastHpRegen": 1763985452861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -234,7 +234,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763985450834,
+  "timestamp": 1763985458431,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
