@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 3,
-    "exp": 263,
+    "exp": 357,
     "coins": 1827,
     "gems": 0,
     "health": 120,
@@ -21,6 +21,13 @@
         "exp": 300,
         "value": 800,
         "rarity": "christmas"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.69,
+        "exp": 94,
+        "value": 169,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -79,7 +86,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -96,11 +103,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 5,
+      "totalFishCaught": 6,
       "biggestFish": 1.9,
       "totalEarnings": 327,
       "playTime": 0,
-      "dailyFishCaught": 5,
+      "dailyFishCaught": 6,
       "dailyEarnings": 327
     },
     "materials": {
@@ -124,7 +131,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763959245434,
+    "lastHpRegen": 1763959270541,
     "activeEvents": [
       "doubleExp"
     ],
@@ -156,7 +163,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 278,
+      "countdownId": 297,
       "testMode": true
     },
     "eventStartTimes": {
@@ -164,7 +171,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763959253121,
+  "timestamp": 1763959271041,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
