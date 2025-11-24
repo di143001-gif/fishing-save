@@ -84,7 +84,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "events-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -116,7 +116,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 94,
+      "countdownId": 98,
       "testMode": true
     },
     "eventStartTimes": {
@@ -124,7 +124,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763958196521,
+  "timestamp": 1763958198374,
   "version": "4.0-cloud",
   "user": "Admin"
 }
