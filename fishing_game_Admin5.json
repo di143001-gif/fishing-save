@@ -66,7 +66,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -83,7 +83,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -213,13 +213,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763990324861,
+    "lastHpRegen": 1763990336861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": 3,
     "isCrafting": false,
     "craftingEndTime": 1763988350619,
     "christmasEvent": {
@@ -253,7 +253,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763990335748,
+  "timestamp": 1763990337977,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
