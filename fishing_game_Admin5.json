@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 4,
-    "exp": 224,
+    "exp": 547,
     "coins": 3230,
     "gems": 0,
-    "health": 9,
+    "health": 10,
     "maxHealth": 130,
     "points": 0,
     "fishInventory": [
@@ -21,6 +21,34 @@
         "exp": 51,
         "value": 93,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.04,
+        "exp": 58,
+        "value": 104,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.41,
+        "exp": 83,
+        "value": 141,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.79,
+        "exp": 117,
+        "value": 179,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.29,
+        "exp": 65,
+        "value": 129,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -28,7 +56,7 @@
         "id": 1,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1657800,
         "type": "crafted",
@@ -45,7 +73,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -62,7 +90,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -96,7 +124,7 @@
         "id": 5,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1362600.0000000002,
         "type": "crafted",
@@ -113,7 +141,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -181,11 +209,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 11,
+      "totalFishCaught": 15,
       "biggestFish": 1.9,
       "totalEarnings": 1730,
       "playTime": 0,
-      "dailyFishCaught": 11,
+      "dailyFishCaught": 15,
       "dailyEarnings": 1730
     },
     "materials": {
@@ -209,13 +237,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763959953560,
+    "lastHpRegen": 1763959965560,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1763959945585,
     "christmasEvent": {
@@ -249,7 +277,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763959963215,
+  "timestamp": 1763959965863,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
