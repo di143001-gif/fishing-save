@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 5,
-    "exp": 193,
+    "exp": 330,
     "coins": 4485,
     "gems": 0,
     "health": 3,
@@ -28,6 +28,20 @@
         "exp": 64,
         "value": 97,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2,
+        "exp": 112,
+        "value": 200,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.51,
+        "exp": 25,
+        "value": 51,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -35,7 +49,7 @@
         "id": 1,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1657800,
         "type": "crafted",
@@ -52,7 +66,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -120,7 +134,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -205,11 +219,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 22,
-      "biggestFish": 1.94,
+      "totalFishCaught": 24,
+      "biggestFish": 2,
       "totalEarnings": 2985,
       "playTime": 0,
-      "dailyFishCaught": 22,
+      "dailyFishCaught": 24,
       "dailyEarnings": 2985
     },
     "materials": {
@@ -239,7 +253,7 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 5,
     "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
@@ -273,7 +287,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960175141,
+  "timestamp": 1763960177715,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
