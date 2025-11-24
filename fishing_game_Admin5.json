@@ -4,7 +4,7 @@
     "exp": 893,
     "coins": 3802,
     "gems": 0,
-    "health": 3,
+    "health": 4,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -80,7 +80,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -97,7 +97,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -114,7 +114,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -131,7 +131,7 @@
         "id": 5,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1362600.0000000002,
         "type": "crafted",
@@ -261,7 +261,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960714355,
+    "lastHpRegen": 1763960726395,
     "activeEvents": [
       "doubleExp"
     ],
@@ -301,7 +301,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960724534,
+  "timestamp": 1763960728537,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
