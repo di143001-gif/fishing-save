@@ -176,6 +176,23 @@
           "timeBonus": 27.48
         },
         "craftedId": "id_1763959945590_b03nc6iwc"
+      },
+      {
+        "id": 10,
+        "name": "Cần Câu Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 717000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 6.86,
+          "expBonus": 19.02,
+          "timeBonus": 1.95
+        },
+        "craftedId": "id_1763960154908_p34hp8wau"
       }
     ],
     "itemsInventory": [],
@@ -216,7 +233,7 @@
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
       "active": true,
@@ -249,7 +266,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960152062,
+  "timestamp": 1763960155419,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
