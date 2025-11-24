@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 5,
-    "exp": 476,
+    "exp": 614,
     "coins": 60,
     "gems": 0,
     "health": 8,
@@ -21,6 +21,13 @@
         "exp": 99,
         "value": 171,
         "rarity": "rare"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.82,
+        "exp": 138,
+        "value": 410,
+        "rarity": "golden"
       }
     ],
     "rodsInventory": [
@@ -198,11 +205,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 26,
+      "totalFishCaught": 27,
       "biggestFish": 2,
       "totalEarnings": 3560,
       "playTime": 0,
-      "dailyFishCaught": 26,
+      "dailyFishCaught": 27,
       "dailyEarnings": 3560
     },
     "materials": {
@@ -266,7 +273,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960238611,
+  "timestamp": 1763960241145,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
