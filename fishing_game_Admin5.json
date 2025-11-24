@@ -2,68 +2,18 @@
   "playerData": {
     "level": 5,
     "exp": 1064,
-    "coins": 732,
+    "coins": 1543,
     "gems": 0,
     "health": 19,
     "maxHealth": 140,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.28,
-        "exp": 18,
-        "value": 28,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.27,
-        "exp": 17,
-        "value": 27,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.96,
-        "exp": 100,
-        "value": 196,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.86,
-        "exp": 111,
-        "value": 186,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.97,
-        "exp": 104,
-        "value": 197,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.2,
-        "exp": 67,
-        "value": 120,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.58,
-        "exp": 33,
-        "value": 57,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1657800,
         "type": "crafted",
@@ -235,10 +185,10 @@
     "statistics": {
       "totalFishCaught": 34,
       "biggestFish": 2,
-      "totalEarnings": 4232,
+      "totalEarnings": 5043,
       "playTime": 0,
       "dailyFishCaught": 34,
-      "dailyEarnings": 4232
+      "dailyEarnings": 5043
     },
     "materials": {
       "bamboo": 21,
@@ -257,7 +207,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -301,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960375652,
+  "timestamp": 1763960383493,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
