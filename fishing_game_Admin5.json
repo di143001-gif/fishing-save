@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 5,
-    "exp": 1031,
+    "exp": 1064,
     "coins": 732,
     "gems": 0,
     "health": 19,
@@ -49,6 +49,13 @@
         "exp": 67,
         "value": 120,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.58,
+        "exp": 33,
+        "value": 57,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -73,7 +80,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -90,7 +97,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -226,11 +233,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 33,
+      "totalFishCaught": 34,
       "biggestFish": 2,
       "totalEarnings": 4232,
       "playTime": 0,
-      "dailyFishCaught": 33,
+      "dailyFishCaught": 34,
       "dailyEarnings": 4232
     },
     "materials": {
@@ -260,7 +267,7 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 2,
     "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
@@ -294,7 +301,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960372350,
+  "timestamp": 1763960373803,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
