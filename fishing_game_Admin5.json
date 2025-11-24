@@ -4,7 +4,7 @@
     "exp": 649,
     "coins": 732,
     "gems": 0,
-    "health": 12,
+    "health": 13,
     "maxHealth": 140,
     "points": 0,
     "fishInventory": [
@@ -130,7 +130,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -226,13 +226,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960284561,
+    "lastHpRegen": 1763960296561,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 6,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
@@ -266,7 +266,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960289321,
+  "timestamp": 1763960299626,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
