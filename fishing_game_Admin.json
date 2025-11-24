@@ -42,7 +42,7 @@
         "id": "id_1763907062802_1n6xyr5nz",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1185000,
         "type": "crafted",
@@ -72,6 +72,11 @@
       "metal": 0,
       "spiderweb": 0
     },
+    "christmasInventory": {
+      "snow": 0,
+      "gifts": 0,
+      "santaHat": false
+    },
     "craftedItems": {
       "hooks": [],
       "rods": [],
@@ -83,7 +88,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763956851431,
+    "lastHpRegen": 1763958126999,
     "activeEvents": [
       "luckyDay"
     ],
@@ -92,12 +97,33 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 0,
+    "christmasEvent": {
+      "active": false,
+      "startDate": "2024-12-20",
+      "endDate": "2024-12-27",
+      "dailyLogin": {
+        "lastLogin": null,
+        "consecutiveDays": 0,
+        "claimedDays": []
+      },
+      "collection": {
+        "collectedFishes": [],
+        "completed": false
+      },
+      "inventory": {
+        "snow": 0,
+        "gifts": 0,
+        "santaHat": false
+      },
+      "countdownId": 37,
+      "testMode": false
+    },
     "eventStartTimes": {
       "luckyDay": 1763901555945
     },
     "mail": []
   },
-  "timestamp": 1763956854439,
+  "timestamp": 1763958136005,
   "version": "4.0-cloud",
   "user": "Admin"
 }
