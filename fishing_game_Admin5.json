@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 6,
-    "exp": 993,
+    "exp": 1227,
     "coins": 3802,
     "gems": 0,
-    "health": 9,
+    "health": 10,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -77,6 +77,27 @@
         "exp": 18,
         "value": 28,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.51,
+        "exp": 89,
+        "value": 151,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2,
+        "exp": 119,
+        "value": 200,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.51,
+        "exp": 26,
+        "value": 51,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -118,7 +139,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -203,7 +224,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 1,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2476200,
         "type": "crafted",
@@ -220,7 +241,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2248800,
         "type": "crafted",
@@ -237,7 +258,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 717000,
         "type": "crafted",
@@ -254,11 +275,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 56,
+      "totalFishCaught": 59,
       "biggestFish": 2,
       "totalEarnings": 7302,
       "playTime": 0,
-      "dailyFishCaught": 56,
+      "dailyFishCaught": 59,
       "dailyEarnings": 7302
     },
     "materials": {
@@ -282,13 +303,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960787560,
+    "lastHpRegen": 1763960799561,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 4,
     "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
@@ -322,7 +343,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960797505,
+  "timestamp": 1763960799707,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
