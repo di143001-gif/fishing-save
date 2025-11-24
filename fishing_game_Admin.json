@@ -84,13 +84,14 @@
     }
   },
   "gameState": {
-    "currentScreen": "events-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763958164875,
+    "lastHpRegen": 1763958189874,
     "activeEvents": [
-      "luckyDay"
+      "luckyDay",
+      "christmas"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -98,7 +99,7 @@
     "isCrafting": false,
     "craftingEndTime": 0,
     "christmasEvent": {
-      "active": false,
+      "active": true,
       "startDate": "2024-12-20",
       "endDate": "2024-12-27",
       "dailyLogin": {
@@ -115,15 +116,15 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 70,
-      "testMode": false
+      "countdownId": 94,
+      "testMode": true
     },
     "eventStartTimes": {
       "luckyDay": 1763901555945
     },
     "mail": []
   },
-  "timestamp": 1763958174712,
+  "timestamp": 1763958196521,
   "version": "4.0-cloud",
   "user": "Admin"
 }
