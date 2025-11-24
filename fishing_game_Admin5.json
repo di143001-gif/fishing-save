@@ -55,7 +55,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -72,7 +72,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -100,24 +100,61 @@
       "bamboo": 10,
       "metal": 10,
       "spiderweb": 7
+    },
+    "christmasInventory": {
+      "snow": 0,
+      "gifts": 0,
+      "santaHat": false
+    },
+    "craftedItems": {
+      "hooks": [],
+      "rods": [],
+      "lines": []
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763949496052,
+    "lastHpRegen": 1763958256874,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 2,
     "isCrafting": false,
-    "craftingEndTime": 1763916533415
+    "craftingEndTime": 1763916533415,
+    "christmasEvent": {
+      "active": true,
+      "startDate": "2024-12-20",
+      "endDate": "2024-12-27",
+      "dailyLogin": {
+        "lastLogin": "2025-11-24",
+        "consecutiveDays": 1,
+        "claimedDays": [
+          "2025-11-24"
+        ]
+      },
+      "collection": {
+        "collectedFishes": [],
+        "completed": false
+      },
+      "inventory": {
+        "snow": 0,
+        "gifts": 0,
+        "santaHat": false
+      },
+      "countdownId": 165,
+      "testMode": true
+    },
+    "eventStartTimes": {
+      "luckyDay": 1763901555945
+    },
+    "mail": []
   },
-  "timestamp": 1763949503051,
+  "timestamp": 1763958258423,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
