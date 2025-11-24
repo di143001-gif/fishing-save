@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 5,
-    "exp": 377,
+    "exp": 476,
     "coins": 60,
     "gems": 0,
-    "health": 7,
+    "health": 8,
     "maxHealth": 140,
     "points": 0,
     "fishInventory": [
@@ -14,6 +14,13 @@
         "exp": 47,
         "value": 91,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.71,
+        "exp": 99,
+        "value": 171,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -21,7 +28,7 @@
         "id": 1,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1657800,
         "type": "crafted",
@@ -140,7 +147,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 1,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2476200,
         "type": "crafted",
@@ -191,11 +198,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 25,
+      "totalFishCaught": 26,
       "biggestFish": 2,
       "totalEarnings": 3560,
       "playTime": 0,
-      "dailyFishCaught": 25,
+      "dailyFishCaught": 26,
       "dailyEarnings": 3560
     },
     "materials": {
@@ -219,13 +226,13 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960222561,
+    "lastHpRegen": 1763960234862,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 9,
     "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
@@ -259,7 +266,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960234793,
+  "timestamp": 1763960236483,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
