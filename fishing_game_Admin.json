@@ -90,8 +90,7 @@
     "lastFishingTime": 0,
     "lastHpRegen": 1763958164875,
     "activeEvents": [
-      "luckyDay",
-      "christmas"
+      "luckyDay"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -99,7 +98,7 @@
     "isCrafting": false,
     "craftingEndTime": 0,
     "christmasEvent": {
-      "active": true,
+      "active": false,
       "startDate": "2024-12-20",
       "endDate": "2024-12-27",
       "dailyLogin": {
@@ -116,15 +115,15 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 62,
-      "testMode": true
+      "countdownId": 70,
+      "testMode": false
     },
     "eventStartTimes": {
       "luckyDay": 1763901555945
     },
     "mail": []
   },
-  "timestamp": 1763958168374,
+  "timestamp": 1763958174712,
   "version": "4.0-cloud",
   "user": "Admin"
 }
