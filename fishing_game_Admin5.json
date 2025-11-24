@@ -2,76 +2,12 @@
   "playerData": {
     "level": 6,
     "exp": 2279,
-    "coins": 5797,
+    "coins": 7171,
     "gems": 0,
     "health": 150,
     "maxHealth": 150,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.98,
-        "exp": 111,
-        "value": 198,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.05,
-        "exp": 70,
-        "value": 105,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.3,
-        "exp": 16,
-        "value": 30,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.11,
-        "exp": 5,
-        "value": 11,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.85,
-        "exp": 50,
-        "value": 85,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.52,
-        "exp": 26,
-        "value": 52,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Vàng",
-        "weight": 1.24,
-        "exp": 252,
-        "value": 620,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.74,
-        "exp": 44,
-        "value": 74,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.99,
-        "exp": 121,
-        "value": 199,
-        "rarity": "rare"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 2,
@@ -249,10 +185,10 @@
     "statistics": {
       "totalFishCaught": 74,
       "biggestFish": 2,
-      "totalEarnings": 9297,
+      "totalEarnings": 10671,
       "playTime": 0,
       "dailyFishCaught": 74,
-      "dailyEarnings": 9297
+      "dailyEarnings": 10671
     },
     "materials": {
       "bamboo": 51,
@@ -271,7 +207,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -315,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763990895625,
+  "timestamp": 1763990898160,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
