@@ -140,9 +140,9 @@
       "dailyEarnings": 1730
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 20,
-      "spiderweb": 20
+      "bamboo": 10,
+      "metal": 10,
+      "spiderweb": 10
     },
     "christmasInventory": {
       "snow": 0,
@@ -167,8 +167,8 @@
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1763959922022,
+    "isCrafting": true,
+    "craftingEndTime": 1763959934118,
     "christmasEvent": {
       "active": true,
       "startDate": "2024-12-20",
@@ -200,7 +200,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763959922535,
+  "timestamp": 1763959924622,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
