@@ -2,7 +2,7 @@
   "playerData": {
     "level": 1,
     "exp": 81,
-    "coins": 1500,
+    "coins": 2100,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
@@ -84,11 +84,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "events-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763958189874,
+    "lastHpRegen": 1763958226030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -103,9 +103,11 @@
       "startDate": "2024-12-20",
       "endDate": "2024-12-27",
       "dailyLogin": {
-        "lastLogin": null,
-        "consecutiveDays": 0,
-        "claimedDays": []
+        "lastLogin": "2025-11-24",
+        "consecutiveDays": 1,
+        "claimedDays": [
+          "2025-11-24"
+        ]
       },
       "collection": {
         "collectedFishes": [],
@@ -116,7 +118,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 98,
+      "countdownId": 123,
       "testMode": true
     },
     "eventStartTimes": {
@@ -124,7 +126,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763958198374,
+  "timestamp": 1763958228570,
   "version": "4.0-cloud",
   "user": "Admin"
 }
