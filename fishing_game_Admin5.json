@@ -156,7 +156,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 268,
+      "countdownId": 278,
       "testMode": true
     },
     "eventStartTimes": {
@@ -164,7 +164,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763959250387,
+  "timestamp": 1763959253121,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
