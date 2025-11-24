@@ -79,11 +79,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "account-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763956364608,
+    "lastHpRegen": 1763956403432,
     "activeEvents": [
       "luckyDay"
     ],
@@ -97,7 +97,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763956373108,
+  "timestamp": 1763956404434,
   "version": "4.0-cloud",
   "user": "Admin"
 }
