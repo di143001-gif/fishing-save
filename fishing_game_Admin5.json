@@ -112,23 +112,6 @@
         "craftedId": "id_1763959934121_c74r2wxk0"
       },
       {
-        "id": 9,
-        "name": "Cần Câu Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 2248800,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 10.7,
-          "expBonus": 6.57,
-          "timeBonus": 27.48
-        },
-        "craftedId": "id_1763959945590_b03nc6iwc"
-      },
-      {
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 0,
@@ -144,23 +127,6 @@
           "timeBonus": 18.55
         },
         "craftedId": "id_1763988251928_8ymbrpzj2"
-      },
-      {
-        "id": 9,
-        "name": "Cần Câu Tự Chế",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 1174200,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 5.58,
-          "expBonus": 40.29,
-          "timeBonus": 9.57
-        },
-        "craftedId": "id_1763988263473_pp9tqh15x"
       },
       {
         "id": 10,
@@ -207,7 +173,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -251,7 +217,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763988275650,
+  "timestamp": 1763988284406,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
