@@ -178,7 +178,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1315200,
         "type": "crafted",
@@ -203,9 +203,9 @@
       "dailyEarnings": 9297
     },
     "materials": {
-      "bamboo": 61,
-      "metal": 61,
-      "spiderweb": 59
+      "bamboo": 51,
+      "metal": 51,
+      "spiderweb": 49
     },
     "christmasInventory": {
       "snow": 0,
@@ -219,7 +219,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -229,9 +229,9 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 8,
-    "isCrafting": false,
-    "craftingEndTime": 1763990403673,
+    "selectedSlotIndex": null,
+    "isCrafting": true,
+    "craftingEndTime": 1763990465787,
     "christmasEvent": {
       "active": true,
       "startDate": "2024-12-20",
@@ -263,7 +263,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763990448982,
+  "timestamp": 1763990456291,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
