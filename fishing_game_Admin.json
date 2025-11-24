@@ -84,11 +84,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "events-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763958152030,
+    "lastHpRegen": 1763958164875,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -116,7 +116,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 54,
+      "countdownId": 62,
       "testMode": true
     },
     "eventStartTimes": {
@@ -124,7 +124,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763958161915,
+  "timestamp": 1763958168374,
   "version": "4.0-cloud",
   "user": "Admin"
 }
