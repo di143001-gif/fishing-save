@@ -2,62 +2,12 @@
   "playerData": {
     "level": 5,
     "exp": 1545,
-    "coins": 1543,
+    "coins": 2520,
     "gems": 0,
-    "health": 29,
+    "health": 30,
     "maxHealth": 140,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 0.82,
-        "exp": 144,
-        "value": 410,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.83,
-        "exp": 55,
-        "value": 83,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.34,
-        "exp": 22,
-        "value": 34,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.46,
-        "exp": 87,
-        "value": 146,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.22,
-        "exp": 68,
-        "value": 122,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.5,
-        "exp": 89,
-        "value": 150,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.32,
-        "exp": 16,
-        "value": 32,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -216,7 +166,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 717000,
         "type": "crafted",
@@ -235,10 +185,10 @@
     "statistics": {
       "totalFishCaught": 41,
       "biggestFish": 2,
-      "totalEarnings": 5043,
+      "totalEarnings": 6020,
       "playTime": 0,
       "dailyFishCaught": 41,
-      "dailyEarnings": 5043
+      "dailyEarnings": 6020
     },
     "materials": {
       "bamboo": 21,
@@ -257,17 +207,17 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960494561,
+    "lastHpRegen": 1763960506561,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 9,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1763960154903,
     "christmasEvent": {
@@ -301,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960497019,
+  "timestamp": 1763960508613,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
