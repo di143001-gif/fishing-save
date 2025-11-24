@@ -4,7 +4,7 @@
     "exp": 1371,
     "coins": 5410,
     "gems": 0,
-    "health": 31,
+    "health": 32,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -161,6 +161,23 @@
           "timeBonus": 17.55
         },
         "craftedId": "id_1763988297790_hd7pa66qb"
+      },
+      {
+        "id": 10,
+        "name": "Cần Câu Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1800600.0000000002,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 2.16,
+          "expBonus": 40.54,
+          "timeBonus": 20.01
+        },
+        "craftedId": "id_1763988324854_zj3o7t2h7"
       }
     ],
     "itemsInventory": [],
@@ -174,9 +191,9 @@
       "dailyEarnings": 8910
     },
     "materials": {
-      "bamboo": 91,
-      "metal": 80,
-      "spiderweb": 81
+      "bamboo": 81,
+      "metal": 70,
+      "spiderweb": 71
     },
     "christmasInventory": {
       "snow": 0,
@@ -194,7 +211,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763988308861,
+    "lastHpRegen": 1763988320861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -202,7 +219,7 @@
     "fishingSlots": [],
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 1763988297789,
+    "craftingEndTime": 1763988324850,
     "christmasEvent": {
       "active": true,
       "startDate": "2024-12-20",
@@ -234,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763988314405,
+  "timestamp": 1763988325362,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
