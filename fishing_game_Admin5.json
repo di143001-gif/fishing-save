@@ -55,7 +55,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -72,7 +72,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -123,7 +123,7 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 2,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1763916533415,
     "christmasEvent": {
@@ -146,7 +146,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 165,
+      "countdownId": 169,
       "testMode": true
     },
     "eventStartTimes": {
@@ -154,7 +154,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763958258423,
+  "timestamp": 1763958260026,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
