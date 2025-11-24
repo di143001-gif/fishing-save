@@ -199,7 +199,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 2248800,
         "type": "crafted",
@@ -216,7 +216,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 717000,
         "type": "crafted",
@@ -301,7 +301,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960730453,
+  "timestamp": 1763960732789,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
