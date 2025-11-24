@@ -111,7 +111,7 @@
       "dailyEarnings": 327
     },
     "materials": {
-      "bamboo": 25,
+      "bamboo": 26,
       "metal": 30,
       "spiderweb": 30
     },
@@ -131,7 +131,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763959608892,
+    "lastHpRegen": 1763959621561,
     "activeEvents": [
       "doubleExp"
     ],
@@ -171,7 +171,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763959620183,
+  "timestamp": 1763959623177,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
