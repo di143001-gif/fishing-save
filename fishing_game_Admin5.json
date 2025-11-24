@@ -4,7 +4,7 @@
     "exp": 1371,
     "coins": 5410,
     "gems": 0,
-    "health": 137,
+    "health": 127,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -157,7 +157,7 @@
       "dailyEarnings": 8910
     },
     "materials": {
-      "bamboo": 71,
+      "bamboo": 76,
       "metal": 60,
       "spiderweb": 69
     },
@@ -217,7 +217,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763988293233,
+  "timestamp": 1763988294938,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
