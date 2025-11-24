@@ -4,7 +4,7 @@
     "exp": 1064,
     "coins": 1543,
     "gems": 0,
-    "health": 25,
+    "health": 27,
     "maxHealth": 140,
     "points": 0,
     "fishInventory": [],
@@ -211,7 +211,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763960446560,
+    "lastHpRegen": 1763960470560,
     "activeEvents": [
       "doubleExp"
     ],
@@ -251,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960458088,
+  "timestamp": 1763960477390,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
