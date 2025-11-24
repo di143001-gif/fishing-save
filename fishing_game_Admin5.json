@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 6,
-    "exp": 4,
+    "exp": 434,
     "coins": 2520,
     "gems": 0,
     "health": 150,
@@ -13,6 +13,27 @@
         "weight": 1.01,
         "exp": 59,
         "value": 101,
+        "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.55,
+        "exp": 303,
+        "value": 775,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.88,
+        "exp": 106,
+        "value": 188,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.36,
+        "exp": 21,
+        "value": 36,
         "rarity": "common"
       }
     ],
@@ -38,7 +59,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -89,7 +110,7 @@
         "id": 5,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1362600.0000000002,
         "type": "crafted",
@@ -174,7 +195,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 717000,
         "type": "crafted",
@@ -191,11 +212,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 42,
+      "totalFishCaught": 45,
       "biggestFish": 2,
       "totalEarnings": 6020,
       "playTime": 0,
-      "dailyFishCaught": 42,
+      "dailyFishCaught": 45,
       "dailyEarnings": 6020
     },
     "materials": {
@@ -259,7 +280,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960557938,
+  "timestamp": 1763960559666,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
