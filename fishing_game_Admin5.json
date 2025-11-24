@@ -4,7 +4,7 @@
     "exp": 1371,
     "coins": 5410,
     "gems": 0,
-    "health": 127,
+    "health": 114,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -157,8 +157,8 @@
       "dailyEarnings": 8910
     },
     "materials": {
-      "bamboo": 76,
-      "metal": 60,
+      "bamboo": 80,
+      "metal": 62,
       "spiderweb": 69
     },
     "christmasInventory": {
@@ -177,7 +177,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763988284861,
+    "lastHpRegen": 1763988296861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -217,7 +217,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763988294938,
+  "timestamp": 1763988297344,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
