@@ -2,104 +2,12 @@
   "playerData": {
     "level": 6,
     "exp": 1227,
-    "coins": 3802,
+    "coins": 5050,
     "gems": 0,
     "health": 17,
     "maxHealth": 150,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.2,
-        "exp": 11,
-        "value": 20,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.85,
-        "exp": 102,
-        "value": 185,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.13,
-        "exp": 67,
-        "value": 112,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.93,
-        "exp": 60,
-        "value": 93,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.39,
-        "exp": 22,
-        "value": 39,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1,
-        "exp": 53,
-        "value": 100,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.37,
-        "exp": 21,
-        "value": 37,
-        "rarity": "common"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 0.41,
-        "exp": 69,
-        "value": 205,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.27,
-        "exp": 13,
-        "value": 27,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.29,
-        "exp": 18,
-        "value": 28,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.51,
-        "exp": 89,
-        "value": 151,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2,
-        "exp": 119,
-        "value": 200,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.51,
-        "exp": 26,
-        "value": 51,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -277,10 +185,10 @@
     "statistics": {
       "totalFishCaught": 59,
       "biggestFish": 2,
-      "totalEarnings": 7302,
+      "totalEarnings": 8550,
       "playTime": 0,
       "dailyFishCaught": 59,
-      "dailyEarnings": 7302
+      "dailyEarnings": 8550
     },
     "materials": {
       "bamboo": 50,
@@ -343,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763960895047,
+  "timestamp": 1763960897969,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
