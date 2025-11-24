@@ -2,12 +2,20 @@
   "playerData": {
     "level": 6,
     "exp": 1371,
-    "coins": 5410,
+    "coins": 5050,
     "gems": 0,
     "health": 150,
     "maxHealth": 150,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.72,
+        "exp": 144,
+        "value": 360,
+        "rarity": "golden"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -132,7 +140,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 1,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 2476200,
         "type": "crafted",
@@ -149,7 +157,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 2248800,
         "type": "crafted",
@@ -185,10 +193,10 @@
     "statistics": {
       "totalFishCaught": 60,
       "biggestFish": 2,
-      "totalEarnings": 8910,
+      "totalEarnings": 8550,
       "playTime": 0,
       "dailyFishCaught": 60,
-      "dailyEarnings": 8910
+      "dailyEarnings": 8550
     },
     "materials": {
       "bamboo": 50,
@@ -207,11 +215,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763963248505,
+    "lastHpRegen": 1763963260047,
     "activeEvents": [
       "doubleExp"
     ],
@@ -251,7 +259,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763963256902,
+  "timestamp": 1763963265047,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
