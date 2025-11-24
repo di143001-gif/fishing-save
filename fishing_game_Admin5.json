@@ -124,7 +124,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1763958268874,
+    "lastHpRegen": 1763958281031,
     "activeEvents": [
       "doubleExp"
     ],
@@ -146,7 +146,8 @@
       },
       "collection": {
         "collectedFishes": [
-          "🦌 Cá Tuần Lộc"
+          "🦌 Cá Tuần Lộc",
+          "🎄 Cá Noel"
         ],
         "completed": false
       },
@@ -155,7 +156,7 @@
         "gifts": 0,
         "santaHat": false
       },
-      "countdownId": 205,
+      "countdownId": 211,
       "testMode": true
     },
     "eventStartTimes": {
@@ -163,7 +164,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763958276774,
+  "timestamp": 1763958282032,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
