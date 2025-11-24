@@ -4,7 +4,7 @@
     "exp": 1371,
     "coins": 5410,
     "gems": 0,
-    "health": 146,
+    "health": 139,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -193,7 +193,7 @@
     "materials": {
       "bamboo": 60,
       "metal": 60,
-      "spiderweb": 53
+      "spiderweb": 56
     },
     "christmasInventory": {
       "snow": 0,
@@ -251,7 +251,7 @@
     },
     "mail": []
   },
-  "timestamp": 1763970022195,
+  "timestamp": 1763970023193,
   "version": "4.0-cloud",
   "user": "Admin5"
 }
