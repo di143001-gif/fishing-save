@@ -4,7 +4,7 @@
     "exp": 706,
     "coins": 3317,
     "gems": 0,
-    "health": 41,
+    "health": 37,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -193,7 +193,7 @@
     "materials": {
       "bamboo": 61,
       "metal": 52,
-      "spiderweb": 51
+      "spiderweb": 55
     },
     "christmasInventory": {
       "snow": 0,
@@ -207,11 +207,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "leaderboard-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764082208861,
+    "lastHpRegen": 1764082232861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764082211182,
+  "timestamp": 1764082236718,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
