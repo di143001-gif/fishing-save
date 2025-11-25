@@ -264,7 +264,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "chicken-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -273,118 +273,7 @@
       "doubleExp"
     ],
     "dailyRewards": {},
-    "fishingSlots": [
-      {
-        "slotIndex": 0,
-        "channel": "Kênh 1",
-        "rodId": 2,
-        "startTime": 1764084070076,
-        "endTime": 1764085219676,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 1,
-        "channel": "Kênh 1",
-        "rodId": 3,
-        "startTime": 1764084070922,
-        "endTime": 1764085176122,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 2,
-        "channel": "Kênh 1",
-        "rodId": 4,
-        "startTime": 1764084071833,
-        "endTime": 1764085348033,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 3,
-        "channel": "Kênh 1",
-        "rodId": 6,
-        "startTime": 1764084072696,
-        "endTime": 1764085690296,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 4,
-        "channel": "Kênh 1",
-        "rodId": 7,
-        "startTime": 1764084073679,
-        "endTime": 1764084944279,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 5,
-        "channel": "Kênh 1",
-        "rodId": 8,
-        "startTime": 1764084074485,
-        "endTime": 1764086944885,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 6,
-        "channel": "Kênh 1",
-        "rodId": 8,
-        "startTime": 1764084075518,
-        "endTime": 1764085788518,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 7,
-        "channel": "Kênh 1",
-        "rodId": 8,
-        "startTime": 1764084076401,
-        "endTime": 1764084993801,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 8,
-        "channel": "Kênh 1",
-        "rodId": 9,
-        "startTime": 1764084077914,
-        "endTime": 1764085435714,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 9,
-        "channel": "Kênh 1",
-        "rodId": 10,
-        "startTime": 1764084078891,
-        "endTime": 1764085328691,
-        "status": "Đang câu",
-        "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      }
-    ],
+    "fishingSlots": [],
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
@@ -426,7 +315,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764084084752,
+  "timestamp": 1764084088991,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
