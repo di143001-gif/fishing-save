@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 3048,
+    "exp": 3324,
     "coins": 6612,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -49,6 +49,20 @@
         "exp": 67,
         "value": 111,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.95,
+        "exp": 103,
+        "value": 195,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.49,
+        "exp": 173,
+        "value": 249,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -141,7 +155,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 3,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 2870400,
         "type": "crafted",
@@ -209,7 +223,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -226,11 +240,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 185,
+      "totalFishCaught": 187,
       "biggestFish": 2.73,
       "totalEarnings": 28862,
       "playTime": 0,
-      "dailyFishCaught": 185,
+      "dailyFishCaught": 187,
       "dailyEarnings": 28862
     },
     "materials": {
@@ -254,13 +268,13 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764083480861,
+    "lastHpRegen": 1764083492861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 6,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -301,7 +315,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764083492586,
+  "timestamp": 1764083494941,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
