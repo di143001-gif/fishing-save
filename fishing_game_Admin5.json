@@ -183,6 +183,23 @@
           "timeBonus": 12.63
         },
         "craftedId": "id_1764046915052_ek8wbvok8"
+      },
+      {
+        "id": 10,
+        "name": "Cần Câu Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1249800,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 9.48,
+          "expBonus": 40.32,
+          "timeBonus": 10.83
+        },
+        "craftedId": "id_1764046926464_iq1vaywiq"
       }
     ],
     "itemsInventory": [],
@@ -212,7 +229,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -223,7 +240,7 @@
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
       "active": true,
@@ -263,7 +280,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764046921033,
+  "timestamp": 1764046926975,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
