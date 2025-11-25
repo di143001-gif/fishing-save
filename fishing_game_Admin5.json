@@ -157,7 +157,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -191,7 +191,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -334,11 +334,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
-    "currentLocation": "Khu Rừng Tràm",
+    "currentScreen": "select-channel",
+    "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764076340861,
+    "lastHpRegen": 1764076364861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -385,7 +385,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764076347127,
+  "timestamp": 1764076366439,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
