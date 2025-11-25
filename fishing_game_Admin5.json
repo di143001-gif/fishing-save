@@ -157,7 +157,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -338,7 +338,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764076616861,
+    "lastHpRegen": 1764076640861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -385,7 +385,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764076627922,
+  "timestamp": 1764076647460,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
