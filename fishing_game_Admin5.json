@@ -179,9 +179,9 @@
       "dailyEarnings": 11425
     },
     "materials": {
-      "bamboo": 51,
-      "metal": 51,
-      "spiderweb": 49
+      "bamboo": 41,
+      "metal": 41,
+      "spiderweb": 39
     },
     "christmasInventory": {
       "snow": 0,
@@ -195,19 +195,19 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764046892861,
+    "lastHpRegen": 1764046904861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1763990465787,
+    "isCrafting": true,
+    "craftingEndTime": 1764046915037,
     "christmasEvent": {
       "active": true,
       "startDate": "2024-12-20",
@@ -246,7 +246,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764046897890,
+  "timestamp": 1764046905555,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
