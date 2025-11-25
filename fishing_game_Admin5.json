@@ -2,7 +2,7 @@
   "playerData": {
     "level": 7,
     "exp": 4160,
-    "coins": 16666,
+    "coins": 9166,
     "gems": 0,
     "health": 150,
     "maxHealth": 150,
@@ -97,17 +97,17 @@
       {
         "id": 8,
         "name": "Cần Câu Tự Chế",
-        "level": 1,
+        "level": 2,
         "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
-        "maxFishingTime": 2476200,
+        "maxFishingTime": 2664000,
         "type": "crafted",
         "crafted": true,
         "stars": 1,
         "stats": {
-          "successRate": 15.26,
-          "expBonus": 19.34,
-          "timeBonus": 31.27
+          "successRate": 16.79,
+          "expBonus": 21.27,
+          "timeBonus": 34.4
         },
         "craftedId": "id_1763959934121_c74r2wxk0"
       },
@@ -207,11 +207,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764081608861,
+    "lastHpRegen": 1764081620861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764081616574,
+  "timestamp": 1764081623937,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
