@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 4220,
+    "exp": 4530,
     "coins": 7842,
     "gems": 0,
     "health": 150,
@@ -55,6 +55,20 @@
         "weight": 2.21,
         "exp": 154,
         "value": 221,
+        "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.36,
+        "exp": 276,
+        "value": 680,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.58,
+        "exp": 34,
+        "value": 57,
         "rarity": "common"
       }
     ],
@@ -131,7 +145,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -148,7 +162,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 3,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2870400,
         "type": "crafted",
@@ -233,11 +247,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 194,
+      "totalFishCaught": 196,
       "biggestFish": 2.88,
       "totalEarnings": 30092,
       "playTime": 0,
-      "dailyFishCaught": 194,
+      "dailyFishCaught": 196,
       "dailyEarnings": 30092
     },
     "materials": {
@@ -307,23 +321,6 @@
         "finishTimeout": null
       },
       {
-        "slotIndex": 4,
-        "channel": "Kênh 1",
-        "rodId": 7,
-        "startTime": 1764109889079,
-        "endTime": 1764110759679,
-        "status": "Cá dính câu!",
-        "fishCaught": {
-          "name": "🐠 Cá Vàng",
-          "weight": 1.36,
-          "exp": 276,
-          "value": 680,
-          "rarity": "golden"
-        },
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
         "slotIndex": 5,
         "channel": "Kênh 1",
         "rodId": 6,
@@ -348,23 +345,6 @@
         "endTime": 1764112762964,
         "status": "Đang câu",
         "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 6,
-        "channel": "Kênh 1",
-        "rodId": 8,
-        "startTime": 1764109896829,
-        "endTime": 1764111609829,
-        "status": "Cá dính câu!",
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 0.58,
-          "exp": 34,
-          "value": 57,
-          "rarity": "common"
-        },
         "checkInterval": null,
         "finishTimeout": null
       },
@@ -449,7 +429,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764111783788,
+  "timestamp": 1764111786843,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
