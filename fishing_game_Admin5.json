@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 5942,
+    "exp": 6055,
     "coins": 312,
     "gems": 0,
     "health": 25,
@@ -48,6 +48,13 @@
         "weight": 0.75,
         "exp": 45,
         "value": 75,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.68,
+        "exp": 113,
+        "value": 168,
         "rarity": "common"
       }
     ],
@@ -226,11 +233,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 151,
+      "totalFishCaught": 152,
       "biggestFish": 2.54,
       "totalEarnings": 22562,
       "playTime": 0,
-      "dailyFishCaught": 151,
+      "dailyFishCaught": 152,
       "dailyEarnings": 22562
     },
     "materials": {
@@ -260,7 +267,7 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 7,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -301,7 +308,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764082023348,
+  "timestamp": 1764082025042,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
