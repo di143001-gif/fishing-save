@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 498,
+    "exp": 730,
     "coins": 7925,
     "gems": 0,
     "health": 150,
@@ -91,6 +91,34 @@
         "exp": 75,
         "value": 143,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.86,
+        "exp": 48,
+        "value": 86,
+        "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.45,
+        "exp": 66,
+        "value": 225,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.36,
+        "exp": 81,
+        "value": 136,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.67,
+        "exp": 37,
+        "value": 67,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -98,7 +126,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -115,7 +143,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -132,7 +160,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -149,7 +177,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -268,11 +296,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 93,
+      "totalFishCaught": 97,
       "biggestFish": 2,
       "totalEarnings": 11425,
       "playTime": 0,
-      "dailyFishCaught": 93,
+      "dailyFishCaught": 97,
       "dailyEarnings": 11425
     },
     "materials": {
@@ -343,7 +371,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764049091957,
+  "timestamp": 1764049093511,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
