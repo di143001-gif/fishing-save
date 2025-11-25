@@ -4,7 +4,7 @@
     "exp": 4220,
     "coins": 7842,
     "gems": 0,
-    "health": 145,
+    "health": 146,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -63,7 +63,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -80,7 +80,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -97,7 +97,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -261,13 +261,47 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764085208861,
+    "lastHpRegen": 1764085220861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
-    "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "fishingSlots": [
+      {
+        "slotIndex": 0,
+        "channel": "Kênh 1",
+        "rodId": 2,
+        "startTime": 1764085223048,
+        "endTime": 1764086372648,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 1,
+        "channel": "Kênh 1",
+        "rodId": 3,
+        "startTime": 1764085223794,
+        "endTime": 1764086328994,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 2,
+        "channel": "Kênh 1",
+        "rodId": 4,
+        "startTime": 1764085224602,
+        "endTime": 1764086500802,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      }
+    ],
+    "selectedSlotIndex": 3,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -308,7 +342,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764085220912,
+  "timestamp": 1764085225107,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
