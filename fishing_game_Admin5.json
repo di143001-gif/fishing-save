@@ -4,7 +4,7 @@
     "exp": 706,
     "coins": 3317,
     "gems": 0,
-    "health": 29,
+    "health": 21,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -192,7 +192,7 @@
     },
     "materials": {
       "bamboo": 61,
-      "metal": 52,
+      "metal": 56,
       "spiderweb": 60
     },
     "christmasInventory": {
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764082238127,
+  "timestamp": 1764082239463,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
