@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 4758,
+    "exp": 4861,
     "coins": 10031,
     "gems": 0,
-    "health": 9,
+    "health": 10,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -20,6 +20,13 @@
         "weight": 0.61,
         "exp": 33,
         "value": 61,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.71,
+        "exp": 103,
+        "value": 171,
         "rarity": "common"
       }
     ],
@@ -62,7 +69,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -198,11 +205,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 142,
+      "totalFishCaught": 143,
       "biggestFish": 2.54,
       "totalEarnings": 21031,
       "playTime": 0,
-      "dailyFishCaught": 142,
+      "dailyFishCaught": 143,
       "dailyEarnings": 21031
     },
     "materials": {
@@ -226,13 +233,13 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764081824861,
+    "lastHpRegen": 1764081836861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 2,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -273,7 +280,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764081837177,
+  "timestamp": 1764081839548,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
