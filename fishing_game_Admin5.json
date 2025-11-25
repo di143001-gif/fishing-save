@@ -258,7 +258,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -303,7 +303,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764076256861,
+    "lastHpRegen": 1764076268861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -350,7 +350,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764076261216,
+  "timestamp": 1764076276439,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
