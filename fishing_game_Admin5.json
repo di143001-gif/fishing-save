@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 1988,
+    "exp": 2113,
     "coins": 11659,
     "gems": 0,
     "health": 150,
@@ -49,6 +49,20 @@
         "exp": 50,
         "value": 84,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.65,
+        "exp": 44,
+        "value": 65,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.54,
+        "exp": 81,
+        "value": 154,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -73,7 +87,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -90,7 +104,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -192,7 +206,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1357800.0000000002,
         "type": "crafted",
@@ -209,7 +223,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -226,11 +240,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 112,
+      "totalFishCaught": 114,
       "biggestFish": 2.54,
       "totalEarnings": 15159,
       "playTime": 0,
-      "dailyFishCaught": 112,
+      "dailyFishCaught": 114,
       "dailyEarnings": 15159
     },
     "materials": {
@@ -254,13 +268,13 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764069128861,
+    "lastHpRegen": 1764069140861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 4,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -301,7 +315,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764069139860,
+  "timestamp": 1764069143151,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
