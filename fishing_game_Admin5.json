@@ -264,11 +264,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764074084861,
+    "lastHpRegen": 1764074108861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -315,7 +315,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764074088923,
+  "timestamp": 1764074118922,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
