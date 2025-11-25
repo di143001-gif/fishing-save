@@ -168,23 +168,6 @@
         "craftedId": "id_1763988350620_swbput72w"
       },
       {
-        "id": 9,
-        "name": "Cần Câu Tự Chế",
-        "level": 0,
-        "status": "Đang câu - Kênh 1",
-        "rarity": "uncommon",
-        "maxFishingTime": 1315200,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 1.93,
-          "expBonus": 22.4,
-          "timeBonus": 11.92
-        },
-        "craftedId": "id_1763990403676_jz59p4mhu"
-      },
-      {
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
@@ -233,7 +216,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764046880861,
+    "lastHpRegen": 1764046892861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -280,7 +263,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764046891032,
+  "timestamp": 1764046895656,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
