@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 821,
+    "exp": 1129,
     "coins": 7925,
     "gems": 0,
     "health": 150,
@@ -126,6 +126,27 @@
         "exp": 91,
         "value": 163,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.98,
+        "exp": 110,
+        "value": 198,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.71,
+        "exp": 115,
+        "value": 171,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.56,
+        "exp": 83,
+        "value": 156,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -167,7 +188,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -201,7 +222,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -269,7 +290,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1357800.0000000002,
         "type": "crafted",
@@ -303,11 +324,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 98,
+      "totalFishCaught": 101,
       "biggestFish": 2,
       "totalEarnings": 11425,
       "playTime": 0,
-      "dailyFishCaught": 98,
+      "dailyFishCaught": 101,
       "dailyEarnings": 11425
     },
     "materials": {
@@ -331,7 +352,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764049628861,
+    "lastHpRegen": 1764049640861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -378,7 +399,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764049639674,
+  "timestamp": 1764049641351,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
