@@ -2,62 +2,12 @@
   "playerData": {
     "level": 6,
     "exp": 2705,
-    "coins": 7171,
+    "coins": 7925,
     "gems": 0,
     "health": 150,
     "maxHealth": 150,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.87,
-        "exp": 105,
-        "value": 187,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.75,
-        "exp": 41,
-        "value": 75,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.41,
-        "exp": 71,
-        "value": 141,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.33,
-        "exp": 21,
-        "value": 33,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.1,
-        "exp": 65,
-        "value": 110,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.84,
-        "exp": 50,
-        "value": 84,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.24,
-        "exp": 73,
-        "value": 124,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 2,
@@ -235,10 +185,10 @@
     "statistics": {
       "totalFishCaught": 81,
       "biggestFish": 2,
-      "totalEarnings": 10671,
+      "totalEarnings": 11425,
       "playTime": 0,
       "dailyFishCaught": 81,
-      "dailyEarnings": 10671
+      "dailyEarnings": 11425
     },
     "materials": {
       "bamboo": 51,
@@ -257,11 +207,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764046676861,
+    "lastHpRegen": 1764046688861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -308,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764046685832,
+  "timestamp": 1764046691395,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
