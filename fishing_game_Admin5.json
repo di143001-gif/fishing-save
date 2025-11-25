@@ -115,7 +115,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -149,7 +149,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -292,11 +292,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764111788861,
+    "lastHpRegen": 1764111800861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -362,9 +362,31 @@
         "fishCaught": null,
         "checkInterval": null,
         "finishTimeout": null
+      },
+      {
+        "slotIndex": 1,
+        "channel": "Kênh 1",
+        "rodId": 3,
+        "startTime": 1764111803731,
+        "endTime": 1764112908931,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 4,
+        "channel": "Kênh 1",
+        "rodId": 6,
+        "startTime": 1764111804821,
+        "endTime": 1764113422421,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
       }
     ],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 5,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -405,7 +427,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764111793625,
+  "timestamp": 1764111805324,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
