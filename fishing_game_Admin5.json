@@ -2,7 +2,7 @@
   "playerData": {
     "level": 7,
     "exp": 5328,
-    "coins": 11562,
+    "coins": 312,
     "gems": 0,
     "health": 13,
     "maxHealth": 150,
@@ -97,17 +97,17 @@
       {
         "id": 8,
         "name": "Cần Câu Tự Chế",
-        "level": 2,
+        "level": 3,
         "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
-        "maxFishingTime": 2664000,
+        "maxFishingTime": 2870400,
         "type": "crafted",
         "crafted": true,
         "stars": 1,
         "stats": {
-          "successRate": 16.79,
-          "expBonus": 21.27,
-          "timeBonus": 34.4
+          "successRate": 18.47,
+          "expBonus": 23.4,
+          "timeBonus": 37.84
         },
         "craftedId": "id_1763959934121_c74r2wxk0"
       },
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764081873758,
+  "timestamp": 1764081879051,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
