@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 4632,
+    "exp": 4669,
     "coins": 9166,
     "gems": 0,
-    "health": 0,
+    "health": 1,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -42,6 +42,13 @@
         "exp": 130,
         "value": 246,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.58,
+        "exp": 37,
+        "value": 57,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -117,7 +124,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -219,11 +226,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 139,
+      "totalFishCaught": 140,
       "biggestFish": 2.54,
       "totalEarnings": 20166,
       "playTime": 0,
-      "dailyFishCaught": 139,
+      "dailyFishCaught": 140,
       "dailyEarnings": 20166
     },
     "materials": {
@@ -243,11 +250,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-channel",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764081716861,
+    "lastHpRegen": 1764081728861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -294,7 +301,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764081729051,
+  "timestamp": 1764081731434,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
