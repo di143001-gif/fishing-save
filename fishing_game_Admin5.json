@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 2550,
+    "exp": 3321,
     "coins": 11659,
     "gems": 0,
     "health": 150,
@@ -105,6 +105,34 @@
         "exp": 72,
         "value": 129,
         "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.87,
+        "exp": 312,
+        "value": 935,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.31,
+        "exp": 137,
+        "value": 231,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.18,
+        "exp": 147,
+        "value": 218,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.51,
+        "exp": 175,
+        "value": 250,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -146,7 +174,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -180,7 +208,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -197,7 +225,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 1,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2476200,
         "type": "crafted",
@@ -248,7 +276,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1357800.0000000002,
         "type": "crafted",
@@ -265,7 +293,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -282,11 +310,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 120,
+      "totalFishCaught": 124,
       "biggestFish": 2.54,
       "totalEarnings": 15159,
       "playTime": 0,
-      "dailyFishCaught": 120,
+      "dailyFishCaught": 124,
       "dailyEarnings": 15159
     },
     "materials": {
@@ -357,7 +385,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764076344933,
+  "timestamp": 1764076347127,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
