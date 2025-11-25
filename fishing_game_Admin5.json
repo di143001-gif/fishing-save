@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 3570,
+    "exp": 4220,
     "coins": 7842,
     "gems": 0,
     "health": 145,
@@ -20,6 +20,41 @@
         "weight": 2.18,
         "exp": 122,
         "value": 218,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.87,
+        "exp": 95,
+        "value": 187,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.49,
+        "exp": 153,
+        "value": 249,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.88,
+        "exp": 177,
+        "value": 288,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.34,
+        "exp": 71,
+        "value": 134,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.21,
+        "exp": 154,
+        "value": 221,
         "rarity": "common"
       }
     ],
@@ -198,11 +233,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 189,
-      "biggestFish": 2.73,
+      "totalFishCaught": 194,
+      "biggestFish": 2.88,
       "totalEarnings": 30092,
       "playTime": 0,
-      "dailyFishCaught": 189,
+      "dailyFishCaught": 194,
       "dailyEarnings": 30092
     },
     "materials": {
@@ -273,7 +308,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764085216222,
+  "timestamp": 1764085220912,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
