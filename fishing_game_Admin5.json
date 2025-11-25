@@ -207,8 +207,8 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
-    "currentLocation": "Khu Rừng Tràm",
+    "currentScreen": "select-location",
+    "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1764083468861,
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764083474571,
+  "timestamp": 1764083479582,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
