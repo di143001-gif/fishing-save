@@ -4,7 +4,7 @@
     "exp": 5664,
     "coins": 312,
     "gems": 0,
-    "health": 16,
+    "health": 18,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -233,7 +233,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764081908861,
+    "lastHpRegen": 1764081932861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -280,7 +280,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764081915745,
+  "timestamp": 1764081939974,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
