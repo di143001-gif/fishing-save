@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 128,
+    "exp": 706,
     "coins": 312,
     "gems": 0,
     "health": 36,
@@ -91,6 +91,41 @@
         "exp": 70,
         "value": 114,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.64,
+        "exp": 92,
+        "value": 164,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.52,
+        "exp": 141,
+        "value": 252,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.98,
+        "exp": 122,
+        "value": 198,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.76,
+        "exp": 46,
+        "value": 76,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.63,
+        "exp": 177,
+        "value": 263,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -98,7 +133,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -132,7 +167,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -166,7 +201,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -183,7 +218,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 3,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2870400,
         "type": "crafted",
@@ -268,11 +303,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 157,
-      "biggestFish": 2.61,
+      "totalFishCaught": 162,
+      "biggestFish": 2.63,
       "totalEarnings": 22562,
       "playTime": 0,
-      "dailyFishCaught": 157,
+      "dailyFishCaught": 162,
       "dailyEarnings": 22562
     },
     "materials": {
@@ -343,7 +378,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764082152504,
+  "timestamp": 1764082154811,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
