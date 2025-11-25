@@ -182,7 +182,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 917400,
         "type": "crafted",
@@ -199,7 +199,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1357800.0000000002,
         "type": "crafted",
@@ -343,9 +343,31 @@
         "fishCaught": null,
         "checkInterval": null,
         "finishTimeout": null
+      },
+      {
+        "slotIndex": 7,
+        "channel": "Kênh 1",
+        "rodId": 8,
+        "startTime": 1764109897956,
+        "endTime": 1764110815356,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 8,
+        "channel": "Kênh 1",
+        "rodId": 9,
+        "startTime": 1764109900522,
+        "endTime": 1764111258322,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
       }
     ],
-    "selectedSlotIndex": 7,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -386,7 +408,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764109897346,
+  "timestamp": 1764109901026,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
