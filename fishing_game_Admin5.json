@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 1129,
+    "exp": 1331,
     "coins": 7925,
     "gems": 0,
     "health": 150,
@@ -147,6 +147,34 @@
         "exp": 83,
         "value": 156,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.82,
+        "exp": 43,
+        "value": 82,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.2,
+        "exp": 14,
+        "value": 20,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.87,
+        "exp": 51,
+        "value": 87,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.85,
+        "exp": 94,
+        "value": 185,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -205,7 +233,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -239,7 +267,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 1,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 2476200,
         "type": "crafted",
@@ -307,7 +335,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -324,11 +352,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 101,
+      "totalFishCaught": 105,
       "biggestFish": 2,
       "totalEarnings": 11425,
       "playTime": 0,
-      "dailyFishCaught": 101,
+      "dailyFishCaught": 105,
       "dailyEarnings": 11425
     },
     "materials": {
@@ -399,7 +427,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764049641351,
+  "timestamp": 1764049643476,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
