@@ -343,8 +343,14 @@
         "rodId": 8,
         "startTime": 1764109892564,
         "endTime": 1764112762964,
-        "status": "Đang câu",
-        "fishCaught": null,
+        "status": "Cá dính câu!",
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 0.84,
+          "exp": 51,
+          "value": 84,
+          "rarity": "common"
+        },
         "checkInterval": null,
         "finishTimeout": null
       },
@@ -462,7 +468,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764111903788,
+  "timestamp": 1764111906850,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
