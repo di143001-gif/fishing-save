@@ -166,23 +166,6 @@
           "timeBonus": 5.29
         },
         "craftedId": "id_1763988350620_swbput72w"
-      },
-      {
-        "id": 10,
-        "name": "Cần Câu Tự Chế",
-        "level": 0,
-        "status": "Đang câu - Kênh 1",
-        "rarity": "uncommon",
-        "maxFishingTime": 2254799.9999999995,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 1.27,
-          "expBonus": 1.3,
-          "timeBonus": 27.58
-        },
-        "craftedId": "id_1763990465791_8f9tnyr14"
       }
     ],
     "itemsInventory": [],
@@ -263,7 +246,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764046895656,
+  "timestamp": 1764046897890,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
