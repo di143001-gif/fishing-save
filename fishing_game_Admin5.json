@@ -4,7 +4,7 @@
     "exp": 706,
     "coins": 3317,
     "gems": 0,
-    "health": 3,
+    "health": 11,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [],
@@ -211,13 +211,13 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764082268861,
+    "lastHpRegen": 1764082364861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "christmasEvent": {
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764082272169,
+  "timestamp": 1764082366598,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
