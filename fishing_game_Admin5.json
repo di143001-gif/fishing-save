@@ -207,11 +207,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "chicken-screen",
+    "currentScreen": "chicken-battle-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764046484861,
+    "lastHpRegen": 1764046496861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -258,7 +258,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764046486180,
+  "timestamp": 1764046505837,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
