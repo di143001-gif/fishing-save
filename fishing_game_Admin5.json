@@ -216,7 +216,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -365,6 +365,17 @@
         "fishCaught": null,
         "checkInterval": null,
         "finishTimeout": null
+      },
+      {
+        "slotIndex": 9,
+        "channel": "Kênh 1",
+        "rodId": 10,
+        "startTime": 1764109903061,
+        "endTime": 1764111152861,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
       }
     ],
     "selectedSlotIndex": null,
@@ -408,7 +419,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764109901026,
+  "timestamp": 1764109903566,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
