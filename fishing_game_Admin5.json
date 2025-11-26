@@ -4,7 +4,7 @@
     "exp": 4939,
     "coins": 7842,
     "gems": 0,
-    "health": 64,
+    "health": 50,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -285,7 +285,7 @@
     "materials": {
       "bamboo": 140,
       "metal": 158,
-      "spiderweb": 140
+      "spiderweb": 147
     },
     "craftingStats": {
       "crafted10": 0,
@@ -307,7 +307,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764122900861,
+    "lastHpRegen": 1764122912861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -502,7 +502,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764122910448,
+  "timestamp": 1764122913143,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
