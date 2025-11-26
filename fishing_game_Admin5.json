@@ -4,7 +4,7 @@
     "exp": 4939,
     "coins": 7842,
     "gems": 0,
-    "health": 88,
+    "health": 89,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -307,7 +307,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764122876861,
+    "lastHpRegen": 1764122888861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -358,8 +358,14 @@
         "rodId": 6,
         "startTime": 1764122725367,
         "endTime": 1764124342967,
-        "status": "Đang câu",
-        "fishCaught": null,
+        "status": "Cá dính câu!",
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 1.04,
+          "exp": 53,
+          "value": 104,
+          "rarity": "common"
+        },
         "checkInterval": null,
         "finishTimeout": null
       },
@@ -490,7 +496,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764122882638,
+  "timestamp": 1764122900714,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
