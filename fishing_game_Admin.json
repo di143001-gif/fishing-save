@@ -4,7 +4,7 @@
     "exp": 81,
     "coins": 2100,
     "gems": 0,
-    "health": 72,
+    "health": 49,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -69,8 +69,8 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 3,
-      "spiderweb": 0
+      "metal": 10,
+      "spiderweb": 5
     },
     "craftingStats": {
       "crafted10": 0,
@@ -92,7 +92,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134722030,
+    "lastHpRegen": 1764134734030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -150,7 +150,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134729626,
+  "timestamp": 1764134734439,
   "version": "5.0-chicken",
   "user": "Admin"
 }
