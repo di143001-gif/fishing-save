@@ -4,7 +4,7 @@
     "exp": 4939,
     "coins": 7842,
     "gems": 0,
-    "health": 89,
+    "health": 90,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -303,11 +303,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764122888861,
+    "lastHpRegen": 1764122900861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -448,8 +448,14 @@
         "rodId": 10,
         "startTime": 1764122730348,
         "endTime": 1764123980148,
-        "status": "Đang câu",
-        "fishCaught": null,
+        "status": "Cá dính câu!",
+        "fishCaught": {
+          "name": "Cá Lóc",
+          "weight": 2.99,
+          "exp": 209,
+          "value": 299,
+          "rarity": "rare"
+        },
         "checkInterval": null,
         "finishTimeout": null
       }
@@ -496,7 +502,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764122900714,
+  "timestamp": 1764122905693,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
