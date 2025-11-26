@@ -1,13 +1,21 @@
 {
   "playerData": {
-    "level": 1,
-    "exp": 81,
+    "level": 2,
+    "exp": 16,
     "coins": 2244,
     "gems": 0,
     "health": 14,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.51,
+        "exp": 35,
+        "value": 51,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": "id_1763907062802_1n6xyr5nz",
@@ -31,7 +39,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1928400,
         "type": "crafted",
@@ -48,11 +56,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 4,
+      "totalFishCaught": 5,
       "biggestFish": 0.54,
       "totalEarnings": 144,
       "playTime": 0,
-      "dailyFishCaught": 4,
+      "dailyFishCaught": 5,
       "dailyEarnings": 144
     },
     "materials": {
@@ -76,7 +84,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -95,23 +103,6 @@
         "endTime": 1764135874975,
         "status": "Đang câu",
         "fishCaught": null,
-        "checkInterval": null,
-        "finishTimeout": null
-      },
-      {
-        "slotIndex": 1,
-        "channel": "Kênh 1",
-        "rodId": 2,
-        "startTime": 1764134768776,
-        "endTime": 1764136697176,
-        "status": "Cá dính câu!",
-        "fishCaught": {
-          "name": "Cá Lóc",
-          "weight": 0.51,
-          "exp": 35,
-          "value": 51,
-          "rarity": "common"
-        },
         "checkInterval": null,
         "finishTimeout": null
       }
@@ -155,7 +146,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134906018,
+  "timestamp": 1764134914074,
   "version": "5.0-chicken",
   "user": "Admin"
 }
