@@ -105,7 +105,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1149600,
         "type": "crafted",
@@ -122,7 +122,7 @@
         "id": 3,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1105200,
         "type": "crafted",
@@ -139,7 +139,7 @@
         "id": 4,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1276200,
         "type": "crafted",
@@ -156,7 +156,7 @@
         "id": 6,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1617600.0000000002,
         "type": "crafted",
@@ -173,7 +173,7 @@
         "id": 7,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 870600,
         "type": "crafted",
@@ -190,7 +190,7 @@
         "id": 8,
         "name": "Cần Câu Tự Chế",
         "level": 3,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 2870400,
         "type": "crafted",
@@ -241,7 +241,7 @@
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1357800.0000000002,
         "type": "crafted",
@@ -258,7 +258,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -287,6 +287,10 @@
       "metal": 130,
       "spiderweb": 120
     },
+    "craftingStats": {
+      "crafted10": 0,
+      "crafted100": 0
+    },
     "christmasInventory": {
       "snow": 0,
       "gifts": 0,
@@ -299,19 +303,131 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764122744861,
+    "lastHpRegen": 1764122816861,
     "activeEvents": [
       "doubleExp"
     ],
     "dailyRewards": {},
-    "fishingSlots": [],
+    "fishingSlots": [
+      {
+        "slotIndex": 0,
+        "channel": "Kênh 1",
+        "rodId": 2,
+        "startTime": 1764122723098,
+        "endTime": 1764123872698,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 1,
+        "channel": "Kênh 1",
+        "rodId": 3,
+        "startTime": 1764122723852,
+        "endTime": 1764123829052,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 2,
+        "channel": "Kênh 1",
+        "rodId": 4,
+        "startTime": 1764122724667,
+        "endTime": 1764124000867,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 3,
+        "channel": "Kênh 1",
+        "rodId": 6,
+        "startTime": 1764122725367,
+        "endTime": 1764124342967,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 4,
+        "channel": "Kênh 1",
+        "rodId": 7,
+        "startTime": 1764122726090,
+        "endTime": 1764123596690,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 5,
+        "channel": "Kênh 1",
+        "rodId": 8,
+        "startTime": 1764122726780,
+        "endTime": 1764125597180,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 6,
+        "channel": "Kênh 1",
+        "rodId": 8,
+        "startTime": 1764122727509,
+        "endTime": 1764124440509,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 7,
+        "channel": "Kênh 1",
+        "rodId": 8,
+        "startTime": 1764122728282,
+        "endTime": 1764123645682,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 8,
+        "channel": "Kênh 1",
+        "rodId": 9,
+        "startTime": 1764122729356,
+        "endTime": 1764124087156,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 9,
+        "channel": "Kênh 1",
+        "rodId": 10,
+        "startTime": 1764122730348,
+        "endTime": 1764123980148,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      }
+    ],
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
+    "craftingType": null,
     "christmasEvent": {
       "active": true,
       "startDate": "2024-12-20",
@@ -350,7 +466,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764122756294,
+  "timestamp": 1764122824963,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
