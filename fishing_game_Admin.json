@@ -43,7 +43,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "uncommon",
         "maxFishingTime": 1928400,
         "type": "crafted",
@@ -92,14 +92,14 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764136174030,
+    "lastHpRegen": 1764136186030,
     "activeEvents": [
       "luckyDay",
       "christmas"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 0,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764134755424,
     "craftingType": 10,
@@ -138,7 +138,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764136183245,
+  "timestamp": 1764136187786,
   "version": "5.0-chicken",
   "user": "Admin"
 }
