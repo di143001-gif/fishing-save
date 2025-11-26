@@ -282,7 +282,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134384861,
+    "lastHpRegen": 1764134408861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -330,7 +330,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134387205,
+  "timestamp": 1764134418073,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
