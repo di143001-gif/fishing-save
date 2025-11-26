@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 54,
+    "health": 55,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 2062799.9999999998,
         "type": "crafted",
@@ -44,11 +44,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764157529296,
+    "lastHpRegen": 1764157541296,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -56,7 +56,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764157532551
   },
-  "timestamp": 1764157533061,
+  "timestamp": 1764157545144,
   "version": "4.0-cloud",
   "user": "Dipro285"
 }
