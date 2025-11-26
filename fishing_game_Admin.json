@@ -4,7 +4,7 @@
     "exp": 81,
     "coins": 2100,
     "gems": 0,
-    "health": 78,
+    "health": 72,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -68,8 +68,8 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 9,
-      "metal": 0,
+      "bamboo": 10,
+      "metal": 3,
       "spiderweb": 0
     },
     "craftingStats": {
@@ -150,7 +150,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134728096,
+  "timestamp": 1764134729626,
   "version": "5.0-chicken",
   "user": "Admin"
 }
