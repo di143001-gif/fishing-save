@@ -4,7 +4,7 @@
     "exp": 5677,
     "coins": 7842,
     "gems": 0,
-    "health": 5,
+    "health": 7,
     "maxHealth": 150,
     "points": 0,
     "fishInventory": [
@@ -230,57 +230,6 @@
         "craftedId": "id_1763959922026_4lt82w4vv"
       },
       {
-        "id": 8,
-        "name": "Cần Câu Tự Chế",
-        "level": 3,
-        "status": "Trống",
-        "rarity": "uncommon",
-        "maxFishingTime": 2870400,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 18.47,
-          "expBonus": 23.4,
-          "timeBonus": 37.84
-        },
-        "craftedId": "id_1763959934121_c74r2wxk0"
-      },
-      {
-        "id": 8,
-        "name": "Cần Câu Tự Chế",
-        "level": 0,
-        "status": "Đang câu - Kênh 1",
-        "rarity": "uncommon",
-        "maxFishingTime": 1713000,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 10.87,
-          "expBonus": 27.52,
-          "timeBonus": 18.55
-        },
-        "craftedId": "id_1763988251928_8ymbrpzj2"
-      },
-      {
-        "id": 8,
-        "name": "Cần Câu Tự Chế",
-        "level": 0,
-        "status": "Đang câu - Kênh 1",
-        "rarity": "uncommon",
-        "maxFishingTime": 917400,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 1,
-        "stats": {
-          "successRate": 10.01,
-          "expBonus": 1.23,
-          "timeBonus": 5.29
-        },
-        "craftedId": "id_1763988350620_swbput72w"
-      },
-      {
         "id": 9,
         "name": "Cần Câu Tự Chế",
         "level": 0,
@@ -329,11 +278,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "events-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764122972861,
+    "lastHpRegen": 1764122996861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -381,7 +330,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764122973756,
+  "timestamp": 1764123003751,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
