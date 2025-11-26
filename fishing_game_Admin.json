@@ -4,7 +4,7 @@
     "exp": 81,
     "coins": 2100,
     "gems": 0,
-    "health": 0,
+    "health": 1,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -55,6 +55,23 @@
         },
         "specialStat": null,
         "craftedId": "id_1763907062802_8m4yt3vx1"
+      },
+      {
+        "id": 2,
+        "name": "Cần Câu Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1928400,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 11.36,
+          "expBonus": 41.23,
+          "timeBonus": 22.14
+        },
+        "craftedId": "id_1764134755429_068jllcbg"
       }
     ],
     "itemsInventory": [],
@@ -68,12 +85,12 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 16,
-      "spiderweb": 20
+      "bamboo": 0,
+      "metal": 6,
+      "spiderweb": 10
     },
     "craftingStats": {
-      "crafted10": 0,
+      "crafted10": 1,
       "crafted100": 0
     },
     "christmasInventory": {
@@ -88,11 +105,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134734030,
+    "lastHpRegen": 1764134746030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -113,8 +130,8 @@
     ],
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 0,
-    "craftingType": null,
+    "craftingEndTime": 1764134755424,
+    "craftingType": 10,
     "christmasEvent": {
       "active": true,
       "startDate": "2024-12-20",
@@ -150,7 +167,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134744175,
+  "timestamp": 1764134755938,
   "version": "5.0-chicken",
   "user": "Admin"
 }
