@@ -258,7 +258,7 @@
         "id": 10,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1249800,
         "type": "crafted",
@@ -307,7 +307,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764122720861,
+    "lastHpRegen": 1764122732861,
     "activeEvents": [
       "doubleExp"
     ],
@@ -411,9 +411,20 @@
         "fishCaught": null,
         "checkInterval": null,
         "finishTimeout": null
+      },
+      {
+        "slotIndex": 9,
+        "channel": "Kênh 1",
+        "rodId": 10,
+        "startTime": 1764122730348,
+        "endTime": 1764123980148,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
       }
     ],
-    "selectedSlotIndex": 9,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764046926461,
     "craftingType": null,
@@ -455,7 +466,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764122729861,
+  "timestamp": 1764122744291,
   "version": "5.0-chicken",
   "user": "Admin5"
 }
