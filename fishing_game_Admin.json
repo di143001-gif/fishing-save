@@ -4,7 +4,7 @@
     "exp": 16,
     "coins": 2244,
     "gems": 0,
-    "health": 14,
+    "health": 15,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -14,7 +14,11 @@
         "exp": 35,
         "value": 51,
         "rarity": "common"
-      }
+      },
+      null,
+      null,
+      null,
+      null
     ],
     "rodsInventory": [
       {
@@ -39,7 +43,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1928400,
         "type": "crafted",
@@ -88,7 +92,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134902030,
+    "lastHpRegen": 1764134914030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -146,7 +150,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134914074,
+  "timestamp": 1764134925003,
   "version": "5.0-chicken",
   "user": "Admin"
 }
