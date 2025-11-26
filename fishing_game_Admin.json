@@ -4,7 +4,7 @@
     "exp": 81,
     "coins": 2244,
     "gems": 0,
-    "health": 8,
+    "health": 14,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -80,7 +80,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134830030,
+    "lastHpRegen": 1764134902030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -155,7 +155,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134836077,
+  "timestamp": 1764134906018,
   "version": "5.0-chicken",
   "user": "Admin"
 }
