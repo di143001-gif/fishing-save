@@ -26,11 +26,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764157301296,
+    "lastHpRegen": 1764157313296,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -38,7 +38,7 @@
     "isCrafting": false,
     "craftingEndTime": 0
   },
-  "timestamp": 1764157301296,
+  "timestamp": 1764157319891,
   "version": "4.0-cloud",
   "user": "Dipro285"
 }
