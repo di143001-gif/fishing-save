@@ -88,11 +88,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134686030,
+    "lastHpRegen": 1764134710030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -150,7 +150,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134690480,
+  "timestamp": 1764134715002,
   "version": "5.0-chicken",
   "user": "Admin"
 }
