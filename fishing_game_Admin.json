@@ -4,7 +4,7 @@
     "exp": 81,
     "coins": 2100,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -60,7 +60,7 @@
         "id": 2,
         "name": "Cần Câu Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1928400,
         "type": "crafted",
@@ -105,11 +105,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764134746030,
+    "lastHpRegen": 1764134758030,
     "activeEvents": [
       "luckyDay",
       "christmas"
@@ -122,6 +122,17 @@
         "rodId": "id_1763907062802_1n6xyr5nz",
         "startTime": 1764134689975,
         "endTime": 1764135874975,
+        "status": "Đang câu",
+        "fishCaught": null,
+        "checkInterval": null,
+        "finishTimeout": null
+      },
+      {
+        "slotIndex": 1,
+        "channel": "Kênh 1",
+        "rodId": 2,
+        "startTime": 1764134768776,
+        "endTime": 1764136697176,
         "status": "Đang câu",
         "fishCaught": null,
         "checkInterval": null,
@@ -167,7 +178,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764134755938,
+  "timestamp": 1764134769279,
   "version": "5.0-chicken",
   "user": "Admin"
 }
