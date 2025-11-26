@@ -25,7 +25,7 @@
         "id": "id_1763907062802_1n6xyr5nz",
         "name": "Cần Tre Tự Chế",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "uncommon",
         "maxFishingTime": 1185000,
         "type": "crafted",
@@ -99,7 +99,7 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 0,
     "isCrafting": false,
     "craftingEndTime": 1764134755424,
     "craftingType": 10,
@@ -138,7 +138,7 @@
     "highestStage": 0,
     "legendaryMaterial": 0
   },
-  "timestamp": 1764136178446,
+  "timestamp": 1764136183245,
   "version": "5.0-chicken",
   "user": "Admin"
 }
