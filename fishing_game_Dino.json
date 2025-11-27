@@ -1,13 +1,21 @@
 {
   "playerData": {
     "level": 1,
-    "exp": 0,
+    "exp": 75,
     "coins": 1500,
     "gems": 0,
     "health": 53,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.41,
+        "exp": 75,
+        "value": 141,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -32,7 +40,7 @@
         "id": 2,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 816000,
         "type": "crafted",
@@ -70,11 +78,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 1,
+      "biggestFish": 1.41,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 1,
       "dailyEarnings": 0
     },
     "materials": {
@@ -84,7 +92,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-location",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -101,7 +109,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764261277159,
+  "timestamp": 1764261279430,
   "version": "4.0-cloud",
   "user": "Dino"
 }
