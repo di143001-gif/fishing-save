@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 44,
+    "health": 37,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -22,7 +22,7 @@
     "materials": {
       "bamboo": 12,
       "metal": 10,
-      "spiderweb": 8
+      "spiderweb": 9
     }
   },
   "gameState": {
@@ -39,7 +39,7 @@
     "craftingEndTime": 0,
     "eventTimers": {}
   },
-  "timestamp": 1764256579768,
+  "timestamp": 1764256581406,
   "version": "4.0-cloud",
   "user": "Dino"
 }
