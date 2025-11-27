@@ -48,7 +48,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253860662,
+    "lastHpRegen": 1764253885662,
     "activeEvents": [
       "goldenFish"
     ],
@@ -58,7 +58,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764253356840
   },
-  "timestamp": 1764253860666,
+  "timestamp": 1764253890664,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
