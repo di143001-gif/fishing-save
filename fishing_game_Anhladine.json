@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 69,
+    "health": 70,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -44,11 +44,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253449744,
+    "lastHpRegen": 1764253461882,
     "activeEvents": [
       "goldenFish"
     ],
@@ -58,7 +58,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764253356840
   },
-  "timestamp": 1764253461134,
+  "timestamp": 1764253469243,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
