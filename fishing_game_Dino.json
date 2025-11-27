@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -30,7 +30,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764256590122,
+    "lastHpRegen": 1764256602122,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -39,7 +39,7 @@
     "craftingEndTime": 1764256606728,
     "eventTimers": {}
   },
-  "timestamp": 1764256597230,
+  "timestamp": 1764256604624,
   "version": "4.0-cloud",
   "user": "Dino"
 }
