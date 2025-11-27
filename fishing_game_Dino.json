@@ -13,7 +13,7 @@
         "id": 1,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 924600,
         "type": "crafted",
@@ -32,7 +32,7 @@
         "id": 2,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 816000,
         "type": "crafted",
@@ -82,7 +82,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764261208620,
+  "timestamp": 1764261211597,
   "version": "4.0-cloud",
   "user": "Dino"
 }
