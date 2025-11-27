@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 95,
+    "health": 94,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -22,15 +22,15 @@
     "materials": {
       "bamboo": 1,
       "metal": 1,
-      "spiderweb": 0
+      "spiderweb": 2
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "leaderboard-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253241503,
+    "lastHpRegen": 1764253253744,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -38,7 +38,7 @@
     "isCrafting": false,
     "craftingEndTime": 0
   },
-  "timestamp": 1764253251972,
+  "timestamp": 1764253259245,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
