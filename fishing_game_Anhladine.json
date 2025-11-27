@@ -4,11 +4,29 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 60,
+    "health": 61,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "id": 1,
+        "name": "Cần Câu Tự Chế",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "uncommon",
+        "maxFishingTime": 1071000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 1,
+        "stats": {
+          "successRate": 5.42,
+          "expBonus": 26.44,
+          "timeBonus": 7.85
+        },
+        "craftedId": "id_1764253356843_8n0dpu45g"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -30,17 +48,17 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253338743,
+    "lastHpRegen": 1764253350743,
     "activeEvents": [
       "goldenFish"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764253356840
   },
-  "timestamp": 1764253347342,
+  "timestamp": 1764253357347,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
