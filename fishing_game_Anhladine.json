@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 65,
+    "health": 68,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -48,7 +48,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253400663,
+    "lastHpRegen": 1764253437662,
     "activeEvents": [
       "goldenFish"
     ],
@@ -58,7 +58,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764253356840
   },
-  "timestamp": 1764253410669,
+  "timestamp": 1764253443061,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
