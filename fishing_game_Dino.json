@@ -46,7 +46,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -60,10 +60,10 @@
     "isCrafting": false,
     "craftingEndTime": 1764256606728,
     "eventTimers": {
-      "luckyDay": 1670498
+      "luckyDay": 1664497
     }
   },
-  "timestamp": 1764256877291,
+  "timestamp": 1764256882812,
   "version": "4.0-cloud",
   "user": "Dino"
 }
