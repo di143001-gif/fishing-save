@@ -46,6 +46,25 @@
         },
         "craftedId": "id_1764256914276_6mmmazppc",
         "rodType": "basic"
+      },
+      {
+        "id": 3,
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 978000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 6.56,
+          "expBonus": 7.82,
+          "timeBonus": 6.3,
+          "bigFishChance": 0
+        },
+        "craftedId": "id_1764261242813_yxkphus24",
+        "rodType": "basic"
       }
     ],
     "itemsInventory": [],
@@ -76,13 +95,13 @@
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764261242805,
     "eventTimers": {
       "luckyDay": 0
     }
   },
-  "timestamp": 1764261233308,
+  "timestamp": 1764261243321,
   "version": "4.0-cloud",
   "user": "Dino"
 }
