@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 95,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -20,17 +20,17 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 4,
       "metal": 0,
       "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "currentLocation": null,
+    "currentScreen": "mining-screen",
+    "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764256552448,
+    "lastHpRegen": 1764256565123,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -39,7 +39,7 @@
     "craftingEndTime": 0,
     "eventTimers": {}
   },
-  "timestamp": 1764256552448,
+  "timestamp": 1764256569777,
   "version": "4.0-cloud",
   "user": "Dino"
 }
