@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 61,
+    "health": 63,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -44,11 +44,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253350743,
+    "lastHpRegen": 1764253374743,
     "activeEvents": [
       "goldenFish"
     ],
@@ -58,7 +58,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764253356840
   },
-  "timestamp": 1764253357347,
+  "timestamp": 1764253379244,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
