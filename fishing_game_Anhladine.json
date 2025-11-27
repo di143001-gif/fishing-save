@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 94,
+    "health": 97,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -26,11 +26,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "leaderboard-screen",
+    "currentScreen": "main-menu",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253253744,
+    "lastHpRegen": 1764253290662,
     "activeEvents": [],
     "dailyRewards": {},
     "fishingSlots": [],
@@ -38,7 +38,7 @@
     "isCrafting": false,
     "craftingEndTime": 0
   },
-  "timestamp": 1764253259245,
+  "timestamp": 1764253290663,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
