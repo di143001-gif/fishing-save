@@ -4,7 +4,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 99,
+    "health": 90,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -20,17 +20,17 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 1,
+      "bamboo": 8,
       "metal": 1,
       "spiderweb": 2
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764253314662,
+    "lastHpRegen": 1764253326662,
     "activeEvents": [
       "goldenFish"
     ],
@@ -40,7 +40,7 @@
     "isCrafting": false,
     "craftingEndTime": 0
   },
-  "timestamp": 1764253320666,
+  "timestamp": 1764253338424,
   "version": "4.0-cloud",
   "user": "Anhladine"
 }
