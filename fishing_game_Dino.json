@@ -2,153 +2,12 @@
   "playerData": {
     "level": 4,
     "exp": 626,
-    "coins": 1500,
+    "coins": 4612,
     "gems": 0,
-    "health": 98,
+    "health": 99,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 1.41,
-        "exp": 75,
-        "value": 141,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.18,
-        "exp": 60,
-        "value": 118,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.47,
-        "exp": 23,
-        "value": 47,
-        "rarity": "common"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 1.52,
-        "exp": 237,
-        "value": 760,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.89,
-        "exp": 47,
-        "value": 89,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.62,
-        "exp": 83,
-        "value": 162,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.4,
-        "exp": 20,
-        "value": 40,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.9,
-        "exp": 102,
-        "value": 190,
-        "rarity": "rare"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 1.4,
-        "exp": 225,
-        "value": 700,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.23,
-        "exp": 11,
-        "value": 23,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.43,
-        "exp": 21,
-        "value": 43,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.22,
-        "exp": 11,
-        "value": 22,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.41,
-        "exp": 21,
-        "value": 41,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.38,
-        "exp": 74,
-        "value": 138,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.22,
-        "exp": 63,
-        "value": 122,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.65,
-        "exp": 34,
-        "value": 65,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.5,
-        "exp": 26,
-        "value": 50,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.39,
-        "exp": 19,
-        "value": 39,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.86,
-        "exp": 100,
-        "value": 186,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.36,
-        "exp": 74,
-        "value": 136,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -251,10 +110,10 @@
     "statistics": {
       "totalFishCaught": 20,
       "biggestFish": 1.9,
-      "totalEarnings": 0,
+      "totalEarnings": 3112,
       "playTime": 0,
       "dailyFishCaught": 20,
-      "dailyEarnings": 0
+      "dailyEarnings": 3112
     },
     "materials": {
       "bamboo": 13,
@@ -263,11 +122,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764308887003,
+    "lastHpRegen": 1764308899517,
     "activeEvents": [
       "luckyDay"
     ],
@@ -279,16 +138,10 @@
     "eventTimers": {
       "luckyDay": 0
     },
-    "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 77,
-      "1": 115,
-      "2": 100,
-      "3": 104,
-      "4": 118
-    }
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {}
   },
-  "timestamp": 1764308887657,
+  "timestamp": 1764308909381,
   "version": "4.0-cloud",
   "user": "Dino"
 }
