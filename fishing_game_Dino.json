@@ -214,10 +214,20 @@
     "eventTimers": {
       "luckyDay": 0
     },
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {}
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 128,
+      "1": 129,
+      "2": 130,
+      "3": 131,
+      "4": 132,
+      "5": 133,
+      "6": 134,
+      "7": 135,
+      "8": 136
+    }
   },
-  "timestamp": 1764330812843,
+  "timestamp": 1764330822466,
   "version": "4.0-cloud",
   "user": "Dino"
 }
