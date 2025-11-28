@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 6198,
+    "exp": 6710,
     "coins": 33000,
     "gems": 0,
-    "health": 33,
+    "health": 28,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -252,6 +252,41 @@
         "exp": 111,
         "value": 218,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.47,
+        "exp": 132,
+        "value": 247,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.44,
+        "exp": 129,
+        "value": 244,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.25,
+        "exp": 67,
+        "value": 125,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.3,
+        "exp": 116,
+        "value": 229,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.35,
+        "exp": 68,
+        "value": 135,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -449,11 +484,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 238,
+      "totalFishCaught": 243,
       "biggestFish": 2.99,
       "totalEarnings": 31500,
       "playTime": 0,
-      "dailyFishCaught": 238,
+      "dailyFishCaught": 243,
       "dailyEarnings": 31500
     },
     "materials": {
@@ -482,18 +517,18 @@
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
       "0": 981,
-      "1": 972,
+      "1": 989,
       "2": 978,
       "3": 969,
-      "4": 975,
+      "4": 998,
       "5": 963,
-      "6": 966,
+      "6": 992,
       "7": 908,
-      "8": 984,
+      "8": 1005,
       "9": 850
     }
   },
-  "timestamp": 1764332888193,
+  "timestamp": 1764332894215,
   "version": "4.0-cloud",
   "user": "Dino"
 }
