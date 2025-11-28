@@ -315,7 +315,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764331903317,
+    "lastHpRegen": 1764331940399,
     "activeEvents": [
       "luckyDay"
     ],
@@ -340,7 +340,7 @@
       "8": 260
     }
   },
-  "timestamp": 1764331915359,
+  "timestamp": 1764331946406,
   "version": "4.0-cloud",
   "user": "Dino"
 }
