@@ -4,7 +4,7 @@
     "exp": 1784,
     "coins": 18432,
     "gems": 0,
-    "health": 51,
+    "health": 52,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -160,6 +160,25 @@
         },
         "craftedId": "id_1764309250035_s7rmepv3t",
         "rodType": "basic"
+      },
+      {
+        "id": 9,
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 942600,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 9.86,
+          "expBonus": 2.47,
+          "timeBonus": 5.71,
+          "bigFishChance": 0
+        },
+        "craftedId": "id_1764330767446_trawotesq",
+        "rodType": "basic"
       }
     ],
     "itemsInventory": [],
@@ -183,14 +202,14 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764330751193,
+    "lastHpRegen": 1764330763962,
     "activeEvents": [
       "luckyDay"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764330767442,
     "eventTimers": {
       "luckyDay": 0
@@ -198,7 +217,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764330762462,
+  "timestamp": 1764330767948,
   "version": "4.0-cloud",
   "user": "Dino"
 }
