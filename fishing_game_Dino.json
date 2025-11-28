@@ -4,7 +4,7 @@
     "exp": 142,
     "coins": 1500,
     "gems": 0,
-    "health": 8,
+    "health": 9,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -125,7 +125,7 @@
         "id": 5,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 882000,
         "type": "crafted",
@@ -162,20 +162,20 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764305758463,
+    "lastHpRegen": 1764305771367,
     "activeEvents": [
       "luckyDay"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 4,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764302802844,
     "eventTimers": {
       "luckyDay": 0
     }
   },
-  "timestamp": 1764305769161,
+  "timestamp": 1764305779866,
   "version": "4.0-cloud",
   "user": "Dino"
 }
