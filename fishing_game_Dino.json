@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 1975,
+    "exp": 2071,
     "coins": 18432,
     "gems": 0,
-    "health": 66,
+    "health": 65,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -34,6 +34,13 @@
         "weight": 1.39,
         "exp": 74,
         "value": 139,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.84,
+        "exp": 96,
+        "value": 184,
         "rarity": "common"
       }
     ],
@@ -213,11 +220,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 132,
+      "totalFishCaught": 133,
       "biggestFish": 1.99,
       "totalEarnings": 16932,
       "playTime": 0,
-      "dailyFishCaught": 132,
+      "dailyFishCaught": 133,
       "dailyEarnings": 16932
     },
     "materials": {
@@ -248,7 +255,7 @@
       "0": 128,
       "1": 129,
       "2": 156,
-      "3": 146,
+      "3": 160,
       "4": 132,
       "5": 133,
       "6": 134,
@@ -256,7 +263,7 @@
       "8": 150
     }
   },
-  "timestamp": 1764331021126,
+  "timestamp": 1764331023125,
   "version": "4.0-cloud",
   "user": "Dino"
 }
