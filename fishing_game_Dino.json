@@ -276,7 +276,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 835800,
         "type": "crafted",
@@ -313,14 +313,25 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764370441242,
+    "lastHpRegen": 1764370478240,
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 9,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {},
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 40,
+      "1": 41,
+      "2": 42,
+      "3": 43,
+      "4": 44,
+      "5": 45,
+      "6": 46,
+      "7": 47,
+      "8": 48,
+      "9": 49
+    },
     "activeEvents": [
       "luckyDay"
     ],
@@ -328,7 +339,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764370452208,
+  "timestamp": 1764370479741,
   "version": "4.0-cloud",
   "user": "Dino"
 }
