@@ -1,13 +1,77 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 7221,
+    "exp": 8471,
     "coins": 2382,
     "gems": 0,
-    "health": 30,
+    "health": 21,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.57,
+        "exp": 84,
+        "value": 280,
+        "rarity": "golden"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 2.91,
+        "exp": 468,
+        "value": 1455,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.97,
+        "exp": 159,
+        "value": 297,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.78,
+        "exp": 40,
+        "value": 78,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.81,
+        "exp": 97,
+        "value": 181,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.86,
+        "exp": 153,
+        "value": 286,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.98,
+        "exp": 105,
+        "value": 198,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.06,
+        "exp": 109,
+        "value": 206,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.69,
+        "exp": 35,
+        "value": 69,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -203,11 +267,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 248,
+      "totalFishCaught": 257,
       "biggestFish": 2.99,
       "totalEarnings": 41507,
       "playTime": 0,
-      "dailyFishCaught": 248,
+      "dailyFishCaught": 257,
       "dailyEarnings": 41507
     },
     "materials": {
@@ -233,10 +297,21 @@
     "eventTimers": {
       "luckyDay": 0
     },
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {}
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 1100,
+      "1": 1103,
+      "2": 1106,
+      "3": 1109,
+      "4": 1112,
+      "5": 1115,
+      "6": 1118,
+      "7": 1121,
+      "8": 1124,
+      "9": 1097
+    }
   },
-  "timestamp": 1764332978179,
+  "timestamp": 1764332981468,
   "version": "4.0-cloud",
   "user": "Dino"
 }
