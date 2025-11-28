@@ -4,7 +4,7 @@
     "exp": 3344,
     "coins": 17933,
     "gems": 0,
-    "health": 91,
+    "health": 73,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -324,8 +324,8 @@
       "dailyEarnings": 57058
     },
     "materials": {
-      "bamboo": 4,
-      "metal": 0,
+      "bamboo": 10,
+      "metal": 10,
       "spiderweb": 0
     }
   },
@@ -334,7 +334,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764370615242,
+    "lastHpRegen": 1764370627411,
     "dailyRewards": {},
     "fishingSlots": [],
     "selectedSlotIndex": null,
@@ -349,7 +349,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764370625896,
+  "timestamp": 1764370630487,
   "version": "4.0-cloud",
   "user": "Dino"
 }
