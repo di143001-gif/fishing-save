@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 1302,
+    "exp": 1923,
     "coins": 18432,
     "gems": 0,
-    "health": 83,
+    "health": 88,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -462,6 +462,34 @@
         "exp": 32,
         "value": 61,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.64,
+        "exp": 137,
+        "value": 264,
+        "rarity": "rare"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 2.33,
+        "exp": 357,
+        "value": 1165,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.42,
+        "exp": 72,
+        "value": 142,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.05,
+        "exp": 55,
+        "value": 105,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -583,7 +611,7 @@
         "id": 7,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 690000,
         "type": "crafted",
@@ -640,11 +668,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 193,
+      "totalFishCaught": 197,
       "biggestFish": 2.99,
       "totalEarnings": 16932,
       "playTime": 0,
-      "dailyFishCaught": 193,
+      "dailyFishCaught": 197,
       "dailyEarnings": 16932
     },
     "materials": {
@@ -658,7 +686,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764332510680,
+    "lastHpRegen": 1764332630524,
     "activeEvents": [
       "luckyDay"
     ],
@@ -672,18 +700,17 @@
     },
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 473,
+      "0": 556,
       "1": 531,
       "2": 536,
-      "3": 492,
+      "3": 552,
       "4": 540,
-      "5": 496,
-      "6": 520,
+      "5": 579,
       "7": 508,
-      "8": 514
+      "8": 561
     }
   },
-  "timestamp": 1764332524354,
+  "timestamp": 1764332631050,
   "version": "4.0-cloud",
   "user": "Dino"
 }
