@@ -1,10 +1,10 @@
 {
   "playerData": {
-    "level": 7,
-    "exp": 6155,
+    "level": 8,
+    "exp": 489,
     "coins": 18432,
     "gems": 0,
-    "health": 84,
+    "health": 88,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -343,6 +343,62 @@
         "exp": 84,
         "value": 260,
         "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.5,
+        "exp": 130,
+        "value": 250,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.43,
+        "exp": 72,
+        "value": 143,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.96,
+        "exp": 105,
+        "value": 196,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.92,
+        "exp": 49,
+        "value": 92,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.09,
+        "exp": 58,
+        "value": 109,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.17,
+        "exp": 59,
+        "value": 117,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.61,
+        "exp": 141,
+        "value": 261,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.36,
+        "exp": 120,
+        "value": 236,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -521,11 +577,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 176,
+      "totalFishCaught": 184,
       "biggestFish": 2.99,
       "totalEarnings": 16932,
       "playTime": 0,
-      "dailyFishCaught": 176,
+      "dailyFishCaught": 184,
       "dailyEarnings": 16932
     },
     "materials": {
@@ -539,7 +595,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764332305677,
+    "lastHpRegen": 1764332456994,
     "activeEvents": [
       "luckyDay"
     ],
@@ -553,18 +609,18 @@
     },
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 425,
-      "1": 350,
-      "2": 422,
-      "3": 373,
-      "4": 430,
-      "5": 400,
+      "0": 473,
+      "1": 464,
+      "2": 470,
+      "3": 455,
+      "4": 478,
+      "5": 467,
       "6": 407,
       "7": 256,
-      "8": 414
+      "8": 488
     }
   },
-  "timestamp": 1764332309690,
+  "timestamp": 1764332467708,
   "version": "4.0-cloud",
   "user": "Dino"
 }
