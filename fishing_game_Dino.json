@@ -4,7 +4,7 @@
     "exp": 2388,
     "coins": 33000,
     "gems": 0,
-    "health": 83,
+    "health": 80,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -192,17 +192,17 @@
       "dailyEarnings": 31500
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 3,
       "metal": 0,
       "spiderweb": 1
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764332643080,
+    "lastHpRegen": 1764332655137,
     "activeEvents": [
       "luckyDay"
     ],
@@ -217,7 +217,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764332654181,
+  "timestamp": 1764332658527,
   "version": "4.0-cloud",
   "user": "Dino"
 }
