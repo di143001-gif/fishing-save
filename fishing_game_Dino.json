@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 5,
-    "exp": 539,
+    "exp": 612,
     "coins": 4612,
     "gems": 0,
-    "health": 96,
+    "health": 97,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -62,6 +62,13 @@
         "weight": 0.14,
         "exp": 7,
         "value": 14,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.36,
+        "exp": 73,
+        "value": 136,
         "rarity": "common"
       }
     ],
@@ -203,11 +210,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 28,
+      "totalFishCaught": 29,
       "biggestFish": 1.9,
       "totalEarnings": 3112,
       "playTime": 0,
-      "dailyFishCaught": 28,
+      "dailyFishCaught": 29,
       "dailyEarnings": 3112
     },
     "materials": {
@@ -221,7 +228,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764309057730,
+    "lastHpRegen": 1764309084952,
     "activeEvents": [
       "luckyDay"
     ],
@@ -236,7 +243,7 @@
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
       "0": 201,
-      "1": 213,
+      "1": 234,
       "2": 210,
       "3": 219,
       "4": 228,
@@ -244,7 +251,7 @@
       "6": 178
     }
   },
-  "timestamp": 1764309060230,
+  "timestamp": 1764309093693,
   "version": "4.0-cloud",
   "user": "Dino"
 }
