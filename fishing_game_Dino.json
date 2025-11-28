@@ -4,7 +4,7 @@
     "exp": 7221,
     "coins": 43007,
     "gems": 0,
-    "health": 27,
+    "health": 28,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764332934689,
+    "lastHpRegen": 1764332947137,
     "activeEvents": [
       "luckyDay"
     ],
@@ -236,7 +236,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764332946181,
+  "timestamp": 1764332948204,
   "version": "4.0-cloud",
   "user": "Dino"
 }
