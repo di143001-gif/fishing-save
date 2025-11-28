@@ -28,7 +28,7 @@
         "id": 1,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 924600,
         "type": "crafted",
@@ -137,7 +137,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -147,14 +147,14 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764302802844,
     "eventTimers": {
       "luckyDay": 0
     }
   },
-  "timestamp": 1764302816043,
+  "timestamp": 1764302820478,
   "version": "4.0-cloud",
   "user": "Dino"
 }
