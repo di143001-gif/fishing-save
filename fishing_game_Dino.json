@@ -4,7 +4,7 @@
     "exp": 1784,
     "coins": 18432,
     "gems": 0,
-    "health": 55,
+    "health": 56,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -146,7 +146,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -165,7 +165,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 942600,
         "type": "crafted",
@@ -202,13 +202,13 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764330799965,
+    "lastHpRegen": 1764330812340,
     "activeEvents": [
       "luckyDay"
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 7,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764330767442,
     "eventTimers": {
@@ -217,7 +217,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764330811147,
+  "timestamp": 1764330812843,
   "version": "4.0-cloud",
   "user": "Dino"
 }
