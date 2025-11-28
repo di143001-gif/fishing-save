@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 482,
+    "exp": 1261,
     "coins": 12566,
     "gems": 0,
-    "health": 51,
+    "health": 76,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -231,6 +231,76 @@
         "exp": 60,
         "value": 117,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.67,
+        "exp": 85,
+        "value": 167,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.67,
+        "exp": 35,
+        "value": 67,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.9,
+        "exp": 99,
+        "value": 190,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.74,
+        "exp": 93,
+        "value": 174,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.76,
+        "exp": 40,
+        "value": 76,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.95,
+        "exp": 105,
+        "value": 195,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.41,
+        "exp": 75,
+        "value": 141,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.83,
+        "exp": 93,
+        "value": 183,
+        "rarity": "rare"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.34,
+        "exp": 54,
+        "value": 170,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.92,
+        "exp": 100,
+        "value": 192,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -371,7 +441,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -390,11 +460,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 108,
+      "totalFishCaught": 118,
       "biggestFish": 1.99,
       "totalEarnings": 11066,
       "playTime": 0,
-      "dailyFishCaught": 108,
+      "dailyFishCaught": 118,
       "dailyEarnings": 11066
     },
     "materials": {
@@ -408,7 +478,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764310275857,
+    "lastHpRegen": 1764310702958,
     "activeEvents": [
       "luckyDay"
     ],
@@ -422,17 +492,16 @@
     },
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 854,
-      "1": 838,
-      "2": 782,
-      "3": 859,
-      "4": 841,
-      "5": 849,
-      "6": 683,
-      "7": 821
+      "0": 929,
+      "1": 932,
+      "2": 926,
+      "3": 935,
+      "4": 923,
+      "5": 917,
+      "6": 920
     }
   },
-  "timestamp": 1764310286856,
+  "timestamp": 1764310705499,
   "version": "4.0-cloud",
   "user": "Dino"
 }
