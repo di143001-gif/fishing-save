@@ -217,8 +217,8 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
-    "currentLocation": "Khu Rừng Tràm",
+    "currentScreen": "select-channel",
+    "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
     "lastHpRegen": 1764332704138,
@@ -236,7 +236,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764332706185,
+  "timestamp": 1764332709180,
   "version": "4.0-cloud",
   "user": "Dino"
 }
