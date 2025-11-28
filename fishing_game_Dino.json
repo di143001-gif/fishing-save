@@ -4,7 +4,7 @@
     "exp": 142,
     "coins": 1500,
     "gems": 0,
-    "health": 59,
+    "health": 50,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -152,7 +152,7 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 5,
+      "bamboo": 9,
       "metal": 10,
       "spiderweb": 10
     }
@@ -162,7 +162,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764305629133,
+    "lastHpRegen": 1764305641133,
     "activeEvents": [
       "luckyDay"
     ],
@@ -175,7 +175,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764305640944,
+  "timestamp": 1764305643429,
   "version": "4.0-cloud",
   "user": "Dino"
 }
