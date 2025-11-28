@@ -4,7 +4,7 @@
     "exp": 1297,
     "coins": 4612,
     "gems": 0,
-    "health": 90,
+    "health": 91,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -315,11 +315,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-channel",
+    "currentScreen": "select-location",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764309161026,
+    "lastHpRegen": 1764309173461,
     "activeEvents": [
       "luckyDay"
     ],
@@ -334,7 +334,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764309171961,
+  "timestamp": 1764309178995,
   "version": "4.0-cloud",
   "user": "Dino"
 }
