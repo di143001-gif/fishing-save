@@ -4,7 +4,7 @@
     "exp": 626,
     "coins": 4612,
     "gems": 0,
-    "health": 99,
+    "health": 93,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -116,17 +116,17 @@
       "dailyEarnings": 3112
     },
     "materials": {
-      "bamboo": 13,
+      "bamboo": 20,
       "metal": 20,
       "spiderweb": 20
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764308899517,
+    "lastHpRegen": 1764308911517,
     "activeEvents": [
       "luckyDay"
     ],
@@ -141,7 +141,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764308909381,
+  "timestamp": 1764308920085,
   "version": "4.0-cloud",
   "user": "Dino"
 }
