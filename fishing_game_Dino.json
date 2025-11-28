@@ -724,7 +724,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -740,19 +740,10 @@
     "eventTimers": {
       "luckyDay": 0
     },
-    "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 598,
-      "1": 531,
-      "2": 582,
-      "3": 595,
-      "4": 585,
-      "5": 579,
-      "7": 588,
-      "8": 601
-    }
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {}
   },
-  "timestamp": 1764332633054,
+  "timestamp": 1764332636187,
   "version": "4.0-cloud",
   "user": "Dino"
 }
