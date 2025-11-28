@@ -202,7 +202,7 @@
         "id": 5,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 882000,
         "type": "crafted",
@@ -221,7 +221,7 @@
         "id": 6,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 968999.9999999999,
         "type": "crafted",
@@ -321,7 +321,7 @@
     ],
     "dailyRewards": {},
     "fishingSlots": [],
-    "selectedSlotIndex": 4,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764330767442,
     "eventTimers": {
@@ -332,10 +332,12 @@
       "0": 228,
       "1": 232,
       "2": 236,
-      "3": 240
+      "3": 240,
+      "4": 244,
+      "5": 248
     }
   },
-  "timestamp": 1764331909321,
+  "timestamp": 1764331910941,
   "version": "4.0-cloud",
   "user": "Dino"
 }
