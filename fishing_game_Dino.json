@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 8,
-    "exp": 10350,
+    "exp": 11169,
     "coins": 2382,
     "gems": 0,
-    "health": 5,
+    "health": 0,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -195,6 +195,48 @@
         "weight": 2.63,
         "exp": 135,
         "value": 263,
+        "rarity": "rare"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.99,
+        "exp": 318,
+        "value": 995,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.39,
+        "exp": 124,
+        "value": 239,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.27,
+        "exp": 68,
+        "value": 127,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.35,
+        "exp": 69,
+        "value": 135,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.81,
+        "exp": 92,
+        "value": 181,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.77,
+        "exp": 148,
+        "value": 277,
         "rarity": "rare"
       }
     ],
@@ -393,11 +435,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 275,
+      "totalFishCaught": 281,
       "biggestFish": 2.99,
       "totalEarnings": 41507,
       "playTime": 0,
-      "dailyFishCaught": 275,
+      "dailyFishCaught": 281,
       "dailyEarnings": 41507
     },
     "materials": {
@@ -411,7 +453,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764332996139,
+    "lastHpRegen": 1764333008150,
     "activeEvents": [
       "luckyDay"
     ],
@@ -423,21 +465,10 @@
     "eventTimers": {
       "luckyDay": 0
     },
-    "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 1162,
-      "1": 1192,
-      "2": 1195,
-      "3": 1183,
-      "4": 1112,
-      "5": 1134,
-      "6": 1186,
-      "7": 1145,
-      "8": 1198,
-      "9": 1097
-    }
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {}
   },
-  "timestamp": 1764333006183,
+  "timestamp": 1764333011637,
   "version": "4.0-cloud",
   "user": "Dino"
 }
