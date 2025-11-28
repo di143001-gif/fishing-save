@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 7,
-    "exp": 1459,
+    "exp": 1784,
     "coins": 12566,
     "gems": 0,
-    "health": 75,
+    "health": 96,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -343,6 +343,34 @@
         "exp": 6,
         "value": 13,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.98,
+        "exp": 107,
+        "value": 198,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.44,
+        "exp": 77,
+        "value": 144,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.94,
+        "exp": 50,
+        "value": 94,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.77,
+        "exp": 91,
+        "value": 177,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -350,7 +378,7 @@
         "id": 1,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 924600,
         "type": "crafted",
@@ -369,7 +397,7 @@
         "id": 2,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 816000,
         "type": "crafted",
@@ -388,7 +416,7 @@
         "id": 3,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 978000,
         "type": "crafted",
@@ -407,7 +435,7 @@
         "id": 4,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 954000,
         "type": "crafted",
@@ -426,7 +454,7 @@
         "id": 5,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 882000,
         "type": "crafted",
@@ -445,7 +473,7 @@
         "id": 6,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 968999.9999999999,
         "type": "crafted",
@@ -464,7 +492,7 @@
         "id": 7,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 690000,
         "type": "crafted",
@@ -502,11 +530,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 124,
+      "totalFishCaught": 128,
       "biggestFish": 1.99,
       "totalEarnings": 11066,
       "playTime": 0,
-      "dailyFishCaught": 124,
+      "dailyFishCaught": 128,
       "dailyEarnings": 11066
     },
     "materials": {
@@ -520,7 +548,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764310773609,
+    "lastHpRegen": 1764314611407,
     "activeEvents": [
       "luckyDay"
     ],
@@ -534,16 +562,13 @@
     },
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 965,
-      "1": 968,
-      "2": 955,
-      "3": 973,
-      "4": 923,
-      "5": 944,
-      "6": 920
+      "1": 999,
+      "2": 994,
+      "3": 1004,
+      "4": 988
     }
   },
-  "timestamp": 1764310782283,
+  "timestamp": 1764314622509,
   "version": "4.0-cloud",
   "user": "Dino"
 }
