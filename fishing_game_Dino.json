@@ -2,7 +2,7 @@
   "playerData": {
     "level": 8,
     "exp": 7221,
-    "coins": 30507,
+    "coins": 19257,
     "gems": 0,
     "health": 29,
     "maxHealth": 100,
@@ -164,17 +164,17 @@
       {
         "id": 9,
         "name": "Cần Câu Cơ Bản",
-        "level": 2,
+        "level": 3,
         "status": "Đang câu - Kênh 1",
         "rarity": "common",
-        "maxFishingTime": 1014600,
+        "maxFishingTime": 1056000,
         "type": "crafted",
         "crafted": true,
         "stars": 0,
         "stats": {
-          "successRate": 11.94,
-          "expBonus": 2.99,
-          "timeBonus": 6.91,
+          "successRate": 13.13,
+          "expBonus": 3.29,
+          "timeBonus": 7.6,
           "bigFishChance": 0
         },
         "craftedId": "id_1764330767446_trawotesq",
@@ -236,7 +236,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764332961593,
+  "timestamp": 1764332963272,
   "version": "4.0-cloud",
   "user": "Dino"
 }
