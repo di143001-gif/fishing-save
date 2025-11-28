@@ -1,7 +1,7 @@
 {
   "playerData": {
-    "level": 2,
-    "exp": 35,
+    "level": 3,
+    "exp": 142,
     "coins": 1500,
     "gems": 0,
     "health": 100,
@@ -21,6 +21,27 @@
         "exp": 60,
         "value": 118,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.47,
+        "exp": 23,
+        "value": 47,
+        "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.52,
+        "exp": 237,
+        "value": 760,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.89,
+        "exp": 47,
+        "value": 89,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -28,7 +49,7 @@
         "id": 1,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 924600,
         "type": "crafted",
@@ -85,7 +106,7 @@
         "id": 4,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 954000,
         "type": "crafted",
@@ -104,7 +125,7 @@
         "id": 5,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 882000,
         "type": "crafted",
@@ -123,11 +144,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 2,
-      "biggestFish": 1.41,
+      "totalFishCaught": 5,
+      "biggestFish": 1.52,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 2,
+      "dailyFishCaught": 5,
       "dailyEarnings": 0
     },
     "materials": {
@@ -154,7 +175,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764303386095,
+  "timestamp": 1764303389110,
   "version": "4.0-cloud",
   "user": "Dino"
 }
