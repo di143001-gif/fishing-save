@@ -217,7 +217,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "select-channel",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -236,7 +236,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764333083272,
+  "timestamp": 1764333084867,
   "version": "4.0-cloud",
   "user": "Dino"
 }
