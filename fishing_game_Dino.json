@@ -315,7 +315,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "select-channel",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -331,18 +331,10 @@
     "eventTimers": {
       "luckyDay": 0
     },
-    "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 281,
-      "1": 286,
-      "2": 289,
-      "3": 297,
-      "4": 262,
-      "5": 272,
-      "6": 178
-    }
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {}
   },
-  "timestamp": 1764309166034,
+  "timestamp": 1764309171961,
   "version": "4.0-cloud",
   "user": "Dino"
 }
