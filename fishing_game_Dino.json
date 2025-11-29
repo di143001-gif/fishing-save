@@ -773,23 +773,35 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 1,
               "startTime": 1764410836202,
               "endTime": 1764411760802,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.82,
+                "exp": 145,
+                "value": 282,
+                "rarity": "rare"
+              }
             },
             {
               "id": 1,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 3,
               "startTime": 1764410836839,
               "endTime": 1764411814839,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "🐠 Cá Vàng",
+                "weight": 1.12,
+                "exp": 180,
+                "value": 560,
+                "rarity": "golden"
+              }
             },
             {
               "id": 2,
@@ -1817,7 +1829,10 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {},
+    "autoCollectIntervals": {
+      "0": 62,
+      "1": 64
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1826,7 +1841,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764411193483,
+  "timestamp": 1764411200814,
   "version": "4.0-cloud",
   "user": "Dino"
 }
