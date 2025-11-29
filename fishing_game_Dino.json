@@ -264,7 +264,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764429238775,
+    "lastHpRegen": 1764429264048,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -814,23 +814,35 @@
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 4,
               "startTime": 1764428756527,
               "endTime": 1764429710527,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.83,
+                "exp": 42,
+                "value": 83,
+                "rarity": "common"
+              }
             },
             {
               "id": 3,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 5,
               "startTime": 1764428757400,
               "endTime": 1764429639400,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.3,
+                "exp": 70,
+                "value": 130,
+                "rarity": "common"
+              }
             },
             {
               "id": 4,
@@ -1838,7 +1850,10 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {},
+    "autoCollectIntervals": {
+      "2": 74,
+      "3": 76
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1847,7 +1862,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764429245058,
+  "timestamp": 1764429271056,
   "version": "4.0-cloud",
   "user": "Dino"
 }
