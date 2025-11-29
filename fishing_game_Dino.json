@@ -4,7 +4,7 @@
     "exp": 8931,
     "coins": 21773,
     "gems": 0,
-    "health": 74,
+    "health": 75,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -726,7 +726,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764391966696,
+    "lastHpRegen": 1764391981849,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1300,9 +1300,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.84,
-                "exp": 153,
-                "value": 284,
+                "weight": 2.65,
+                "exp": 142,
+                "value": 265,
                 "rarity": "rare"
               }
             },
@@ -1348,9 +1348,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.42,
-                "exp": 128,
-                "value": 242,
+                "weight": 2.52,
+                "exp": 133,
+                "value": 252,
                 "rarity": "rare"
               }
             },
@@ -1380,9 +1380,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.26,
-                "exp": 65,
-                "value": 126,
+                "weight": 1.48,
+                "exp": 76,
+                "value": 148,
                 "rarity": "common"
               }
             },
@@ -1396,9 +1396,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.86,
-                "exp": 44,
-                "value": 86,
+                "weight": 2.26,
+                "exp": 116,
+                "value": 225,
                 "rarity": "common"
               }
             }
@@ -2357,7 +2357,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764391979989,
+  "timestamp": 1764391982423,
   "version": "4.0-cloud",
   "user": "Dino"
 }
