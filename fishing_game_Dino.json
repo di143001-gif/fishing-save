@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764387799306,
+    "lastHpRegen": 1764387824941,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -771,13 +771,19 @@
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 3,
               "startTime": 1764387754612,
               "endTime": 1764388732612,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.62,
+                "exp": 141,
+                "value": 262,
+                "rarity": "rare"
+              }
             },
             {
               "id": 3,
@@ -1815,7 +1821,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764387811942,
+  "timestamp": 1764387828941,
   "version": "4.0-cloud",
   "user": "Dino"
 }
