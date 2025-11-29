@@ -266,7 +266,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 5,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1152000,
         "type": "crafted",
@@ -941,10 +941,10 @@
             },
             {
               "id": 7,
-              "status": "Đang câu",
-              "rodId": 9,
-              "startTime": 1764410842028,
-              "endTime": 1764411994028,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1924,7 +1924,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764411990364,
+  "timestamp": 1764411995365,
   "version": "4.0-cloud",
   "user": "Dino"
 }
