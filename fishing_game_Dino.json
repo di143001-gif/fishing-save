@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 8931,
+    "exp": 9928,
     "coins": 21773,
     "gems": 0,
-    "health": 75,
+    "health": 67,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -511,6 +511,69 @@
         "exp": 81,
         "value": 159,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.94,
+        "exp": 49,
+        "value": 94,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.65,
+        "exp": 142,
+        "value": 265,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.77,
+        "exp": 150,
+        "value": 277,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.05,
+        "exp": 55,
+        "value": 105,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.52,
+        "exp": 133,
+        "value": 252,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.6,
+        "exp": 138,
+        "value": 260,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.48,
+        "exp": 76,
+        "value": 148,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.26,
+        "exp": 116,
+        "value": 225,
+        "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.91,
+        "exp": 138,
+        "value": 455,
+        "rarity": "golden"
       }
     ],
     "rodsInventory": [
@@ -708,11 +771,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 404,
+      "totalFishCaught": 413,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 404,
+      "dailyFishCaught": 413,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -726,7 +789,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764391981849,
+    "lastHpRegen": 1764391994748,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1276,99 +1339,63 @@
             },
             {
               "id": 2,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 4,
               "startTime": 1764391907616,
               "endTime": 1764392861616,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.94,
-                "exp": 49,
-                "value": 94,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 3,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 3,
               "startTime": 1764391908423,
               "endTime": 1764392886423,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.65,
-                "exp": 142,
-                "value": 265,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 4,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 5,
               "startTime": 1764391909317,
               "endTime": 1764392791317,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.77,
-                "exp": 150,
-                "value": 277,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 5,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 6,
               "startTime": 1764391910627,
               "endTime": 1764392879628,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.05,
-                "exp": 55,
-                "value": 105,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 6,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 7,
               "startTime": 1764391911573,
               "endTime": 1764392601573,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.52,
-                "exp": 133,
-                "value": 252,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 7,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 8,
               "startTime": 1764391912408,
               "endTime": 1764392968408,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.6,
-                "exp": 138,
-                "value": 260,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 8,
@@ -1380,27 +1407,21 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.48,
-                "exp": 76,
-                "value": 148,
-                "rarity": "common"
+                "weight": 2.91,
+                "exp": 150,
+                "value": 291,
+                "rarity": "rare"
               }
             },
             {
               "id": 9,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 10,
               "startTime": 1764391914186,
               "endTime": 1764392749986,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.26,
-                "exp": 116,
-                "value": 225,
-                "rarity": "common"
-              }
+              "fishCaught": null
             }
           ]
         },
@@ -2347,8 +2368,19 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {},
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 689,
+      "1": 690,
+      "2": 701,
+      "3": 706,
+      "4": 711,
+      "5": 714,
+      "6": 719,
+      "7": 722,
+      "8": 740,
+      "9": 728
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -2357,7 +2389,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764391982423,
+  "timestamp": 1764391996595,
   "version": "4.0-cloud",
   "user": "Dino"
 }
