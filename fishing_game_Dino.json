@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 4887,
+    "exp": 4926,
     "coins": 21773,
     "gems": 0,
-    "health": 100,
+    "health": 99,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -84,6 +84,13 @@
         "exp": 146,
         "value": 273,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.74,
+        "exp": 39,
+        "value": 74,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -262,7 +269,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 835800,
         "type": "crafted",
@@ -281,11 +288,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 343,
+      "totalFishCaught": 344,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 343,
+      "dailyFishCaught": 344,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -299,7 +306,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764389224082,
+    "lastHpRegen": 1764389250305,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -919,10 +926,10 @@
             },
             {
               "id": 9,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 10,
+              "startTime": 1764389230884,
+              "endTime": 1764390066684,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1880,9 +1887,10 @@
       "3": 137,
       "4": 152,
       "5": 156,
-      "6": 160,
+      "6": 177,
       "7": 164,
-      "8": 168
+      "8": 168,
+      "9": 172
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1892,7 +1900,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764389230266,
+  "timestamp": 1764389253343,
   "version": "4.0-cloud",
   "user": "Dino"
 }
