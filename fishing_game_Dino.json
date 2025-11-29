@@ -192,13 +192,13 @@
       "dailyEarnings": 79766
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
-      "spiderweb": 10
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -850,10 +850,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.78,
-                "exp": 144,
-                "value": 278,
-                "rarity": "rare"
+                "weight": 1.54,
+                "exp": 80,
+                "value": 154,
+                "rarity": "common"
               }
             },
             {
@@ -1815,8 +1815,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764332678796,
+    "isCrafting": true,
+    "craftingEndTime": 1764392083578,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "fishingSlots": [],
@@ -1827,7 +1827,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392072432,
+  "timestamp": 1764392075768,
   "version": "4.0-cloud",
   "user": "Dino"
 }
