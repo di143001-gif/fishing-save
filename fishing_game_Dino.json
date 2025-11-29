@@ -1,13 +1,28 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 11971,
+    "exp": 12064,
     "coins": 2829,
     "gems": 0,
-    "health": 100,
+    "health": 98,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.87,
+        "exp": 44,
+        "value": 87,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.94,
+        "exp": 49,
+        "value": 94,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "id": 1,
@@ -203,11 +218,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 426,
+      "totalFishCaught": 428,
       "biggestFish": 2.99,
       "totalEarnings": 79766,
       "playTime": 0,
-      "dailyFishCaught": 426,
+      "dailyFishCaught": 428,
       "dailyEarnings": 79766
     },
     "materials": {
@@ -821,19 +836,13 @@
             },
             {
               "id": 7,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764401999303,
               "endTime": 1764403151303,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.87,
-                "exp": 44,
-                "value": 87,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 8,
@@ -1809,8 +1818,6 @@
       "4": 44,
       "5": 45,
       "6": 46,
-      "7": 47,
-      "8": 48,
       "9": 49
     },
     "fishingSlots": [],
@@ -1821,7 +1828,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764402198707,
+  "timestamp": 1764402202740,
   "version": "4.0-cloud",
   "user": "Dino"
 }
