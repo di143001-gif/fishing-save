@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 7842,
+    "exp": 8093,
     "coins": 21773,
     "gems": 0,
-    "health": 82,
+    "health": 79,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -399,6 +399,34 @@
         "exp": 50,
         "value": 99,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.41,
+        "exp": 21,
+        "value": 41,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.17,
+        "exp": 62,
+        "value": 117,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.84,
+        "exp": 97,
+        "value": 184,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.38,
+        "exp": 71,
+        "value": 138,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -596,11 +624,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 388,
+      "totalFishCaught": 392,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 388,
+      "dailyFishCaught": 392,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -614,7 +642,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764391865750,
+    "lastHpRegen": 1764391878028,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -652,13 +680,19 @@
             },
             {
               "id": 3,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 4,
               "startTime": 1764391523370,
               "endTime": 1764392477370,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.62,
+                "exp": 84,
+                "value": 162,
+                "rarity": "rare"
+              }
             },
             {
               "id": 4,
@@ -2190,14 +2224,14 @@
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
       "0": 365,
-      "1": 503,
+      "1": 532,
       "2": 509,
       "3": 491,
       "4": 440,
-      "5": 449,
+      "5": 536,
       "6": 474,
-      "7": 452,
-      "8": 528,
+      "7": 542,
+      "8": 547,
       "9": 457
     },
     "fishingSlots": [],
@@ -2208,7 +2242,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764391876535,
+  "timestamp": 1764391878533,
   "version": "4.0-cloud",
   "user": "Dino"
 }
