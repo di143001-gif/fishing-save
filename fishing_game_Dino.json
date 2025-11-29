@@ -217,7 +217,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "leaderboard-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -779,10 +779,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.19,
-                "exp": 61,
-                "value": 119,
-                "rarity": "common"
+                "weight": 2.94,
+                "exp": 153,
+                "value": 294,
+                "rarity": "rare"
               }
             },
             {
@@ -811,9 +811,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.84,
-                "exp": 100,
-                "value": 184,
+                "weight": 1.47,
+                "exp": 79,
+                "value": 147,
                 "rarity": "common"
               }
             },
@@ -1846,7 +1846,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392098516,
+  "timestamp": 1764392103538,
   "version": "4.0-cloud",
   "user": "Dino"
 }
