@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 10761,
+    "exp": 11215,
     "coins": 21773,
     "gems": 0,
-    "health": 60,
+    "health": 58,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -623,6 +623,20 @@
         "exp": 137,
         "value": 266,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.81,
+        "exp": 43,
+        "value": 81,
+        "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 2.67,
+        "exp": 411,
+        "value": 1335,
+        "rarity": "golden"
       }
     ],
     "rodsInventory": [
@@ -820,11 +834,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 420,
+      "totalFishCaught": 422,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 420,
+      "dailyFishCaught": 422,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -1428,13 +1442,19 @@
             },
             {
               "id": 6,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 7,
               "startTime": 1764391911573,
               "endTime": 1764392601573,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "🐠 Cá Vàng",
+                "weight": 1.58,
+                "exp": 249,
+                "value": 790,
+                "rarity": "golden"
+              }
             },
             {
               "id": 7,
@@ -1456,9 +1476,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.91,
-                "exp": 46,
-                "value": 91,
+                "weight": 0.88,
+                "exp": 45,
+                "value": 88,
                 "rarity": "common"
               }
             },
@@ -2422,12 +2442,12 @@
       "0": 689,
       "1": 690,
       "2": 786,
-      "3": 781,
+      "3": 801,
       "4": 711,
       "5": 714,
       "6": 719,
       "7": 722,
-      "8": 789,
+      "8": 804,
       "9": 728
     },
     "fishingSlots": [],
@@ -2438,7 +2458,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392004361,
+  "timestamp": 1764392006634,
   "version": "4.0-cloud",
   "user": "Dino"
 }
