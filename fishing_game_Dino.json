@@ -2,7 +2,7 @@
   "playerData": {
     "level": 9,
     "exp": 11971,
-    "coins": 40641,
+    "coins": 15329,
     "gems": 0,
     "health": 56,
     "maxHealth": 100,
@@ -164,17 +164,17 @@
       {
         "id": 9,
         "name": "Cần Câu Cơ Bản",
-        "level": 4,
+        "level": 5,
         "status": "Đang câu - Kênh 1",
         "rarity": "common",
-        "maxFishingTime": 1101600,
+        "maxFishingTime": 1152000,
         "type": "crafted",
         "crafted": true,
         "stars": 0,
         "stats": {
-          "successRate": 14.44,
-          "expBonus": 3.62,
-          "timeBonus": 8.36,
+          "successRate": 15.88,
+          "expBonus": 3.98,
+          "timeBonus": 9.2,
           "bigFishChance": 0
         },
         "craftedId": "id_1764330767446_trawotesq",
@@ -797,23 +797,35 @@
             },
             {
               "id": 4,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 5,
               "startTime": 1764391909317,
               "endTime": 1764392791317,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.14,
+                "exp": 116,
+                "value": 214,
+                "rarity": "common"
+              }
             },
             {
               "id": 5,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 6,
               "startTime": 1764391910627,
               "endTime": 1764392879628,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.11,
+                "exp": 59,
+                "value": 111,
+                "rarity": "common"
+              }
             },
             {
               "id": 6,
@@ -1810,7 +1822,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392028940,
+  "timestamp": 1764392031144,
   "version": "4.0-cloud",
   "user": "Dino"
 }
