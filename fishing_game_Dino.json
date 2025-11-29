@@ -217,7 +217,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -781,13 +781,19 @@
             },
             {
               "id": 3,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 3,
               "startTime": 1764391908423,
               "endTime": 1764392886423,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.16,
+                "exp": 61,
+                "value": 115,
+                "rarity": "common"
+              }
             },
             {
               "id": 4,
@@ -1804,7 +1810,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392023460,
+  "timestamp": 1764392028940,
   "version": "4.0-cloud",
   "user": "Dino"
 }
