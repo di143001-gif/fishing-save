@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 12196,
+    "exp": 12652,
     "coins": 2829,
     "gems": 0,
-    "health": 99,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -35,6 +35,20 @@
         "exp": 75,
         "value": 143,
         "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 2.06,
+        "exp": 324,
+        "value": 1030,
+        "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.54,
+        "exp": 132,
+        "value": 254,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -232,11 +246,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 430,
+      "totalFishCaught": 432,
       "biggestFish": 2.99,
       "totalEarnings": 79766,
       "playTime": 0,
-      "dailyFishCaught": 430,
+      "dailyFishCaught": 432,
       "dailyEarnings": 79766
     },
     "materials": {
@@ -250,7 +264,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764402389856,
+    "lastHpRegen": 1764402401856,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -850,35 +864,23 @@
             },
             {
               "id": 7,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764401999303,
               "endTime": 1764403151303,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.54,
-                "exp": 132,
-                "value": 254,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 8,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 10,
               "startTime": 1764402000692,
               "endTime": 1764402885692,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "🐠 Cá Vàng",
-                "weight": 2.06,
-                "exp": 324,
-                "value": 1030,
-                "rarity": "golden"
-              }
+              "fishCaught": null
             },
             {
               "id": 9,
@@ -1852,7 +1854,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764402393761,
+  "timestamp": 1764402413725,
   "version": "4.0-cloud",
   "user": "Dino"
 }
