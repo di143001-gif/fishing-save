@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 8850,
+    "exp": 8931,
     "coins": 21773,
     "gems": 0,
     "health": 68,
@@ -504,6 +504,13 @@
         "exp": 9,
         "value": 18,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.59,
+        "exp": 81,
+        "value": 159,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -511,7 +518,7 @@
         "id": 1,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 924600,
         "type": "crafted",
@@ -530,7 +537,7 @@
         "id": 2,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 816000,
         "type": "crafted",
@@ -549,7 +556,7 @@
         "id": 3,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 978000,
         "type": "crafted",
@@ -701,11 +708,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 403,
+      "totalFishCaught": 404,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 403,
+      "dailyFishCaught": 404,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -719,7 +726,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764391878028,
+    "lastHpRegen": 1764391890749,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -727,30 +734,30 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
-              "rodId": 1,
-              "startTime": 1764391520403,
-              "endTime": 1764392445003,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 1,
-              "status": "Đang câu",
-              "rodId": 2,
-              "startTime": 1764391521229,
-              "endTime": 1764392337229,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 2,
-              "status": "Đang câu",
-              "rodId": 3,
-              "startTime": 1764391522036,
-              "endTime": 1764392500036,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -2292,19 +2299,8 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
-    "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 365,
-      "1": 573,
-      "2": 580,
-      "3": 589,
-      "4": 440,
-      "5": 536,
-      "6": 561,
-      "7": 601,
-      "8": 607,
-      "9": 613
-    },
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {},
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -2313,7 +2309,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764391889783,
+  "timestamp": 1764391900154,
   "version": "4.0-cloud",
   "user": "Dino"
 }
