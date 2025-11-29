@@ -152,7 +152,7 @@
         "id": 2,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 816000,
         "type": "crafted",
@@ -171,7 +171,7 @@
         "id": 3,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 978000,
         "type": "crafted",
@@ -190,7 +190,7 @@
         "id": 4,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 954000,
         "type": "crafted",
@@ -881,30 +881,30 @@
             },
             {
               "id": 1,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 2,
+              "startTime": 1764390342243,
+              "endTime": 1764391158243,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 2,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 3,
+              "startTime": 1764390343069,
+              "endTime": 1764391321069,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 3,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 4,
+              "startTime": 1764390343848,
+              "endTime": 1764391297848,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1911,12 +1911,15 @@
         }
       }
     },
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": 4,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 220
+      "0": 220,
+      "1": 224,
+      "2": 228,
+      "3": 232
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1926,7 +1929,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764390342006,
+  "timestamp": 1764390344352,
   "version": "4.0-cloud",
   "user": "Dino"
 }
