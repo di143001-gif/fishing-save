@@ -785,9 +785,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.89,
-                "exp": 45,
-                "value": 89,
+                "weight": 1.47,
+                "exp": 76,
+                "value": 147,
                 "rarity": "common"
               }
             },
@@ -849,9 +849,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.39,
-                "exp": 126,
-                "value": 239,
+                "weight": 1.5,
+                "exp": 79,
+                "value": 150,
                 "rarity": "common"
               }
             },
@@ -881,9 +881,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.7,
-                "exp": 88,
-                "value": 170,
+                "weight": 0.87,
+                "exp": 44,
+                "value": 87,
                 "rarity": "common"
               }
             },
@@ -1858,7 +1858,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392483495,
+  "timestamp": 1764392490250,
   "version": "4.0-cloud",
   "user": "Dino"
 }
