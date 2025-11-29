@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764392682099,
+    "lastHpRegen": 1764392707990,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -801,9 +801,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.73,
-                "exp": 146,
-                "value": 273,
+                "weight": 2.63,
+                "exp": 141,
+                "value": 263,
                 "rarity": "rare"
               }
             },
@@ -817,9 +817,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.04,
-                "exp": 111,
-                "value": 204,
+                "weight": 1.5,
+                "exp": 81,
+                "value": 150,
                 "rarity": "common"
               }
             },
@@ -833,9 +833,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.84,
-                "exp": 45,
-                "value": 84,
+                "weight": 0.82,
+                "exp": 44,
+                "value": 82,
                 "rarity": "common"
               }
             },
@@ -891,9 +891,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.8,
-                "exp": 42,
-                "value": 80,
+                "weight": 1.36,
+                "exp": 71,
+                "value": 136,
                 "rarity": "common"
               }
             }
@@ -1852,7 +1852,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392688989,
+  "timestamp": 1764392710989,
   "version": "4.0-cloud",
   "user": "Dino"
 }
