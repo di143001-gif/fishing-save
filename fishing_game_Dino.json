@@ -1,644 +1,13 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 11215,
-    "coins": 21773,
+    "exp": 11971,
+    "coins": 40641,
     "gems": 0,
-    "health": 58,
+    "health": 56,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 2.62,
-        "exp": 141,
-        "value": 262,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.48,
-        "exp": 76,
-        "value": 148,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.36,
-        "exp": 122,
-        "value": 236,
-        "rarity": "common"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 2.98,
-        "exp": 465,
-        "value": 1490,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.39,
-        "exp": 74,
-        "value": 139,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.56,
-        "exp": 84,
-        "value": 156,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.7,
-        "exp": 143,
-        "value": 270,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.72,
-        "exp": 37,
-        "value": 72,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.32,
-        "exp": 119,
-        "value": 231,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.63,
-        "exp": 136,
-        "value": 263,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.73,
-        "exp": 146,
-        "value": 273,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.74,
-        "exp": 39,
-        "value": 74,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.7,
-        "exp": 88,
-        "value": 170,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.73,
-        "exp": 144,
-        "value": 273,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.79,
-        "exp": 40,
-        "value": 79,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.18,
-        "exp": 112,
-        "value": 218,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.53,
-        "exp": 26,
-        "value": 53,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.98,
-        "exp": 154,
-        "value": 298,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.86,
-        "exp": 154,
-        "value": 286,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.58,
-        "exp": 81,
-        "value": 158,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.52,
-        "exp": 78,
-        "value": 152,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.79,
-        "exp": 150,
-        "value": 279,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.64,
-        "exp": 88,
-        "value": 164,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.29,
-        "exp": 69,
-        "value": 129,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.98,
-        "exp": 102,
-        "value": 198,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.72,
-        "exp": 140,
-        "value": 272,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.97,
-        "exp": 101,
-        "value": 197,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.26,
-        "exp": 14,
-        "value": 26,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.47,
-        "exp": 24,
-        "value": 47,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.34,
-        "exp": 18,
-        "value": 34,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.14,
-        "exp": 7,
-        "value": 14,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.62,
-        "exp": 33,
-        "value": 62,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.79,
-        "exp": 42,
-        "value": 79,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.08,
-        "exp": 55,
-        "value": 108,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.44,
-        "exp": 74,
-        "value": 144,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.16,
-        "exp": 8,
-        "value": 16,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.39,
-        "exp": 74,
-        "value": 139,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.26,
-        "exp": 13,
-        "value": 26,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.83,
-        "exp": 44,
-        "value": 83,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.18,
-        "exp": 9,
-        "value": 18,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.89,
-        "exp": 98,
-        "value": 189,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.72,
-        "exp": 92,
-        "value": 172,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.83,
-        "exp": 42,
-        "value": 83,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.88,
-        "exp": 46,
-        "value": 88,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.34,
-        "exp": 69,
-        "value": 134,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.79,
-        "exp": 42,
-        "value": 79,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.67,
-        "exp": 34,
-        "value": 67,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.12,
-        "exp": 58,
-        "value": 112,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.9,
-        "exp": 46,
-        "value": 90,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.07,
-        "exp": 54,
-        "value": 107,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.41,
-        "exp": 75,
-        "value": 141,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.63,
-        "exp": 87,
-        "value": 163,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.59,
-        "exp": 81,
-        "value": 159,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.88,
-        "exp": 45,
-        "value": 88,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.09,
-        "exp": 55,
-        "value": 109,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.99,
-        "exp": 50,
-        "value": 99,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.41,
-        "exp": 21,
-        "value": 41,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.17,
-        "exp": 62,
-        "value": 117,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.84,
-        "exp": 97,
-        "value": 184,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.38,
-        "exp": 71,
-        "value": 138,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.62,
-        "exp": 84,
-        "value": 162,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.47,
-        "exp": 24,
-        "value": 47,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.94,
-        "exp": 100,
-        "value": 194,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.27,
-        "exp": 68,
-        "value": 127,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.69,
-        "exp": 36,
-        "value": 69,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.7,
-        "exp": 36,
-        "value": 70,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.68,
-        "exp": 87,
-        "value": 168,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.43,
-        "exp": 73,
-        "value": 143,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.64,
-        "exp": 87,
-        "value": 164,
-        "rarity": "rare"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 1.01,
-        "exp": 153,
-        "value": 505,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.18,
-        "exp": 9,
-        "value": 18,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.59,
-        "exp": 81,
-        "value": 159,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.94,
-        "exp": 49,
-        "value": 94,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.65,
-        "exp": 142,
-        "value": 265,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.77,
-        "exp": 150,
-        "value": 277,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.05,
-        "exp": 55,
-        "value": 105,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.52,
-        "exp": 133,
-        "value": 252,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.6,
-        "exp": 138,
-        "value": 260,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.48,
-        "exp": 76,
-        "value": 148,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.26,
-        "exp": 116,
-        "value": 225,
-        "rarity": "common"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 0.91,
-        "exp": 138,
-        "value": 455,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.84,
-        "exp": 148,
-        "value": 284,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.91,
-        "exp": 150,
-        "value": 291,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.04,
-        "exp": 54,
-        "value": 104,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.15,
-        "exp": 110,
-        "value": 215,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.82,
-        "exp": 98,
-        "value": 182,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.62,
-        "exp": 136,
-        "value": 262,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.66,
-        "exp": 137,
-        "value": 266,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.81,
-        "exp": 43,
-        "value": 81,
-        "rarity": "common"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 2.67,
-        "exp": 411,
-        "value": 1335,
-        "rarity": "golden"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -834,12 +203,12 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 422,
+      "totalFishCaught": 426,
       "biggestFish": 2.99,
-      "totalEarnings": 60898,
+      "totalEarnings": 79766,
       "playTime": 0,
-      "dailyFishCaught": 422,
-      "dailyEarnings": 60898
+      "dailyFishCaught": 426,
+      "dailyEarnings": 79766
     },
     "materials": {
       "bamboo": 10,
@@ -848,11 +217,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764391994748,
+    "lastHpRegen": 1764392019750,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1442,19 +811,13 @@
             },
             {
               "id": 6,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 7,
               "startTime": 1764391911573,
               "endTime": 1764392601573,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "🐠 Cá Vàng",
-                "weight": 1.58,
-                "exp": 249,
-                "value": 790,
-                "rarity": "golden"
-              }
+              "fishCaught": null
             },
             {
               "id": 7,
@@ -1468,19 +831,13 @@
             },
             {
               "id": 8,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764391913315,
               "endTime": 1764393014915,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.88,
-                "exp": 45,
-                "value": 88,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 9,
@@ -2437,19 +1794,8 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
-    "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 689,
-      "1": 690,
-      "2": 786,
-      "3": 801,
-      "4": 711,
-      "5": 714,
-      "6": 719,
-      "7": 722,
-      "8": 804,
-      "9": 728
-    },
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {},
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -2458,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392006634,
+  "timestamp": 1764392023460,
   "version": "4.0-cloud",
   "user": "Dino"
 }
