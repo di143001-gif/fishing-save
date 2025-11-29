@@ -801,9 +801,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.18,
-                "exp": 63,
-                "value": 118,
+                "weight": 0.75,
+                "exp": 39,
+                "value": 75,
                 "rarity": "common"
               }
             },
@@ -1858,7 +1858,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392478102,
+  "timestamp": 1764392479773,
   "version": "4.0-cloud",
   "user": "Dino"
 }
