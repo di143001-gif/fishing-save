@@ -341,7 +341,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764417101518,
+    "lastHpRegen": 1764417113518,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -349,13 +349,19 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 1,
               "startTime": 1764417062146,
               "endTime": 1764417986746,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.83,
+                "exp": 42,
+                "value": 83,
+                "rarity": "common"
+              }
             },
             {
               "id": 1,
@@ -1915,7 +1921,9 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {},
+    "autoCollectIntervals": {
+      "0": 41
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1924,7 +1932,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764417103518,
+  "timestamp": 1764417123522,
   "version": "4.0-cloud",
   "user": "Dino"
 }
