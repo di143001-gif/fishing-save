@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 5336,
+    "exp": 5490,
     "coins": 21773,
     "gems": 0,
-    "health": 100,
+    "health": 99,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -126,6 +126,13 @@
         "exp": 26,
         "value": 53,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.98,
+        "exp": 154,
+        "value": 298,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -323,11 +330,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 349,
+      "totalFishCaught": 350,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 349,
+      "dailyFishCaught": 350,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -891,13 +898,19 @@
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 3,
               "startTime": 1764390343069,
               "endTime": 1764391321069,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.86,
+                "exp": 154,
+                "value": 286,
+                "rarity": "rare"
+              }
             },
             {
               "id": 3,
@@ -951,19 +964,13 @@
             },
             {
               "id": 8,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764390348419,
               "endTime": 1764391450019,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.98,
-                "exp": 154,
-                "value": 298,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 9,
@@ -1930,7 +1937,7 @@
       "5": 241,
       "6": 245,
       "7": 249,
-      "8": 253,
+      "8": 264,
       "9": 257
     },
     "fishingSlots": [],
@@ -1941,7 +1948,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764390356434,
+  "timestamp": 1764390363434,
   "version": "4.0-cloud",
   "user": "Dino"
 }
