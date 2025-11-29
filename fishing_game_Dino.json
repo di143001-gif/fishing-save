@@ -285,7 +285,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 4,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1101600,
         "type": "crafted",
@@ -304,7 +304,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 835800,
         "type": "crafted",
@@ -341,7 +341,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764390341502,
+    "lastHpRegen": 1764390354434,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -951,20 +951,26 @@
             },
             {
               "id": 8,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Cá dính câu!",
+              "rodId": 9,
+              "startTime": 1764390348419,
+              "endTime": 1764391450019,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.98,
+                "exp": 154,
+                "value": 298,
+                "rarity": "rare"
+              }
             },
             {
               "id": 9,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 10,
+              "startTime": 1764390349313,
+              "endTime": 1764391185113,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1911,7 +1917,7 @@
         }
       }
     },
-    "selectedSlotIndex": 8,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
     "autoCollectEnabled": true,
@@ -1923,7 +1929,9 @@
       "4": 236,
       "5": 241,
       "6": 245,
-      "7": 249
+      "7": 249,
+      "8": 253,
+      "9": 257
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1933,7 +1941,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764390348182,
+  "timestamp": 1764390356434,
   "version": "4.0-cloud",
   "user": "Dino"
 }
