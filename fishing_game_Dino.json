@@ -806,13 +806,19 @@
             },
             {
               "id": 4,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 6,
               "startTime": 1764401995883,
               "endTime": 1764402964883,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.08,
+                "exp": 57,
+                "value": 108,
+                "rarity": "common"
+              }
             },
             {
               "id": 5,
@@ -1828,7 +1834,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764402378359,
+  "timestamp": 1764402385631,
   "version": "4.0-cloud",
   "user": "Dino"
 }
