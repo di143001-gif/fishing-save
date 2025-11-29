@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 6516,
+    "exp": 6549,
     "coins": 21773,
     "gems": 0,
     "health": 98,
@@ -224,6 +224,13 @@
         "exp": 7,
         "value": 14,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.62,
+        "exp": 33,
+        "value": 62,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -421,11 +428,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 363,
+      "totalFishCaught": 364,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 363,
+      "dailyFishCaught": 364,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -439,7 +446,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764391570211,
+    "lastHpRegen": 1764391582991,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -457,29 +464,29 @@
             },
             {
               "id": 1,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 2,
               "startTime": 1764391521229,
               "endTime": 1764392337229,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.62,
-                "exp": 33,
-                "value": 62,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 3,
               "startTime": 1764391522036,
               "endTime": 1764392500036,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.79,
+                "exp": 42,
+                "value": 79,
+                "rarity": "common"
+              }
             },
             {
               "id": 3,
@@ -2021,7 +2028,7 @@
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
       "0": 365,
-      "1": 385,
+      "1": 402,
       "2": 389,
       "3": 368,
       "4": 394,
@@ -2039,7 +2046,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764391581989,
+  "timestamp": 1764391584990,
   "version": "4.0-cloud",
   "user": "Dino"
 }
