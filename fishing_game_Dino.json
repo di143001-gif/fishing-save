@@ -217,7 +217,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -869,9 +869,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.39,
-                "exp": 123,
-                "value": 239,
+                "weight": 0.61,
+                "exp": 31,
+                "value": 61,
                 "rarity": "common"
               }
             },
@@ -1846,7 +1846,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392089831,
+  "timestamp": 1764392093827,
   "version": "4.0-cloud",
   "user": "Dino"
 }
