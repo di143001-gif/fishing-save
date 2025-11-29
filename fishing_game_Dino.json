@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764428816283,
+    "lastHpRegen": 1764429053201,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -751,13 +751,19 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 1,
               "startTime": 1764428753045,
               "endTime": 1764429677645,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.74,
+                "exp": 38,
+                "value": 74,
+                "rarity": "common"
+              }
             },
             {
               "id": 1,
@@ -813,13 +819,19 @@
             },
             {
               "id": 5,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 7,
               "startTime": 1764428759878,
               "endTime": 1764429449878,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.09,
+                "exp": 110,
+                "value": 209,
+                "rarity": "common"
+              }
             },
             {
               "id": 6,
@@ -843,13 +855,19 @@
             },
             {
               "id": 8,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 10,
               "startTime": 1764428763107,
               "endTime": 1764429648107,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.84,
+                "exp": 44,
+                "value": 84,
+                "rarity": "common"
+              }
             },
             {
               "id": 9,
@@ -1816,7 +1834,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764428823256,
+  "timestamp": 1764429053864,
   "version": "4.0-cloud",
   "user": "Dino"
 }
