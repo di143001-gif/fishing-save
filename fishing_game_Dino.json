@@ -4,7 +4,7 @@
     "exp": 11971,
     "coins": 2829,
     "gems": 0,
-    "health": 96,
+    "health": 97,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -217,11 +217,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764392520748,
+    "lastHpRegen": 1764392532749,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -816,11 +816,11 @@
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": {
-                "name": "🐠 Cá Vàng",
-                "weight": 0.53,
-                "exp": 84,
-                "value": 265,
-                "rarity": "golden"
+                "name": "Cá Lóc",
+                "weight": 1.72,
+                "exp": 93,
+                "value": 172,
+                "rarity": "common"
               }
             },
             {
@@ -849,9 +849,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.5,
-                "exp": 79,
-                "value": 150,
+                "weight": 1.86,
+                "exp": 98,
+                "value": 186,
                 "rarity": "common"
               }
             },
@@ -865,9 +865,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.14,
-                "exp": 59,
-                "value": 113,
+                "weight": 2.39,
+                "exp": 126,
+                "value": 239,
                 "rarity": "common"
               }
             },
@@ -881,10 +881,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.48,
-                "exp": 128,
-                "value": 248,
-                "rarity": "rare"
+                "weight": 0.95,
+                "exp": 48,
+                "value": 95,
+                "rarity": "common"
               }
             },
             {
@@ -1858,7 +1858,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392529504,
+  "timestamp": 1764392537777,
   "version": "4.0-cloud",
   "user": "Dino"
 }
