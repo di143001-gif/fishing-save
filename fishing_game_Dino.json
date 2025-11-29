@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 10226,
+    "exp": 10390,
     "coins": 21773,
     "gems": 0,
-    "health": 65,
+    "health": 63,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -588,6 +588,20 @@
         "exp": 150,
         "value": 291,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.04,
+        "exp": 54,
+        "value": 104,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.15,
+        "exp": 110,
+        "value": 215,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -785,11 +799,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 415,
+      "totalFishCaught": 417,
       "biggestFish": 2.99,
       "totalEarnings": 60898,
       "playTime": 0,
-      "dailyFishCaught": 415,
+      "dailyFishCaught": 417,
       "dailyEarnings": 60898
     },
     "materials": {
@@ -1361,10 +1375,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.04,
-                "exp": 54,
-                "value": 104,
-                "rarity": "common"
+                "weight": 2.62,
+                "exp": 136,
+                "value": 262,
+                "rarity": "rare"
               }
             },
             {
@@ -1427,9 +1441,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.15,
-                "exp": 110,
-                "value": 215,
+                "weight": 1.35,
+                "exp": 69,
+                "value": 135,
                 "rarity": "common"
               }
             },
@@ -2392,13 +2406,13 @@
     "autoCollectIntervals": {
       "0": 689,
       "1": 690,
-      "2": 753,
+      "2": 767,
       "3": 706,
       "4": 711,
       "5": 714,
       "6": 719,
       "7": 722,
-      "8": 756,
+      "8": 770,
       "9": 728
     },
     "fishingSlots": [],
@@ -2409,7 +2423,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764391998508,
+  "timestamp": 1764392002549,
   "version": "4.0-cloud",
   "user": "Dino"
 }
