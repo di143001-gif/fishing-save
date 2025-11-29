@@ -777,13 +777,19 @@
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 4,
               "startTime": 1764391907616,
               "endTime": 1764392861616,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.4,
+                "exp": 125,
+                "value": 240,
+                "rarity": "common"
+              }
             },
             {
               "id": 3,
@@ -795,9 +801,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.16,
-                "exp": 61,
-                "value": 115,
+                "weight": 1.97,
+                "exp": 105,
+                "value": 197,
                 "rarity": "common"
               }
             },
@@ -811,9 +817,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.23,
-                "exp": 120,
-                "value": 223,
+                "weight": 0.51,
+                "exp": 27,
+                "value": 51,
                 "rarity": "common"
               }
             },
@@ -843,9 +849,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.31,
-                "exp": 122,
-                "value": 231,
+                "weight": 2.4,
+                "exp": 127,
+                "value": 240,
                 "rarity": "common"
               }
             },
@@ -869,9 +875,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.56,
-                "exp": 29,
-                "value": 56,
+                "weight": 2.06,
+                "exp": 107,
+                "value": 206,
                 "rarity": "common"
               }
             },
@@ -1846,7 +1852,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392049989,
+  "timestamp": 1764392052998,
   "version": "4.0-cloud",
   "user": "Dino"
 }
