@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 15560,
+    "exp": 15589,
     "coins": 9507,
     "gems": 0,
-    "health": 99,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -41,6 +41,13 @@
         "weight": 0.84,
         "exp": 44,
         "value": 84,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.57,
+        "exp": 29,
+        "value": 56,
         "rarity": "common"
       }
     ],
@@ -239,11 +246,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 464,
+      "totalFishCaught": 465,
       "biggestFish": 2.99,
       "totalEarnings": 86444,
       "playTime": 0,
-      "dailyFishCaught": 464,
+      "dailyFishCaught": 465,
       "dailyEarnings": 86444
     },
     "materials": {
@@ -257,7 +264,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764429102393,
+    "lastHpRegen": 1764429238775,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -857,19 +864,13 @@
             },
             {
               "id": 7,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764428761994,
               "endTime": 1764429913994,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.57,
-                "exp": 29,
-                "value": 56,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 8,
@@ -1837,9 +1838,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "7": 69
-    },
+    "autoCollectIntervals": {},
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1848,7 +1847,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764429111891,
+  "timestamp": 1764429245058,
   "version": "4.0-cloud",
   "user": "Dino"
 }
