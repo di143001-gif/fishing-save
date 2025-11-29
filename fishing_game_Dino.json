@@ -205,7 +205,7 @@
         "id": 7,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 690000,
         "type": "crafted",
@@ -224,7 +224,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -243,7 +243,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 4,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1101600,
         "type": "crafted",
@@ -889,30 +889,30 @@
             },
             {
               "id": 6,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 7,
+              "startTime": 1764389227976,
+              "endTime": 1764389917976,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 7,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 8,
+              "startTime": 1764389228901,
+              "endTime": 1764390284901,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 8,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 9,
+              "startTime": 1764389229764,
+              "endTime": 1764390331364,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1879,7 +1879,10 @@
       "2": 133,
       "3": 137,
       "4": 152,
-      "5": 156
+      "5": 156,
+      "6": 160,
+      "7": 164,
+      "8": 168
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1889,7 +1892,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764389226862,
+  "timestamp": 1764389230266,
   "version": "4.0-cloud",
   "user": "Dino"
 }
