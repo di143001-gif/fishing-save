@@ -4,7 +4,7 @@
     "exp": 11971,
     "coins": 2829,
     "gems": 0,
-    "health": 97,
+    "health": 98,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764392532749,
+    "lastHpRegen": 1764392544990,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -801,9 +801,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.3,
-                "exp": 122,
-                "value": 229,
+                "weight": 1.44,
+                "exp": 77,
+                "value": 144,
                 "rarity": "common"
               }
             },
@@ -833,9 +833,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.53,
-                "exp": 27,
-                "value": 53,
+                "weight": 0.84,
+                "exp": 45,
+                "value": 84,
                 "rarity": "common"
               }
             },
@@ -849,10 +849,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.01,
-                "exp": 53,
-                "value": 101,
-                "rarity": "common"
+                "weight": 2.54,
+                "exp": 134,
+                "value": 254,
+                "rarity": "rare"
               }
             },
             {
@@ -881,9 +881,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.97,
-                "exp": 101,
-                "value": 197,
+                "weight": 2.4,
+                "exp": 124,
+                "value": 240,
                 "rarity": "common"
               }
             },
@@ -1858,7 +1858,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392544016,
+  "timestamp": 1764392547010,
   "version": "4.0-cloud",
   "user": "Dino"
 }
