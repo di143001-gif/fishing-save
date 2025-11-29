@@ -217,11 +217,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "leaderboard-screen",
-    "currentLocation": "Khu Đồng Lớn",
+    "currentScreen": "fishing-screen",
+    "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764386685576,
+    "lastHpRegen": 1764387747228,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -753,8 +753,8 @@
               "id": 0,
               "status": "Đang câu",
               "rodId": 1,
-              "startTime": 1764386677790,
-              "endTime": 1764387602390,
+              "startTime": 1764387753093,
+              "endTime": 1764388677693,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1791,7 +1791,7 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764332678796,
     "autoCollectEnabled": false,
@@ -1804,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764386696077,
+  "timestamp": 1764387753598,
   "version": "4.0-cloud",
   "user": "Dino"
 }
