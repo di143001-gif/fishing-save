@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764392583989,
+    "lastHpRegen": 1764392682099,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -785,9 +785,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.23,
-                "exp": 115,
-                "value": 223,
+                "weight": 2.15,
+                "exp": 111,
+                "value": 215,
                 "rarity": "common"
               }
             },
@@ -801,9 +801,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.1,
-                "exp": 59,
-                "value": 110,
+                "weight": 1.01,
+                "exp": 53,
+                "value": 101,
                 "rarity": "common"
               }
             },
@@ -817,9 +817,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.86,
-                "exp": 46,
-                "value": 86,
+                "weight": 1.77,
+                "exp": 95,
+                "value": 177,
                 "rarity": "common"
               }
             },
@@ -865,9 +865,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.21,
-                "exp": 63,
-                "value": 121,
+                "weight": 0.89,
+                "exp": 46,
+                "value": 89,
                 "rarity": "common"
               }
             },
@@ -881,10 +881,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.68,
-                "exp": 35,
-                "value": 68,
-                "rarity": "common"
+                "weight": 2.96,
+                "exp": 153,
+                "value": 296,
+                "rarity": "rare"
               }
             },
             {
@@ -897,10 +897,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.96,
-                "exp": 50,
-                "value": 96,
-                "rarity": "common"
+                "weight": 2.71,
+                "exp": 142,
+                "value": 271,
+                "rarity": "rare"
               }
             }
           ]
@@ -1858,7 +1858,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392593597,
+  "timestamp": 1764392682153,
   "version": "4.0-cloud",
   "user": "Dino"
 }
