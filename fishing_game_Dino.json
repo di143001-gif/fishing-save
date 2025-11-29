@@ -2,7 +2,7 @@
   "playerData": {
     "level": 9,
     "exp": 11971,
-    "coins": 10329,
+    "coins": 2829,
     "gems": 0,
     "health": 96,
     "maxHealth": 100,
@@ -164,17 +164,17 @@
       {
         "id": 10,
         "name": "Cần Câu Cơ Bản",
-        "level": 1,
+        "level": 2,
         "status": "Đang câu - Kênh 1",
         "rarity": "common",
-        "maxFishingTime": 859200,
+        "maxFishingTime": 885000,
         "type": "crafted",
         "crafted": true,
         "stars": 0,
         "stats": {
-          "successRate": 9.01,
-          "expBonus": 4.86,
-          "timeBonus": 4.32,
+          "successRate": 9.91,
+          "expBonus": 5.35,
+          "timeBonus": 4.75,
           "bigFishChance": 0
         },
         "craftedId": "id_1764332678806_7lxi9k1p3",
@@ -881,9 +881,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.74,
-                "exp": 142,
-                "value": 274,
+                "weight": 2.48,
+                "exp": 128,
+                "value": 248,
                 "rarity": "rare"
               }
             },
@@ -1858,7 +1858,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392522310,
+  "timestamp": 1764392529504,
   "version": "4.0-cloud",
   "user": "Dino"
 }
