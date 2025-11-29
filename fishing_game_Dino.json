@@ -184,7 +184,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 768600,
         "type": "crafted",
@@ -217,11 +217,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "select-location",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764426576749,
+    "lastHpRegen": 1764426673015,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1804,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764426585750,
+  "timestamp": 1764426674347,
   "version": "4.0-cloud",
   "user": "Dino"
 }
