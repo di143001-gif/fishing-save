@@ -221,7 +221,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764426551750,
+    "lastHpRegen": 1764426576749,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1804,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764426555748,
+  "timestamp": 1764426585750,
   "version": "4.0-cloud",
   "user": "Dino"
 }
