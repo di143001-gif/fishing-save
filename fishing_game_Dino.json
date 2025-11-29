@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 14373,
+    "exp": 14488,
     "coins": 5985,
     "gems": 0,
-    "health": 95,
+    "health": 94,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -69,6 +69,13 @@
         "weight": 2.37,
         "exp": 124,
         "value": 237,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 2.22,
+        "exp": 115,
+        "value": 222,
         "rarity": "common"
       }
     ],
@@ -267,11 +274,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 448,
+      "totalFishCaught": 449,
       "biggestFish": 2.99,
       "totalEarnings": 82922,
       "playTime": 0,
-      "dailyFishCaught": 448,
+      "dailyFishCaught": 449,
       "dailyEarnings": 82922
     },
     "materials": {
@@ -885,19 +892,13 @@
             },
             {
               "id": 7,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764410842028,
               "endTime": 1764411994028,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.22,
-                "exp": 115,
-                "value": 222,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 8,
@@ -1865,9 +1866,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "7": 90
-    },
+    "autoCollectIntervals": {},
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1876,7 +1875,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764411210828,
+  "timestamp": 1764411213816,
   "version": "4.0-cloud",
   "user": "Dino"
 }
