@@ -32,7 +32,7 @@
         "id": 3,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 978000,
         "type": "crafted",
@@ -51,7 +51,7 @@
         "id": 4,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 954000,
         "type": "crafted",
@@ -70,7 +70,7 @@
         "id": 5,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 882000,
         "type": "crafted",
@@ -89,7 +89,7 @@
         "id": 6,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 968999.9999999999,
         "type": "crafted",
@@ -108,7 +108,7 @@
         "id": 7,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 690000,
         "type": "crafted",
@@ -127,7 +127,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -146,7 +146,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 5,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1152000,
         "type": "crafted",
@@ -165,7 +165,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 2,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 885000,
         "type": "crafted",
@@ -184,7 +184,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 768600,
         "type": "crafted",
@@ -217,11 +217,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "leaderboard-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764402617789,
+    "lastHpRegen": 1764410830917,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -753,16 +753,16 @@
               "id": 0,
               "status": "Đang câu",
               "rodId": 1,
-              "startTime": 1764401991650,
-              "endTime": 1764402916250,
+              "startTime": 1764410836202,
+              "endTime": 1764411760802,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 1,
-              "status": "Đang câu",
-              "rodId": 3,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401992705,
               "endTime": 1764402970705,
               "checkInterval": null,
@@ -771,24 +771,18 @@
             },
             {
               "id": 2,
-              "status": "Cá dính câu!",
-              "rodId": 4,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401993550,
               "endTime": 1764402947550,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.78,
-                "exp": 145,
-                "value": 278,
-                "rarity": "rare"
-              }
+              "fishCaught": null
             },
             {
               "id": 3,
-              "status": "Đang câu",
-              "rodId": 5,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401994609,
               "endTime": 1764402876609,
               "checkInterval": null,
@@ -797,8 +791,8 @@
             },
             {
               "id": 4,
-              "status": "Đang câu",
-              "rodId": 6,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401995883,
               "endTime": 1764402964883,
               "checkInterval": null,
@@ -807,40 +801,28 @@
             },
             {
               "id": 5,
-              "status": "Cá dính câu!",
-              "rodId": 7,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401996817,
               "endTime": 1764402686817,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 2.15,
-                "exp": 113,
-                "value": 215,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 6,
-              "status": "Cá dính câu!",
-              "rodId": 8,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401997794,
               "endTime": 1764403053794,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.57,
-                "exp": 82,
-                "value": 157,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 7,
-              "status": "Đang câu",
-              "rodId": 9,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764401999303,
               "endTime": 1764403151303,
               "checkInterval": null,
@@ -849,8 +831,8 @@
             },
             {
               "id": 8,
-              "status": "Đang câu",
-              "rodId": 10,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764402000692,
               "endTime": 1764402885692,
               "checkInterval": null,
@@ -859,8 +841,8 @@
             },
             {
               "id": 9,
-              "status": "Đang câu",
-              "rodId": 10,
+              "status": "Trống",
+              "rodId": null,
               "startTime": 1764402001730,
               "endTime": 1764402770330,
               "checkInterval": null,
@@ -1809,7 +1791,7 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": false,
@@ -1822,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764402624289,
+  "timestamp": 1764410836708,
   "version": "4.0-cloud",
   "user": "Dino"
 }
