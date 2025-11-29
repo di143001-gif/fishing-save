@@ -217,7 +217,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "leaderboard-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -779,10 +779,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.94,
-                "exp": 153,
-                "value": 294,
-                "rarity": "rare"
+                "weight": 1.07,
+                "exp": 55,
+                "value": 107,
+                "rarity": "common"
               }
             },
             {
@@ -827,10 +827,10 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 2.55,
-                "exp": 136,
-                "value": 254,
-                "rarity": "rare"
+                "weight": 0.78,
+                "exp": 41,
+                "value": 78,
+                "rarity": "common"
               }
             },
             {
@@ -851,13 +851,19 @@
             },
             {
               "id": 7,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 8,
               "startTime": 1764391912408,
               "endTime": 1764392968408,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.89,
+                "exp": 153,
+                "value": 289,
+                "rarity": "rare"
+              }
             },
             {
               "id": 8,
@@ -869,9 +875,9 @@
               "finishTimeout": null,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.61,
-                "exp": 31,
-                "value": 61,
+                "weight": 1.66,
+                "exp": 86,
+                "value": 166,
                 "rarity": "common"
               }
             },
@@ -1846,7 +1852,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764392110340,
+  "timestamp": 1764392118002,
   "version": "4.0-cloud",
   "user": "Dino"
 }
