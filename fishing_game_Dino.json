@@ -167,7 +167,7 @@
         "id": 5,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 882000,
         "type": "crafted",
@@ -186,7 +186,7 @@
         "id": 6,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 968999.9999999999,
         "type": "crafted",
@@ -869,20 +869,20 @@
             },
             {
               "id": 4,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 5,
+              "startTime": 1764389225426,
+              "endTime": 1764390107426,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 5,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 6,
+              "startTime": 1764389226357,
+              "endTime": 1764390195357,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1877,7 +1877,9 @@
       "0": 125,
       "1": 146,
       "2": 133,
-      "3": 137
+      "3": 137,
+      "4": 152,
+      "5": 156
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1887,7 +1889,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764389224586,
+  "timestamp": 1764389226862,
   "version": "4.0-cloud",
   "user": "Dino"
 }
