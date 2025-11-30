@@ -4,7 +4,7 @@
     "exp": 16231,
     "coins": 9507,
     "gems": 0,
-    "health": 19,
+    "health": 1,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -303,17 +303,17 @@
       "dailyEarnings": 86444
     },
     "materials": {
-      "bamboo": 45,
+      "bamboo": 53,
       "metal": 0,
       "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764514751383,
+    "lastHpRegen": 1764514775384,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -843,13 +843,19 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 1,
               "startTime": 1764514720400,
               "endTime": 1764515645000,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.51,
+                "exp": 25,
+                "value": 51,
+                "rarity": "common"
+              }
             },
             {
               "id": 1,
@@ -1896,7 +1902,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764514763090,
+  "timestamp": 1764514780907,
   "version": "4.0-cloud",
   "user": "Dino"
 }
