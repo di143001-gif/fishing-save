@@ -815,23 +815,35 @@
             },
             {
               "id": 5,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 7,
               "startTime": 1764518861228,
               "endTime": 1764519551228,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.43,
+                "exp": 128,
+                "value": 243,
+                "rarity": "rare"
+              }
             },
             {
               "id": 6,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 8,
               "startTime": 1764518862410,
               "endTime": 1764519918410,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.98,
+                "exp": 105,
+                "value": 198,
+                "rarity": "common"
+              }
             },
             {
               "id": 7,
@@ -1824,7 +1836,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764518920922,
+  "timestamp": 1764518923923,
   "version": "4.0-cloud",
   "user": "Dino"
 }
