@@ -4,7 +4,7 @@
     "exp": 18320,
     "coins": 4975,
     "gems": 0,
-    "health": 13,
+    "health": 14,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -135,7 +135,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -154,7 +154,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 5,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1152000,
         "type": "crafted",
@@ -173,7 +173,7 @@
         "id": 10,
         "name": "Cần Câu Cơ Bản",
         "level": 3,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 913800.0000000001,
         "type": "crafted",
@@ -229,7 +229,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764518980269,
+    "lastHpRegen": 1764518992269,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -819,30 +819,30 @@
             },
             {
               "id": 6,
-              "status": "Đang câu",
-              "rodId": 8,
-              "startTime": 1764518968623,
-              "endTime": 1764520024623,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 7,
-              "status": "Đang câu",
-              "rodId": 9,
-              "startTime": 1764518969534,
-              "endTime": 1764520121534,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 8,
-              "status": "Đang câu",
-              "rodId": 10,
-              "startTime": 1764518970328,
-              "endTime": 1764519884128,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1812,7 +1812,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764518991057,
+  "timestamp": 1764518993112,
   "version": "4.0-cloud",
   "user": "Dino"
 }
