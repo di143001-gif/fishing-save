@@ -2,69 +2,12 @@
   "playerData": {
     "level": 9,
     "exp": 17210,
-    "coins": 11614,
+    "coins": 14079,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.51,
-        "exp": 25,
-        "value": 51,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.82,
-        "exp": 95,
-        "value": 182,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.09,
-        "exp": 58,
-        "value": 109,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.53,
-        "exp": 135,
-        "value": 252,
-        "rarity": "rare"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 2.26,
-        "exp": 119,
-        "value": 225,
-        "rarity": "common"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.57,
-        "exp": 29,
-        "value": 56,
-        "rarity": "common"
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 2.95,
-        "exp": 459,
-        "value": 1475,
-        "rarity": "golden"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.16,
-        "exp": 59,
-        "value": 115,
-        "rarity": "common"
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "id": 1,
@@ -262,10 +205,10 @@
     "statistics": {
       "totalFishCaught": 480,
       "biggestFish": 2.99,
-      "totalEarnings": 88551,
+      "totalEarnings": 91016,
       "playTime": 0,
       "dailyFishCaught": 480,
-      "dailyEarnings": 88551
+      "dailyEarnings": 91016
     },
     "materials": {
       "bamboo": 53,
@@ -274,11 +217,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764517774967,
+    "lastHpRegen": 1764517787384,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1861,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764517780170,
+  "timestamp": 1764517790292,
   "version": "4.0-cloud",
   "user": "Dino"
 }
