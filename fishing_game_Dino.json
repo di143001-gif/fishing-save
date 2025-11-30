@@ -4,7 +4,7 @@
     "exp": 18320,
     "coins": 4975,
     "gems": 0,
-    "health": 11,
+    "health": 12,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -116,7 +116,7 @@
         "id": 7,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 690000,
         "type": "crafted",
@@ -135,7 +135,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -229,7 +229,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764518955809,
+    "lastHpRegen": 1764518967972,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -809,20 +809,20 @@
             },
             {
               "id": 5,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 1764518861228,
-              "endTime": 1764519551228,
+              "status": "Đang câu",
+              "rodId": 7,
+              "startTime": 1764518967972,
+              "endTime": 1764519657972,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 6,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 1764518862410,
-              "endTime": 1764519918410,
+              "status": "Đang câu",
+              "rodId": 8,
+              "startTime": 1764518968623,
+              "endTime": 1764520024623,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1799,7 +1799,7 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 7,
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": false,
@@ -1812,7 +1812,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764518967074,
+  "timestamp": 1764518969127,
   "version": "4.0-cloud",
   "user": "Dino"
 }
