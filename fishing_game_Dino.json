@@ -1,7 +1,7 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 17151,
+    "exp": 17210,
     "coins": 11614,
     "gems": 0,
     "health": 84,
@@ -56,6 +56,13 @@
         "exp": 459,
         "value": 1475,
         "rarity": "golden"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.16,
+        "exp": 59,
+        "value": 115,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -253,11 +260,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 479,
+      "totalFishCaught": 480,
       "biggestFish": 2.99,
       "totalEarnings": 88551,
       "playTime": 0,
-      "dailyFishCaught": 479,
+      "dailyFishCaught": 480,
       "dailyEarnings": 88551
     },
     "materials": {
@@ -271,7 +278,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764515858918,
+    "lastHpRegen": 1764515870923,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -871,19 +878,13 @@
             },
             {
               "id": 7,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 9,
               "startTime": 1764514727241,
               "endTime": 1764515879241,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.16,
-                "exp": 59,
-                "value": 115,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 8,
@@ -1851,9 +1852,7 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "7": 257
-    },
+    "autoCollectIntervals": {},
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1862,7 +1861,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764515868922,
+  "timestamp": 1764515871922,
   "version": "4.0-cloud",
   "user": "Dino"
 }
