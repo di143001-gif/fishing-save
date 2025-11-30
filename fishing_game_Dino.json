@@ -219,7 +219,7 @@
         "id": 8,
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1056000,
         "type": "crafted",
@@ -238,7 +238,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 5,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1152000,
         "type": "crafted",
@@ -313,7 +313,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764514714860,
+    "lastHpRegen": 1764514727241,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -903,20 +903,20 @@
             },
             {
               "id": 6,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 1764428760917,
-              "endTime": 1764429816917,
+              "status": "Đang câu",
+              "rodId": 8,
+              "startTime": 1764514728981,
+              "endTime": 1764515784981,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 7,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 1764428761994,
-              "endTime": 1764429913994,
+              "status": "Đang câu",
+              "rodId": 9,
+              "startTime": 1764514727241,
+              "endTime": 1764515879241,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1883,7 +1883,7 @@
         }
       }
     },
-    "selectedSlotIndex": 6,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
@@ -1896,7 +1896,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764514725822,
+  "timestamp": 1764514729488,
   "version": "4.0-cloud",
   "user": "Dino"
 }
