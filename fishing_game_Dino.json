@@ -203,7 +203,7 @@
         "id": 9,
         "name": "Cần Câu Cơ Bản",
         "level": 5,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1152000,
         "type": "crafted",
@@ -278,7 +278,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764517762388,
+    "lastHpRegen": 1764517774967,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -348,18 +348,18 @@
               "id": 6,
               "status": "Đang câu",
               "rodId": 8,
-              "startTime": 1764517774267,
-              "endTime": 1764518830267,
+              "startTime": 1764517776340,
+              "endTime": 1764518832340,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 7,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": 9,
+              "startTime": 1764517774967,
+              "endTime": 1764518926967,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1848,7 +1848,7 @@
         }
       }
     },
-    "selectedSlotIndex": 7,
+    "selectedSlotIndex": 8,
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": false,
@@ -1861,7 +1861,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764517774772,
+  "timestamp": 1764517776844,
   "version": "4.0-cloud",
   "user": "Dino"
 }
