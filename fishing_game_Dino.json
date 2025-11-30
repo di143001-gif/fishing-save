@@ -4,7 +4,7 @@
     "exp": 18312,
     "coins": 16225,
     "gems": 0,
-    "health": 15,
+    "health": 3,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -211,8 +211,8 @@
       "dailyEarnings": 93162
     },
     "materials": {
-      "bamboo": 92,
-      "metal": 0,
+      "bamboo": 100,
+      "metal": 1,
       "spiderweb": 0
     }
   },
@@ -1804,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764518818480,
+  "timestamp": 1764518821533,
   "version": "4.0-cloud",
   "user": "Dino"
 }
