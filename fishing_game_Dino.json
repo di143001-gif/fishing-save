@@ -259,13 +259,19 @@
             },
             {
               "id": 3,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 5,
               "startTime": 1764517771539,
               "endTime": 1764518653539,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.78,
+                "exp": 96,
+                "value": 178,
+                "rarity": "rare"
+              }
             },
             {
               "id": 4,
@@ -1795,7 +1801,9 @@
     "isCrafting": false,
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {},
+    "autoCollectIntervals": {
+      "3": 306
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1804,7 +1812,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764517827926,
+  "timestamp": 1764517832925,
   "version": "4.0-cloud",
   "user": "Dino"
 }
