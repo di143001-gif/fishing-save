@@ -4,7 +4,7 @@
     "exp": 18320,
     "coins": 4975,
     "gems": 0,
-    "health": 17,
+    "health": 19,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -229,7 +229,7 @@
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764519028918,
+    "lastHpRegen": 1764519054917,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -799,13 +799,19 @@
             },
             {
               "id": 4,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 7,
               "startTime": 1764519002197,
               "endTime": 1764519692197,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.82,
+                "exp": 149,
+                "value": 282,
+                "rarity": "rare"
+              }
             },
             {
               "id": 5,
@@ -1812,7 +1818,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764519039923,
+  "timestamp": 1764519063924,
   "version": "4.0-cloud",
   "user": "Dino"
 }
