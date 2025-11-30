@@ -1,10 +1,10 @@
 {
   "playerData": {
     "level": 9,
-    "exp": 16351,
+    "exp": 16409,
     "coins": 11614,
     "gems": 0,
-    "health": 4,
+    "health": 3,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -20,6 +20,13 @@
         "weight": 1.82,
         "exp": 95,
         "value": 182,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.09,
+        "exp": 58,
+        "value": 109,
         "rarity": "common"
       }
     ],
@@ -218,11 +225,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 474,
+      "totalFishCaught": 475,
       "biggestFish": 2.99,
       "totalEarnings": 88551,
       "playTime": 0,
-      "dailyFishCaught": 474,
+      "dailyFishCaught": 475,
       "dailyEarnings": 88551
     },
     "materials": {
@@ -776,19 +783,13 @@
             },
             {
               "id": 1,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": 3,
               "startTime": 1764514721162,
               "endTime": 1764515699162,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.09,
-                "exp": 58,
-                "value": 109,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 2,
@@ -812,13 +813,19 @@
             },
             {
               "id": 4,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": 6,
               "startTime": 1764514723938,
               "endTime": 1764515692938,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 2.53,
+                "exp": 135,
+                "value": 252,
+                "rarity": "rare"
+              }
             },
             {
               "id": 5,
@@ -1817,7 +1824,7 @@
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "1": 215
+      "4": 219
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1827,7 +1834,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764514842922,
+  "timestamp": 1764514845938,
   "version": "4.0-cloud",
   "user": "Dino"
 }
