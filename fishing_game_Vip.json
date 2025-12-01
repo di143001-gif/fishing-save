@@ -5,7 +5,7 @@
     "exp": 31,
     "coins": 1500,
     "gems": 0,
-    "health": 8,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -29,7 +29,7 @@
         "uuid": "rod_1764577396849_0_x3c81k_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 894000,
         "type": "crafted",
@@ -49,7 +49,7 @@
         "uuid": "rod_1764590974454_0_jlbxn2_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 809400,
         "type": "crafted",
@@ -69,7 +69,7 @@
         "uuid": "rod_1764590994604_0_qfhqwv_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1193400,
         "type": "crafted",
@@ -107,7 +107,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764591101086,
+    "lastHpRegen": 1764594685233,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -115,30 +115,30 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
-              "rodId": "rod_1764577396849_0_x3c81k_Vip",
-              "startTime": 1764591037285,
-              "endTime": 1764591931285,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 1,
-              "status": "Đang câu",
-              "rodId": "rod_1764590974454_0_jlbxn2_Vip",
-              "startTime": 1764591038137,
-              "endTime": 1764591847537,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 2,
-              "status": "Đang câu",
-              "rodId": "rod_1764590994604_0_qfhqwv_Vip",
-              "startTime": 1764591040063,
-              "endTime": 1764592233463,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1681,13 +1681,9 @@
     "isCrafting": false,
     "craftingEndTime": 1764590994602,
     "autoCollectEnabled": true,
-    "autoCollectIntervals": {
-      "0": 201,
-      "1": 208,
-      "2": 195
-    }
+    "autoCollectIntervals": {}
   },
-  "timestamp": 1764591112081,
+  "timestamp": 1764594685767,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
