@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 82,
+    "exp": 140,
     "coins": 1500,
     "gems": 0,
-    "health": 97,
+    "health": 96,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -169,6 +169,13 @@
         "exp": 74,
         "value": 143,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.1,
+        "exp": 58,
+        "value": 110,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -256,11 +263,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 23,
+      "totalFishCaught": 24,
       "biggestFish": 1.96,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 23,
+      "dailyFishCaught": 24,
       "dailyEarnings": 0
     },
     "materials": {
@@ -282,19 +289,13 @@
           "slots": [
             {
               "id": 0,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": "rod_1764577396849_0_x3c81k_Vip",
               "startTime": 1764595769162,
               "endTime": 1764596663162,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.1,
-                "exp": 58,
-                "value": 110,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 1,
@@ -1855,12 +1856,12 @@
     "craftingEndTime": 1764594720213,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 492,
+      "0": 501,
       "1": 497,
       "3": 485
     }
   },
-  "timestamp": 1764596551349,
+  "timestamp": 1764596554326,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
