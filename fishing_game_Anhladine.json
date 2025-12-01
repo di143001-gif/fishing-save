@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 96,
+    "health": 82,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -39,8 +39,8 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 3,
-      "metal": 0,
+      "bamboo": 10,
+      "metal": 1,
       "spiderweb": 0
     }
   },
@@ -49,7 +49,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764577302038,
+    "lastHpRegen": 1764577314106,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1629,7 +1629,7 @@
     ],
     "fishingSlots": []
   },
-  "timestamp": 1764577313394,
+  "timestamp": 1764577316426,
   "version": "4.0-cloud-uuid",
   "user": "Anhladine"
 }
