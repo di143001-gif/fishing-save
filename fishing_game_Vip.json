@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 140,
+    "exp": 243,
     "coins": 1500,
     "gems": 0,
-    "health": 96,
+    "health": 95,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -176,6 +176,13 @@
         "exp": 58,
         "value": 110,
         "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.95,
+        "exp": 103,
+        "value": 195,
+        "rarity": "rare"
       }
     ],
     "rodsInventory": [
@@ -263,11 +270,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 24,
+      "totalFishCaught": 25,
       "biggestFish": 1.96,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 24,
+      "dailyFishCaught": 25,
       "dailyEarnings": 0
     },
     "materials": {
@@ -1856,12 +1863,12 @@
     "craftingEndTime": 1764594720213,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 501,
+      "0": 508,
       "1": 497,
       "3": 485
     }
   },
-  "timestamp": 1764596554326,
+  "timestamp": 1764596557326,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
