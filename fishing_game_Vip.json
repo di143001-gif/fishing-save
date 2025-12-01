@@ -42,17 +42,17 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 1,
       "metal": 0,
       "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764590954442,
+    "lastHpRegen": 1764590966697,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1628,7 +1628,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764590964955,
+  "timestamp": 1764590972657,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
