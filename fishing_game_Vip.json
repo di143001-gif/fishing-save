@@ -108,11 +108,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764597724445,
+    "lastHpRegen": 1764597736821,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1688,7 +1688,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764597736388,
+  "timestamp": 1764597747324,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
