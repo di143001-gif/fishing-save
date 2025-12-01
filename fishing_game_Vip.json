@@ -218,13 +218,19 @@
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": "rod_1764590994604_0_qfhqwv_Vip",
               "startTime": 1764594753366,
               "endTime": 1764595946766,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.46,
+                "exp": 75,
+                "value": 146,
+                "rarity": "common"
+              }
             },
             {
               "id": 3,
@@ -1770,7 +1776,7 @@
       "2": 381
     }
   },
-  "timestamp": 1764595829704,
+  "timestamp": 1764595833876,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
