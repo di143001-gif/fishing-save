@@ -26,6 +26,26 @@
           "timeBonus": 7.85
         },
         "craftedId": "id_1764253356843_8n0dpu45g"
+      },
+      {
+        "uuid": "rod_1764577336157_0_st0sa5_Anhladine",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 705000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 7.9,
+          "expBonus": 9.02,
+          "timeBonus": 1.75,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764577336162,
+        "owner": "Anhladine"
       }
     ],
     "itemsInventory": [],
@@ -1620,7 +1640,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764577336150,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -1629,7 +1649,7 @@
     ],
     "fishingSlots": []
   },
-  "timestamp": 1764577326653,
+  "timestamp": 1764577336670,
   "version": "4.0-cloud-uuid",
   "user": "Anhladine"
 }
