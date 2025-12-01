@@ -39,17 +39,17 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
-      "spiderweb": 9
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764577314106,
+    "lastHpRegen": 1764577326152,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1620,8 +1620,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764253356840,
+    "isCrafting": true,
+    "craftingEndTime": 1764577336150,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "activeEvents": [
@@ -1629,7 +1629,7 @@
     ],
     "fishingSlots": []
   },
-  "timestamp": 1764577324180,
+  "timestamp": 1764577326653,
   "version": "4.0-cloud-uuid",
   "user": "Anhladine"
 }
