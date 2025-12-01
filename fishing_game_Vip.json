@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 43,
+    "health": 32,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -42,7 +42,7 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 1,
+      "bamboo": 6,
       "metal": 0,
       "spiderweb": 0
     }
@@ -1628,7 +1628,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764590972657,
+  "timestamp": 1764590974355,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
