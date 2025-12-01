@@ -5,7 +5,7 @@
     "exp": 50,
     "coins": 1500,
     "gems": 0,
-    "health": 39,
+    "health": 41,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -134,7 +134,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764594783328,
+    "lastHpRegen": 1764594808327,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -142,23 +142,35 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": "rod_1764577396849_0_x3c81k_Vip",
               "startTime": 1764594751815,
               "endTime": 1764595645815,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.5,
+                "exp": 80,
+                "value": 150,
+                "rarity": "common"
+              }
             },
             {
               "id": 1,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": "rod_1764590974454_0_jlbxn2_Vip",
               "startTime": 1764594752454,
               "endTime": 1764595561854,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.36,
+                "exp": 18,
+                "value": 36,
+                "rarity": "common"
+              }
             },
             {
               "id": 2,
@@ -1715,7 +1727,7 @@
       "3": 338
     }
   },
-  "timestamp": 1764594788326,
+  "timestamp": 1764594813333,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
