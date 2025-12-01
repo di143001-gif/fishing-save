@@ -2,7 +2,7 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 2,
-    "exp": 31,
+    "exp": 50,
     "coins": 1500,
     "gems": 0,
     "health": 39,
@@ -21,6 +21,13 @@
         "weight": 0.99,
         "exp": 51,
         "value": 99,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.36,
+        "exp": 19,
+        "value": 36,
         "rarity": "common"
       }
     ],
@@ -109,11 +116,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 2,
+      "totalFishCaught": 3,
       "biggestFish": 1.51,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 2,
+      "dailyFishCaught": 3,
       "dailyEarnings": 0
     },
     "materials": {
@@ -127,7 +134,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764594771327,
+    "lastHpRegen": 1764594783328,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -135,19 +142,13 @@
           "slots": [
             {
               "id": 0,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": "rod_1764577396849_0_x3c81k_Vip",
               "startTime": 1764594751815,
               "endTime": 1764595645815,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.36,
-                "exp": 19,
-                "value": 36,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 1,
@@ -1708,13 +1709,13 @@
     "craftingEndTime": 1764594720213,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 335,
+      "0": 343,
       "1": 336,
       "2": 337,
       "3": 338
     }
   },
-  "timestamp": 1764594775326,
+  "timestamp": 1764594788326,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
