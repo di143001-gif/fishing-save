@@ -226,11 +226,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764577235747,
+    "lastHpRegen": 1764577248572,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1804,7 +1804,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764577247289,
+  "timestamp": 1764577259073,
   "version": "4.0-cloud-uuid",
   "user": "Dino"
 }
