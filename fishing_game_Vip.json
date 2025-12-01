@@ -5,7 +5,7 @@
     "exp": 46,
     "coins": 1500,
     "gems": 0,
-    "health": 99,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -77,7 +77,7 @@
         "uuid": "rod_1764590974454_0_jlbxn2_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 809400,
         "type": "crafted",
@@ -155,7 +155,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764595760232,
+    "lastHpRegen": 1764595772942,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -173,23 +173,29 @@
             },
             {
               "id": 1,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": "rod_1764590974454_0_jlbxn2_Vip",
+              "startTime": 1764595770255,
+              "endTime": 1764596579655,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": "rod_1764590994604_0_qfhqwv_Vip",
               "startTime": 1764594753366,
               "endTime": 1764595946766,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.56,
+                "exp": 80,
+                "value": 156,
+                "rarity": "common"
+              }
             },
             {
               "id": 3,
@@ -1725,17 +1731,18 @@
         }
       }
     },
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764594720213,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
       "0": 371,
+      "1": 375,
       "2": 337,
       "3": 364
     }
   },
-  "timestamp": 1764595769667,
+  "timestamp": 1764595773874,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
