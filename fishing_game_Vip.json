@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
-    "exp": 181,
+    "exp": 373,
     "coins": 1500,
     "gems": 0,
-    "health": 98,
+    "health": 97,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -113,6 +113,13 @@
         "exp": 96,
         "value": 181,
         "rarity": "rare"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.2,
+        "exp": 192,
+        "value": 600,
+        "rarity": "golden"
       }
     ],
     "rodsInventory": [
@@ -200,11 +207,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 15,
+      "totalFishCaught": 16,
       "biggestFish": 1.85,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 15,
+      "dailyFishCaught": 16,
       "dailyEarnings": 0
     },
     "materials": {
@@ -1793,13 +1800,13 @@
     "craftingEndTime": 1764594720213,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 430,
+      "0": 438,
       "1": 390,
       "2": 404,
       "3": 424
     }
   },
-  "timestamp": 1764595890326,
+  "timestamp": 1764595895326,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
