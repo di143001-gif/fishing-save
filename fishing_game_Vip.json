@@ -5,7 +5,7 @@
     "exp": 31,
     "coins": 1500,
     "gems": 0,
-    "health": 50,
+    "health": 38,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -99,7 +99,7 @@
     "materials": {
       "bamboo": 10,
       "metal": 10,
-      "spiderweb": 4
+      "spiderweb": 9
     }
   },
   "gameState": {
@@ -1683,7 +1683,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764594704168,
+  "timestamp": 1764594706548,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
