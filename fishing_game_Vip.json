@@ -49,7 +49,7 @@
         "uuid": "rod_1764590974454_0_jlbxn2_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 809400,
         "type": "crafted",
@@ -69,7 +69,7 @@
         "uuid": "rod_1764590994604_0_qfhqwv_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1193400,
         "type": "crafted",
@@ -89,7 +89,7 @@
         "uuid": "rod_1764594720222_0_90b3ho_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1043400.0000000001,
         "type": "crafted",
@@ -145,30 +145,30 @@
             },
             {
               "id": 1,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": "rod_1764590974454_0_jlbxn2_Vip",
+              "startTime": 1764594752454,
+              "endTime": 1764595561854,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 2,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": "rod_1764590994604_0_qfhqwv_Vip",
+              "startTime": 1764594753366,
+              "endTime": 1764595946766,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 3,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": "rod_1764594720222_0_90b3ho_Vip",
+              "startTime": 1764594754153,
+              "endTime": 1764595797553,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1697,13 +1697,18 @@
         }
       }
     },
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764594720213,
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {}
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 335,
+      "1": 336,
+      "2": 337,
+      "3": 338
+    }
   },
-  "timestamp": 1764594752319,
+  "timestamp": 1764594758329,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
