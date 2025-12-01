@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 3,
-    "exp": 46,
+    "exp": 205,
     "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 98,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -50,6 +50,20 @@
         "exp": 98,
         "value": 185,
         "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.56,
+        "exp": 80,
+        "value": 156,
+        "rarity": "common"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.48,
+        "exp": 79,
+        "value": 148,
+        "rarity": "common"
       }
     ],
     "rodsInventory": [
@@ -137,11 +151,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 6,
+      "totalFishCaught": 8,
       "biggestFish": 1.85,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 6,
+      "dailyFishCaught": 8,
       "dailyEarnings": 0
     },
     "materials": {
@@ -183,19 +197,13 @@
             },
             {
               "id": 2,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": "rod_1764590994604_0_qfhqwv_Vip",
               "startTime": 1764594753366,
               "endTime": 1764595946766,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.56,
-                "exp": 80,
-                "value": 156,
-                "rarity": "common"
-              }
+              "fishCaught": null
             },
             {
               "id": 3,
@@ -1738,11 +1746,11 @@
     "autoCollectIntervals": {
       "0": 371,
       "1": 375,
-      "2": 337,
-      "3": 364
+      "2": 381,
+      "3": 384
     }
   },
-  "timestamp": 1764595773874,
+  "timestamp": 1764595777442,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
