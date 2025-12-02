@@ -5,7 +5,7 @@
     "exp": 109,
     "coins": 3474,
     "gems": 0,
-    "health": 10,
+    "health": 12,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -93,7 +93,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764680326949,
+    "lastHpRegen": 1764680352948,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1838,7 +1838,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764680327948,
+  "timestamp": 1764680357948,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
