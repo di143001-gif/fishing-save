@@ -5,7 +5,7 @@
     "exp": 268,
     "coins": 1500,
     "gems": 0,
-    "health": 5,
+    "health": 7,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -129,7 +129,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764680207204,
+    "lastHpRegen": 1764680232950,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1858,8 +1858,12 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764680157613,
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {},
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 391,
+      "1": 392,
+      "2": 393
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1868,7 +1872,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764680207285,
+  "timestamp": 1764680237948,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
