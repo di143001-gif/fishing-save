@@ -146,9 +146,15 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.3,
+                "exp": 68,
+                "value": 130,
+                "rarity": "common"
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -1879,7 +1885,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764680263948,
+  "timestamp": 1764680266948,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
