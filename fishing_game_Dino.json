@@ -223,10 +223,15 @@
       "bamboo": 100,
       "metal": 53,
       "spiderweb": 0
+    },
+    "christmasItems": {
+      "gifts": 0,
+      "tickets": 0,
+      "specialGifts": 0
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Rừng Tràm",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -760,84 +765,93 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577240380,
               "endTime": 1764578164980,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 1,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577241083,
               "endTime": 1764578219083,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 2,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577241730,
               "endTime": 1764578195730,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 3,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577242338,
               "endTime": 1764578124338,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 4,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577243094,
               "endTime": 1764578212094,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 5,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577243855,
               "endTime": 1764577933855,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 6,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577244745,
               "endTime": 1764578300745,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 7,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577245497,
               "endTime": 1764578397497,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 8,
-              "status": "Đang câu",
+              "status": "Trống",
               "startTime": 1764577246786,
               "endTime": 1764578160586,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": null,
+              "rodId": null
             },
             {
               "id": 9,
@@ -1796,6 +1810,16 @@
     "craftingEndTime": 1764392083578,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
+    "christmasEvent": {
+      "loginStreak": 0,
+      "lastLoginDate": null,
+      "claimedDays": [],
+      "completedQuests": [],
+      "unlockedAchievements": [],
+      "wheelSpins": 0,
+      "eventPoints": 0,
+      "totalChristmasFish": 0
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1804,7 +1828,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764577259073,
-  "version": "4.0-cloud-uuid",
+  "timestamp": 1764684496631,
+  "version": "4.0-christmas-event",
   "user": "Dino"
 }
