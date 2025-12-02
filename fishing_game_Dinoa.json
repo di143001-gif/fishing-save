@@ -146,10 +146,15 @@
       "metal": 0,
       "spiderweb": 0
     },
+    "christmasItems": {
+      "gifts": 0,
+      "tickets": 0,
+      "specialGifts": 0
+    },
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -163,12 +168,12 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Trống",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764681306272_0_b3lukm_Dinoa",
+              "rodId": null,
               "startTime": 1764683036701,
               "endTime": 1764683904901
             },
@@ -1884,6 +1889,16 @@
     "craftingEndTime": 1764683025798,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
+    "christmasEvent": {
+      "loginStreak": 0,
+      "lastLoginDate": null,
+      "claimedDays": [],
+      "completedQuests": [],
+      "unlockedAchievements": [],
+      "wheelSpins": 0,
+      "eventPoints": 0,
+      "totalChristmasFish": 0
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1892,7 +1907,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764683037204,
-  "version": "4.0-cloud-uuid-fixed",
+  "timestamp": 1764684647864,
+  "version": "4.0-christmas-event",
   "user": "Dinoa"
 }
