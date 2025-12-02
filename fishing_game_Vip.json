@@ -109,6 +109,26 @@
         "rodType": "basic",
         "created": 1764650778072,
         "owner": "Vip"
+      },
+      {
+        "uuid": "rod_1764677239034_0_u4pst2_Vip",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 763200,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 6.41,
+          "expBonus": 7.19,
+          "timeBonus": 2.72,
+          "bigFishChance": 7.48
+        },
+        "rodType": "basic",
+        "created": 1764677239040,
+        "owner": "Vip"
       }
     ],
     "itemsInventory": [],
@@ -128,7 +148,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1703,12 +1723,12 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764677239031,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764677229534,
+  "timestamp": 1764677239543,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
