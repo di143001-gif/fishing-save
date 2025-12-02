@@ -9,7 +9,28 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 774000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 3.6,
+          "expBonus": 5.7,
+          "timeBonus": 2.9,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764677303764,
+        "owner": "Dinoa"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -1753,12 +1774,12 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764677303290,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764677302759,
+  "timestamp": 1764677304759,
   "version": "4.0-cloud-uuid",
   "user": "Dinoa"
 }
