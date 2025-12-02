@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 38,
+    "health": 39,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -27,11 +27,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "leaderboard-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764650881844,
+    "lastHpRegen": 1764650894099,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1607,7 +1607,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764650892419,
+  "timestamp": 1764650897988,
   "version": "4.0-cloud-uuid",
   "user": "Vip1"
 }
