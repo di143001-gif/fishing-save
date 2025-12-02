@@ -89,6 +89,26 @@
         "rodType": "basic",
         "created": 1764681306276,
         "owner": "Dinoa"
+      },
+      {
+        "uuid": "rod_1764681318166_0_1stu86_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 855000,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 2.28,
+          "expBonus": 3.58,
+          "timeBonus": 4.25,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764681318166,
+        "owner": "Dinoa"
       }
     ],
     "itemsInventory": [],
@@ -102,14 +122,14 @@
       "dailyEarnings": 1974
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
-      "spiderweb": 10
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
     },
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1841,7 +1861,7 @@
     },
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 1764681306265,
+    "craftingEndTime": 1764681317618,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "fishingSlots": [],
@@ -1852,7 +1872,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764681306782,
+  "timestamp": 1764681319161,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
