@@ -9,7 +9,28 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "uuid": "rod_1764650901923_0_zpj83u_Vip1",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 1068600,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 4.15,
+          "expBonus": 5.61,
+          "timeBonus": 7.81,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764650901924,
+        "owner": "Vip1"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -1602,12 +1623,12 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764650901916,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764650897988,
+  "timestamp": 1764650902431,
   "version": "4.0-cloud-uuid",
   "user": "Vip1"
 }
