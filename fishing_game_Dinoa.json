@@ -5,7 +5,7 @@
     "exp": 109,
     "coins": 3474,
     "gems": 0,
-    "health": 18,
+    "health": 83,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -82,18 +82,18 @@
       "dailyEarnings": 1974
     },
     "materials": {
-      "bamboo": 7,
+      "bamboo": 9,
       "metal": 7,
       "spiderweb": 10
     },
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764680436948,
+    "lastHpRegen": 1764681268326,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -103,18 +103,12 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Trống",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.51,
-                "exp": 26,
-                "value": 51,
-                "rarity": "common"
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
+              "rodId": null,
               "startTime": 1764680205575,
               "endTime": 1764680979575
             },
@@ -122,18 +116,12 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Trống",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.98,
-                "exp": 50,
-                "value": 98,
-                "rarity": "common"
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764679009399_0_s48k11_Dinoa",
+              "rodId": null,
               "startTime": 1764680206326,
               "endTime": 1764681391926
             },
@@ -141,18 +129,12 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Trống",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.56,
-                "exp": 80,
-                "value": 156,
-                "rarity": "common"
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764680157962_0_6pt7hk_Dinoa",
+              "rodId": null,
               "startTime": 1764680207204,
               "endTime": 1764681043004
             },
@@ -1850,7 +1832,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764680449950,
+  "timestamp": 1764681269629,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
