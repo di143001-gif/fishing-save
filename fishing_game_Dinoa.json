@@ -49,7 +49,7 @@
         "uuid": "rod_1764679009399_0_s48k11_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1185600,
         "type": "crafted",
@@ -122,14 +122,14 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Trống",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764679009399_0_s48k11_Dinoa",
-              "startTime": 1764679023946,
-              "endTime": 1764680209546
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0
             },
             {
               "index": 3,
@@ -1818,7 +1818,7 @@
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
       "0": 187,
-      "2": 193
+      "2": null
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1828,7 +1828,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764679201592,
+  "timestamp": 1764679205804,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
