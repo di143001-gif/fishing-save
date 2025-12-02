@@ -5,7 +5,7 @@
     "exp": 109,
     "coins": 3474,
     "gems": 0,
-    "health": 23,
+    "health": 22,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -69,6 +69,26 @@
         "rodType": "basic",
         "created": 1764680157968,
         "owner": "Dinoa"
+      },
+      {
+        "uuid": "rod_1764681306272_0_b3lukm_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 868199.9999999999,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 6.16,
+          "expBonus": 6.59,
+          "timeBonus": 4.47,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764681306276,
+        "owner": "Dinoa"
       }
     ],
     "itemsInventory": [],
@@ -82,18 +102,18 @@
       "dailyEarnings": 1974
     },
     "materials": {
-      "bamboo": 20,
-      "metal": 20,
-      "spiderweb": 18
+      "bamboo": 10,
+      "metal": 10,
+      "spiderweb": 10
     },
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764681293184,
+    "lastHpRegen": 1764681306277,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1821,7 +1841,7 @@
     },
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 1764680157613,
+    "craftingEndTime": 1764681306265,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "fishingSlots": [],
@@ -1832,7 +1852,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764681294640,
+  "timestamp": 1764681306782,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
