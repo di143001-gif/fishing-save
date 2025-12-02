@@ -5,7 +5,7 @@
     "exp": 109,
     "coins": 3474,
     "gems": 0,
-    "health": 7,
+    "health": 10,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -89,11 +89,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "leaderboard-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764680288784,
+    "lastHpRegen": 1764680326949,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -129,9 +129,15 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.4,
+                "exp": 71,
+                "value": 140,
+                "rarity": "common"
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764680157962_0_6pt7hk_Dinoa",
@@ -1832,7 +1838,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764680297287,
+  "timestamp": 1764680327948,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
