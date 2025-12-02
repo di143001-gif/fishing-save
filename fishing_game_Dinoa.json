@@ -5,7 +5,7 @@
     "exp": 109,
     "coins": 3474,
     "gems": 0,
-    "health": 78,
+    "health": 60,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -82,7 +82,7 @@
       "dailyEarnings": 1974
     },
     "materials": {
-      "bamboo": 10,
+      "bamboo": 16,
       "metal": 10,
       "spiderweb": 10
     },
@@ -1832,7 +1832,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764681271519,
+  "timestamp": 1764681274868,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
