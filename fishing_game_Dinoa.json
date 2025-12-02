@@ -1,11 +1,11 @@
 {
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
-    "level": 2,
-    "exp": 84,
+    "level": 3,
+    "exp": 184,
     "coins": 1500,
     "gems": 0,
-    "health": 44,
+    "health": 82,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -29,6 +29,13 @@
         "exp": 15,
         "value": 31,
         "rarity": "common"
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.96,
+        "exp": 300,
+        "value": 980,
+        "rarity": "golden"
       }
     ],
     "rodsInventory": [
@@ -36,7 +43,7 @@
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 774000,
         "type": "crafted",
@@ -76,11 +83,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 3,
-      "biggestFish": 1.84,
+      "totalFishCaught": 4,
+      "biggestFish": 1.96,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 3,
+      "dailyFishCaught": 4,
       "dailyEarnings": 0
     },
     "materials": {
@@ -95,7 +102,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764679622069,
+    "lastHpRegen": 1764680118181,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -105,14 +112,14 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Trống",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
-              "startTime": 1764679207546,
-              "endTime": 1764679981546
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0
             },
             {
               "index": 1,
@@ -1824,8 +1831,8 @@
     "craftingEndTime": 1764679009393,
     "autoCollectEnabled": true,
     "autoCollectIntervals": {
-      "0": 215,
-      "2": 206
+      "0": null,
+      "2": 224
     },
     "fishingSlots": [],
     "activeEvents": [
@@ -1835,7 +1842,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764679623076,
+  "timestamp": 1764680118681,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
