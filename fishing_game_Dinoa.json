@@ -5,7 +5,7 @@
     "exp": 109,
     "coins": 3474,
     "gems": 0,
-    "health": 17,
+    "health": 18,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -93,7 +93,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764680424913,
+    "lastHpRegen": 1764680436948,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -139,9 +139,9 @@
               "finishTime": 0,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.83,
-                "exp": 93,
-                "value": 183,
+                "weight": 1.88,
+                "exp": 96,
+                "value": 188,
                 "rarity": "rare"
               },
               "checkInterval": null,
@@ -1844,7 +1844,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764680425436,
+  "timestamp": 1764680444951,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
