@@ -1,14 +1,29 @@
 {
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
-    "level": 1,
-    "exp": 0,
+    "level": 2,
+    "exp": 69,
     "coins": 1500,
     "gems": 0,
-    "health": 17,
+    "health": 15,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 1.84,
+        "exp": 97,
+        "value": 184,
+        "rarity": "rare"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.43,
+        "exp": 72,
+        "value": 143,
+        "rarity": "common"
+      }
+    ],
     "rodsInventory": [
       {
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -54,11 +69,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 2,
+      "biggestFish": 1.84,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 2,
       "dailyEarnings": 0
     },
     "materials": {
@@ -83,15 +98,9 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.84,
-                "exp": 97,
-                "value": 184,
-                "rarity": "rare"
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -113,15 +122,9 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.43,
-                "exp": 72,
-                "value": 143,
-                "rarity": "common"
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764679009399_0_s48k11_Dinoa",
@@ -1812,8 +1815,11 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764679009393,
-    "autoCollectEnabled": false,
-    "autoCollectIntervals": {},
+    "autoCollectEnabled": true,
+    "autoCollectIntervals": {
+      "0": 187,
+      "2": 193
+    },
     "fishingSlots": [],
     "activeEvents": [
       "luckyDay"
@@ -1822,7 +1828,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764679197201,
+  "timestamp": 1764679201592,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
