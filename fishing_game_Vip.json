@@ -94,7 +94,7 @@
         "uuid": "rod_1764650778072_0_rdwxd0_Vip",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 887400,
         "type": "crafted",
@@ -148,7 +148,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -160,10 +160,10 @@
           "slots": [
             {
               "id": 0,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 1764597667896,
-              "endTime": 1764598477296,
+              "status": "Đang câu",
+              "rodId": "rod_1764650778072_0_rdwxd0_Vip",
+              "startTime": 1764677249391,
+              "endTime": 1764678136791,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1722,13 +1722,13 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764677239031,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764677241831,
+  "timestamp": 1764677249895,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
