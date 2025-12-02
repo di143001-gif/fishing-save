@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 7,
+    "health": 17,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -73,7 +73,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764679073255,
+    "lastHpRegen": 1764679196700,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -83,9 +83,15 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.84,
+                "exp": 97,
+                "value": 184,
+                "rarity": "rare"
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -1816,7 +1822,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764679085254,
+  "timestamp": 1764679197201,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
