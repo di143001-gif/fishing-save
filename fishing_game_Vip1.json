@@ -140,20 +140,20 @@
             },
             {
               "id": 8,
-              "status": "Đang câu",
-              "rodId": "rod_1764650901923_0_zpj83u_Vip1",
-              "startTime": 1764650914275,
-              "endTime": 1764651982875,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 9,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": "rod_1764650901923_0_zpj83u_Vip1",
+              "startTime": 1764650916161,
+              "endTime": 1764651984761,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1628,7 +1628,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764650914777,
+  "timestamp": 1764650916663,
   "version": "4.0-cloud-uuid",
   "user": "Vip1"
 }
