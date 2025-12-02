@@ -1622,13 +1622,13 @@
         }
       }
     },
-    "selectedSlotIndex": 5,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764650901916,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764650918655,
+  "timestamp": 1764650921325,
   "version": "4.0-cloud-uuid",
   "user": "Vip1"
 }
