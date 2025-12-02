@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 2,
+    "health": 3,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -14,7 +14,7 @@
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 774000,
         "type": "crafted",
@@ -34,7 +34,7 @@
         "uuid": "rod_1764679009399_0_s48k11_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1185600,
         "type": "crafted",
@@ -73,7 +73,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764679011090,
+    "lastHpRegen": 1764679023091,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -83,14 +83,14 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
+              "startTime": 1764679022967,
+              "endTime": 1764679796967
             },
             {
               "index": 1,
@@ -107,14 +107,14 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "rod_1764679009399_0_s48k11_Dinoa",
+              "startTime": 1764679023946,
+              "endTime": 1764680209546
             },
             {
               "index": 3,
@@ -1810,7 +1810,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764679022036,
+  "timestamp": 1764679024448,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
