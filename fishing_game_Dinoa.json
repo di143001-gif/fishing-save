@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 48,
+    "health": 42,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -42,9 +42,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 9,
+      "bamboo": 11,
       "metal": 5,
-      "spiderweb": 0
+      "spiderweb": 1
     },
     "password": "anhladi2001"
   },
@@ -1786,7 +1786,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764678983703,
+  "timestamp": 1764678985879,
   "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
