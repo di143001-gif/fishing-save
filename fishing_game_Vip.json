@@ -5,7 +5,7 @@
     "exp": 548,
     "coins": 5906,
     "gems": 0,
-    "health": 16,
+    "health": 19,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -89,6 +89,26 @@
         "rodType": "basic",
         "created": 1764594720224,
         "owner": "Vip"
+      },
+      {
+        "uuid": "rod_1764650778072_0_rdwxd0_Vip",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 887400,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 4.06,
+          "expBonus": 4.08,
+          "timeBonus": 4.79,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764650778072,
+        "owner": "Vip"
       }
     ],
     "itemsInventory": [],
@@ -108,11 +128,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764650760395,
+    "lastHpRegen": 1764650797532,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1683,12 +1703,12 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764650778070,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764650768573,
+  "timestamp": 1764650801531,
   "version": "4.0-cloud-uuid",
   "user": "Vip"
 }
