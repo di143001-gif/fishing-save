@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 46,
+    "health": 93,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -42,18 +42,18 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 1,
       "metal": 0,
       "spiderweb": 0
     },
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764677326760,
+    "lastHpRegen": 1764678973091,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1777,9 +1777,16 @@
     "isCrafting": false,
     "craftingEndTime": 1764677303290,
     "autoCollectEnabled": false,
-    "autoCollectIntervals": {}
+    "autoCollectIntervals": {},
+    "fishingSlots": [],
+    "activeEvents": [
+      "luckyDay"
+    ],
+    "eventTimers": {
+      "luckyDay": 0
+    }
   },
-  "timestamp": 1764677332760,
-  "version": "4.0-cloud-uuid",
+  "timestamp": 1764678974536,
+  "version": "4.0-cloud-uuid-fixed",
   "user": "Dinoa"
 }
