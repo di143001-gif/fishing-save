@@ -167,7 +167,15 @@
       "spiderweb": 69
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764733145164_0_vnh0ku_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764733145165
+        }
+      ],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -1911,7 +1919,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764733145157,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -1950,7 +1958,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733140659,
+  "timestamp": 1764733145667,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
