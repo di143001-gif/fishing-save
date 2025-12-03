@@ -1,0 +1,2222 @@
+{
+  "playerData": {
+    "accountId": "acc_1764737964446_cqnif9hn7",
+    "level": 1,
+    "exp": 0,
+    "coins": 1500,
+    "gems": 0,
+    "health": 100,
+    "maxHealth": 100,
+    "points": 0,
+    "fishInventory": [],
+    "rodsInventory": [],
+    "itemsInventory": [],
+    "maxRods": 10,
+    "statistics": {
+      "totalFishCaught": 0,
+      "biggestFish": 0,
+      "totalEarnings": 0,
+      "playTime": 0,
+      "dailyFishCaught": 0,
+      "dailyEarnings": 0
+    },
+    "materials": {
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
+    },
+    "noelItems": {
+      "gifts": [],
+      "costumes": [],
+      "pets": [],
+      "rods": []
+    }
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "currentLocation": null,
+    "currentChannel": null,
+    "lastFishingTime": 0,
+    "lastHpRegen": 1764737964446,
+    "dailyRewards": {},
+    "fishingData": {
+      "Hồ Tuyết Giáng Sinh": {
+        "Kênh 1": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 2": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 3": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 4": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 5": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        }
+      },
+      "Khu Đồng Lớn": {
+        "Kênh 1": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 2": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 3": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 4": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 5": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        }
+      },
+      "Khu Rừng Tràm": {
+        "Kênh 1": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 2": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 3": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 4": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 5": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        }
+      },
+      "Hồ Thiêng": {
+        "Kênh 1": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 2": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 3": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 4": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        },
+        "Kênh 5": {
+          "slots": [
+            {
+              "id": 0,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 1,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 2,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 3,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 4,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 5,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 6,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 7,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 8,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            },
+            {
+              "id": 9,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
+              "checkInterval": null,
+              "finishTimeout": null,
+              "fishCaught": null
+            }
+          ]
+        }
+      }
+    },
+    "selectedSlotIndex": null,
+    "isCrafting": false,
+    "craftingEndTime": 0,
+    "autoCollectEnabled": false,
+    "autoCollectIntervals": {},
+    "noelEvent": {
+      "treeGifts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "giftsCollected": 0,
+      "noelFishCaught": {
+        "Cá Hồi Noel": 0,
+        "Cá Tuần Lộc": 0,
+        "Cá Ông Già Noel": 0,
+        "Cá Ngôi Sao": 0
+      },
+      "giftsOpened": 0,
+      "achievements": {
+        "snow_fisher": {
+          "completed": false,
+          "progress": 0
+        },
+        "reindeer_friend": {
+          "completed": false,
+          "progress": 0
+        },
+        "santa_fisher": {
+          "completed": false,
+          "progress": 0
+        },
+        "christmas_star": {
+          "completed": false,
+          "progress": 0
+        },
+        "gift_collector": {
+          "completed": false,
+          "progress": 0
+        }
+      },
+      "dailyQuests": {
+        "daily_noel_fish": {
+          "completed": false,
+          "progress": 0
+        },
+        "daily_tree_gifts": {
+          "completed": false,
+          "progress": 0
+        },
+        "daily_reindeer_fish": {
+          "completed": false,
+          "progress": 0
+        }
+      },
+      "spinTickets": 0,
+      "loginStreak": 0,
+      "lastLoginDate": "Wed Dec 03 2025",
+      "eventStats": {
+        "totalNoelFish": 0,
+        "biggestNoelFish": 0,
+        "totalGiftsHanged": 0,
+        "totalGiftsOpened": 0
+      }
+    }
+  },
+  "timestamp": 1764737964458,
+  "version": "5.0-noel-event",
+  "user": "Dine"
+}
