@@ -273,7 +273,8 @@
           "maxFishingTime": 900000,
           "obtainedDate": 1764746625540,
           "expiresAt": 1765351425540,
-          "isActive": false
+          "isActive": true,
+          "activatedDate": 1764746664281
         },
         {
           "id": "item_1764746625540_2_bk8lrd_Dinoa",
@@ -288,7 +289,8 @@
           "maxFishingTime": 900000,
           "obtainedDate": 1764746625540,
           "expiresAt": 1765351425540,
-          "isActive": false
+          "isActive": true,
+          "activatedDate": 1764746666203
         }
       ]
     },
@@ -300,7 +302,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -2128,7 +2130,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746662814,
+  "timestamp": 1764746666708,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
