@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 60,
+    "health": 2,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -21,9 +21,9 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 4,
-      "metal": 18,
-      "spiderweb": 9
+      "bamboo": 7,
+      "metal": 42,
+      "spiderweb": 3
     },
     "noelItems": {
       "gifts": [],
@@ -33,11 +33,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764737964446,
+    "lastHpRegen": 1764737989717,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2130,8 +2130,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 0,
+    "isCrafting": true,
+    "craftingEndTime": 1764738000636,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -2216,7 +2216,7 @@
       }
     }
   },
-  "timestamp": 1764737977698,
+  "timestamp": 1764737991140,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
