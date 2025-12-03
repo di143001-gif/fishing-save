@@ -5,7 +5,7 @@
     "exp": 560,
     "coins": 8278,
     "gems": 0,
-    "health": 5,
+    "health": 0,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -199,9 +199,9 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 58,
-      "metal": 30,
-      "spiderweb": 59
+      "bamboo": 53,
+      "metal": 25,
+      "spiderweb": 54
     },
     "noelItems": {
       "gifts": [
@@ -239,6 +239,13 @@
           "name": "Quà Noel Đặc Biệt",
           "value": 2000,
           "addedDate": 1764745965887
+        },
+        {
+          "id": "item_1764745966814_0_sbgfrg_Dinoa",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764745966814
         }
       ],
       "costumes": [],
@@ -253,7 +260,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1994,8 +2001,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764733708855,
+    "isCrafting": true,
+    "craftingEndTime": 1764745975381,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -2033,7 +2040,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764745966690,
+  "timestamp": 1764745970882,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
