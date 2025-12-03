@@ -3,37 +3,12 @@
     "accountId": "acc_1764737964446_cqnif9hn7",
     "level": 2,
     "exp": 26,
-    "coins": 2215,
+    "coins": 2460,
     "gems": 0,
-    "health": 2,
+    "health": 5,
     "maxHealth": 110,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.86,
-        "exp": 45,
-        "value": 86,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.31,
-        "exp": 67,
-        "value": 131,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.28,
-        "exp": 14,
-        "value": 28,
-        "rarity": "common",
-        "isNoelFish": false
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "uuid": "item_1764738000645_0_26t13p_Dine",
@@ -81,10 +56,10 @@
     "statistics": {
       "totalFishCaught": 3,
       "biggestFish": 1.31,
-      "totalEarnings": 0,
+      "totalEarnings": 245,
       "playTime": 0,
       "dailyFishCaught": 3,
-      "dailyEarnings": 0
+      "dailyEarnings": 245
     },
     "materials": {
       "bamboo": 13,
@@ -148,11 +123,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738762524,
+    "lastHpRegen": 1764738802318,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2331,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764738771110,
+  "timestamp": 1764738810484,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
