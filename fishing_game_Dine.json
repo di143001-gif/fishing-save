@@ -125,7 +125,8 @@
           "maxFishingTime": 900000,
           "obtainedDate": 1764738752448,
           "expiresAt": 1765343552448,
-          "isActive": false
+          "isActive": true,
+          "activatedDate": 1764738765959
         },
         {
           "id": "item_1764738752448_1_2pkolw_Dine",
@@ -2329,7 +2330,7 @@
       }
     }
   },
-  "timestamp": 1764738763029,
+  "timestamp": 1764738766459,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
