@@ -5,7 +5,7 @@
     "exp": 491,
     "coins": 3574,
     "gems": 0,
-    "health": 98,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -171,7 +171,7 @@
         "uuid": "rod_1764683025801_0_jw35cm_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1108199.9999999998,
         "type": "crafted",
@@ -221,7 +221,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764731587406,
+    "lastHpRegen": 1764731620308,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -244,14 +244,14 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Trống",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764683025801_0_jw35cm_Dinoa",
-              "startTime": 1764730499447,
-              "endTime": 1764731607647
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0
             },
             {
               "index": 2,
@@ -1987,7 +1987,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764731597420,
+  "timestamp": 1764731620319,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
