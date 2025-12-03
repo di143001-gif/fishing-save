@@ -3,7 +3,7 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
     "exp": 491,
-    "coins": 4390,
+    "coins": 4819,
     "gems": 0,
     "health": 6,
     "maxHealth": 100,
@@ -148,13 +148,6 @@
     },
     "noelItems": {
       "gifts": [
-        {
-          "id": "item_1764732839111_0_psb9ym_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764732839111
-        },
         {
           "id": "item_1764732848572_0_ouazz4_Dinoa",
           "type": "normal",
@@ -1914,7 +1907,7 @@
       "treeGifts": [],
       "giftsCollected": 0,
       "noelFishCaught": {},
-      "giftsOpened": 1,
+      "giftsOpened": 2,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -1924,7 +1917,7 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 1
+        "totalGiftsOpened": 2
       }
     },
     "christmasEvent": {
@@ -1945,7 +1938,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764732866862,
+  "timestamp": 1764732869805,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
