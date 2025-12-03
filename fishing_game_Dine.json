@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 2215,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -109,7 +109,8 @@
           "maxFishingTime": 900000,
           "obtainedDate": 1764738752442,
           "expiresAt": 1765343552442,
-          "isActive": false
+          "isActive": true,
+          "activatedDate": 1764738762524
         },
         {
           "id": "item_1764738752448_0_nvt1ag_Dine",
@@ -149,7 +150,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738750318,
+    "lastHpRegen": 1764738762524,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2328,7 +2329,7 @@
       }
     }
   },
-  "timestamp": 1764738752962,
+  "timestamp": 1764738763029,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
