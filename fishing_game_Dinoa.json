@@ -160,11 +160,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "select-location",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764730506955,
+    "lastHpRegen": 1764730557653,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1893,7 +1893,7 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764683025798,
-    "autoCollectEnabled": false,
+    "autoCollectEnabled": true,
     "autoCollectIntervals": {},
     "noelEvent": {
       "treeGifts": [],
@@ -1930,7 +1930,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764730508457,
+  "timestamp": 1764730568474,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
