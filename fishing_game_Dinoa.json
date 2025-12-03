@@ -3,9 +3,9 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
     "exp": 560,
-    "coins": 6142,
+    "coins": 8278,
     "gems": 0,
-    "health": 5,
+    "health": 0,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -180,19 +180,11 @@
     },
     "materials": {
       "bamboo": 34,
-      "metal": 18,
+      "metal": 21,
       "spiderweb": 49
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764733472345_0_fh6hb1_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764733472346
-        }
-      ],
+      "gifts": [],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -205,7 +197,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1944,7 +1936,7 @@
       "treeGifts": [],
       "giftsCollected": 0,
       "noelFishCaught": {},
-      "giftsOpened": 13,
+      "giftsOpened": 14,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -1954,7 +1946,7 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 13
+        "totalGiftsOpened": 14
       }
     },
     "christmasEvent": {
@@ -1975,7 +1967,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733480795,
+  "timestamp": 1764733493177,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
