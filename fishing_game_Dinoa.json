@@ -687,7 +687,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -792,9 +792,16 @@
               "index": 7,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.19,
+                "exp": 60,
+                "value": 119,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764733708868_0_g2rf2y_Dinoa",
@@ -2434,7 +2441,7 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764746040243,
-    "autoCollectEnabled": true,
+    "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
       "treeGifts": [],
@@ -2473,7 +2480,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746614974,
+  "timestamp": 1764746618953,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
