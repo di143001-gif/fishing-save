@@ -5,7 +5,7 @@
     "exp": 1502,
     "coins": 493,
     "gems": 0,
-    "health": 5,
+    "health": 6,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -303,6 +303,13 @@
           "name": "Quà Noel Đặc Biệt",
           "value": 2000,
           "addedDate": 1764761720457
+        },
+        {
+          "id": "item_1764761728622_0_byq57w_Dinoa",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764761728622
         }
       ],
       "costumes": [
@@ -412,7 +419,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761711626,
+    "lastHpRegen": 1764761723626,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2223,7 +2230,7 @@
       "giftsOpened": 31,
       "achievements": {},
       "dailyQuests": {},
-      "spinTickets": 2,
+      "spinTickets": 1,
       "loginStreak": 1,
       "lastLoginDate": "Wed Dec 03 2025",
       "eventStats": {
@@ -2251,7 +2258,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761720959,
+  "timestamp": 1764761729123,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
