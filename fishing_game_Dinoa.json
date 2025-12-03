@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 807,
+    "exp": 915,
     "coins": 8278,
     "gems": 0,
-    "health": 106,
+    "health": 103,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -199,6 +199,30 @@
         "exp": 96,
         "value": 189,
         "rarity": "rare",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.96,
+        "exp": 49,
+        "value": 96,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.9,
+        "exp": 46,
+        "value": 90,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.27,
+        "exp": 13,
+        "value": 27,
+        "rarity": "common",
         "isNoelFish": false
       }
     ],
@@ -407,11 +431,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 40,
+      "totalFishCaught": 43,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 40,
+      "dailyFishCaught": 43,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -523,16 +547,9 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.96,
-                "exp": 49,
-                "value": 96,
-                "rarity": "common",
-                "isNoelFish": false
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764680157962_0_6pt7hk_Dinoa",
@@ -543,16 +560,9 @@
               "index": 3,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.27,
-                "exp": 13,
-                "value": 27,
-                "rarity": "common",
-                "isNoelFish": false
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764681306272_0_b3lukm_Dinoa",
@@ -563,16 +573,9 @@
               "index": 4,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.9,
-                "exp": 46,
-                "value": 90,
-                "rarity": "common",
-                "isNoelFish": false
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764681318166_0_1stu86_Dinoa",
@@ -635,9 +638,16 @@
               "index": 9,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.77,
+                "exp": 93,
+                "value": 177,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764746040246_0_ft4grk_Dinoa",
@@ -2288,7 +2298,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746415729,
+  "timestamp": 1764746419136,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
