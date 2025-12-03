@@ -5,7 +5,7 @@
     "exp": 1502,
     "coins": 20493,
     "gems": 0,
-    "health": 8,
+    "health": 9,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -391,7 +391,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761624626,
+    "lastHpRegen": 1764761636626,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -415,27 +415,29 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "item_1764746625540_1_df4wqf_Dinoa",
+              "startTime": 1764761636100,
+              "endTime": 1764762536100,
+              "isNoelRod": true
             },
             {
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "item_1764746625540_2_bk8lrd_Dinoa",
+              "startTime": 1764761637709,
+              "endTime": 1764762537709,
+              "isNoelRod": true
             },
             {
               "index": 3,
@@ -2132,7 +2134,7 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 3,
     "isCrafting": false,
     "craftingEndTime": 1764746040243,
     "autoCollectEnabled": false,
@@ -2174,7 +2176,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761634134,
+  "timestamp": 1764761638211,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
