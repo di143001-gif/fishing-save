@@ -141,7 +141,8 @@
           "maxFishingTime": 900000,
           "obtainedDate": 1764738752448,
           "expiresAt": 1765343552448,
-          "isActive": false
+          "isActive": true,
+          "activatedDate": 1764738770605
         }
       ]
     }
@@ -2330,7 +2331,7 @@
       }
     }
   },
-  "timestamp": 1764738766459,
+  "timestamp": 1764738771110,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
