@@ -5,7 +5,7 @@
     "exp": 433,
     "coins": 3574,
     "gems": 0,
-    "health": 99,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -205,7 +205,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764731550038,
+    "lastHpRegen": 1764731587406,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1971,7 +1971,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764731552958,
+  "timestamp": 1764731594414,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
