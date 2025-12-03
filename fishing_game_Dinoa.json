@@ -3,7 +3,7 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 950,
-    "coins": 8278,
+    "coins": 9068,
     "gems": 0,
     "health": 114,
     "maxHealth": 120,
@@ -624,60 +624,70 @@
       "spiderweb": 34
     },
     "noelItems": {
-      "gifts": [
+      "gifts": [],
+      "costumes": [
         {
-          "id": "item_1764745963986_0_0p1bs2_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764745963987
-        },
-        {
-          "id": "item_1764745964336_0_9zqkj7_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764745964336
-        },
-        {
-          "id": "item_1764745964945_0_dmn7rx_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764745964945
-        },
-        {
-          "id": "item_1764745965282_0_mucj7f_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764745965282
-        },
-        {
-          "id": "item_1764745965887_0_77d7l4_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764745965887
-        },
-        {
-          "id": "item_1764745966814_0_sbgfrg_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764745966814
-        },
-        {
-          "id": "item_1764745975383_0_pm4lib_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764745975384
+          "id": "item_1764746625538_0_hlg4mu_Dinoa",
+          "name": "🎅 Áo Ông Già Noel",
+          "type": "costume",
+          "bonus": {
+            "maxHealth": 20,
+            "rareFishRate": 10,
+            "expBonus": 15
+          },
+          "obtainedDate": 1764746625539,
+          "expiresAt": 1767338625539,
+          "isEquipped": false
         }
       ],
-      "costumes": [],
-      "pets": [],
-      "rods": []
+      "pets": [
+        {
+          "id": "item_1764746625540_0_b6854k_Dinoa",
+          "name": "🦌 Tuần Lộc Rudolph",
+          "type": "pet",
+          "abilities": {
+            "autoCollect": true,
+            "collectionRate": 5,
+            "sellBonus": 10,
+            "rareFishFinder": true
+          },
+          "obtainedDate": 1764746625540,
+          "expiresAt": 1765351425540,
+          "isActive": false
+        }
+      ],
+      "rods": [
+        {
+          "id": "item_1764746625540_1_df4wqf_Dinoa",
+          "name": "🎄 Cần Câu Noel 'Tuyết Phủ'",
+          "type": "noel",
+          "stats": {
+            "fishingTime": 15,
+            "successRate": 20,
+            "expBonus": 25,
+            "noelFishRate": 30
+          },
+          "maxFishingTime": 900000,
+          "obtainedDate": 1764746625540,
+          "expiresAt": 1765351425540,
+          "isActive": false
+        },
+        {
+          "id": "item_1764746625540_2_bk8lrd_Dinoa",
+          "name": "🎄 Cần Câu Noel 'Tuyết Phủ'",
+          "type": "noel",
+          "stats": {
+            "fishingTime": 15,
+            "successRate": 20,
+            "expBonus": 25,
+            "noelFishRate": 30
+          },
+          "maxFishingTime": 900000,
+          "obtainedDate": 1764746625540,
+          "expiresAt": 1765351425540,
+          "isActive": false
+        }
+      ]
     },
     "christmasItems": {
       "gifts": 0,
@@ -2463,7 +2473,7 @@
       "noelFishCaught": {
         "Cá Hồi Noel": 2
       },
-      "giftsOpened": 14,
+      "giftsOpened": 21,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -2473,7 +2483,7 @@
         "totalNoelFish": 2,
         "biggestNoelFish": 2.18,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 14
+        "totalGiftsOpened": 21
       }
     },
     "christmasEvent": {
@@ -2494,7 +2504,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746622539,
+  "timestamp": 1764746626050,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
