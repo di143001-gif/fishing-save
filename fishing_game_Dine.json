@@ -62,7 +62,7 @@
       "dailyEarnings": 245
     },
     "materials": {
-      "bamboo": 7,
+      "bamboo": 9,
       "metal": 45,
       "spiderweb": 17
     },
@@ -127,7 +127,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764739106318,
+    "lastHpRegen": 1764739145317,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764739114749,
+  "timestamp": 1764739148251,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
