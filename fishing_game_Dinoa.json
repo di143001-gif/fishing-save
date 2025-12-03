@@ -161,6 +161,13 @@
           "name": "Quà Noel Thường",
           "value": 500,
           "addedDate": 1764732839111
+        },
+        {
+          "id": "item_1764732848572_0_ouazz4_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764732848572
         }
       ],
       "costumes": [],
@@ -1906,7 +1913,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764732848571,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -1945,7 +1952,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764732844072,
+  "timestamp": 1764732849076,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
