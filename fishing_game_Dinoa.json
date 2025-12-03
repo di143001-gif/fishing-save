@@ -2,7 +2,7 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
-    "exp": 709,
+    "exp": 742,
     "coins": 8278,
     "gems": 0,
     "health": 116,
@@ -372,6 +372,14 @@
         "value": 197,
         "rarity": "rare",
         "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.67,
+        "exp": 33,
+        "value": 67,
+        "rarity": "common",
+        "isNoelFish": false
       }
     ],
     "rodsInventory": [
@@ -579,11 +587,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 61,
+      "totalFishCaught": 62,
       "biggestFish": 2.18,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 61,
+      "dailyFishCaught": 62,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -659,7 +667,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746597052,
+    "lastHpRegen": 1764746609312,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -669,9 +677,16 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.57,
+                "exp": 82,
+                "value": 157,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -2441,7 +2456,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746602827,
+  "timestamp": 1764746610970,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
