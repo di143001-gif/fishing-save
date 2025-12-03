@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 85,
+    "health": 60,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -22,8 +22,8 @@
     },
     "materials": {
       "bamboo": 4,
-      "metal": 3,
-      "spiderweb": 5
+      "metal": 18,
+      "spiderweb": 9
     },
     "noelItems": {
       "gifts": [],
@@ -2216,7 +2216,7 @@
       }
     }
   },
-  "timestamp": 1764737974995,
+  "timestamp": 1764737977698,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
