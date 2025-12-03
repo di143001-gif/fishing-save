@@ -163,19 +163,11 @@
     },
     "materials": {
       "bamboo": 29,
-      "metal": 3,
+      "metal": 34,
       "spiderweb": 74
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764733125709_0_qs6lzs_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764733125709
-        }
-      ],
+      "gifts": [],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -188,7 +180,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1927,7 +1919,7 @@
       "treeGifts": [],
       "giftsCollected": 0,
       "noelFishCaught": {},
-      "giftsOpened": 7,
+      "giftsOpened": 8,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -1937,7 +1929,7 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 7
+        "totalGiftsOpened": 8
       }
     },
     "christmasEvent": {
@@ -1958,7 +1950,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733126215,
+  "timestamp": 1764733132249,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
