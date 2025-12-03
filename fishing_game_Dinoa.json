@@ -5,7 +5,7 @@
     "exp": 1502,
     "coins": 19699,
     "gems": 0,
-    "health": 35,
+    "health": 2,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -258,26 +258,6 @@
         "rodType": "basic",
         "created": 1764746040247,
         "owner": "Dinoa"
-      },
-      {
-        "uuid": "item_1764747008345_0_gnsk16_Dinoa",
-        "name": "Cần Câu Cơ Bản",
-        "level": 0,
-        "status": "Trống",
-        "rarity": "common",
-        "maxFishingTime": 785400,
-        "type": "crafted",
-        "crafted": true,
-        "stars": 0,
-        "stats": {
-          "successRate": 5.69,
-          "expBonus": 3.29,
-          "timeBonus": 3.09,
-          "bigFishChance": 0
-        },
-        "rodType": "basic",
-        "created": 1764747008345,
-        "owner": "Dinoa"
       }
     ],
     "itemsInventory": [],
@@ -291,9 +271,9 @@
       "dailyEarnings": 8474
     },
     "materials": {
-      "bamboo": 76,
-      "metal": 60,
-      "spiderweb": 68
+      "bamboo": 84,
+      "metal": 67,
+      "spiderweb": 76
     },
     "noelItems": {
       "gifts": [
@@ -324,6 +304,13 @@
           "name": "Quà Noel Thường",
           "value": 500,
           "addedDate": 1764761533465
+        },
+        {
+          "id": "item_1764761534237_0_xt3ra4_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764761534237
         }
       ],
       "costumes": [
@@ -415,11 +402,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Hồ Tuyết Giáng Sinh",
     "currentChannel": "Kênh 5",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761524626,
+    "lastHpRegen": 1764761549626,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2201,7 +2188,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761533652,
+  "timestamp": 1764761551100,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
