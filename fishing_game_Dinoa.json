@@ -162,9 +162,9 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 29,
-      "metal": 34,
-      "spiderweb": 74
+      "bamboo": 24,
+      "metal": 29,
+      "spiderweb": 69
     },
     "noelItems": {
       "gifts": [],
@@ -180,7 +180,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1911,8 +1911,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764733125706,
+    "isCrafting": true,
+    "craftingEndTime": 1764733145157,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -1950,7 +1950,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733136182,
+  "timestamp": 1764733140659,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
