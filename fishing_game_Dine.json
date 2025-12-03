@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 30,
+    "health": 20,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -42,12 +42,20 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 7,
+      "bamboo": 12,
       "metal": 47,
       "spiderweb": 3
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764738424168_0_zju24t_Dine",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764738424172
+        }
+      ],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -2237,7 +2245,7 @@
       }
     }
   },
-  "timestamp": 1764738423224,
+  "timestamp": 1764738426994,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
