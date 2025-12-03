@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 3533,
     "gems": 0,
-    "health": 110,
+    "health": 90,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -62,12 +62,20 @@
       "dailyEarnings": 245
     },
     "materials": {
-      "bamboo": 9,
-      "metal": 45,
+      "bamboo": 16,
+      "metal": 49,
       "spiderweb": 17
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764740737187_0_b0zru4_Dine",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764740737192
+        }
+      ],
       "costumes": [],
       "pets": [],
       "rods": [
@@ -123,11 +131,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764740724493,
+    "lastHpRegen": 1764740736496,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2306,7 +2314,7 @@
       }
     }
   },
-  "timestamp": 1764740733005,
+  "timestamp": 1764740737697,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
