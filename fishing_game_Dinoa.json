@@ -5,7 +5,7 @@
     "exp": 1502,
     "coins": 19699,
     "gems": 0,
-    "health": 13,
+    "health": 68,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -390,7 +390,7 @@
     "currentLocation": "Hồ Tuyết Giáng Sinh",
     "currentChannel": "Kênh 5",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764747154650,
+    "lastHpRegen": 1764747829879,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2172,7 +2172,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764747164452,
+  "timestamp": 1764747830540,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
