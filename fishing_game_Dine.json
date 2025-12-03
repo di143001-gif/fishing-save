@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 2460,
     "gems": 0,
-    "health": 0,
+    "health": 4,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -123,11 +123,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738882319,
+    "lastHpRegen": 1764738935061,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764738883727,
+  "timestamp": 1764738936063,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
