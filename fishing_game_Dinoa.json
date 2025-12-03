@@ -5,7 +5,7 @@
     "exp": 560,
     "coins": 8278,
     "gems": 0,
-    "health": 4,
+    "health": 100,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -31,7 +31,7 @@
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 774000,
         "type": "crafted",
@@ -51,7 +51,7 @@
         "uuid": "rod_1764679009399_0_s48k11_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1185600,
         "type": "crafted",
@@ -71,7 +71,7 @@
         "uuid": "rod_1764680157962_0_6pt7hk_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 835800,
         "type": "crafted",
@@ -91,7 +91,7 @@
         "uuid": "rod_1764681306272_0_b3lukm_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 868199.9999999999,
         "type": "crafted",
@@ -111,7 +111,7 @@
         "uuid": "rod_1764681318166_0_1stu86_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 855000,
         "type": "crafted",
@@ -131,7 +131,7 @@
         "uuid": "rod_1764683025801_0_jw35cm_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 1108199.9999999998,
         "type": "crafted",
@@ -151,7 +151,7 @@
         "uuid": "item_1764732945875_0_prcb84_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 955200,
         "type": "crafted",
@@ -217,11 +217,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764733733391,
+    "lastHpRegen": 1764745624842,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1987,7 +1987,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733741117,
+  "timestamp": 1764745630845,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
