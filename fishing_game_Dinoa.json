@@ -197,7 +197,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764731358156,
+    "lastHpRegen": 1764731550038,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -220,9 +220,16 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.78,
+                "exp": 90,
+                "value": 178,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764683025801_0_jw35cm_Dinoa",
@@ -1963,7 +1970,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764731359157,
+  "timestamp": 1764731550552,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
