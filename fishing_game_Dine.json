@@ -62,12 +62,20 @@
       "dailyEarnings": 245
     },
     "materials": {
-      "bamboo": 16,
-      "metal": 60,
-      "spiderweb": 32
+      "bamboo": 11,
+      "metal": 55,
+      "spiderweb": 27
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764738955907_0_asuysc_Dine",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764738955907
+        }
+      ],
       "costumes": [],
       "pets": [],
       "rods": [
@@ -2221,7 +2229,7 @@
     },
     "selectedSlotIndex": null,
     "isCrafting": true,
-    "craftingEndTime": 1764738955904,
+    "craftingEndTime": 1764738961740,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -2306,7 +2314,7 @@
       }
     }
   },
-  "timestamp": 1764738951408,
+  "timestamp": 1764738957241,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
