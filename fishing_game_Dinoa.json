@@ -31,7 +31,7 @@
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 774000,
         "type": "crafted",
@@ -51,7 +51,7 @@
         "uuid": "rod_1764679009399_0_s48k11_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1185600,
         "type": "crafted",
@@ -221,7 +221,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764745937842,
+    "lastHpRegen": 1764745950475,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -231,27 +231,27 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "rod_1764677303763_0_olmi6r_Dinoa",
+              "startTime": 1764745951610,
+              "endTime": 1764746725610
             },
             {
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 1764733204077,
-              "endTime": 1764734312277
+              "rodId": "rod_1764679009399_0_s48k11_Dinoa",
+              "startTime": 1764745952350,
+              "endTime": 1764747137950
             },
             {
               "index": 2,
@@ -1947,7 +1947,7 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 2,
     "isCrafting": false,
     "craftingEndTime": 1764733708855,
     "autoCollectEnabled": false,
@@ -1987,7 +1987,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764745950212,
+  "timestamp": 1764745952854,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
