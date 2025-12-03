@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
-    "exp": 343,
+    "exp": 433,
     "coins": 3574,
     "gems": 0,
-    "health": 100,
+    "health": 99,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -39,6 +39,14 @@
         "exp": 75,
         "value": 149,
         "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.78,
+        "exp": 90,
+        "value": 178,
+        "rarity": "rare",
         "isNoelFish": false
       }
     ],
@@ -127,7 +135,7 @@
         "uuid": "rod_1764681318166_0_1stu86_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 855000,
         "type": "crafted",
@@ -167,11 +175,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 13,
+      "totalFishCaught": 14,
       "biggestFish": 1.96,
       "totalEarnings": 1974,
       "playTime": 0,
-      "dailyFishCaught": 13,
+      "dailyFishCaught": 14,
       "dailyEarnings": 1974
     },
     "materials": {
@@ -207,29 +215,22 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "rod_1764681318166_0_1stu86_Dinoa",
+              "startTime": 1764731552453,
+              "endTime": 1764732407453
             },
             {
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.78,
-                "exp": 90,
-                "value": 178,
-                "rarity": "rare",
-                "isNoelFish": false
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764683025801_0_jw35cm_Dinoa",
@@ -1970,7 +1971,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764731550552,
+  "timestamp": 1764731552958,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
