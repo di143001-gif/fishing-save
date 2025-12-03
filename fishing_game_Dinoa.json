@@ -387,7 +387,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "noel-event-screen",
+    "currentScreen": "main-menu",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -415,9 +415,18 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Hồi Noel",
+                "weight": 1.15,
+                "exp": 165,
+                "value": 378,
+                "rarity": "common",
+                "isNoelFish": true,
+                "icon": "🎣",
+                "caughtDate": "2025-12-03T11:34:56.106Z"
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764746625540_1_df4wqf_Dinoa",
@@ -2183,7 +2192,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761694501,
+  "timestamp": 1764761696613,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
