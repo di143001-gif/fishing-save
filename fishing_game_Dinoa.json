@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 216,
+    "exp": 261,
     "coins": 8278,
     "gems": 0,
-    "health": 108,
+    "health": 107,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -118,6 +118,14 @@
         "weight": 0.23,
         "exp": 11,
         "value": 23,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.89,
+        "exp": 45,
+        "value": 89,
         "rarity": "common",
         "isNoelFish": false
       }
@@ -327,11 +335,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 30,
+      "totalFishCaught": 31,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 30,
+      "dailyFishCaught": 31,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -2187,7 +2195,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746297387,
+  "timestamp": 1764746301416,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
