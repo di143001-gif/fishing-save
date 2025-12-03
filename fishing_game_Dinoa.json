@@ -162,9 +162,9 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 9,
-      "metal": 14,
-      "spiderweb": 54
+      "bamboo": 4,
+      "metal": 9,
+      "spiderweb": 49
     },
     "noelItems": {
       "gifts": [
@@ -1954,8 +1954,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764733163264,
+    "isCrafting": true,
+    "craftingEndTime": 1764733172485,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -1993,7 +1993,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733163768,
+  "timestamp": 1764733167986,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
