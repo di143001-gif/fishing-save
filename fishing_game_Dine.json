@@ -123,11 +123,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764739145317,
+    "lastHpRegen": 1764739170060,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2222,7 +2222,7 @@
     "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764739025749,
-    "autoCollectEnabled": false,
+    "autoCollectEnabled": true,
     "autoCollectIntervals": {},
     "noelEvent": {
       "treeGifts": [
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764739148251,
+  "timestamp": 1764739176079,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
