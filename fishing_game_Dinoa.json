@@ -3,9 +3,9 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
     "exp": 491,
-    "coins": 4921,
+    "coins": 6142,
     "gems": 0,
-    "health": 4,
+    "health": 5,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -162,48 +162,12 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 4,
+      "bamboo": 30,
       "metal": 9,
       "spiderweb": 49
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764733145164_0_vnh0ku_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764733145165
-        },
-        {
-          "id": "item_1764733151566_0_lxufpr_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764733151567
-        },
-        {
-          "id": "item_1764733157482_0_7adom8_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764733157483
-        },
-        {
-          "id": "item_1764733163265_0_hwe5od_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764733163266
-        },
-        {
-          "id": "item_1764733172486_0_xdegg0_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764733172487
-        }
-      ],
+      "gifts": [],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -216,11 +180,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764733161639,
+    "lastHpRegen": 1764733173639,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1969,7 +1933,7 @@
       "treeGifts": [],
       "giftsCollected": 0,
       "noelFishCaught": {},
-      "giftsOpened": 8,
+      "giftsOpened": 13,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -1979,7 +1943,7 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 8
+        "totalGiftsOpened": 13
       }
     },
     "christmasEvent": {
@@ -2000,7 +1964,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733172987,
+  "timestamp": 1764733181167,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
