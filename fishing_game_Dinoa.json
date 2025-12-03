@@ -162,12 +162,20 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 39,
-      "metal": 9,
-      "spiderweb": 45
+      "bamboo": 34,
+      "metal": 4,
+      "spiderweb": 40
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764732973586_0_2l813q_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764732973587
+        }
+      ],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -180,7 +188,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "crafting-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1912,7 +1920,7 @@
     },
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 1764732938064,
+    "craftingEndTime": 1764732973583,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -1950,7 +1958,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764732966724,
+  "timestamp": 1764732974088,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
