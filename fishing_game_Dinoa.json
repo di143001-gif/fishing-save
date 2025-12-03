@@ -3,9 +3,9 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
     "exp": 491,
-    "coins": 4232,
+    "coins": 4390,
     "gems": 0,
-    "health": 4,
+    "health": 5,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -149,13 +149,6 @@
     "noelItems": {
       "gifts": [
         {
-          "id": "item_1764732815831_0_hbhid1_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764732815835
-        },
-        {
           "id": "item_1764732839111_0_psb9ym_Dinoa",
           "type": "normal",
           "name": "Quà Noel Thường",
@@ -182,11 +175,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764732839316,
+    "lastHpRegen": 1764732852316,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1921,7 +1914,7 @@
       "treeGifts": [],
       "giftsCollected": 0,
       "noelFishCaught": {},
-      "giftsOpened": 0,
+      "giftsOpened": 1,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -1931,7 +1924,7 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 0
+        "totalGiftsOpened": 1
       }
     },
     "christmasEvent": {
@@ -1952,7 +1945,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764732849076,
+  "timestamp": 1764732856778,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
