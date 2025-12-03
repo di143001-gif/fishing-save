@@ -374,7 +374,8 @@
           "maxFishingTime": 900000,
           "obtainedDate": 1764747008341,
           "expiresAt": 1765351808341,
-          "isActive": false
+          "isActive": true,
+          "activatedDate": 1764761571169
         }
       ]
     },
@@ -2172,7 +2173,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761563510,
+  "timestamp": 1764761571670,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
