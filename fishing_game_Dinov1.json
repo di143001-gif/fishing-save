@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 100,
+    "health": 97,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -21,13 +21,13 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 0,
+      "bamboo": 2,
       "metal": 0,
       "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -1607,7 +1607,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764805816944,
+  "timestamp": 1764805827686,
   "version": "4.0-cloud-uuid",
   "user": "Dinov1"
 }
