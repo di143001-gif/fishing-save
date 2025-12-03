@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 39,
+    "exp": 131,
     "coins": 8278,
     "gems": 0,
-    "health": 110,
+    "health": 107,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -71,6 +71,30 @@
         "exp": 57,
         "value": 195,
         "rarity": "golden",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.46,
+        "exp": 23,
+        "value": 46,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.66,
+        "exp": 35,
+        "value": 66,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.69,
+        "exp": 34,
+        "value": 69,
+        "rarity": "common",
         "isNoelFish": false
       }
     ],
@@ -279,11 +303,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 24,
+      "totalFishCaught": 27,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 24,
+      "dailyFishCaught": 27,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -382,16 +406,9 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.46,
-                "exp": 23,
-                "value": 46,
-                "rarity": "common",
-                "isNoelFish": false
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764679009399_0_s48k11_Dinoa",
@@ -2146,7 +2163,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746248870,
+  "timestamp": 1764746251879,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
