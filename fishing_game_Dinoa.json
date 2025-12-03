@@ -5,7 +5,7 @@
     "exp": 491,
     "coins": 4921,
     "gems": 0,
-    "health": 2,
+    "health": 3,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -162,9 +162,9 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 24,
-      "metal": 29,
-      "spiderweb": 69
+      "bamboo": 19,
+      "metal": 24,
+      "spiderweb": 64
     },
     "noelItems": {
       "gifts": [
@@ -174,6 +174,13 @@
           "name": "Quà Noel Thường",
           "value": 500,
           "addedDate": 1764733145165
+        },
+        {
+          "id": "item_1764733151566_0_lxufpr_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764733151567
         }
       ],
       "costumes": [],
@@ -192,7 +199,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764733135639,
+    "lastHpRegen": 1764733148639,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1920,7 +1927,7 @@
     },
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 1764733145157,
+    "craftingEndTime": 1764733151564,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -1958,7 +1965,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733145667,
+  "timestamp": 1764733152068,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
