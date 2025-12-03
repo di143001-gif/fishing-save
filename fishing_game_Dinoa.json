@@ -3,69 +3,12 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
     "exp": 491,
-    "coins": 3574,
+    "coins": 4232,
     "gems": 0,
     "health": 100,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.32,
-        "exp": 16,
-        "value": 32,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.58,
-        "exp": 80,
-        "value": 158,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.27,
-        "exp": 13,
-        "value": 27,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.49,
-        "exp": 75,
-        "value": 149,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.78,
-        "exp": 90,
-        "value": 178,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.22,
-        "exp": 11,
-        "value": 22,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.92,
-        "exp": 47,
-        "value": 92,
-        "rarity": "common",
-        "isNoelFish": false
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -193,10 +136,10 @@
     "statistics": {
       "totalFishCaught": 16,
       "biggestFish": 1.96,
-      "totalEarnings": 1974,
+      "totalEarnings": 2632,
       "playTime": 0,
       "dailyFishCaught": 16,
-      "dailyEarnings": 1974
+      "dailyEarnings": 2632
     },
     "materials": {
       "bamboo": 11,
@@ -217,11 +160,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "noel-event-screen",
+    "currentScreen": "sell-fish-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764732740316,
+    "lastHpRegen": 1764732789316,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1987,7 +1930,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764732746857,
+  "timestamp": 1764732789646,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
