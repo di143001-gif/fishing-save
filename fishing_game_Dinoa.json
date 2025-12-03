@@ -5,7 +5,7 @@
     "exp": 1502,
     "coins": 5493,
     "gems": 0,
-    "health": 3,
+    "health": 4,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -387,11 +387,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "noel-event-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761685627,
+    "lastHpRegen": 1764761699295,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -438,9 +438,16 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.89,
+                "exp": 94,
+                "value": 189,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764746625540_2_bk8lrd_Dinoa",
@@ -452,9 +459,18 @@
               "index": 3,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Hồi Noel",
+                "weight": 1.92,
+                "exp": 184,
+                "value": 202,
+                "rarity": "common",
+                "isNoelFish": true,
+                "icon": "🎣",
+                "caughtDate": "2025-12-03T11:34:59.295Z"
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764746625540_2_bk8lrd_Dinoa",
@@ -2192,7 +2208,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761696613,
+  "timestamp": 1764761699801,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
