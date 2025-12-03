@@ -5,7 +5,7 @@
     "exp": 560,
     "coins": 8278,
     "gems": 0,
-    "health": 75,
+    "health": 5,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -199,9 +199,9 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 43,
-      "metal": 15,
-      "spiderweb": 44
+      "bamboo": 58,
+      "metal": 30,
+      "spiderweb": 59
     },
     "noelItems": {
       "gifts": [
@@ -218,6 +218,27 @@
           "name": "Quà Noel Đặc Biệt",
           "value": 2000,
           "addedDate": 1764745964336
+        },
+        {
+          "id": "item_1764745964945_0_dmn7rx_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764745964945
+        },
+        {
+          "id": "item_1764745965282_0_mucj7f_Dinoa",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764745965282
+        },
+        {
+          "id": "item_1764745965887_0_77d7l4_Dinoa",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764745965887
         }
       ],
       "costumes": [],
@@ -2012,7 +2033,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764745964498,
+  "timestamp": 1764745966690,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
