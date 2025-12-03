@@ -2,7 +2,7 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
-    "exp": 757,
+    "exp": 782,
     "coins": 8278,
     "gems": 0,
     "health": 10,
@@ -54,6 +54,14 @@
         "weight": 0.76,
         "exp": 38,
         "value": 76,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.51,
+        "exp": 25,
+        "value": 51,
         "rarity": "common",
         "isNoelFish": false
       }
@@ -263,11 +271,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 22,
+      "totalFishCaught": 23,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 22,
+      "dailyFishCaught": 23,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -343,7 +351,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746143773,
+    "lastHpRegen": 1764746156773,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2123,7 +2131,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746150171,
+  "timestamp": 1764746162285,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
