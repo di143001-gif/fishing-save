@@ -2,8 +2,8 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 4,
-    "exp": 109,
-    "coins": 3474,
+    "exp": 159,
+    "coins": 3574,
     "gems": 0,
     "health": 13,
     "maxHealth": 100,
@@ -145,6 +145,12 @@
       "bamboo": 11,
       "metal": 0,
       "spiderweb": 0
+    },
+    "noelItems": {
+      "gifts": [],
+      "costumes": [],
+      "pets": [],
+      "rods": []
     },
     "christmasItems": {
       "gifts": 0,
@@ -1889,6 +1895,23 @@
     "craftingEndTime": 1764683025798,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
+    "noelEvent": {
+      "treeGifts": [],
+      "giftsCollected": 0,
+      "noelFishCaught": {},
+      "giftsOpened": 0,
+      "achievements": {},
+      "dailyQuests": {},
+      "spinTickets": 0,
+      "loginStreak": 1,
+      "lastLoginDate": "Wed Dec 03 2025",
+      "eventStats": {
+        "totalNoelFish": 0,
+        "biggestNoelFish": 0,
+        "totalGiftsHanged": 0,
+        "totalGiftsOpened": 0
+      }
+    },
     "christmasEvent": {
       "loginStreak": 0,
       "lastLoginDate": null,
@@ -1907,7 +1930,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764684647864,
-  "version": "4.0-christmas-event",
+  "timestamp": 1764730457020,
+  "version": "5.0-noel-event",
   "user": "Dinoa"
 }
