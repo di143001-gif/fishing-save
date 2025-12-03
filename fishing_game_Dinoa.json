@@ -3,9 +3,9 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 1502,
-    "coins": 15493,
+    "coins": 10493,
     "gems": 0,
-    "health": 2,
+    "health": 3,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -391,7 +391,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761673626,
+    "lastHpRegen": 1764761685627,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2155,7 +2155,7 @@
       "giftsOpened": 31,
       "achievements": {},
       "dailyQuests": {},
-      "spinTickets": 1,
+      "spinTickets": 2,
       "loginStreak": 1,
       "lastLoginDate": "Wed Dec 03 2025",
       "eventStats": {
@@ -2183,7 +2183,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761683891,
+  "timestamp": 1764761690148,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
