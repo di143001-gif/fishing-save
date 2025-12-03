@@ -9,7 +9,28 @@
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "uuid": "item_1764738000645_0_26t13p_Dine",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 868800.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 9.46,
+          "expBonus": 3.44,
+          "timeBonus": 4.48,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764738000645,
+        "owner": "Dine"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -2130,7 +2151,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764738000636,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -2216,7 +2237,7 @@
       }
     }
   },
-  "timestamp": 1764737991140,
+  "timestamp": 1764738001153,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
