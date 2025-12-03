@@ -1,12 +1,12 @@
 {
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
-    "level": 4,
-    "exp": 782,
+    "level": 5,
+    "exp": 39,
     "coins": 8278,
     "gems": 0,
-    "health": 10,
-    "maxHealth": 100,
+    "health": 110,
+    "maxHealth": 110,
     "points": 0,
     "fishInventory": [
       {
@@ -63,6 +63,14 @@
         "exp": 25,
         "value": 51,
         "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 0.39,
+        "exp": 57,
+        "value": 195,
+        "rarity": "golden",
         "isNoelFish": false
       }
     ],
@@ -271,11 +279,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 23,
+      "totalFishCaught": 24,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 23,
+      "dailyFishCaught": 24,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -2131,7 +2139,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746162285,
+  "timestamp": 1764746166287,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
