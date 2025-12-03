@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 3533,
     "gems": 0,
-    "health": 4,
+    "health": 0,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -14,7 +14,7 @@
         "uuid": "item_1764738000645_0_26t13p_Dine",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 868800.0000000001,
         "type": "crafted",
@@ -34,7 +34,7 @@
         "uuid": "item_1764738448249_0_im0xni_Dine",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 947400,
         "type": "crafted",
@@ -62,7 +62,7 @@
       "dailyEarnings": 245
     },
     "materials": {
-      "bamboo": 5,
+      "bamboo": 7,
       "metal": 45,
       "spiderweb": 17
     },
@@ -123,7 +123,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -657,20 +657,20 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
-              "rodId": "item_1764738448249_0_im0xni_Dine",
-              "startTime": 1764738827349,
-              "endTime": 1764739774749,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 1,
-              "status": "Đang câu",
-              "rodId": "item_1764738000645_0_26t13p_Dine",
-              "startTime": 1764738826015,
-              "endTime": 1764739694815,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764739046868,
+  "timestamp": 1764739053986,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
