@@ -131,7 +131,7 @@
         "uuid": "rod_1764683025801_0_jw35cm_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1108199.9999999998,
         "type": "crafted",
@@ -151,7 +151,7 @@
         "uuid": "item_1764732945875_0_prcb84_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 955200,
         "type": "crafted",
@@ -224,27 +224,27 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "rod_1764683025801_0_jw35cm_Dinoa",
+              "startTime": 1764733204077,
+              "endTime": 1764734312277
             },
             {
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "item_1764732945875_0_prcb84_Dinoa",
+              "startTime": 1764733205557,
+              "endTime": 1764734160757
             },
             {
               "index": 3,
@@ -1967,7 +1967,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733203016,
+  "timestamp": 1764733206060,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
