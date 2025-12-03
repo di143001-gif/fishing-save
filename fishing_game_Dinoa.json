@@ -3,9 +3,9 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 950,
-    "coins": 14910,
+    "coins": 19699,
     "gems": 0,
-    "health": 45,
+    "health": 1,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [],
@@ -209,6 +209,26 @@
         "rodType": "basic",
         "created": 1764746040247,
         "owner": "Dinoa"
+      },
+      {
+        "uuid": "item_1764747008345_0_gnsk16_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 785400,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 5.69,
+          "expBonus": 3.29,
+          "timeBonus": 3.09,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764747008345,
+        "owner": "Dinoa"
       }
     ],
     "itemsInventory": [],
@@ -222,27 +242,12 @@
       "dailyEarnings": 8474
     },
     "materials": {
-      "bamboo": 59,
-      "metal": 19,
-      "spiderweb": 49
+      "bamboo": 71,
+      "metal": 27,
+      "spiderweb": 54
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764746993090_0_i265qm_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764746993091
-        },
-        {
-          "id": "item_1764746993718_0_jqigcs_Dinoa",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764746993719
-        }
-      ],
+      "gifts": [],
       "costumes": [
         {
           "id": "item_1764746625538_0_hlg4mu_Dinoa",
@@ -306,6 +311,21 @@
           "expiresAt": 1765351425540,
           "isActive": true,
           "activatedDate": 1764746666203
+        },
+        {
+          "id": "item_1764747008341_0_wjstvb_Dinoa",
+          "name": "🎄 Cần Câu Noel 'Tuyết Phủ'",
+          "type": "noel",
+          "stats": {
+            "fishingTime": 15,
+            "successRate": 20,
+            "expBonus": 25,
+            "noelFishRate": 30
+          },
+          "maxFishingTime": 900000,
+          "obtainedDate": 1764747008341,
+          "expiresAt": 1765351808341,
+          "isActive": false
         }
       ]
     },
@@ -317,11 +337,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746989650,
+    "lastHpRegen": 1764747002650,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2114,7 +2134,7 @@
       "noelFishCaught": {
         "Cá Hồi Noel": 2
       },
-      "giftsOpened": 21,
+      "giftsOpened": 26,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -2124,7 +2144,7 @@
         "totalNoelFish": 2,
         "biggestNoelFish": 2.18,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 21
+        "totalGiftsOpened": 26
       }
     },
     "christmasEvent": {
@@ -2145,7 +2165,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746994868,
+  "timestamp": 1764747008844,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
