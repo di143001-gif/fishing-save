@@ -81,6 +81,13 @@
           "name": "Quà Noel Thường",
           "value": 500,
           "addedDate": 1764738961742
+        },
+        {
+          "id": "item_1764739020014_0_8gfcm1_Dine",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764739020014
         }
       ],
       "costumes": [],
@@ -2235,7 +2242,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764739020012,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -2321,7 +2328,7 @@
       }
     }
   },
-  "timestamp": 1764739015516,
+  "timestamp": 1764739020521,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
