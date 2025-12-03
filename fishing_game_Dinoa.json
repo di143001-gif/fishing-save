@@ -171,7 +171,7 @@
         "uuid": "item_1764733708868_0_g2rf2y_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 739200,
         "type": "crafted",
@@ -217,7 +217,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -231,14 +231,14 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 1764733202511,
-              "endTime": 1764734057511
+              "rodId": "item_1764733708868_0_g2rf2y_Dinoa",
+              "startTime": 1764733740613,
+              "endTime": 1764734479813
             },
             {
               "index": 1,
@@ -1987,7 +1987,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733736893,
+  "timestamp": 1764733741117,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
