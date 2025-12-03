@@ -1,12 +1,12 @@
 {
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
-    "level": 5,
-    "exp": 1348,
+    "level": 6,
+    "exp": 270,
     "coins": 8278,
     "gems": 0,
-    "health": 107,
-    "maxHealth": 110,
+    "health": 117,
+    "maxHealth": 120,
     "points": 0,
     "fishInventory": [
       {
@@ -272,6 +272,72 @@
         "value": 157,
         "rarity": "common",
         "isNoelFish": false
+      },
+      {
+        "name": "Cá Hồi Noel",
+        "weight": 2.18,
+        "exp": 121,
+        "value": 214,
+        "rarity": "common",
+        "isNoelFish": true,
+        "icon": "🎣",
+        "caughtDate": "2025-12-03T07:20:43.376Z"
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.94,
+        "exp": 48,
+        "value": 94,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.94,
+        "exp": 50,
+        "value": 94,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.55,
+        "exp": 28,
+        "value": 55,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.16,
+        "exp": 59,
+        "value": 115,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.71,
+        "exp": 35,
+        "value": 71,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.57,
+        "exp": 28,
+        "value": 56,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "🐠 Cá Vàng",
+        "weight": 1.01,
+        "exp": 153,
+        "value": 505,
+        "rarity": "golden",
+        "isNoelFish": false
       }
     ],
     "rodsInventory": [
@@ -479,11 +545,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 49,
-      "biggestFish": 1.96,
+      "totalFishCaught": 57,
+      "biggestFish": 2.18,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 49,
+      "dailyFishCaught": 57,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -582,18 +648,9 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Hồi Noel",
-                "weight": 2.18,
-                "exp": 121,
-                "value": 214,
-                "rarity": "common",
-                "isNoelFish": true,
-                "icon": "🎣",
-                "caughtDate": "2025-12-03T07:20:43.376Z"
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764679009399_0_s48k11_Dinoa",
@@ -2316,7 +2373,9 @@
     "noelEvent": {
       "treeGifts": [],
       "giftsCollected": 0,
-      "noelFishCaught": {},
+      "noelFishCaught": {
+        "Cá Hồi Noel": 1
+      },
       "giftsOpened": 14,
       "achievements": {},
       "dailyQuests": {},
@@ -2324,8 +2383,8 @@
       "loginStreak": 1,
       "lastLoginDate": "Wed Dec 03 2025",
       "eventStats": {
-        "totalNoelFish": 0,
-        "biggestNoelFish": 0,
+        "totalNoelFish": 1,
+        "biggestNoelFish": 2.18,
         "totalGiftsHanged": 0,
         "totalGiftsOpened": 14
       }
@@ -2348,7 +2407,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746544698,
+  "timestamp": 1764746547467,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
