@@ -3,7 +3,7 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 1502,
-    "coins": 493,
+    "coins": 2562,
     "gems": 0,
     "health": 6,
     "maxHealth": 120,
@@ -2230,7 +2230,7 @@
       "giftsOpened": 31,
       "achievements": {},
       "dailyQuests": {},
-      "spinTickets": 1,
+      "spinTickets": 0,
       "loginStreak": 1,
       "lastLoginDate": "Wed Dec 03 2025",
       "eventStats": {
@@ -2258,7 +2258,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761729123,
+  "timestamp": 1764761733196,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
