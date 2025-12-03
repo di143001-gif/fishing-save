@@ -755,9 +755,9 @@
               "finishTime": 0,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.93,
-                "exp": 47,
-                "value": 93,
+                "weight": 1.16,
+                "exp": 58,
+                "value": 115,
                 "rarity": "common",
                 "isNoelFish": false
               },
@@ -771,9 +771,16 @@
               "index": 3,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.46,
+                "exp": 24,
+                "value": 46,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764681306272_0_b3lukm_Dinoa",
@@ -2511,7 +2518,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746635691,
+  "timestamp": 1764746637953,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
