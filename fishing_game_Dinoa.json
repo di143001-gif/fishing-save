@@ -443,27 +443,29 @@
               "index": 3,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "item_1764746625540_2_bk8lrd_Dinoa",
+              "startTime": 1764761639291,
+              "endTime": 1764762539291,
+              "isNoelRod": true
             },
             {
               "index": 4,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "item_1764747008341_0_wjstvb_Dinoa",
+              "startTime": 1764761640716,
+              "endTime": 1764762540716,
+              "isNoelRod": true
             },
             {
               "index": 5,
@@ -2134,7 +2136,7 @@
         }
       }
     },
-    "selectedSlotIndex": 3,
+    "selectedSlotIndex": 5,
     "isCrafting": false,
     "craftingEndTime": 1764746040243,
     "autoCollectEnabled": false,
@@ -2176,7 +2178,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761638211,
+  "timestamp": 1764761641218,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
