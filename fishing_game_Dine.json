@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 3533,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -34,7 +34,7 @@
         "uuid": "item_1764738448249_0_im0xni_Dine",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 947400,
         "type": "crafted",
@@ -123,11 +123,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764739054318,
+    "lastHpRegen": 1764739106318,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -667,10 +667,10 @@
             },
             {
               "id": 1,
-              "status": "Trống",
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0,
+              "status": "Đang câu",
+              "rodId": "item_1764738448249_0_im0xni_Dine",
+              "startTime": 1764739057416,
+              "endTime": 1764740004816,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -2219,7 +2219,7 @@
         }
       }
     },
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764739025749,
     "autoCollectEnabled": false,
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764739057041,
+  "timestamp": 1764739114749,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
