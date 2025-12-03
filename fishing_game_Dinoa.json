@@ -3,409 +3,12 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 950,
-    "coins": 9068,
+    "coins": 14910,
     "gems": 0,
-    "health": 115,
+    "health": 116,
     "maxHealth": 120,
     "points": 0,
-    "fishInventory": [
-      {
-        "name": "Cá Lóc",
-        "weight": 0.22,
-        "exp": 11,
-        "value": 22,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.13,
-        "exp": 58,
-        "value": 112,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.29,
-        "exp": 14,
-        "value": 28,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.28,
-        "exp": 65,
-        "value": 128,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.53,
-        "exp": 80,
-        "value": 153,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.76,
-        "exp": 38,
-        "value": 76,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.51,
-        "exp": 25,
-        "value": 51,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 0.39,
-        "exp": 57,
-        "value": 195,
-        "rarity": "golden",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.46,
-        "exp": 23,
-        "value": 46,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.66,
-        "exp": 35,
-        "value": 66,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.69,
-        "exp": 34,
-        "value": 69,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.34,
-        "exp": 17,
-        "value": 34,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 0.36,
-        "exp": 57,
-        "value": 180,
-        "rarity": "golden",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.23,
-        "exp": 11,
-        "value": 23,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.89,
-        "exp": 45,
-        "value": 89,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.47,
-        "exp": 77,
-        "value": 147,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.86,
-        "exp": 44,
-        "value": 86,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.97,
-        "exp": 49,
-        "value": 97,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.91,
-        "exp": 45,
-        "value": 91,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.33,
-        "exp": 67,
-        "value": 133,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.61,
-        "exp": 82,
-        "value": 161,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.3,
-        "exp": 15,
-        "value": 30,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.37,
-        "exp": 71,
-        "value": 137,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.89,
-        "exp": 96,
-        "value": 189,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.96,
-        "exp": 49,
-        "value": 96,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.9,
-        "exp": 46,
-        "value": 90,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.27,
-        "exp": 13,
-        "value": 27,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.8,
-        "exp": 41,
-        "value": 80,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.77,
-        "exp": 93,
-        "value": 177,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.91,
-        "exp": 97,
-        "value": 191,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.2,
-        "exp": 63,
-        "value": 120,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.1,
-        "exp": 56,
-        "value": 110,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.57,
-        "exp": 83,
-        "value": 157,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Hồi Noel",
-        "weight": 2.18,
-        "exp": 121,
-        "value": 214,
-        "rarity": "common",
-        "isNoelFish": true,
-        "icon": "🎣",
-        "caughtDate": "2025-12-03T07:20:43.376Z"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.94,
-        "exp": 48,
-        "value": 94,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.94,
-        "exp": 50,
-        "value": 94,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.55,
-        "exp": 28,
-        "value": 55,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.16,
-        "exp": 59,
-        "value": 115,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.71,
-        "exp": 35,
-        "value": 71,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.57,
-        "exp": 28,
-        "value": 56,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "🐠 Cá Vàng",
-        "weight": 1.01,
-        "exp": 153,
-        "value": 505,
-        "rarity": "golden",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Hồi Noel",
-        "weight": 1,
-        "exp": 172,
-        "value": 258,
-        "rarity": "common",
-        "isNoelFish": true,
-        "icon": "🎣",
-        "caughtDate": "2025-12-03T07:23:17.088Z"
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.6,
-        "exp": 85,
-        "value": 160,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.61,
-        "exp": 82,
-        "value": 161,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.97,
-        "exp": 100,
-        "value": 197,
-        "rarity": "rare",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 0.67,
-        "exp": 33,
-        "value": 67,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.57,
-        "exp": 82,
-        "value": 157,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.11,
-        "exp": 56,
-        "value": 111,
-        "rarity": "common",
-        "isNoelFish": false
-      },
-      {
-        "name": "Cá Lóc",
-        "weight": 1.36,
-        "exp": 70,
-        "value": 136,
-        "rarity": "common",
-        "isNoelFish": false
-      }
-    ],
+    "fishInventory": [],
     "rodsInventory": [
       {
         "uuid": "rod_1764677303763_0_olmi6r_Dinoa",
@@ -613,10 +216,10 @@
     "statistics": {
       "totalFishCaught": 65,
       "biggestFish": 2.18,
-      "totalEarnings": 2632,
+      "totalEarnings": 8474,
       "playTime": 0,
       "dailyFishCaught": 65,
-      "dailyEarnings": 2632
+      "dailyEarnings": 8474
     },
     "materials": {
       "bamboo": 33,
@@ -697,11 +300,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "noel-event-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746633312,
+    "lastHpRegen": 1764746645312,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -755,10 +358,10 @@
               "finishTime": 0,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 1.16,
-                "exp": 58,
-                "value": 115,
-                "rarity": "common",
+                "weight": 1.65,
+                "exp": 84,
+                "value": 165,
+                "rarity": "rare",
                 "isNoelFish": false
               },
               "checkInterval": null,
@@ -841,9 +444,9 @@
               "finishTime": 0,
               "fishCaught": {
                 "name": "Cá Lóc",
-                "weight": 0.38,
-                "exp": 19,
-                "value": 38,
+                "weight": 0.99,
+                "exp": 50,
+                "value": 99,
                 "rarity": "common",
                 "isNoelFish": false
               },
@@ -2525,7 +2128,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746640526,
+  "timestamp": 1764746656156,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
