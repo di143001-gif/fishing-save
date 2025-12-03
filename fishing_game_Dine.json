@@ -43,7 +43,7 @@
         "uuid": "item_1764738448249_0_im0xni_Dine",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 947400,
         "type": "crafted",
@@ -627,18 +627,18 @@
               "id": 0,
               "status": "Đang câu",
               "rodId": "item_1764738000645_0_26t13p_Dine",
-              "startTime": 1764738446875,
-              "endTime": 1764739315675,
+              "startTime": 1764738575141,
+              "endTime": 1764739443941,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
             },
             {
               "id": 1,
-              "status": "Đang câu",
-              "rodId": "item_1764738448249_0_im0xni_Dine",
-              "startTime": 1764738450529,
-              "endTime": 1764739397929,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -2187,7 +2187,7 @@
         }
       }
     },
-    "selectedSlotIndex": null,
+    "selectedSlotIndex": 1,
     "isCrafting": false,
     "craftingEndTime": 1764738448246,
     "autoCollectEnabled": false,
@@ -2274,7 +2274,7 @@
       }
     }
   },
-  "timestamp": 1764738572240,
+  "timestamp": 1764738575647,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
