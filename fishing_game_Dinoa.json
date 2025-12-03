@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
-    "exp": 270,
+    "exp": 442,
     "coins": 8278,
     "gems": 0,
-    "health": 117,
+    "health": 119,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -338,6 +338,16 @@
         "value": 505,
         "rarity": "golden",
         "isNoelFish": false
+      },
+      {
+        "name": "Cá Hồi Noel",
+        "weight": 1,
+        "exp": 172,
+        "value": 258,
+        "rarity": "common",
+        "isNoelFish": true,
+        "icon": "🎣",
+        "caughtDate": "2025-12-03T07:23:17.088Z"
       }
     ],
     "rodsInventory": [
@@ -545,11 +555,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 57,
+      "totalFishCaught": 58,
       "biggestFish": 2.18,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 57,
+      "dailyFishCaught": 58,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -625,7 +635,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746544670,
+    "lastHpRegen": 1764746597052,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -648,9 +658,16 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.97,
+                "exp": 100,
+                "value": 197,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764679009399_0_s48k11_Dinoa",
@@ -661,9 +678,16 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.61,
+                "exp": 82,
+                "value": 161,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764680157962_0_6pt7hk_Dinoa",
@@ -674,9 +698,16 @@
               "index": 3,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.6,
+                "exp": 85,
+                "value": 160,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764681306272_0_b3lukm_Dinoa",
@@ -2374,7 +2405,7 @@
       "treeGifts": [],
       "giftsCollected": 0,
       "noelFishCaught": {
-        "Cá Hồi Noel": 1
+        "Cá Hồi Noel": 2
       },
       "giftsOpened": 14,
       "achievements": {},
@@ -2383,7 +2414,7 @@
       "loginStreak": 1,
       "lastLoginDate": "Wed Dec 03 2025",
       "eventStats": {
-        "totalNoelFish": 1,
+        "totalNoelFish": 2,
         "biggestNoelFish": 2.18,
         "totalGiftsHanged": 0,
         "totalGiftsOpened": 14
@@ -2407,7 +2438,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746547467,
+  "timestamp": 1764746597562,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
