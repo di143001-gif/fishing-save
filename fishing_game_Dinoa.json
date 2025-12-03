@@ -197,7 +197,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -1967,7 +1967,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733669826,
+  "timestamp": 1764733676892,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
