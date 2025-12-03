@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 915,
+    "exp": 1049,
     "coins": 8278,
     "gems": 0,
-    "health": 103,
+    "health": 101,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -224,6 +224,22 @@
         "value": 27,
         "rarity": "common",
         "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.8,
+        "exp": 41,
+        "value": 80,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 1.77,
+        "exp": 93,
+        "value": 177,
+        "rarity": "rare",
+        "isNoelFish": false
       }
     ],
     "rodsInventory": [
@@ -431,11 +447,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 43,
+      "totalFishCaught": 45,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 43,
+      "dailyFishCaught": 45,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -612,9 +628,16 @@
               "index": 7,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.91,
+                "exp": 97,
+                "value": 191,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764733708868_0_g2rf2y_Dinoa",
@@ -638,16 +661,9 @@
               "index": 9,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "finishTime": 0,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 1.77,
-                "exp": 93,
-                "value": 177,
-                "rarity": "rare",
-                "isNoelFish": false
-              },
+              "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764746040246_0_ft4grk_Dinoa",
@@ -2298,7 +2314,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746419136,
+  "timestamp": 1764746423784,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
