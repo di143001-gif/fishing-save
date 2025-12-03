@@ -2,13 +2,22 @@
   "playerData": {
     "accountId": "acc_1764737964446_cqnif9hn7",
     "level": 1,
-    "exp": 0,
+    "exp": 45,
     "coins": 1500,
     "gems": 0,
-    "health": 7,
+    "health": 12,
     "maxHealth": 100,
     "points": 0,
-    "fishInventory": [],
+    "fishInventory": [
+      {
+        "name": "Cá Lóc",
+        "weight": 0.86,
+        "exp": 45,
+        "value": 86,
+        "rarity": "common",
+        "isNoelFish": false
+      }
+    ],
     "rodsInventory": [
       {
         "uuid": "item_1764738000645_0_26t13p_Dine",
@@ -54,11 +63,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 0,
-      "biggestFish": 0,
+      "totalFishCaught": 1,
+      "biggestFish": 0.86,
       "totalEarnings": 0,
       "playTime": 0,
-      "dailyFishCaught": 0,
+      "dailyFishCaught": 1,
       "dailyEarnings": 0
     },
     "materials": {
@@ -82,11 +91,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738506061,
+    "lastHpRegen": 1764738568341,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -626,20 +635,13 @@
             },
             {
               "id": 1,
-              "status": "Cá dính câu!",
+              "status": "Đang câu",
               "rodId": "item_1764738448249_0_im0xni_Dine",
               "startTime": 1764738450529,
               "endTime": 1764739397929,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": {
-                "name": "Cá Lóc",
-                "weight": 0.86,
-                "exp": 45,
-                "value": 86,
-                "rarity": "common",
-                "isNoelFish": false
-              }
+              "fishCaught": null
             },
             {
               "id": 2,
@@ -2272,7 +2274,7 @@
       }
     }
   },
-  "timestamp": 1764738512061,
+  "timestamp": 1764738572240,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
