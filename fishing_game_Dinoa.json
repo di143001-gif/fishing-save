@@ -191,7 +191,7 @@
         "uuid": "item_1764745988201_0_tbezpm_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 689400,
         "type": "crafted",
@@ -205,6 +205,26 @@
         },
         "rodType": "basic",
         "created": 1764745988201,
+        "owner": "Dinoa"
+      },
+      {
+        "uuid": "item_1764746040246_0_ft4grk_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 678600,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 7.15,
+          "expBonus": 6.4,
+          "timeBonus": 1.31,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764746040247,
         "owner": "Dinoa"
       }
     ],
@@ -287,7 +307,7 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "fishing-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -419,12 +439,14 @@
               "index": 8,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null
+              "rodId": "item_1764745988201_0_tbezpm_Dinoa",
+              "startTime": 1764746049826,
+              "endTime": 1764746739226
             },
             {
               "index": 9,
@@ -2042,7 +2064,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764746040243,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -2081,7 +2103,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746039980,
+  "timestamp": 1764746050331,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
