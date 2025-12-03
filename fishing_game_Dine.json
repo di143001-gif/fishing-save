@@ -3,9 +3,9 @@
     "accountId": "acc_1764737964446_cqnif9hn7",
     "level": 2,
     "exp": 26,
-    "coins": 1500,
+    "coins": 2215,
     "gems": 0,
-    "health": 20,
+    "health": 1,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -87,45 +87,69 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 61,
+      "bamboo": 13,
+      "metal": 65,
       "spiderweb": 37
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764738424168_0_zju24t_Dine",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764738424172
-        },
-        {
-          "id": "item_1764738740591_0_7lwvs5_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764738740594
-        },
-        {
-          "id": "item_1764738741506_0_oxwvf7_Dine",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764738741506
-        }
-      ],
+      "gifts": [],
       "costumes": [],
       "pets": [],
-      "rods": []
+      "rods": [
+        {
+          "id": "item_1764738752441_0_na1djm_Dine",
+          "name": "🎄 Cần Câu Noel 'Tuyết Phủ'",
+          "type": "noel",
+          "stats": {
+            "fishingTime": 15,
+            "successRate": 20,
+            "expBonus": 25,
+            "noelFishRate": 30
+          },
+          "maxFishingTime": 900000,
+          "obtainedDate": 1764738752442,
+          "expiresAt": 1765343552442,
+          "isActive": false
+        },
+        {
+          "id": "item_1764738752448_0_nvt1ag_Dine",
+          "name": "🎄 Cần Câu Noel 'Tuyết Phủ'",
+          "type": "noel",
+          "stats": {
+            "fishingTime": 15,
+            "successRate": 20,
+            "expBonus": 25,
+            "noelFishRate": 30
+          },
+          "maxFishingTime": 900000,
+          "obtainedDate": 1764738752448,
+          "expiresAt": 1765343552448,
+          "isActive": false
+        },
+        {
+          "id": "item_1764738752448_1_2pkolw_Dine",
+          "name": "🎄 Cần Câu Noel 'Tuyết Phủ'",
+          "type": "noel",
+          "stats": {
+            "fishingTime": 15,
+            "successRate": 20,
+            "expBonus": 25,
+            "noelFishRate": 30
+          },
+          "maxFishingTime": 900000,
+          "obtainedDate": 1764738752448,
+          "expiresAt": 1765343552448,
+          "isActive": false
+        }
+      ]
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738737318,
+    "lastHpRegen": 1764738750318,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2256,7 +2280,7 @@
         "Cá Ông Già Noel": 0,
         "Cá Ngôi Sao": 0
       },
-      "giftsOpened": 0,
+      "giftsOpened": 5,
       "achievements": {
         "snow_fisher": {
           "completed": false,
@@ -2276,7 +2300,7 @@
         },
         "gift_collector": {
           "completed": false,
-          "progress": 0
+          "progress": 5
         }
       },
       "dailyQuests": {
@@ -2300,11 +2324,11 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 0
+        "totalGiftsOpened": 5
       }
     }
   },
-  "timestamp": 1764738743283,
+  "timestamp": 1764738752962,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
