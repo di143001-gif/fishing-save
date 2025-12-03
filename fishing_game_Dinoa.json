@@ -221,7 +221,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764745624842,
+    "lastHpRegen": 1764745740337,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1987,7 +1987,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764745630845,
+  "timestamp": 1764745740840,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
