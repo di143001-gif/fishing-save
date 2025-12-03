@@ -5,7 +5,7 @@
     "exp": 45,
     "coins": 1500,
     "gems": 0,
-    "health": 16,
+    "health": 17,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -95,7 +95,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738619060,
+    "lastHpRegen": 1764738632060,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -625,23 +625,37 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": "item_1764738000645_0_26t13p_Dine",
               "startTime": 1764738575141,
               "endTime": 1764739443941,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.31,
+                "exp": 67,
+                "value": 131,
+                "rarity": "common",
+                "isNoelFish": false
+              }
             },
             {
               "id": 1,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "rodId": "item_1764738448249_0_im0xni_Dine",
               "startTime": 1764738576021,
               "endTime": 1764739523421,
               "checkInterval": null,
               "finishTimeout": null,
-              "fishCaught": null
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.28,
+                "exp": 14,
+                "value": 28,
+                "rarity": "common",
+                "isNoelFish": false
+              }
             },
             {
               "id": 2,
@@ -2274,7 +2288,7 @@
       }
     }
   },
-  "timestamp": 1764738623069,
+  "timestamp": 1764738637094,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
