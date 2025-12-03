@@ -2,10 +2,10 @@
   "playerData": {
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 5,
-    "exp": 338,
+    "exp": 431,
     "coins": 8278,
     "gems": 0,
-    "health": 107,
+    "health": 106,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [
@@ -134,6 +134,22 @@
         "weight": 1.47,
         "exp": 77,
         "value": 147,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.86,
+        "exp": 44,
+        "value": 86,
+        "rarity": "common",
+        "isNoelFish": false
+      },
+      {
+        "name": "Cá Lóc",
+        "weight": 0.97,
+        "exp": 49,
+        "value": 97,
         "rarity": "common",
         "isNoelFish": false
       }
@@ -343,11 +359,11 @@
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
-      "totalFishCaught": 32,
+      "totalFishCaught": 34,
       "biggestFish": 1.96,
       "totalEarnings": 2632,
       "playTime": 0,
-      "dailyFishCaught": 32,
+      "dailyFishCaught": 34,
       "dailyEarnings": 2632
     },
     "materials": {
@@ -423,7 +439,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746308381,
+    "lastHpRegen": 1764746320429,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -498,9 +514,16 @@
               "index": 5,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.42,
+                "exp": 21,
+                "value": 42,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764683025801_0_jw35cm_Dinoa",
@@ -2203,7 +2226,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746319391,
+  "timestamp": 1764746322379,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
