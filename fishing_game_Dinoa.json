@@ -5,7 +5,7 @@
     "exp": 950,
     "coins": 14910,
     "gems": 0,
-    "health": 117,
+    "health": 95,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [],
@@ -222,12 +222,20 @@
       "dailyEarnings": 8474
     },
     "materials": {
-      "bamboo": 33,
-      "metal": 5,
-      "spiderweb": 34
+      "bamboo": 38,
+      "metal": 14,
+      "spiderweb": 39
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764746993090_0_i265qm_Dinoa",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764746993091
+        }
+      ],
       "costumes": [
         {
           "id": "item_1764746625538_0_hlg4mu_Dinoa",
@@ -302,11 +310,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764746657312,
+    "lastHpRegen": 1764746989650,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2130,7 +2138,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764746666708,
+  "timestamp": 1764746993289,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
