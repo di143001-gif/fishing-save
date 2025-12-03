@@ -151,7 +151,7 @@
         "uuid": "rod_1764681318166_0_1stu86_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 855000,
         "type": "crafted",
@@ -221,7 +221,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764731620308,
+    "lastHpRegen": 1764732727334,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -231,14 +231,14 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Trống",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": "rod_1764681318166_0_1stu86_Dinoa",
-              "startTime": 1764731552453,
-              "endTime": 1764732407453
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0
             },
             {
               "index": 1,
@@ -1987,7 +1987,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764731620319,
+  "timestamp": 1764732727845,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
