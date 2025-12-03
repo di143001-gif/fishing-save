@@ -5,7 +5,7 @@
     "exp": 491,
     "coins": 4921,
     "gems": 0,
-    "health": 11,
+    "health": 0,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -163,7 +163,7 @@
     },
     "materials": {
       "bamboo": 39,
-      "metal": 2,
+      "metal": 9,
       "spiderweb": 45
     },
     "noelItems": {
@@ -1950,7 +1950,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764732964855,
+  "timestamp": 1764732966724,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
