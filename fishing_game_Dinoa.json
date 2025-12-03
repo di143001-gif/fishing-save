@@ -3,7 +3,7 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 1502,
-    "coins": 5493,
+    "coins": 493,
     "gems": 0,
     "health": 4,
     "maxHealth": 120,
@@ -482,9 +482,16 @@
               "index": 4,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.83,
+                "exp": 91,
+                "value": 183,
+                "rarity": "rare",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764747008341_0_wjstvb_Dinoa",
@@ -538,9 +545,24 @@
               "index": 8,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Ông Già Noel",
+                "weight": 3.06,
+                "exp": 1169,
+                "value": 2877,
+                "rarity": "epic",
+                "isNoelFish": true,
+                "icon": "🎅",
+                "bonus": {
+                  "specialGifts": [
+                    1,
+                    3
+                  ]
+                },
+                "caughtDate": "2025-12-03T11:35:07.521Z"
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764747008341_0_wjstvb_Dinoa",
@@ -2208,7 +2230,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761699801,
+  "timestamp": 1764761708022,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
