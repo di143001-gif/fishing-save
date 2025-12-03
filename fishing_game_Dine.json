@@ -3,7 +3,7 @@
     "accountId": "acc_1764737964446_cqnif9hn7",
     "level": 2,
     "exp": 26,
-    "coins": 3533,
+    "coins": 5556,
     "gems": 0,
     "health": 0,
     "maxHealth": 110,
@@ -67,51 +67,22 @@
       "spiderweb": 33
     },
     "noelItems": {
-      "gifts": [
+      "gifts": [],
+      "costumes": [
         {
-          "id": "item_1764740737187_0_b0zru4_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764740737192
-        },
-        {
-          "id": "item_1764740737924_0_4piodr_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764740737924
-        },
-        {
-          "id": "item_1764740738686_0_p3in89_Dine",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764740738686
-        },
-        {
-          "id": "item_1764740739777_0_p5owar_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764740739777
-        },
-        {
-          "id": "item_1764740740238_0_l7k54r_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764740740238
-        },
-        {
-          "id": "item_1764740740400_0_9z8d5z_Dine",
-          "type": "special",
-          "name": "Quà Noel Đặc Biệt",
-          "value": 2000,
-          "addedDate": 1764740740400
+          "id": "item_1764740748027_0_xm3289_Dine",
+          "name": "🎅 Áo Ông Già Noel",
+          "type": "costume",
+          "bonus": {
+            "maxHealth": 20,
+            "rareFishRate": 10,
+            "expBonus": 15
+          },
+          "obtainedDate": 1764740748027,
+          "expiresAt": 1767332748027,
+          "isEquipped": false
         }
       ],
-      "costumes": [],
       "pets": [],
       "rods": [
         {
@@ -166,7 +137,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -2301,7 +2272,7 @@
         "Cá Ông Già Noel": 0,
         "Cá Ngôi Sao": 0
       },
-      "giftsOpened": 9,
+      "giftsOpened": 15,
       "achievements": {
         "snow_fisher": {
           "completed": false,
@@ -2321,7 +2292,7 @@
         },
         "gift_collector": {
           "completed": false,
-          "progress": 9
+          "progress": 15
         }
       },
       "dailyQuests": {
@@ -2345,11 +2316,11 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 9
+        "totalGiftsOpened": 15
       }
     }
   },
-  "timestamp": 1764740740605,
+  "timestamp": 1764740748553,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
