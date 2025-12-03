@@ -5,7 +5,7 @@
     "exp": 560,
     "coins": 8278,
     "gems": 0,
-    "health": 1,
+    "health": 2,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -186,6 +186,26 @@
         "rodType": "basic",
         "created": 1764733708872,
         "owner": "Dinoa"
+      },
+      {
+        "uuid": "item_1764745988201_0_tbezpm_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 689400,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 4.72,
+          "expBonus": 3.29,
+          "timeBonus": 1.49,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764745988201,
+        "owner": "Dinoa"
       }
     ],
     "itemsInventory": [],
@@ -271,7 +291,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764745976475,
+    "lastHpRegen": 1764745988475,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2008,7 +2028,7 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": true,
+    "isCrafting": false,
     "craftingEndTime": 1764745988195,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
@@ -2047,7 +2067,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764745978696,
+  "timestamp": 1764745988702,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
