@@ -123,7 +123,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "sell-fish-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764738810484,
+  "timestamp": 1764738814823,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
