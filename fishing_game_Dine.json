@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 2460,
     "gems": 0,
-    "health": 8,
+    "health": 10,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -62,9 +62,9 @@
       "dailyEarnings": 245
     },
     "materials": {
-      "bamboo": 11,
-      "metal": 55,
-      "spiderweb": 27
+      "bamboo": 6,
+      "metal": 50,
+      "spiderweb": 22
     },
     "noelItems": {
       "gifts": [
@@ -142,7 +142,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764738990060,
+    "lastHpRegen": 1764739015317,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2235,8 +2235,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764738961740,
+    "isCrafting": true,
+    "craftingEndTime": 1764739020012,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -2321,7 +2321,7 @@
       }
     }
   },
-  "timestamp": 1764738996064,
+  "timestamp": 1764739015516,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
