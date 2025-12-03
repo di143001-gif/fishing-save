@@ -3,9 +3,9 @@
     "accountId": "acc_1764577360669_bll76tgrr",
     "level": 6,
     "exp": 1502,
-    "coins": 19699,
+    "coins": 20493,
     "gems": 0,
-    "health": 2,
+    "health": 3,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -258,6 +258,26 @@
         "rodType": "basic",
         "created": 1764746040247,
         "owner": "Dinoa"
+      },
+      {
+        "uuid": "item_1764761563009_0_k4r2dv_Dinoa",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 1018199.9999999999,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 2.23,
+          "expBonus": 6.81,
+          "timeBonus": 6.97,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764761563009,
+        "owner": "Dinoa"
       }
     ],
     "itemsInventory": [],
@@ -271,48 +291,12 @@
       "dailyEarnings": 8474
     },
     "materials": {
-      "bamboo": 84,
+      "bamboo": 111,
       "metal": 67,
       "spiderweb": 76
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764761532088_0_hrtg7j_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764761532091
-        },
-        {
-          "id": "item_1764761532550_0_zk9ele_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764761532550
-        },
-        {
-          "id": "item_1764761532831_0_c7gqhp_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764761532831
-        },
-        {
-          "id": "item_1764761533465_0_92sqoc_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764761533465
-        },
-        {
-          "id": "item_1764761534237_0_xt3ra4_Dinoa",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764761534237
-        }
-      ],
+      "gifts": [],
       "costumes": [
         {
           "id": "item_1764746625538_0_hlg4mu_Dinoa",
@@ -406,7 +390,7 @@
     "currentLocation": "Hồ Tuyết Giáng Sinh",
     "currentChannel": "Kênh 5",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761549626,
+    "lastHpRegen": 1764761562626,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -2157,7 +2141,7 @@
       "noelFishCaught": {
         "Cá Hồi Noel": 2
       },
-      "giftsOpened": 26,
+      "giftsOpened": 31,
       "achievements": {},
       "dailyQuests": {},
       "spinTickets": 0,
@@ -2167,7 +2151,7 @@
         "totalNoelFish": 2,
         "biggestNoelFish": 2.18,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 26
+        "totalGiftsOpened": 31
       }
     },
     "christmasEvent": {
@@ -2188,7 +2172,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761551100,
+  "timestamp": 1764761563510,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
