@@ -5,7 +5,7 @@
     "exp": 560,
     "coins": 8278,
     "gems": 0,
-    "health": 100,
+    "health": 75,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [
@@ -151,7 +151,7 @@
         "uuid": "item_1764732945875_0_prcb84_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 955200,
         "type": "crafted",
@@ -171,7 +171,7 @@
         "uuid": "item_1764733708868_0_g2rf2y_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 739200,
         "type": "crafted",
@@ -199,12 +199,27 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 29,
+      "bamboo": 43,
       "metal": 15,
       "spiderweb": 44
     },
     "noelItems": {
-      "gifts": [],
+      "gifts": [
+        {
+          "id": "item_1764745963986_0_0p1bs2_Dinoa",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764745963987
+        },
+        {
+          "id": "item_1764745964336_0_9zqkj7_Dinoa",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764745964336
+        }
+      ],
       "costumes": [],
       "pets": [],
       "rods": []
@@ -217,11 +232,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764745950475,
+    "lastHpRegen": 1764745963475,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -309,23 +324,27 @@
               "index": 6,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null
+              "rodId": "item_1764732945875_0_prcb84_Dinoa",
+              "startTime": 1764745956356,
+              "endTime": 1764746911556
             },
             {
               "index": 7,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null
+              "rodId": "item_1764733708868_0_g2rf2y_Dinoa",
+              "startTime": 1764745957185,
+              "endTime": 1764746696385
             },
             {
               "index": 8,
@@ -1953,7 +1972,7 @@
         }
       }
     },
-    "selectedSlotIndex": 6,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764733708855,
     "autoCollectEnabled": false,
@@ -1993,7 +2012,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764745955907,
+  "timestamp": 1764745964498,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
