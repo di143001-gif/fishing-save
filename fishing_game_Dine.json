@@ -3,9 +3,9 @@
     "accountId": "acc_1764737964446_cqnif9hn7",
     "level": 2,
     "exp": 26,
-    "coins": 2460,
+    "coins": 3533,
     "gems": 0,
-    "health": 10,
+    "health": 11,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -67,36 +67,7 @@
       "spiderweb": 17
     },
     "noelItems": {
-      "gifts": [
-        {
-          "id": "item_1764738955907_0_asuysc_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764738955907
-        },
-        {
-          "id": "item_1764738961742_0_e7rsf1_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764738961742
-        },
-        {
-          "id": "item_1764739020014_0_8gfcm1_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764739020014
-        },
-        {
-          "id": "item_1764739025751_0_14j3kl_Dine",
-          "type": "normal",
-          "name": "Quà Noel Thường",
-          "value": 500,
-          "addedDate": 1764739025751
-        }
-      ],
+      "gifts": [],
       "costumes": [],
       "pets": [],
       "rods": [
@@ -152,11 +123,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "crafting-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764739015317,
+    "lastHpRegen": 1764739029317,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2287,7 +2258,7 @@
         "Cá Ông Già Noel": 0,
         "Cá Ngôi Sao": 0
       },
-      "giftsOpened": 5,
+      "giftsOpened": 9,
       "achievements": {
         "snow_fisher": {
           "completed": false,
@@ -2307,7 +2278,7 @@
         },
         "gift_collector": {
           "completed": false,
-          "progress": 5
+          "progress": 9
         }
       },
       "dailyQuests": {
@@ -2331,11 +2302,11 @@
         "totalNoelFish": 0,
         "biggestNoelFish": 0,
         "totalGiftsHanged": 0,
-        "totalGiftsOpened": 5
+        "totalGiftsOpened": 9
       }
     }
   },
-  "timestamp": 1764739026253,
+  "timestamp": 1764739032750,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
