@@ -5,7 +5,7 @@
     "exp": 26,
     "coins": 3533,
     "gems": 0,
-    "health": 90,
+    "health": 0,
     "maxHealth": 110,
     "points": 0,
     "fishInventory": [],
@@ -62,9 +62,9 @@
       "dailyEarnings": 245
     },
     "materials": {
-      "bamboo": 16,
-      "metal": 49,
-      "spiderweb": 17
+      "bamboo": 33,
+      "metal": 70,
+      "spiderweb": 33
     },
     "noelItems": {
       "gifts": [
@@ -74,6 +74,41 @@
           "name": "Quà Noel Thường",
           "value": 500,
           "addedDate": 1764740737192
+        },
+        {
+          "id": "item_1764740737924_0_4piodr_Dine",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764740737924
+        },
+        {
+          "id": "item_1764740738686_0_p3in89_Dine",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764740738686
+        },
+        {
+          "id": "item_1764740739777_0_p5owar_Dine",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764740739777
+        },
+        {
+          "id": "item_1764740740238_0_l7k54r_Dine",
+          "type": "normal",
+          "name": "Quà Noel Thường",
+          "value": 500,
+          "addedDate": 1764740740238
+        },
+        {
+          "id": "item_1764740740400_0_9z8d5z_Dine",
+          "type": "special",
+          "name": "Quà Noel Đặc Biệt",
+          "value": 2000,
+          "addedDate": 1764740740400
         }
       ],
       "costumes": [],
@@ -2314,7 +2349,7 @@
       }
     }
   },
-  "timestamp": 1764740737697,
+  "timestamp": 1764740740605,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
