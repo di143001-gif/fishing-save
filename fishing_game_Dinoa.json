@@ -162,9 +162,9 @@
       "dailyEarnings": 2632
     },
     "materials": {
-      "bamboo": 19,
-      "metal": 24,
-      "spiderweb": 64
+      "bamboo": 14,
+      "metal": 19,
+      "spiderweb": 59
     },
     "noelItems": {
       "gifts": [
@@ -209,9 +209,16 @@
               "index": 0,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 1.13,
+                "exp": 58,
+                "value": 112,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "rod_1764681318166_0_1stu86_Dinoa",
@@ -235,9 +242,16 @@
               "index": 2,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Đang câu",
+              "status": "Cá dính câu!",
               "finishTime": 0,
-              "fishCaught": null,
+              "fishCaught": {
+                "name": "Cá Lóc",
+                "weight": 0.22,
+                "exp": 11,
+                "value": 22,
+                "rarity": "common",
+                "isNoelFish": false
+              },
               "checkInterval": null,
               "finishTimeout": null,
               "rodId": "item_1764732945875_0_prcb84_Dinoa",
@@ -1926,8 +1940,8 @@
       }
     },
     "selectedSlotIndex": null,
-    "isCrafting": false,
-    "craftingEndTime": 1764733151564,
+    "isCrafting": true,
+    "craftingEndTime": 1764733157478,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "noelEvent": {
@@ -1965,7 +1979,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764733152068,
+  "timestamp": 1764733157368,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
