@@ -5,7 +5,7 @@
     "exp": 1502,
     "coins": 20493,
     "gems": 0,
-    "health": 9,
+    "health": 1,
     "maxHealth": 120,
     "points": 0,
     "fishInventory": [
@@ -291,9 +291,9 @@
       "dailyEarnings": 8474
     },
     "materials": {
-      "bamboo": 111,
+      "bamboo": 114,
       "metal": 67,
-      "spiderweb": 76
+      "spiderweb": 79
     },
     "noelItems": {
       "gifts": [],
@@ -387,11 +387,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "mining-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764761636626,
+    "lastHpRegen": 1764761661626,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -527,14 +527,15 @@
               "index": 9,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 0,
-              "endTime": 0
+              "rodId": "item_1764746625540_1_df4wqf_Dinoa",
+              "startTime": 1764761649371,
+              "endTime": 1764762549371,
+              "isNoelRod": true
             }
           ]
         },
@@ -2140,7 +2141,7 @@
         }
       }
     },
-    "selectedSlotIndex": 9,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764746040243,
     "autoCollectEnabled": false,
@@ -2182,7 +2183,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764761648026,
+  "timestamp": 1764761673244,
   "version": "5.0-noel-event-fixed",
   "user": "Dinoa"
 }
