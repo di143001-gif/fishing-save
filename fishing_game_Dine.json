@@ -127,7 +127,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764740545625,
+    "lastHpRegen": 1764740608236,
     "dailyRewards": {},
     "fishingData": {
       "Hồ Tuyết Giáng Sinh": {
@@ -2306,7 +2306,7 @@
       }
     }
   },
-  "timestamp": 1764740552998,
+  "timestamp": 1764740614246,
   "version": "5.0-noel-event",
   "user": "Dine"
 }
