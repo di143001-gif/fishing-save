@@ -114,7 +114,7 @@
         "uuid": "rod_1764683025801_0_jw35cm_Dinoa",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Trống",
+        "status": "Đang câu - Kênh 1",
         "rarity": "common",
         "maxFishingTime": 1108199.9999999998,
         "type": "crafted",
@@ -160,11 +160,11 @@
     "password": "anhladi2001"
   },
   "gameState": {
-    "currentScreen": "fishing-screen",
+    "currentScreen": "select-location",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764730494955,
+    "lastHpRegen": 1764730506955,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -187,14 +187,14 @@
               "index": 1,
               "rodIndex": -1,
               "rodType": null,
-              "status": "Trống",
+              "status": "Đang câu",
               "finishTime": 0,
               "fishCaught": null,
               "checkInterval": null,
               "finishTimeout": null,
-              "rodId": null,
-              "startTime": 1764680206326,
-              "endTime": 1764681391926
+              "rodId": "rod_1764683025801_0_jw35cm_Dinoa",
+              "startTime": 1764730499447,
+              "endTime": 1764731607647
             },
             {
               "index": 2,
@@ -1890,7 +1890,7 @@
         }
       }
     },
-    "selectedSlotIndex": 1,
+    "selectedSlotIndex": null,
     "isCrafting": false,
     "craftingEndTime": 1764683025798,
     "autoCollectEnabled": false,
@@ -1930,7 +1930,7 @@
       "luckyDay": 0
     }
   },
-  "timestamp": 1764730499032,
+  "timestamp": 1764730508457,
   "version": "5.0-noel-event",
   "user": "Dinoa"
 }
