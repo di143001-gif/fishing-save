@@ -14,7 +14,7 @@
       "robberies": 0,
       "timesRobbed": 0,
       "coinsEarned": 0,
-      "playTime": 0
+      "playTime": 2
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,9 +27,9 @@
     }
   },
   "gameState": {
-    "currentScreen": "shop-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764889280660,
+    "currentScreen": "scavenge-screen",
+    "isScavenging": true,
+    "scavengeStartTime": 1764889354890,
     "scavengeElapsedTime": 8,
     "currentArea": "bãi_rac",
     "foundItems": [],
@@ -38,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764889339910,
+  "timestamp": 1764889370672,
   "version": "1.0"
 }
