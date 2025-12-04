@@ -14,7 +14,7 @@
         "uuid": "rod_1764829534311_0_4g2fiv_Hihih",
         "name": "Cần Câu Cơ Bản",
         "level": 0,
-        "status": "Đang câu - Kênh 1",
+        "status": "Trống",
         "rarity": "common",
         "maxFishingTime": 996000.0000000001,
         "type": "crafted",
@@ -52,7 +52,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764830242961,
+    "lastHpRegen": 1764830577528,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -60,10 +60,10 @@
           "slots": [
             {
               "id": 0,
-              "status": "Đang câu",
-              "rodId": "rod_1764829534311_0_4g2fiv_Hihih",
-              "startTime": 1764829542734,
-              "endTime": 1764830538734,
+              "status": "Trống",
+              "rodId": null,
+              "startTime": 0,
+              "endTime": 0,
               "checkInterval": null,
               "finishTimeout": null,
               "fishCaught": null
@@ -1628,7 +1628,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764830248960,
+  "timestamp": 1764830578040,
   "version": "4.0-cloud-uuid",
   "user": "Hihih"
 }
