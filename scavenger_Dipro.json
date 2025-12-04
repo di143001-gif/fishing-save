@@ -1,0 +1,43 @@
+{
+  "playerData": {
+    "username": "Dipro",
+    "level": 1,
+    "exp": 0,
+    "coins": 1000,
+    "health": 100,
+    "maxHealth": 100,
+    "power": 10,
+    "defense": 5,
+    "inventory": [],
+    "stats": {
+      "itemsFound": 0,
+      "robberies": 0,
+      "timesRobbed": 0,
+      "coinsEarned": 0,
+      "playTime": 0
+    },
+    "upgrades": {
+      "powerLevel": 1,
+      "defenseLevel": 1,
+      "healthLevel": 1
+    },
+    "items": {
+      "trap": 0,
+      "cloak": 0
+    }
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "isScavenging": false,
+    "scavengeStartTime": 0,
+    "scavengeElapsedTime": 0,
+    "currentArea": "bãi_rac",
+    "foundItems": [],
+    "lastRobberyTime": 0,
+    "robberyCooldown": 0,
+    "dailyRobberies": 0,
+    "lastSaveTime": 1764889257657
+  },
+  "timestamp": 1764889257657,
+  "version": "1.0"
+}
