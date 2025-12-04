@@ -35,7 +35,7 @@
       "todayRobberies": 0,
       "blacklist": [],
       "reportsSent": 0,
-      "coopMode": false,
+      "coopMode": true,
       "immunityUntil": 0,
       "robberyCooldownUntil": 0
     },
@@ -127,11 +127,11 @@
     ]
   },
   "gameState": {
-    "currentScreen": "robbery-screen",
+    "currentScreen": "pvp-social-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764887560824,
+    "lastHpRegen": 1764887572825,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1711,9 +1711,16 @@
     "approachingPlayers": [],
     "underAttack": null,
     "attackTimerInterval": null,
-    "pvpEvent": null
+    "pvpEvent": {
+      "name": "Ngày hòa bình",
+      "pvpDisabled": true,
+      "duration": 86400000,
+      "id": "peace_day",
+      "startTime": 1764887574049,
+      "endTime": 1764973974049
+    }
   },
-  "timestamp": 1764887568324,
+  "timestamp": 1764887582730,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Admins"
 }
