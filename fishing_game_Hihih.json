@@ -52,7 +52,7 @@
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": "Kênh 1",
     "lastFishingTime": 0,
-    "lastHpRegen": 1764834139007,
+    "lastHpRegen": 1764834164650,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1628,7 +1628,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764834145649,
+  "timestamp": 1764834175663,
   "version": "4.0-cloud-uuid",
   "user": "Hihih"
 }
