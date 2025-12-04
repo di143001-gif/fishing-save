@@ -42,11 +42,11 @@
     "pvpItems": []
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pvp-hub",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764887769380,
+    "lastHpRegen": 1764887782343,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1626,9 +1626,16 @@
     "approachingPlayers": [],
     "underAttack": null,
     "attackTimerInterval": null,
-    "pvpEvent": null
+    "pvpEvent": {
+      "name": "Đêm của những kẻ cướp",
+      "robberyLimit": null,
+      "duration": 7200000,
+      "id": "robber_night",
+      "startTime": 1764887784664,
+      "endTime": 1764894984664
+    }
   },
-  "timestamp": 1764887769381,
+  "timestamp": 1764887790837,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Aaaa"
 }
