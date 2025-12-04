@@ -27,10 +27,10 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "scavenge-screen",
     "isScavenging": false,
-    "scavengeStartTime": 0,
-    "scavengeElapsedTime": 0,
+    "scavengeStartTime": 1764889280660,
+    "scavengeElapsedTime": 8,
     "currentArea": "bãi_rac",
     "foundItems": [],
     "lastRobberyTime": 0,
@@ -38,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764889257657,
+  "timestamp": 1764889289141,
   "version": "1.0"
 }
