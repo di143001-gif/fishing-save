@@ -42,7 +42,7 @@
     "pvpItems": []
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pvp-hub",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
@@ -1628,7 +1628,7 @@
     "attackTimerInterval": null,
     "pvpEvent": null
   },
-  "timestamp": 1764861263023,
+  "timestamp": 1764861274950,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Admins"
 }
