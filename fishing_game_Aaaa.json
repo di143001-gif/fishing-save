@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 91,
+    "health": 94,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -35,18 +35,18 @@
       "todayRobberies": 1,
       "blacklist": [],
       "reportsSent": 0,
-      "coopMode": false,
+      "coopMode": true,
       "immunityUntil": 0,
       "robberyCooldownUntil": 1764889640731
     },
     "pvpItems": []
   },
   "gameState": {
-    "currentScreen": "robbery-screen",
+    "currentScreen": "pvp-social-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764887843336,
+    "lastHpRegen": 1764887879336,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1635,7 +1635,7 @@
       "endTime": 1764894984664
     }
   },
-  "timestamp": 1764887850837,
+  "timestamp": 1764887880690,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Aaaa"
 }
