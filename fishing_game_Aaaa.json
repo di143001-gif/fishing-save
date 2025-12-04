@@ -26,12 +26,12 @@
       "spiderweb": 0
     },
     "pvpStats": {
-      "scavenges": 0,
+      "scavenges": 1,
       "robberiesSuccess": 0,
       "robberied": 0,
       "totalLoot": 0,
       "crimePoints": 0,
-      "todayScavenges": 0,
+      "todayScavenges": 1,
       "todayRobberies": 1,
       "blacklist": [],
       "reportsSent": 0,
@@ -39,14 +39,22 @@
       "immunityUntil": 0,
       "robberyCooldownUntil": 1764889640731
     },
-    "pvpItems": []
+    "pvpItems": [
+      {
+        "name": "Mồi cũ",
+        "value": 10,
+        "type": "material",
+        "rarity": "common",
+        "foundAt": 1764888147681
+      }
+    ]
   },
   "gameState": {
-    "currentScreen": "scavenging-screen",
+    "currentScreen": "pvp-hub",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764888148669,
+    "lastHpRegen": 1764888997843,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1622,7 +1630,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "scavengingSession": null,
-    "scavengingInterval": 21,
+    "scavengingInterval": null,
     "approachingPlayers": [],
     "underAttack": null,
     "attackTimerInterval": null,
@@ -1635,7 +1643,7 @@
       "endTime": 1764894984664
     }
   },
-  "timestamp": 1764888151672,
+  "timestamp": 1764889001432,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Aaaa"
 }
