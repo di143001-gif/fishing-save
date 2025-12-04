@@ -5,11 +5,32 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 60,
+    "health": 53,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
-    "rodsInventory": [],
+    "rodsInventory": [
+      {
+        "uuid": "rod_1764829534311_0_4g2fiv_Hihih",
+        "name": "Cần Câu Cơ Bản",
+        "level": 0,
+        "status": "Trống",
+        "rarity": "common",
+        "maxFishingTime": 996000.0000000001,
+        "type": "crafted",
+        "crafted": true,
+        "stars": 0,
+        "stats": {
+          "successRate": 6.35,
+          "expBonus": 4.12,
+          "timeBonus": 6.6,
+          "bigFishChance": 0
+        },
+        "rodType": "basic",
+        "created": 1764829534312,
+        "owner": "Hihih"
+      }
+    ],
     "itemsInventory": [],
     "maxRods": 10,
     "statistics": {
@@ -21,17 +42,17 @@
       "dailyEarnings": 0
     },
     "materials": {
-      "bamboo": 10,
-      "metal": 10,
-      "spiderweb": 6
+      "bamboo": 0,
+      "metal": 0,
+      "spiderweb": 0
     }
   },
   "gameState": {
-    "currentScreen": "mining-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": "Khu Đồng Lớn",
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764829512226,
+    "lastHpRegen": 1764829524305,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1603,11 +1624,11 @@
     },
     "selectedSlotIndex": null,
     "isCrafting": false,
-    "craftingEndTime": 0,
+    "craftingEndTime": 1764829534304,
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764829521623,
+  "timestamp": 1764829534819,
   "version": "4.0-cloud-uuid",
   "user": "Hihih"
 }
