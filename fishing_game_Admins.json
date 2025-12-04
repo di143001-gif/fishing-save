@@ -127,11 +127,11 @@
     ]
   },
   "gameState": {
-    "currentScreen": "pvp-social-screen",
+    "currentScreen": "inventory-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764887572825,
+    "lastHpRegen": 1764887597824,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1720,7 +1720,7 @@
       "endTime": 1764973974049
     }
   },
-  "timestamp": 1764887582730,
+  "timestamp": 1764887598325,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Admins"
 }
