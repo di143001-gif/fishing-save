@@ -3,11 +3,11 @@
     "username": "Dipro",
     "level": 1,
     "exp": 0,
-    "coins": 500,
+    "coins": 0,
     "health": 100,
     "maxHealth": 100,
     "power": 15,
-    "defense": 5,
+    "defense": 10,
     "inventory": [],
     "stats": {
       "itemsFound": 0,
@@ -18,7 +18,7 @@
     },
     "upgrades": {
       "powerLevel": 2,
-      "defenseLevel": 1,
+      "defenseLevel": 2,
       "healthLevel": 1
     },
     "items": {
@@ -38,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764889334033,
+  "timestamp": 1764889339910,
   "version": "1.0"
 }
