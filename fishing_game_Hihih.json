@@ -27,11 +27,11 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "select-location",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764829487145,
+    "lastHpRegen": 1764829500029,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1607,7 +1607,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764829487148,
+  "timestamp": 1764829509415,
   "version": "4.0-cloud-uuid",
   "user": "Hihih"
 }
