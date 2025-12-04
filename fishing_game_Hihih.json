@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 83,
+    "health": 69,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -22,7 +22,7 @@
     },
     "materials": {
       "bamboo": 10,
-      "metal": 1,
+      "metal": 10,
       "spiderweb": 0
     }
   },
@@ -1607,7 +1607,7 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {}
   },
-  "timestamp": 1764829517522,
+  "timestamp": 1764829520043,
   "version": "4.0-cloud-uuid",
   "user": "Hihih"
 }
