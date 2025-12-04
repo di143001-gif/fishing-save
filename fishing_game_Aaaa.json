@@ -5,7 +5,7 @@
     "exp": 0,
     "coins": 1500,
     "gems": 0,
-    "health": 94,
+    "health": 96,
     "maxHealth": 100,
     "points": 0,
     "fishInventory": [],
@@ -42,11 +42,11 @@
     "pvpItems": []
   },
   "gameState": {
-    "currentScreen": "pvp-social-screen",
+    "currentScreen": "scavenging-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764887879336,
+    "lastHpRegen": 1764887903670,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1635,7 +1635,7 @@
       "endTime": 1764894984664
     }
   },
-  "timestamp": 1764887880690,
+  "timestamp": 1764887910837,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Aaaa"
 }
