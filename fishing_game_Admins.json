@@ -42,11 +42,11 @@
     "pvpItems": []
   },
   "gameState": {
-    "currentScreen": "pvp-hub",
+    "currentScreen": "scavenging-screen",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764861263023,
+    "lastHpRegen": 1764861299453,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1622,13 +1622,13 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "scavengingSession": null,
-    "scavengingInterval": null,
+    "scavengingInterval": 21,
     "approachingPlayers": [],
     "underAttack": null,
     "attackTimerInterval": null,
     "pvpEvent": null
   },
-  "timestamp": 1764861274950,
+  "timestamp": 1764861304950,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Admins"
 }
