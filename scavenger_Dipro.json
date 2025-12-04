@@ -3,10 +3,10 @@
     "username": "Dipro",
     "level": 1,
     "exp": 0,
-    "coins": 1000,
+    "coins": 500,
     "health": 100,
     "maxHealth": 100,
-    "power": 10,
+    "power": 15,
     "defense": 5,
     "inventory": [],
     "stats": {
@@ -17,7 +17,7 @@
       "playTime": 0
     },
     "upgrades": {
-      "powerLevel": 1,
+      "powerLevel": 2,
       "defenseLevel": 1,
       "healthLevel": 1
     },
@@ -27,7 +27,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "scavenge-screen",
+    "currentScreen": "shop-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764889280660,
     "scavengeElapsedTime": 8,
@@ -38,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764889289141,
+  "timestamp": 1764889334033,
   "version": "1.0"
 }
