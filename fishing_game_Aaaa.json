@@ -46,7 +46,7 @@
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764888112669,
+    "lastHpRegen": 1764888148669,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1635,7 +1635,7 @@
       "endTime": 1764894984664
     }
   },
-  "timestamp": 1764888121669,
+  "timestamp": 1764888151672,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Aaaa"
 }
