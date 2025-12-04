@@ -26,12 +26,12 @@
       "spiderweb": 0
     },
     "pvpStats": {
-      "scavenges": 0,
+      "scavenges": 1,
       "robberiesSuccess": 0,
       "robberied": 0,
       "totalLoot": 0,
       "crimePoints": 0,
-      "todayScavenges": 0,
+      "todayScavenges": 1,
       "todayRobberies": 0,
       "blacklist": [],
       "reportsSent": 0,
@@ -39,14 +39,99 @@
       "immunityUntil": 0,
       "robberyCooldownUntil": 0
     },
-    "pvpItems": []
+    "pvpItems": [
+      {
+        "name": "Lưỡi câu rỉ sét",
+        "value": 30,
+        "type": "material",
+        "rarity": "common",
+        "foundAt": 1764887414514
+      },
+      {
+        "name": "Lưỡi câu rỉ sét",
+        "value": 30,
+        "type": "material",
+        "rarity": "common",
+        "foundAt": 1764887414514
+      },
+      {
+        "name": "Chìa khóa rương",
+        "value": 150,
+        "type": "key",
+        "rarity": "rare",
+        "foundAt": 1764887414533
+      },
+      {
+        "name": "Chìa khóa rương",
+        "value": 150,
+        "type": "key",
+        "rarity": "rare",
+        "foundAt": 1764887414533
+      },
+      {
+        "name": "Hộp đồ nghề",
+        "value": 350,
+        "type": "tool",
+        "rarity": "epic",
+        "foundAt": 1764887414533
+      },
+      {
+        "name": "Hộp đồ nghề",
+        "value": 350,
+        "type": "tool",
+        "rarity": "epic",
+        "foundAt": 1764887414533
+      },
+      {
+        "name": "Pao vỡ",
+        "value": 20,
+        "type": "material",
+        "rarity": "common",
+        "foundAt": 1764887504359
+      },
+      {
+        "name": "Pao vỡ",
+        "value": 20,
+        "type": "material",
+        "rarity": "common",
+        "foundAt": 1764887504359
+      },
+      {
+        "name": "Bản vẽ cần câu",
+        "value": 200,
+        "type": "blueprint",
+        "rarity": "rare",
+        "foundAt": 1764887504360
+      },
+      {
+        "name": "Bản vẽ cần câu",
+        "value": 200,
+        "type": "blueprint",
+        "rarity": "rare",
+        "foundAt": 1764887504360
+      },
+      {
+        "name": "Hộp đồ nghề",
+        "value": 350,
+        "type": "tool",
+        "rarity": "epic",
+        "foundAt": 1764887504360
+      },
+      {
+        "name": "Hộp đồ nghề",
+        "value": 350,
+        "type": "tool",
+        "rarity": "epic",
+        "foundAt": 1764887504360
+      }
+    ]
   },
   "gameState": {
-    "currentScreen": "scavenging-screen",
+    "currentScreen": "pvp-hub",
     "currentLocation": null,
     "currentChannel": null,
     "lastFishingTime": 0,
-    "lastHpRegen": 1764887536824,
+    "lastHpRegen": 1764887548824,
     "dailyRewards": {},
     "fishingData": {
       "Khu Đồng Lớn": {
@@ -1622,13 +1707,13 @@
     "autoCollectEnabled": false,
     "autoCollectIntervals": {},
     "scavengingSession": null,
-    "scavengingInterval": 21,
+    "scavengingInterval": null,
     "approachingPlayers": [],
     "underAttack": null,
     "attackTimerInterval": null,
     "pvpEvent": null
   },
-  "timestamp": 1764887538324,
+  "timestamp": 1764887559115,
   "version": "5.0-cloud-uuid-pvp",
   "user": "Admins"
 }
