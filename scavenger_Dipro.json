@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 32,
+      "itemsFound": 33,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 898,
@@ -39,6 +39,13 @@
         "value": 10,
         "rarity": "common",
         "foundTime": 1764925527184
+      },
+      {
+        "name": "Giấy Báo Cũ",
+        "icon": "📰",
+        "value": 11,
+        "rarity": "common",
+        "foundTime": 1764926277197
       }
     ],
     "lastRobberyTime": 0,
@@ -46,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764926069618,
+  "timestamp": 1764926277199,
   "version": "1.0"
 }
