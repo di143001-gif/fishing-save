@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "exp": 0,
+    "exp": 50,
     "coins": 566,
     "health": 50,
     "maxHealth": 100,
@@ -53,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900617805,
+  "timestamp": 1764900627345,
   "version": "1.0"
 }
