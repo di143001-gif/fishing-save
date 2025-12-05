@@ -2,9 +2,9 @@
   "matchId": "match_1764976010110_c6f8tx21k",
   "playerId": "Aaa",
   "playerHealth": 110,
-  "opponentHealth": 110,
-  "battleTurn": 0,
-  "lastAction": 1764976015908,
-  "isPlayerTurn": true,
-  "timestamp": 1764976019917
+  "opponentHealth": 91,
+  "battleTurn": 1,
+  "lastAction": 1764976020337,
+  "isPlayerTurn": false,
+  "timestamp": 1764976021920
 }
