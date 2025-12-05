@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 14,
+      "itemsFound": 16,
       "robberies": 0,
       "timesRobbed": 2,
       "coinsEarned": 566,
@@ -46,6 +46,20 @@
         "value": 360,
         "rarity": "rare",
         "foundTime": 1764900042725
+      },
+      {
+        "name": "Chai Nhựa",
+        "icon": "🥤",
+        "value": 36,
+        "rarity": "common",
+        "foundTime": 1764900072725
+      },
+      {
+        "name": "Sổ Tay Bí Mật",
+        "icon": "📖",
+        "value": 2960,
+        "rarity": "epic",
+        "foundTime": 1764900102663
       }
     ],
     "lastRobberyTime": 0,
@@ -53,6 +67,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900042725,
+  "timestamp": 1764900102666,
   "version": "1.0"
 }
