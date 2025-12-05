@@ -25,7 +25,7 @@
       }
     ],
     "stats": {
-      "itemsFound": 2,
+      "itemsFound": 4,
       "robberies": 0,
       "timesRobbed": 0,
       "coinsEarned": 23,
@@ -43,16 +43,31 @@
   },
   "gameState": {
     "currentScreen": "scavenge-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764889354890,
+    "isScavenging": true,
+    "scavengeStartTime": 1764896405042,
     "scavengeElapsedTime": 8,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Sắt Vụn",
+        "icon": "🔩",
+        "value": 15,
+        "rarity": "common",
+        "foundTime": 1764896435076
+      },
+      {
+        "name": "Đồng Hồ Hỏng",
+        "icon": "⌚",
+        "value": 55,
+        "rarity": "rare",
+        "foundTime": 1764896465073
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764896383855,
+  "timestamp": 1764896465074,
   "version": "1.0"
 }
