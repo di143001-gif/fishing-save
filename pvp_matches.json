@@ -130,10 +130,10 @@
       "joinTime": 1764973235317,
       "status": "waiting"
     },
-    "status": "pending",
+    "status": "rejected",
     "player1Accepted": false,
     "player2Accepted": false,
     "createdTime": 1764973241542,
-    "lastUpdate": 1764973241542
+    "lastUpdate": 1764973288922
   }
 ]
