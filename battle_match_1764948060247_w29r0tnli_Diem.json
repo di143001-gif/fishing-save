@@ -2,9 +2,9 @@
   "matchId": "match_1764948060247_w29r0tnli",
   "playerId": "Diem",
   "playerHealth": 100,
-  "opponentHealth": 110,
-  "battleTurn": 0,
-  "lastAction": 1764948079066,
-  "isPlayerTurn": true,
-  "timestamp": 1764948082729
+  "opponentHealth": 95,
+  "battleTurn": 2,
+  "lastAction": 1764948085817,
+  "isPlayerTurn": false,
+  "timestamp": 1764948085850
 }
