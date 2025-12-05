@@ -4,7 +4,7 @@
     "level": 1,
     "exp": 50,
     "coins": 872,
-    "health": 44,
+    "health": 45,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
@@ -14,7 +14,7 @@
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 872,
-      "playTime": 38
+      "playTime": 40
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,9 +27,9 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764923787740,
+    "currentScreen": "scavenge-screen",
+    "isScavenging": true,
+    "scavengeStartTime": 1764924358494,
     "scavengeElapsedTime": 6716,
     "currentArea": "bãi_rac",
     "foundItems": [],
@@ -38,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764924351452,
+  "timestamp": 1764924367200,
   "version": "1.0"
 }
