@@ -10,11 +10,11 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 39,
+      "itemsFound": 42,
       "robberies": 0,
-      "timesRobbed": 6,
+      "timesRobbed": 8,
       "coinsEarned": 1164,
-      "playTime": 56
+      "playTime": 60
     },
     "upgrades": {
       "powerLevel": 2,
@@ -46,13 +46,6 @@
         "value": 64,
         "rarity": "common",
         "foundTime": 1764928884818
-      },
-      {
-        "name": "Điện Thoại Cũ",
-        "icon": "📱",
-        "value": 352,
-        "rarity": "rare",
-        "foundTime": 1764928915151
       }
     ],
     "lastRobberyTime": 0,
@@ -60,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764928915162,
+  "timestamp": 1764930837091,
   "version": "1.0"
 }
