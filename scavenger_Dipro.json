@@ -3,36 +3,12 @@
     "username": "Dipro",
     "level": 1,
     "exp": 50,
-    "coins": 1164,
+    "coins": 1248,
     "health": 49,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
-    "inventory": [],
-    "stats": {
-      "itemsFound": 42,
-      "robberies": 0,
-      "timesRobbed": 8,
-      "coinsEarned": 1164,
-      "playTime": 60
-    },
-    "upgrades": {
-      "powerLevel": 2,
-      "defenseLevel": 2,
-      "healthLevel": 1
-    },
-    "items": {
-      "trap": 0,
-      "cloak": 0
-    }
-  },
-  "gameState": {
-    "currentScreen": "scavenge-screen",
-    "isScavenging": true,
-    "scavengeStartTime": 1764926874238,
-    "scavengeElapsedTime": 9190,
-    "currentArea": "bãi_rac",
-    "foundItems": [
+    "inventory": [
       {
         "name": "Dây Điện",
         "icon": "🔌",
@@ -48,11 +24,35 @@
         "foundTime": 1764928884818
       }
     ],
+    "stats": {
+      "itemsFound": 42,
+      "robberies": 0,
+      "timesRobbed": 8,
+      "coinsEarned": 1248,
+      "playTime": 60
+    },
+    "upgrades": {
+      "powerLevel": 2,
+      "defenseLevel": 2,
+      "healthLevel": 1
+    },
+    "items": {
+      "trap": 0,
+      "cloak": 0
+    }
+  },
+  "gameState": {
+    "currentScreen": "scavenge-screen",
+    "isScavenging": false,
+    "scavengeStartTime": 1764926874238,
+    "scavengeElapsedTime": 13162,
+    "currentArea": "bãi_rac",
+    "foundItems": [],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764930837091,
+  "timestamp": 1764930847137,
   "version": "1.0"
 }
