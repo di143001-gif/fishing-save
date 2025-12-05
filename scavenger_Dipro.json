@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 37,
+      "itemsFound": 39,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 1164,
@@ -39,6 +39,20 @@
         "value": 20,
         "rarity": "common",
         "foundTime": 1764926904573
+      },
+      {
+        "name": "Sắt Vụn",
+        "icon": "🔩",
+        "value": 64,
+        "rarity": "common",
+        "foundTime": 1764928884818
+      },
+      {
+        "name": "Điện Thoại Cũ",
+        "icon": "📱",
+        "value": 352,
+        "rarity": "rare",
+        "foundTime": 1764928915151
       }
     ],
     "lastRobberyTime": 0,
@@ -46,6 +60,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764928875000,
+  "timestamp": 1764928915162,
   "version": "1.0"
 }
