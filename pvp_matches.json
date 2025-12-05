@@ -207,5 +207,37 @@
     "endTime": 1764975927471,
     "winner": "Aaa",
     "result": "win"
+  },
+  {
+    "matchId": "match_1764975939504_p28dkfkcc",
+    "player1": "Aaa",
+    "player2": "Dipro",
+    "player1Data": {
+      "playerId": "Aaa",
+      "username": "Aaa",
+      "level": 2,
+      "power": 12,
+      "defense": 6,
+      "pvpPoints": 1075,
+      "health": 110,
+      "maxHealth": 110,
+      "joinTime": 1764975935297,
+      "status": "waiting"
+    },
+    "player2Data": {
+      "playerId": "Dipro",
+      "username": "Dipro",
+      "level": 2,
+      "power": 17,
+      "defense": 11,
+      "pvpPoints": null,
+      "health": 110,
+      "maxHealth": 110,
+      "joinTime": 1764973745628,
+      "status": "waiting"
+    },
+    "status": "matched",
+    "createdTime": 1764975939504,
+    "lastUpdate": 1764975939505
   }
 ]
