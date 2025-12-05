@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "playerId": "Aaa",
+    "username": "Aaa",
+    "level": 2,
+    "power": 12,
+    "defense": 6,
+    "pvpPoints": 1100,
+    "health": 110,
+    "maxHealth": 110,
+    "joinTime": 1764975994162,
+    "status": "waiting"
+  }
+]
