@@ -197,8 +197,9 @@
       "joinTime": 1764973745628,
       "status": "waiting"
     },
-    "status": "matched",
+    "status": "started",
     "createdTime": 1764975883435,
-    "lastUpdate": 1764975883435
+    "lastUpdate": 1764975883435,
+    "startTime": 1764975895304
   }
 ]
