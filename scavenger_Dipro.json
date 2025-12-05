@@ -14,7 +14,7 @@
       "robberies": 0,
       "timesRobbed": 9,
       "coinsEarned": 1532,
-      "playTime": 72,
+      "playTime": 74,
       "pvpWins": null,
       "totalBattles": null
     },
@@ -29,10 +29,10 @@
     },
     "pvpPoints": null,
     "pvpRank": "Đồng",
-    "lastLogin": 1764945464637
+    "lastLogin": 1764947142823
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "scavenge-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764926874238,
     "scavengeElapsedTime": 13162,
@@ -45,6 +45,6 @@
     "isInPVPQueue": false,
     "isInMatchmaking": false
   },
-  "timestamp": 1764945464640,
+  "timestamp": 1764947142823,
   "version": "3.0"
 }
