@@ -4,7 +4,7 @@
     "level": 1,
     "exp": 0,
     "coins": 566,
-    "health": 80,
+    "health": 70,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
@@ -12,7 +12,7 @@
     "stats": {
       "itemsFound": 13,
       "robberies": 0,
-      "timesRobbed": 1,
+      "timesRobbed": 2,
       "coinsEarned": 566,
       "playTime": 18
     },
@@ -39,20 +39,6 @@
         "value": 10,
         "rarity": "common",
         "foundTime": 1764898512921
-      },
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 16,
-        "rarity": "common",
-        "foundTime": 1764898542915
-      },
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 31,
-        "rarity": "common",
-        "foundTime": 1764899142762
       }
     ],
     "lastRobberyTime": 0,
@@ -60,6 +46,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900021457,
+  "timestamp": 1764900036746,
   "version": "1.0"
 }
