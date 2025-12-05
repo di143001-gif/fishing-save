@@ -14,7 +14,7 @@
       "robberies": 0,
       "timesRobbed": 0,
       "coinsEarned": 566,
-      "playTime": 4
+      "playTime": 6
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,7 +27,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "main-menu",
     "isScavenging": false,
     "scavengeStartTime": 1764896405042,
     "scavengeElapsedTime": 1730,
@@ -38,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764898143090,
+  "timestamp": 1764898176920,
   "version": "1.0"
 }
