@@ -4,7 +4,7 @@
     "level": 1,
     "exp": 50,
     "coins": 566,
-    "health": 50,
+    "health": 30,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
@@ -12,7 +12,7 @@
     "stats": {
       "itemsFound": 20,
       "robberies": 0,
-      "timesRobbed": 4,
+      "timesRobbed": 5,
       "coinsEarned": 566,
       "playTime": 24
     },
@@ -39,13 +39,6 @@
         "value": 10,
         "rarity": "common",
         "foundTime": 1764898512921
-      },
-      {
-        "name": "Ổ Khóa Cổ",
-        "icon": "🔐",
-        "value": 360,
-        "rarity": "rare",
-        "foundTime": 1764900042725
       }
     ],
     "lastRobberyTime": 0,
@@ -53,6 +46,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900627345,
+  "timestamp": 1764900631462,
   "version": "1.0"
 }
