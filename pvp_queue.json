@@ -10,5 +10,17 @@
     "maxHealth": 110,
     "joinTime": 1764975994162,
     "status": "waiting"
+  },
+  {
+    "playerId": "Dipro",
+    "username": "Dipro",
+    "level": 2,
+    "power": 17,
+    "defense": 11,
+    "pvpPoints": 50,
+    "health": 110,
+    "maxHealth": 110,
+    "joinTime": 1764976002357,
+    "status": "waiting"
   }
 ]
