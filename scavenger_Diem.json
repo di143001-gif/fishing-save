@@ -2,8 +2,8 @@
   "playerData": {
     "username": "Diem",
     "level": 1,
-    "exp": 0,
-    "coins": 1000,
+    "exp": 10,
+    "coins": 1020,
     "health": 100,
     "maxHealth": 100,
     "power": 10,
@@ -11,12 +11,12 @@
     "inventory": [],
     "stats": {
       "itemsFound": 0,
-      "coinsEarned": 0,
+      "coinsEarned": 20,
       "playTime": 0,
       "pvpWins": 0,
-      "pvpLosses": 0,
+      "pvpLosses": 1,
       "pvpDraws": 0,
-      "totalBattles": 0
+      "totalBattles": 1
     },
     "upgrades": {
       "powerLevel": 1,
@@ -28,12 +28,12 @@
       "damage_boost": 0,
       "revive": 0
     },
-    "pvpPoints": 1000,
+    "pvpPoints": 985,
     "pvpRank": "Đồng",
-    "lastLogin": 1764948041865
+    "lastLogin": 1764948097916
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pvp-battle-screen",
     "isScavenging": false,
     "scavengeStartTime": 0,
     "scavengeElapsedTime": 0,
@@ -43,6 +43,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764948041865,
+  "timestamp": 1764948097916,
   "version": "3.0"
 }
