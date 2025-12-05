@@ -5,10 +5,10 @@
     "level": 2,
     "power": 17,
     "defense": 11,
-    "pvpPoints": null,
+    "pvpPoints": 50,
     "health": 110,
     "maxHealth": 110,
-    "joinTime": 1764973745628,
+    "joinTime": 1764975942173,
     "status": "waiting"
   },
   {
