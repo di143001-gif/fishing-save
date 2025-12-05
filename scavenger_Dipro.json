@@ -3,25 +3,17 @@
     "username": "Dipro",
     "level": 1,
     "exp": 50,
-    "coins": 576,
-    "health": 30,
+    "coins": 586,
+    "health": 31,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
-    "inventory": [
-      {
-        "name": "Chai Nhựa",
-        "icon": "🥤",
-        "value": 10,
-        "rarity": "common",
-        "foundTime": 1764898512921
-      }
-    ],
+    "inventory": [],
     "stats": {
       "itemsFound": 20,
       "robberies": 0,
       "timesRobbed": 5,
-      "coinsEarned": 576,
+      "coinsEarned": 586,
       "playTime": 26
     },
     "upgrades": {
@@ -35,7 +27,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "scavenge-screen",
+    "currentScreen": "inventory-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764898481977,
     "scavengeElapsedTime": 3885,
@@ -46,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900637374,
+  "timestamp": 1764900650483,
   "version": "1.0"
 }
