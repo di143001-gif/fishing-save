@@ -4,7 +4,7 @@
     "level": 1,
     "exp": 50,
     "coins": 606,
-    "health": 33,
+    "health": 41,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
@@ -36,7 +36,7 @@
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 606,
-      "playTime": 34
+      "playTime": 36
     },
     "upgrades": {
       "powerLevel": 2,
@@ -49,7 +49,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "scavenge-screen",
+    "currentScreen": "main-menu",
     "isScavenging": false,
     "scavengeStartTime": 1764920922926,
     "scavengeElapsedTime": 6159,
@@ -60,6 +60,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764923194720,
+  "timestamp": 1764923772843,
   "version": "1.0"
 }
