@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 13,
+      "itemsFound": 14,
       "robberies": 0,
       "timesRobbed": 2,
       "coinsEarned": 566,
@@ -39,6 +39,13 @@
         "value": 10,
         "rarity": "common",
         "foundTime": 1764898512921
+      },
+      {
+        "name": "Ổ Khóa Cổ",
+        "icon": "🔐",
+        "value": 360,
+        "rarity": "rare",
+        "foundTime": 1764900042725
       }
     ],
     "lastRobberyTime": 0,
@@ -46,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900036746,
+  "timestamp": 1764900042725,
   "version": "1.0"
 }
