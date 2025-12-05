@@ -4,15 +4,15 @@
     "level": 1,
     "exp": 0,
     "coins": 566,
-    "health": 70,
+    "health": 50,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 19,
+      "itemsFound": 20,
       "robberies": 0,
-      "timesRobbed": 3,
+      "timesRobbed": 4,
       "coinsEarned": 566,
       "playTime": 24
     },
@@ -46,13 +46,6 @@
         "value": 360,
         "rarity": "rare",
         "foundTime": 1764900042725
-      },
-      {
-        "name": "Chai Nhựa",
-        "icon": "🥤",
-        "value": 36,
-        "rarity": "common",
-        "foundTime": 1764900072725
       }
     ],
     "lastRobberyTime": 0,
@@ -60,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900601567,
+  "timestamp": 1764900617805,
   "version": "1.0"
 }
