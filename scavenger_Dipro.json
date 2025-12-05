@@ -10,11 +10,11 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 33,
+      "itemsFound": 34,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 898,
-      "playTime": 46
+      "playTime": 48
     },
     "upgrades": {
       "powerLevel": 2,
@@ -46,6 +46,13 @@
         "value": 11,
         "rarity": "common",
         "foundTime": 1764926277197
+      },
+      {
+        "name": "Dây Điện",
+        "icon": "🔌",
+        "value": 46,
+        "rarity": "common",
+        "foundTime": 1764926307195
       }
     ],
     "lastRobberyTime": 0,
@@ -53,6 +60,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764926277199,
+  "timestamp": 1764926772419,
   "version": "1.0"
 }
