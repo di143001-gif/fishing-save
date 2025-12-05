@@ -97,9 +97,9 @@
       "status": "waiting"
     },
     "status": "pending",
-    "player1Accepted": false,
+    "player1Accepted": true,
     "player2Accepted": false,
     "createdTime": 1764973196476,
-    "lastUpdate": 1764973196476
+    "lastUpdate": 1764973204319
   }
 ]
