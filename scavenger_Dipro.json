@@ -12,7 +12,7 @@
     "stats": {
       "itemsFound": 19,
       "robberies": 0,
-      "timesRobbed": 2,
+      "timesRobbed": 3,
       "coinsEarned": 566,
       "playTime": 22
     },
@@ -53,34 +53,6 @@
         "value": 36,
         "rarity": "common",
         "foundTime": 1764900072725
-      },
-      {
-        "name": "Sổ Tay Bí Mật",
-        "icon": "📖",
-        "value": 2960,
-        "rarity": "epic",
-        "foundTime": 1764900102663
-      },
-      {
-        "name": "Điện Thoại Cũ",
-        "icon": "📱",
-        "value": 296,
-        "rarity": "rare",
-        "foundTime": 1764900132663
-      },
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 63,
-        "rarity": "common",
-        "foundTime": 1764900432044
-      },
-      {
-        "name": "Sổ Tay Bí Mật",
-        "icon": "📖",
-        "value": 3440,
-        "rarity": "epic",
-        "foundTime": 1764900462044
       }
     ],
     "lastRobberyTime": 0,
@@ -88,6 +60,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900462046,
+  "timestamp": 1764900475046,
   "version": "1.0"
 }
