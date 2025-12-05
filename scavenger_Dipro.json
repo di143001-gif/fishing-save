@@ -3,17 +3,25 @@
     "username": "Dipro",
     "level": 2,
     "exp": 50,
-    "coins": 994,
+    "coins": 1074,
     "health": 110,
     "maxHealth": 110,
     "power": 17,
     "defense": 11,
-    "inventory": [],
+    "inventory": [
+      {
+        "name": "Điện Thoại Cũ",
+        "icon": "📱",
+        "value": 80,
+        "rarity": "rare",
+        "foundTime": 1764973344229
+      }
+    ],
     "stats": {
-      "itemsFound": 45,
+      "itemsFound": 46,
       "robberies": 0,
       "timesRobbed": 9,
-      "coinsEarned": 1894,
+      "coinsEarned": 1974,
       "playTime": 86,
       "pvpWins": null,
       "totalBattles": null
@@ -29,13 +37,13 @@
     },
     "pvpPoints": null,
     "pvpRank": "Đồng",
-    "lastLogin": 1764973274324
+    "lastLogin": 1764973348074
   },
   "gameState": {
-    "currentScreen": "matchmaking-screen",
+    "currentScreen": "scavenge-screen",
     "isScavenging": false,
-    "scavengeStartTime": 1764947143178,
-    "scavengeElapsedTime": 13262,
+    "scavengeStartTime": 1764973314224,
+    "scavengeElapsedTime": 13295,
     "currentArea": "bãi_rac",
     "foundItems": [],
     "lastRobberyTime": 0,
@@ -43,9 +51,9 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657,
     "isInPVPQueue": false,
-    "isInMatchmaking": true,
+    "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764973274324,
+  "timestamp": 1764973348074,
   "version": "3.0"
 }
