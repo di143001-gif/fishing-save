@@ -59,9 +59,9 @@
       "joinTime": 1764948049100,
       "status": "waiting"
     },
-    "status": "started",
+    "status": "accepted",
     "createdTime": 1764948060247,
-    "lastUpdate": 1764948065209,
+    "lastUpdate": 1764948075162,
     "startTime": 1764948068928
   }
 ]
