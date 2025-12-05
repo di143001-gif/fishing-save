@@ -4,7 +4,7 @@
     "level": 2,
     "exp": 50,
     "coins": 1732,
-    "health": 107.69999999999996,
+    "health": 110,
     "maxHealth": 110,
     "power": 17,
     "defense": 11,
@@ -14,7 +14,7 @@
       "robberies": 0,
       "timesRobbed": 9,
       "coinsEarned": 1532,
-      "playTime": 64,
+      "playTime": 66,
       "pvpWins": null,
       "totalBattles": null
     },
@@ -28,10 +28,11 @@
       "cloak": 0
     },
     "pvpPoints": null,
-    "pvpRank": "Đồng"
+    "pvpRank": "Đồng",
+    "lastLogin": 1764945162872
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "matchmaking-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764926874238,
     "scavengeElapsedTime": 13162,
@@ -41,8 +42,9 @@
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657,
-    "isInPVPQueue": false
+    "isInPVPQueue": false,
+    "isInMatchmaking": true
   },
-  "timestamp": 1764944975869,
-  "version": "2.0"
+  "timestamp": 1764945162872,
+  "version": "3.0"
 }
