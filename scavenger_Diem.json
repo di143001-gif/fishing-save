@@ -1,0 +1,48 @@
+{
+  "playerData": {
+    "username": "Diem",
+    "level": 1,
+    "exp": 0,
+    "coins": 1000,
+    "health": 100,
+    "maxHealth": 100,
+    "power": 10,
+    "defense": 5,
+    "inventory": [],
+    "stats": {
+      "itemsFound": 0,
+      "coinsEarned": 0,
+      "playTime": 0,
+      "pvpWins": 0,
+      "pvpLosses": 0,
+      "pvpDraws": 0,
+      "totalBattles": 0
+    },
+    "upgrades": {
+      "powerLevel": 1,
+      "defenseLevel": 1,
+      "healthLevel": 1
+    },
+    "pvpItems": {
+      "health_potion": 0,
+      "damage_boost": 0,
+      "revive": 0
+    },
+    "pvpPoints": 1000,
+    "pvpRank": "Đồng",
+    "lastLogin": 1764948041865
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "isScavenging": false,
+    "scavengeStartTime": 0,
+    "scavengeElapsedTime": 0,
+    "currentArea": "bãi_rac",
+    "foundItems": [],
+    "lastSaveTime": 1764948041864,
+    "isInMatchmaking": false,
+    "currentMatchId": null
+  },
+  "timestamp": 1764948041865,
+  "version": "3.0"
+}
