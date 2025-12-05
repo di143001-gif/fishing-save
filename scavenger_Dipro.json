@@ -4,7 +4,7 @@
     "level": 1,
     "exp": 0,
     "coins": 566,
-    "health": 100,
+    "health": 80,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
@@ -12,7 +12,7 @@
     "stats": {
       "itemsFound": 13,
       "robberies": 0,
-      "timesRobbed": 0,
+      "timesRobbed": 1,
       "coinsEarned": 566,
       "playTime": 18
     },
@@ -53,41 +53,6 @@
         "value": 31,
         "rarity": "common",
         "foundTime": 1764899142762
-      },
-      {
-        "name": "Đồng Hồ Hỏng",
-        "icon": "⌚",
-        "value": 105,
-        "rarity": "rare",
-        "foundTime": 1764899172693
-      },
-      {
-        "name": "Vỏ Lon",
-        "icon": "🥫",
-        "value": 17,
-        "rarity": "common",
-        "foundTime": 1764899202693
-      },
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 46,
-        "rarity": "common",
-        "foundTime": 1764899772730
-      },
-      {
-        "name": "Đồng Hồ Hỏng",
-        "icon": "⌚",
-        "value": 160,
-        "rarity": "rare",
-        "foundTime": 1764899802668
-      },
-      {
-        "name": "Dây Điện",
-        "icon": "🔌",
-        "value": 64,
-        "rarity": "common",
-        "foundTime": 1764899832663
       }
     ],
     "lastRobberyTime": 0,
@@ -95,6 +60,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900015184,
+  "timestamp": 1764900021457,
   "version": "1.0"
 }
