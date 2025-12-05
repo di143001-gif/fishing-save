@@ -400,9 +400,12 @@
       "joinTime": 1764976007282,
       "status": "waiting"
     },
-    "status": "started",
+    "status": "finished",
     "createdTime": 1764976011499,
     "lastUpdate": 1764976011499,
-    "startTime": 1764976021047
+    "startTime": 1764976021047,
+    "endTime": 1764976049132,
+    "winner": "Dipro",
+    "result": "win"
   }
 ]
