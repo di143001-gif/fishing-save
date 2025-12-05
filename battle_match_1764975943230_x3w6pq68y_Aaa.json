@@ -4,7 +4,7 @@
   "playerHealth": 110,
   "opponentHealth": 110,
   "battleTurn": 0,
-  "lastAction": 1764975950465,
-  "isPlayerTurn": true,
-  "timestamp": 1764975955280
+  "lastAction": 1764975955727,
+  "isPlayerTurn": false,
+  "timestamp": 1764975958280
 }
