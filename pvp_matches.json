@@ -27,9 +27,10 @@
       "joinTime": 1764948049100,
       "status": "waiting"
     },
-    "status": "accepted",
+    "status": "started",
     "createdTime": 1764948057215,
-    "lastUpdate": 1764948108207
+    "lastUpdate": 1764948108207,
+    "startTime": 1764948112099
   },
   {
     "matchId": "match_1764948060247_w29r0tnli",
