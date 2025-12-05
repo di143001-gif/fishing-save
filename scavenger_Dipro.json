@@ -3,53 +3,17 @@
     "username": "Dipro",
     "level": 1,
     "exp": 0,
-    "coins": 283,
+    "coins": 566,
     "health": 100,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
-    "inventory": [
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 15,
-        "rarity": "common",
-        "foundTime": 1764889385677
-      },
-      {
-        "name": "Vỏ Lon",
-        "icon": "🥫",
-        "value": 8,
-        "rarity": "common",
-        "foundTime": 1764889415668
-      },
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 15,
-        "rarity": "common",
-        "foundTime": 1764896435076
-      },
-      {
-        "name": "Đồng Hồ Hỏng",
-        "icon": "⌚",
-        "value": 55,
-        "rarity": "rare",
-        "foundTime": 1764896465073
-      },
-      {
-        "name": "Đồng Hồ Hỏng",
-        "icon": "⌚",
-        "value": 190,
-        "rarity": "rare",
-        "foundTime": 1764898115893
-      }
-    ],
+    "inventory": [],
     "stats": {
       "itemsFound": 5,
       "robberies": 0,
       "timesRobbed": 0,
-      "coinsEarned": 283,
+      "coinsEarned": 566,
       "playTime": 4
     },
     "upgrades": {
@@ -63,7 +27,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "scavenge-screen",
+    "currentScreen": "inventory-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764896405042,
     "scavengeElapsedTime": 1730,
@@ -74,6 +38,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764898128613,
+  "timestamp": 1764898143090,
   "version": "1.0"
 }
