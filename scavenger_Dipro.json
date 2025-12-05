@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 25,
+      "itemsFound": 26,
       "robberies": 0,
       "timesRobbed": 5,
       "coinsEarned": 586,
@@ -67,6 +67,13 @@
         "value": 4300,
         "rarity": "epic",
         "foundTime": 1764922903349
+      },
+      {
+        "name": "Sắt Vụn",
+        "icon": "🔩",
+        "value": 67,
+        "rarity": "common",
+        "foundTime": 1764923023472
       }
     ],
     "lastRobberyTime": 0,
@@ -74,6 +81,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764922903358,
+  "timestamp": 1764923023476,
   "version": "1.0"
 }
