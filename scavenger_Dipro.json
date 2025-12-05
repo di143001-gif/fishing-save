@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 8,
+      "itemsFound": 10,
       "robberies": 0,
       "timesRobbed": 0,
       "coinsEarned": 566,
@@ -53,6 +53,20 @@
         "value": 31,
         "rarity": "common",
         "foundTime": 1764899142762
+      },
+      {
+        "name": "Đồng Hồ Hỏng",
+        "icon": "⌚",
+        "value": 105,
+        "rarity": "rare",
+        "foundTime": 1764899172693
+      },
+      {
+        "name": "Vỏ Lon",
+        "icon": "🥫",
+        "value": 17,
+        "rarity": "common",
+        "foundTime": 1764899202693
       }
     ],
     "lastRobberyTime": 0,
@@ -60,6 +74,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764899142774,
+  "timestamp": 1764899202700,
   "version": "1.0"
 }
