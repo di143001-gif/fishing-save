@@ -2,8 +2,8 @@
   "playerData": {
     "username": "Aaa",
     "level": 2,
-    "exp": 80,
-    "coins": 1560,
+    "exp": 140,
+    "coins": 1680,
     "health": 110,
     "maxHealth": 110,
     "power": 12,
@@ -11,12 +11,12 @@
     "inventory": [],
     "stats": {
       "itemsFound": 0,
-      "coinsEarned": 360,
+      "coinsEarned": 480,
       "playTime": 0,
-      "pvpWins": 3,
+      "pvpWins": 4,
       "pvpLosses": 0,
       "pvpDraws": 0,
-      "totalBattles": 3
+      "totalBattles": 4
     },
     "upgrades": {
       "powerLevel": 1,
@@ -28,9 +28,9 @@
       "damage_boost": 0,
       "revive": 0
     },
-    "pvpPoints": 1075,
+    "pvpPoints": 1100,
     "pvpRank": "Bạc",
-    "lastLogin": 1764975929433
+    "lastLogin": 1764975988085
   },
   "gameState": {
     "currentScreen": "pvp-battle-screen",
@@ -43,6 +43,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764975929433,
+  "timestamp": 1764975988085,
   "version": "3.0"
 }
