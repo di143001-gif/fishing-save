@@ -10,11 +10,11 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 5,
+      "itemsFound": 6,
       "robberies": 0,
       "timesRobbed": 0,
       "coinsEarned": 566,
-      "playTime": 8
+      "playTime": 10
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,17 +27,25 @@
     }
   },
   "gameState": {
-    "currentScreen": "main-menu",
-    "isScavenging": false,
-    "scavengeStartTime": 1764896405042,
+    "currentScreen": "scavenge-screen",
+    "isScavenging": true,
+    "scavengeStartTime": 1764898481977,
     "scavengeElapsedTime": 1730,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Chai Nhựa",
+        "icon": "🥤",
+        "value": 10,
+        "rarity": "common",
+        "foundTime": 1764898512921
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764898454550,
+  "timestamp": 1764898536917,
   "version": "1.0"
 }
