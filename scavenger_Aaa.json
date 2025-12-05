@@ -1,22 +1,22 @@
 {
   "playerData": {
     "username": "Aaa",
-    "level": 1,
-    "exp": 0,
-    "coins": 1000,
-    "health": 100,
-    "maxHealth": 100,
-    "power": 10,
-    "defense": 5,
+    "level": 2,
+    "exp": 80,
+    "coins": 1560,
+    "health": 110,
+    "maxHealth": 110,
+    "power": 12,
+    "defense": 6,
     "inventory": [],
     "stats": {
       "itemsFound": 0,
-      "coinsEarned": 0,
+      "coinsEarned": 360,
       "playTime": 0,
-      "pvpWins": 0,
+      "pvpWins": 3,
       "pvpLosses": 0,
       "pvpDraws": 0,
-      "totalBattles": 0
+      "totalBattles": 3
     },
     "upgrades": {
       "powerLevel": 1,
@@ -28,12 +28,12 @@
       "damage_boost": 0,
       "revive": 0
     },
-    "pvpPoints": 1000,
-    "pvpRank": "Đồng",
-    "lastLogin": 1764973182953
+    "pvpPoints": 1075,
+    "pvpRank": "Bạc",
+    "lastLogin": 1764975929433
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pvp-battle-screen",
     "isScavenging": false,
     "scavengeStartTime": 0,
     "scavengeElapsedTime": 0,
@@ -43,6 +43,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764973182953,
+  "timestamp": 1764975929433,
   "version": "3.0"
 }
