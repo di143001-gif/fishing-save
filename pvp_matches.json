@@ -164,10 +164,13 @@
       "joinTime": 1764973745628,
       "status": "waiting"
     },
-    "status": "started",
+    "status": "finished",
     "createdTime": 1764975879197,
     "lastUpdate": 1764975879197,
-    "startTime": 1764975892630
+    "startTime": 1764975892630,
+    "endTime": 1764975933278,
+    "winner": "Dipro",
+    "result": "win"
   },
   {
     "matchId": "match_1764975883435_zefscaj1e",
