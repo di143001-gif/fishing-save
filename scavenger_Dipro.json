@@ -10,7 +10,7 @@
     "defense": 11,
     "inventory": [],
     "stats": {
-      "itemsFound": 42,
+      "itemsFound": 44,
       "robberies": 0,
       "timesRobbed": 9,
       "coinsEarned": 1532,
@@ -29,15 +29,30 @@
     },
     "pvpPoints": null,
     "pvpRank": "Đồng",
-    "lastLogin": 1764947142823
+    "lastLogin": 1764947203933
   },
   "gameState": {
     "currentScreen": "scavenge-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764926874238,
+    "isScavenging": true,
+    "scavengeStartTime": 1764947143178,
     "scavengeElapsedTime": 13162,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Vỏ Lon",
+        "icon": "🥫",
+        "value": 8,
+        "rarity": "common",
+        "foundTime": 1764947173934
+      },
+      {
+        "name": "Máy Tính Xách Tay",
+        "icon": "💻",
+        "value": 165,
+        "rarity": "rare",
+        "foundTime": 1764947203925
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
@@ -45,6 +60,6 @@
     "isInPVPQueue": false,
     "isInMatchmaking": false
   },
-  "timestamp": 1764947142823,
+  "timestamp": 1764947203933,
   "version": "3.0"
 }
