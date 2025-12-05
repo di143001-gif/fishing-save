@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 29,
+      "itemsFound": 31,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 872,
@@ -32,12 +32,27 @@
     "scavengeStartTime": 1764924358494,
     "scavengeElapsedTime": 6716,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Vỏ Lon",
+        "icon": "🥫",
+        "value": 8,
+        "rarity": "common",
+        "foundTime": 1764924389211
+      },
+      {
+        "name": "Giấy Báo Cũ",
+        "icon": "📰",
+        "value": 5,
+        "rarity": "common",
+        "foundTime": 1764924419205
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764924367200,
+  "timestamp": 1764924419208,
   "version": "1.0"
 }
