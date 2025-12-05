@@ -164,9 +164,10 @@
       "joinTime": 1764973745628,
       "status": "waiting"
     },
-    "status": "matched",
+    "status": "started",
     "createdTime": 1764975879197,
-    "lastUpdate": 1764975879197
+    "lastUpdate": 1764975879197,
+    "startTime": 1764975888449
   },
   {
     "matchId": "match_1764975883435_zefscaj1e",
