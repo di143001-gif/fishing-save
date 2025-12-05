@@ -4,17 +4,17 @@
     "level": 1,
     "exp": 50,
     "coins": 898,
-    "health": 45,
+    "health": 46,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 31,
+      "itemsFound": 32,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 898,
-      "playTime": 42
+      "playTime": 44
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,17 +27,25 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764924358494,
+    "currentScreen": "scavenge-screen",
+    "isScavenging": true,
+    "scavengeStartTime": 1764925497123,
     "scavengeElapsedTime": 7844,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Chai Nhựa",
+        "icon": "🥤",
+        "value": 10,
+        "rarity": "common",
+        "foundTime": 1764925527184
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764925491541,
+  "timestamp": 1764925950565,
   "version": "1.0"
 }
