@@ -10,11 +10,11 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 22,
+      "itemsFound": 24,
       "robberies": 0,
       "timesRobbed": 5,
       "coinsEarned": 586,
-      "playTime": 26
+      "playTime": 28
     },
     "upgrades": {
       "powerLevel": 2,
@@ -46,6 +46,20 @@
         "value": 5,
         "rarity": "common",
         "foundTime": 1764920983219
+      },
+      {
+        "name": "Giấy Báo Cũ",
+        "icon": "📰",
+        "value": 5,
+        "rarity": "common",
+        "foundTime": 1764921013215
+      },
+      {
+        "name": "Sổ Tay Bí Mật",
+        "icon": "📖",
+        "value": 960,
+        "rarity": "epic",
+        "foundTime": 1764921073860
       }
     ],
     "lastRobberyTime": 0,
@@ -53,6 +67,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764920983220,
+  "timestamp": 1764921073874,
   "version": "1.0"
 }
