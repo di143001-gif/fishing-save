@@ -268,10 +268,13 @@
       "joinTime": 1764973745628,
       "status": "waiting"
     },
-    "status": "started",
+    "status": "finished",
     "createdTime": 1764975943230,
     "lastUpdate": 1764975943230,
-    "startTime": 1764975954461
+    "startTime": 1764975954461,
+    "endTime": 1764975986765,
+    "winner": "Aaa",
+    "result": "win"
   },
   {
     "matchId": "match_1764975945517_3u8u2x4mz",
