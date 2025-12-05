@@ -135,5 +135,37 @@
     "player2Accepted": false,
     "createdTime": 1764973241542,
     "lastUpdate": 1764973292166
+  },
+  {
+    "matchId": "match_1764975879197_xk59g8lbt",
+    "player1": "Aaa",
+    "player2": "Dipro",
+    "player1Data": {
+      "playerId": "Aaa",
+      "username": "Aaa",
+      "level": 1,
+      "power": 10,
+      "defense": 5,
+      "pvpPoints": 1000,
+      "health": 100,
+      "maxHealth": 100,
+      "joinTime": 1764975876437,
+      "status": "waiting"
+    },
+    "player2Data": {
+      "playerId": "Dipro",
+      "username": "Dipro",
+      "level": 2,
+      "power": 17,
+      "defense": 11,
+      "pvpPoints": null,
+      "health": 110,
+      "maxHealth": 110,
+      "joinTime": 1764973745628,
+      "status": "waiting"
+    },
+    "status": "matched",
+    "createdTime": 1764975879197,
+    "lastUpdate": 1764975879197
   }
 ]
