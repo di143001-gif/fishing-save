@@ -27,7 +27,7 @@
     "stats": {
       "itemsFound": 42,
       "robberies": 0,
-      "timesRobbed": 8,
+      "timesRobbed": 9,
       "coinsEarned": 1248,
       "playTime": 60
     },
@@ -42,7 +42,7 @@
     }
   },
   "gameState": {
-    "currentScreen": "scavenge-screen",
+    "currentScreen": "main-menu",
     "isScavenging": false,
     "scavengeStartTime": 1764926874238,
     "scavengeElapsedTime": 13162,
@@ -53,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764930847137,
+  "timestamp": 1764930850578,
   "version": "1.0"
 }
