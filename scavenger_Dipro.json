@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 34,
+      "itemsFound": 36,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 1032,
@@ -32,12 +32,27 @@
     "scavengeStartTime": 1764926787744,
     "scavengeElapsedTime": 9121,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Đồng Hồ Hỏng",
+        "icon": "⌚",
+        "value": 50,
+        "rarity": "rare",
+        "foundTime": 1764926818574
+      },
+      {
+        "name": "Sắt Vụn",
+        "icon": "🔩",
+        "value": 16,
+        "rarity": "common",
+        "foundTime": 1764926848573
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764926797575,
+  "timestamp": 1764926848573,
   "version": "1.0"
 }
