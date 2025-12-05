@@ -10,7 +10,7 @@
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 24,
+      "itemsFound": 25,
       "robberies": 0,
       "timesRobbed": 5,
       "coinsEarned": 586,
@@ -60,6 +60,13 @@
         "value": 960,
         "rarity": "epic",
         "foundTime": 1764921073860
+      },
+      {
+        "name": "Kim Cương Nhỏ",
+        "icon": "💎",
+        "value": 4300,
+        "rarity": "epic",
+        "foundTime": 1764922903349
       }
     ],
     "lastRobberyTime": 0,
@@ -67,6 +74,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764922897194,
+  "timestamp": 1764922903358,
   "version": "1.0"
 }
