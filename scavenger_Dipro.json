@@ -4,13 +4,13 @@
     "level": 1,
     "exp": 50,
     "coins": 586,
-    "health": 32,
+    "health": 33,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 20,
+      "itemsFound": 22,
       "robberies": 0,
       "timesRobbed": 5,
       "coinsEarned": 586,
@@ -28,16 +28,31 @@
   },
   "gameState": {
     "currentScreen": "scavenge-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764900660879,
+    "isScavenging": true,
+    "scavengeStartTime": 1764920922926,
     "scavengeElapsedTime": 3889,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Chai Nhựa",
+        "icon": "🥤",
+        "value": 10,
+        "rarity": "common",
+        "foundTime": 1764920952991
+      },
+      {
+        "name": "Giấy Báo Cũ",
+        "icon": "📰",
+        "value": 5,
+        "rarity": "common",
+        "foundTime": 1764920983219
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764900664968,
+  "timestamp": 1764920983220,
   "version": "1.0"
 }
