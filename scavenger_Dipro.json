@@ -4,17 +4,17 @@
     "level": 1,
     "exp": 50,
     "coins": 1164,
-    "health": 48,
+    "health": 49,
     "maxHealth": 100,
     "power": 15,
     "defense": 10,
     "inventory": [],
     "stats": {
-      "itemsFound": 36,
+      "itemsFound": 37,
       "robberies": 0,
       "timesRobbed": 6,
       "coinsEarned": 1164,
-      "playTime": 50
+      "playTime": 52
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,17 +27,25 @@
     }
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764926787744,
+    "currentScreen": "scavenge-screen",
+    "isScavenging": true,
+    "scavengeStartTime": 1764926874238,
     "scavengeElapsedTime": 9190,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Dây Điện",
+        "icon": "🔌",
+        "value": 20,
+        "rarity": "common",
+        "foundTime": 1764926904573
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764926863494,
+  "timestamp": 1764926927953,
   "version": "1.0"
 }
