@@ -14,7 +14,7 @@
       "robberies": 0,
       "timesRobbed": 0,
       "coinsEarned": 566,
-      "playTime": 10
+      "playTime": 12
     },
     "upgrades": {
       "powerLevel": 2,
@@ -53,6 +53,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764898542917,
+  "timestamp": 1764899122647,
   "version": "1.0"
 }
