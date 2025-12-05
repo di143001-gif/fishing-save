@@ -12,7 +12,7 @@
     "stats": {
       "itemsFound": 26,
       "robberies": 0,
-      "timesRobbed": 5,
+      "timesRobbed": 6,
       "coinsEarned": 586,
       "playTime": 34
     },
@@ -53,27 +53,6 @@
         "value": 5,
         "rarity": "common",
         "foundTime": 1764921013215
-      },
-      {
-        "name": "Sổ Tay Bí Mật",
-        "icon": "📖",
-        "value": 960,
-        "rarity": "epic",
-        "foundTime": 1764921073860
-      },
-      {
-        "name": "Kim Cương Nhỏ",
-        "icon": "💎",
-        "value": 4300,
-        "rarity": "epic",
-        "foundTime": 1764922903349
-      },
-      {
-        "name": "Sắt Vụn",
-        "icon": "🔩",
-        "value": 67,
-        "rarity": "common",
-        "foundTime": 1764923023472
       }
     ],
     "lastRobberyTime": 0,
@@ -81,6 +60,6 @@
     "dailyRobberies": 0,
     "lastSaveTime": 1764889257657
   },
-  "timestamp": 1764923189339,
+  "timestamp": 1764923192736,
   "version": "1.0"
 }
