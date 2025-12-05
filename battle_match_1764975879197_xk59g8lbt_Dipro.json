@@ -2,9 +2,9 @@
   "matchId": "match_1764975879197_xk59g8lbt",
   "playerId": "Dipro",
   "playerHealth": 110,
-  "opponentHealth": 100,
-  "battleTurn": 0,
-  "lastAction": 1764975894522,
-  "isPlayerTurn": true,
-  "timestamp": 1764975899280
+  "opponentHealth": 83,
+  "battleTurn": 1,
+  "lastAction": 1764975900281,
+  "isPlayerTurn": false,
+  "timestamp": 1764975901280
 }
