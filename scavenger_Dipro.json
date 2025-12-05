@@ -3,17 +3,39 @@
     "username": "Dipro",
     "level": 2,
     "exp": 50,
-    "coins": 1732,
+    "coins": 1913,
     "health": 110,
     "maxHealth": 110,
     "power": 17,
     "defense": 11,
-    "inventory": [],
+    "inventory": [
+      {
+        "name": "Vỏ Lon",
+        "icon": "🥫",
+        "value": 8,
+        "rarity": "common",
+        "foundTime": 1764947173934
+      },
+      {
+        "name": "Máy Tính Xách Tay",
+        "icon": "💻",
+        "value": 165,
+        "rarity": "rare",
+        "foundTime": 1764947203925
+      },
+      {
+        "name": "Vỏ Lon",
+        "icon": "🥫",
+        "value": 8,
+        "rarity": "common",
+        "foundTime": 1764947233620
+      }
+    ],
     "stats": {
-      "itemsFound": 44,
+      "itemsFound": 45,
       "robberies": 0,
       "timesRobbed": 9,
-      "coinsEarned": 1532,
+      "coinsEarned": 1713,
       "playTime": 74,
       "pvpWins": null,
       "totalBattles": null
@@ -29,30 +51,15 @@
     },
     "pvpPoints": null,
     "pvpRank": "Đồng",
-    "lastLogin": 1764947203933
+    "lastLogin": 1764947243630
   },
   "gameState": {
     "currentScreen": "scavenge-screen",
-    "isScavenging": true,
+    "isScavenging": false,
     "scavengeStartTime": 1764947143178,
-    "scavengeElapsedTime": 13162,
+    "scavengeElapsedTime": 13262,
     "currentArea": "bãi_rac",
-    "foundItems": [
-      {
-        "name": "Vỏ Lon",
-        "icon": "🥫",
-        "value": 8,
-        "rarity": "common",
-        "foundTime": 1764947173934
-      },
-      {
-        "name": "Máy Tính Xách Tay",
-        "icon": "💻",
-        "value": 165,
-        "rarity": "rare",
-        "foundTime": 1764947203925
-      }
-    ],
+    "foundItems": [],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
@@ -60,6 +67,6 @@
     "isInPVPQueue": false,
     "isInMatchmaking": false
   },
-  "timestamp": 1764947203933,
+  "timestamp": 1764947243630,
   "version": "3.0"
 }
