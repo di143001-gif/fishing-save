@@ -2,8 +2,8 @@
   "playerData": {
     "username": "Dipro",
     "level": 3,
-    "exp": 150,
-    "coins": 9564,
+    "exp": 280,
+    "coins": 9824,
     "health": 170,
     "maxHealth": 170,
     "power": 69,
@@ -13,11 +13,11 @@
       "itemsFound": 48,
       "robberies": 0,
       "timesRobbed": 9,
-      "coinsEarned": 20264,
+      "coinsEarned": 20524,
       "playTime": 92,
-      "pvpWins": 5,
-      "totalBattles": 6,
-      "pvpLosses": null
+      "pvpWins": 7,
+      "totalBattles": 9,
+      "pvpLosses": 1
     },
     "upgrades": {
       "powerLevel": 12,
@@ -28,12 +28,12 @@
       "trap": 0,
       "cloak": 0
     },
-    "pvpPoints": 110,
+    "pvpPoints": 145,
     "pvpRank": "Đồng",
-    "lastLogin": 1764994416010
+    "lastLogin": 1765057046116
   },
   "gameState": {
-    "currentScreen": "shop-screen",
+    "currentScreen": "pvp-battle-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764994245917,
     "scavengeElapsedTime": 13417,
@@ -47,6 +47,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764994416010,
+  "timestamp": 1765057046117,
   "version": "3.0"
 }
