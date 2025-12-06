@@ -308,10 +308,13 @@
       "joinTime": 1764975935297,
       "status": "waiting"
     },
-    "status": "started",
+    "status": "finished",
     "createdTime": 1764975945517,
     "lastUpdate": 1764975945517,
-    "startTime": 1765057003766
+    "startTime": 1765057003766,
+    "endTime": 1765057044639,
+    "winner": "Aaa",
+    "result": "loss"
   },
   {
     "matchId": "match_1764976005449_oherc0clo",
