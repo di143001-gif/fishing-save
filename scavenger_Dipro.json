@@ -2,8 +2,8 @@
   "playerData": {
     "username": "Dipro",
     "level": 3,
-    "exp": 140,
-    "coins": 2034,
+    "exp": 150,
+    "coins": 2054,
     "health": 120,
     "maxHealth": 120,
     "power": 19,
@@ -13,10 +13,11 @@
       "itemsFound": 46,
       "robberies": 0,
       "timesRobbed": 9,
-      "coinsEarned": 2634,
+      "coinsEarned": 2654,
       "playTime": 92,
       "pvpWins": 5,
-      "totalBattles": 5
+      "totalBattles": 6,
+      "pvpLosses": null
     },
     "upgrades": {
       "powerLevel": 2,
@@ -27,9 +28,9 @@
       "trap": 0,
       "cloak": 0
     },
-    "pvpPoints": 125,
+    "pvpPoints": 110,
     "pvpRank": "Đồng",
-    "lastLogin": 1764976051245
+    "lastLogin": 1764994237879
   },
   "gameState": {
     "currentScreen": "pvp-battle-screen",
@@ -46,6 +47,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764976051245,
+  "timestamp": 1764994237879,
   "version": "3.0"
 }
