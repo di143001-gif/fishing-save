@@ -10,7 +10,7 @@
     "defense": 12,
     "inventory": [],
     "stats": {
-      "itemsFound": 46,
+      "itemsFound": 48,
       "robberies": 0,
       "timesRobbed": 9,
       "coinsEarned": 2654,
@@ -30,15 +30,30 @@
     },
     "pvpPoints": 110,
     "pvpRank": "Đồng",
-    "lastLogin": 1764994237879
+    "lastLogin": 1764994306598
   },
   "gameState": {
-    "currentScreen": "pvp-battle-screen",
-    "isScavenging": false,
-    "scavengeStartTime": 1764973314224,
+    "currentScreen": "scavenge-screen",
+    "isScavenging": true,
+    "scavengeStartTime": 1764994245917,
     "scavengeElapsedTime": 13295,
     "currentArea": "bãi_rac",
-    "foundItems": [],
+    "foundItems": [
+      {
+        "name": "Giấy Báo Cũ",
+        "icon": "📰",
+        "value": 5,
+        "rarity": "common",
+        "foundTime": 1764994276597
+      },
+      {
+        "name": "Bản Đồ Kho Báu",
+        "icon": "🗺️",
+        "value": 8800,
+        "rarity": "legendary",
+        "foundTime": 1764994306596
+      }
+    ],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
@@ -47,6 +62,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764994237879,
+  "timestamp": 1764994306598,
   "version": "3.0"
 }
