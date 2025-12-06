@@ -30,7 +30,7 @@
     },
     "pvpPoints": 145,
     "pvpRank": "Đồng",
-    "lastLogin": 1765057046116
+    "lastLogin": 1765057047967
   },
   "gameState": {
     "currentScreen": "pvp-battle-screen",
@@ -47,6 +47,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1765057046117,
+  "timestamp": 1765057047967,
   "version": "3.0"
 }
