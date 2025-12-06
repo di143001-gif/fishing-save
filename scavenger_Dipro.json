@@ -3,10 +3,10 @@
     "username": "Dipro",
     "level": 3,
     "exp": 150,
-    "coins": 19664,
+    "coins": 16064,
     "health": 120,
     "maxHealth": 120,
-    "power": 19,
+    "power": 24,
     "defense": 12,
     "inventory": [],
     "stats": {
@@ -20,7 +20,7 @@
       "pvpLosses": null
     },
     "upgrades": {
-      "powerLevel": 2,
+      "powerLevel": 3,
       "defenseLevel": 2,
       "healthLevel": 1
     },
@@ -30,10 +30,10 @@
     },
     "pvpPoints": 110,
     "pvpRank": "Đồng",
-    "lastLogin": 1764994386881
+    "lastLogin": 1764994403528
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "shop-screen",
     "isScavenging": false,
     "scavengeStartTime": 1764994245917,
     "scavengeElapsedTime": 13417,
@@ -47,6 +47,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764994386881,
+  "timestamp": 1764994403528,
   "version": "3.0"
 }
