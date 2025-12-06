@@ -308,9 +308,10 @@
       "joinTime": 1764975935297,
       "status": "waiting"
     },
-    "status": "matched",
+    "status": "started",
     "createdTime": 1764975945517,
-    "lastUpdate": 1764975945517
+    "lastUpdate": 1764975945517,
+    "startTime": 1765057003766
   },
   {
     "matchId": "match_1764976005449_oherc0clo",
