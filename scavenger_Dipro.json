@@ -3,7 +3,7 @@
     "username": "Dipro",
     "level": 3,
     "exp": 150,
-    "coins": 2054,
+    "coins": 19664,
     "health": 120,
     "maxHealth": 120,
     "power": 19,
@@ -13,7 +13,7 @@
       "itemsFound": 48,
       "robberies": 0,
       "timesRobbed": 9,
-      "coinsEarned": 2654,
+      "coinsEarned": 20264,
       "playTime": 92,
       "pvpWins": 5,
       "totalBattles": 6,
@@ -30,30 +30,15 @@
     },
     "pvpPoints": 110,
     "pvpRank": "Đồng",
-    "lastLogin": 1764994306598
+    "lastLogin": 1764994386881
   },
   "gameState": {
-    "currentScreen": "scavenge-screen",
-    "isScavenging": true,
+    "currentScreen": "inventory-screen",
+    "isScavenging": false,
     "scavengeStartTime": 1764994245917,
-    "scavengeElapsedTime": 13295,
+    "scavengeElapsedTime": 13417,
     "currentArea": "bãi_rac",
-    "foundItems": [
-      {
-        "name": "Giấy Báo Cũ",
-        "icon": "📰",
-        "value": 5,
-        "rarity": "common",
-        "foundTime": 1764994276597
-      },
-      {
-        "name": "Bản Đồ Kho Báu",
-        "icon": "🗺️",
-        "value": 8800,
-        "rarity": "legendary",
-        "foundTime": 1764994306596
-      }
-    ],
+    "foundItems": [],
     "lastRobberyTime": 0,
     "robberyCooldown": 0,
     "dailyRobberies": 0,
@@ -62,6 +47,6 @@
     "isInMatchmaking": false,
     "currentMatchId": null
   },
-  "timestamp": 1764994306598,
+  "timestamp": 1764994386881,
   "version": "3.0"
 }
