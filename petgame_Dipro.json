@@ -4,7 +4,7 @@
     "level": 1,
     "coins": 0,
     "gems": 10,
-    "energy": 92,
+    "energy": 93,
     "maxEnergy": 100,
     "stats": {
       "playTime": 24,
@@ -29,9 +29,7 @@
       "evolution": 1
     },
     "inventory": {
-      "equipment": [
-        "leather_armor"
-      ],
+      "equipment": [],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -41,7 +39,7 @@
     },
     "equipment": {
       "weapon": "wooden_sword",
-      "armor": null,
+      "armor": "leather_armor",
       "helmet": null,
       "boots": null,
       "accessory": null
@@ -53,16 +51,16 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765102031297
+    "lastLogin": 1765102044137
   },
   "gameState": {
-    "currentScreen": "shop-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 2,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765102031297,
+  "timestamp": 1765102044137,
   "version": "1.0"
 }
