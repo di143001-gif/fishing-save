@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 1000,
+    "coins": 500,
     "gems": 10,
     "energy": 100,
     "maxEnergy": 100,
@@ -12,7 +12,7 @@
       "bossesDefeated": 0,
       "maxCombo": 0,
       "totalExp": 0,
-      "itemsBought": 0,
+      "itemsBought": 1,
       "coinsEarned": 0,
       "upgradesDone": 0
     },
@@ -29,7 +29,9 @@
       "evolution": 1
     },
     "inventory": {
-      "equipment": [],
+      "equipment": [
+        "wooden_sword"
+      ],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -51,16 +53,16 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765067178685
+    "lastLogin": 1765067260073
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "shop-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765067178685,
+  "timestamp": 1765067260073,
   "version": "1.0"
 }
