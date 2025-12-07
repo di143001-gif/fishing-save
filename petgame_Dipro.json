@@ -2,18 +2,18 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 370,
+    "coins": 400,
     "gems": 10,
-    "energy": 36,
+    "energy": 31,
     "maxEnergy": 100,
     "stats": {
       "playTime": 28,
-      "enemiesDefeated": 15,
+      "enemiesDefeated": 16,
       "bossesDefeated": 0,
-      "maxCombo": 15,
-      "totalExp": 210,
+      "maxCombo": 16,
+      "totalExp": 225,
       "itemsBought": 2,
-      "coinsEarned": 470,
+      "coinsEarned": 500,
       "upgradesDone": 0
     },
     "pet": {
@@ -21,7 +21,7 @@
       "type": "air",
       "icon": "🦅",
       "level": 2,
-      "exp": 110,
+      "exp": 125,
       "baseHealth": 100,
       "baseAttack": 10,
       "baseDefense": 5,
@@ -51,16 +51,16 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765126568695
+    "lastLogin": 1765126581342
   },
   "gameState": {
     "currentScreen": "battle-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
-    "battleCombo": 15,
+    "battleCombo": 16,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765126568695,
+  "timestamp": 1765126581342,
   "version": "1.0"
 }
