@@ -29,9 +29,7 @@
       "evolution": 1
     },
     "inventory": {
-      "equipment": [
-        "wooden_sword"
-      ],
+      "equipment": [],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -40,7 +38,7 @@
       }
     },
     "equipment": {
-      "weapon": null,
+      "weapon": "wooden_sword",
       "armor": null,
       "helmet": null,
       "boots": null,
@@ -53,16 +51,16 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765067260073
+    "lastLogin": 1765067264516
   },
   "gameState": {
-    "currentScreen": "shop-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765067260073,
+  "timestamp": 1765067264516,
   "version": "1.0"
 }
