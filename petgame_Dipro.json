@@ -4,10 +4,10 @@
     "level": 1,
     "coins": 0,
     "gems": 10,
-    "energy": 93,
+    "energy": 89,
     "maxEnergy": 100,
     "stats": {
-      "playTime": 24,
+      "playTime": 26,
       "enemiesDefeated": 2,
       "bossesDefeated": 0,
       "maxCombo": 2,
@@ -51,16 +51,16 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765102044137
+    "lastLogin": 1765102064409
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "battle-screen",
     "currentBattleArea": "forest",
-    "isInBattle": false,
+    "isInBattle": true,
     "currentEnemy": null,
     "battleCombo": 2,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765102044137,
+  "timestamp": 1765102064409,
   "version": "1.0"
 }
