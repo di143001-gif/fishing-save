@@ -7,7 +7,7 @@
     "energy": 100,
     "maxEnergy": 100,
     "stats": {
-      "playTime": 0,
+      "playTime": 2,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "maxCombo": 0,
@@ -51,7 +51,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765067128844
+    "lastLogin": 1765067178685
   },
   "gameState": {
     "currentScreen": "main-menu",
@@ -61,6 +61,6 @@
     "battleCombo": 0,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765067128844,
+  "timestamp": 1765067178685,
   "version": "1.0"
 }
