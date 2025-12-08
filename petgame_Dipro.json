@@ -2,28 +2,28 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 450,
+    "coins": 470,
     "gems": 0,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 46,
-      "enemiesDefeated": 28,
+      "enemiesDefeated": 29,
       "bossesDefeated": 0,
       "maxCombo": 28,
-      "totalExp": 390,
+      "totalExp": 400,
       "itemsBought": 2,
-      "coinsEarned": 850,
+      "coinsEarned": 870,
       "upgradesDone": 1,
       "gachaCount": 2,
-      "totalStones": 1
+      "totalStones": 2
     },
     "pet": {
       "name": "Đại Bàng",
       "type": "air",
       "icon": "🦅",
       "level": 1,
-      "exp": 55,
+      "exp": 65,
       "baseHealth": 90,
       "baseAttack": 14,
       "baseDefense": 4,
@@ -52,19 +52,19 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765237574421,
+    "lastLogin": 1765237581808,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735,
-    "whiteStones": 1
+    "whiteStones": 2
   },
   "gameState": {
     "currentScreen": "battle-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
-    "battleCombo": 0,
+    "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765237574421,
+  "timestamp": 1765237581808,
   "version": "1.0"
 }
