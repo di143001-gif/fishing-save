@@ -2,9 +2,9 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 810,
+    "coins": 310,
     "gems": 0,
-    "energy": 5,
+    "energy": 6,
     "maxEnergy": 100,
     "stats": {
       "playTime": 32,
@@ -14,7 +14,7 @@
       "totalExp": 325,
       "itemsBought": 2,
       "coinsEarned": 710,
-      "upgradesDone": 0,
+      "upgradesDone": 1,
       "gachaCount": 2
     },
     "pet": {
@@ -46,24 +46,24 @@
       "accessory": null
     },
     "upgrades": {
-      "weapon": 1,
+      "weapon": 2,
       "armor": 1,
       "helmet": 1,
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765234723754,
+    "lastLogin": 1765234756798,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735
   },
   "gameState": {
-    "currentScreen": "pet-screen",
+    "currentScreen": "shop-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 23,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765234723754,
+  "timestamp": 1765234756798,
   "version": "1.0"
 }
