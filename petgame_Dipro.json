@@ -18,15 +18,15 @@
       "gachaCount": 2
     },
     "pet": {
-      "name": "Rồng Lửa",
-      "type": "fire",
-      "icon": "🐲",
+      "name": "Đại Bàng",
+      "type": "air",
+      "icon": "🦅",
       "level": 1,
       "exp": 0,
-      "baseHealth": 100,
-      "baseAttack": 15,
-      "baseDefense": 5,
-      "baseSpeed": 8
+      "baseHealth": 90,
+      "baseAttack": 14,
+      "baseDefense": 4,
+      "baseSpeed": 12
     },
     "inventory": {
       "equipment": [],
@@ -51,7 +51,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765237478251,
+    "lastLogin": 1765237484242,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735
   },
@@ -63,6 +63,6 @@
     "battleCombo": 24,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765237478251,
+  "timestamp": 1765237484242,
   "version": "1.0"
 }
