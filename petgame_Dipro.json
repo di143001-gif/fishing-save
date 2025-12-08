@@ -4,10 +4,10 @@
     "level": 1,
     "coins": 330,
     "gems": 0,
-    "energy": 11,
+    "energy": 13,
     "maxEnergy": 100,
     "stats": {
-      "playTime": 40,
+      "playTime": 42,
       "enemiesDefeated": 24,
       "bossesDefeated": 0,
       "maxCombo": 24,
@@ -52,7 +52,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765235204253,
+    "lastLogin": 1765235423222,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735
   },
@@ -64,6 +64,6 @@
     "battleCombo": 24,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765235204253,
+  "timestamp": 1765235423222,
   "version": "1.0"
 }
