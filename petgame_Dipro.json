@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 540,
+    "coins": 740,
     "gems": 10,
     "energy": 11,
     "maxEnergy": 100,
@@ -14,7 +14,8 @@
       "totalExp": 295,
       "itemsBought": 2,
       "coinsEarned": 640,
-      "upgradesDone": 0
+      "upgradesDone": 0,
+      "gachaCount": 1
     },
     "pet": {
       "name": "Pet Đầu Tiên",
@@ -51,16 +52,18 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765174713758
+    "lastLogin": 1765234631807,
+    "freeGachaAvailable": false,
+    "lastFreeGacha": 1765234629735
   },
   "gameState": {
-    "currentScreen": "battle-screen",
+    "currentScreen": "gacha-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 21,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765174713758,
+  "timestamp": 1765234631807,
   "version": "1.0"
 }
