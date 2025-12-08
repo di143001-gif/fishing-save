@@ -2,18 +2,18 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 400,
+    "coins": 420,
     "gems": 0,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 44,
-      "enemiesDefeated": 26,
+      "enemiesDefeated": 27,
       "bossesDefeated": 0,
-      "maxCombo": 26,
-      "totalExp": 365,
+      "maxCombo": 27,
+      "totalExp": 375,
       "itemsBought": 2,
-      "coinsEarned": 800,
+      "coinsEarned": 820,
       "upgradesDone": 1,
       "gachaCount": 2
     },
@@ -22,7 +22,7 @@
       "type": "air",
       "icon": "🦅",
       "level": 1,
-      "exp": 30,
+      "exp": 40,
       "baseHealth": 90,
       "baseAttack": 14,
       "baseDefense": 4,
@@ -51,7 +51,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765237524047,
+    "lastLogin": 1765237531407,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735
   },
@@ -60,9 +60,9 @@
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
-    "battleCombo": 26,
+    "battleCombo": 27,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765237524047,
+  "timestamp": 1765237531407,
   "version": "1.0"
 }
