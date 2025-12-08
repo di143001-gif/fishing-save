@@ -3,8 +3,8 @@
     "username": "Dipro",
     "level": 1,
     "coins": 740,
-    "gems": 10,
-    "energy": 11,
+    "gems": 0,
+    "energy": 12,
     "maxEnergy": 100,
     "stats": {
       "playTime": 30,
@@ -15,7 +15,7 @@
       "itemsBought": 2,
       "coinsEarned": 640,
       "upgradesDone": 0,
-      "gachaCount": 1
+      "gachaCount": 2
     },
     "pet": {
       "name": "Pet Đầu Tiên",
@@ -23,8 +23,8 @@
       "icon": "🦅",
       "level": 2,
       "exp": 195,
-      "baseHealth": 100,
-      "baseAttack": 10,
+      "baseHealth": 150,
+      "baseAttack": 20,
       "baseDefense": 5,
       "baseSpeed": 8,
       "evolution": 1
@@ -52,7 +52,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765234631807,
+    "lastLogin": 1765234655806,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735
   },
@@ -64,6 +64,6 @@
     "battleCombo": 21,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765234631807,
+  "timestamp": 1765234655806,
   "version": "1.0"
 }
