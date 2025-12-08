@@ -14,7 +14,7 @@
       "totalExp": 400,
       "itemsBought": 2,
       "coinsEarned": 870,
-      "upgradesDone": 1,
+      "upgradesDone": 2,
       "gachaCount": 2,
       "totalStones": 2
     },
@@ -46,25 +46,25 @@
       "accessory": null
     },
     "upgrades": {
-      "weapon": 2,
+      "weapon": 3,
       "armor": 1,
       "helmet": 1,
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765237581808,
+    "lastLogin": 1765237592237,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735,
-    "whiteStones": 2
+    "whiteStones": 0
   },
   "gameState": {
-    "currentScreen": "battle-screen",
+    "currentScreen": "pet-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765237581808,
+  "timestamp": 1765237592237,
   "version": "1.0"
 }
