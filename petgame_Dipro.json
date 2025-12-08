@@ -18,16 +18,15 @@
       "gachaCount": 2
     },
     "pet": {
-      "name": "Pet Đầu Tiên",
-      "type": "air",
-      "icon": "🦅",
-      "level": 3,
-      "exp": 35,
-      "baseHealth": 150,
-      "baseAttack": 20,
+      "name": "Rồng Lửa",
+      "type": "fire",
+      "icon": "🐲",
+      "level": 1,
+      "exp": 0,
+      "baseHealth": 100,
+      "baseAttack": 15,
       "baseDefense": 5,
-      "baseSpeed": 8,
-      "evolution": 1
+      "baseSpeed": 8
     },
     "inventory": {
       "equipment": [],
@@ -52,18 +51,18 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765235444250,
+    "lastLogin": 1765237478251,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pet-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 24,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765235444250,
+  "timestamp": 1765237478251,
   "version": "1.0"
 }
