@@ -34,7 +34,8 @@
     },
     "inventory": {
       "equipment": [
-        "iron_sword"
+        "iron_sword",
+        "wooden_sword"
       ],
       "consumables": {
         "health_potion": 0,
@@ -44,7 +45,7 @@
       }
     },
     "equipment": {
-      "weapon": "wooden_sword",
+      "weapon": null,
       "armor": "leather_armor",
       "helmet": null,
       "boots": null,
@@ -57,7 +58,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765283835681,
+    "lastLogin": 1765283842896,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735,
     "whiteStones": 3,
@@ -69,13 +70,13 @@
     "lastAutoFarmDate": "Tue Dec 09 2025"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pet-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765283835681,
+  "timestamp": 1765283842896,
   "version": "1.0"
 }
