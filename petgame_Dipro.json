@@ -14,7 +14,7 @@
       "totalExp": 3900,
       "itemsBought": 4,
       "coinsEarned": 8060,
-      "upgradesDone": 3,
+      "upgradesDone": 4,
       "gachaCount": 2,
       "totalStones": 13,
       "autoFarmTotalSeconds": 31788,
@@ -49,16 +49,16 @@
       "accessory": null
     },
     "upgrades": {
-      "weapon": 4,
+      "weapon": 5,
       "armor": 1,
       "helmet": 1,
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765317394586,
+    "lastLogin": 1765317443420,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735,
-    "whiteStones": 8,
+    "whiteStones": 4,
     "autoFarm": {
       "dailyAutoFarmSeconds": 0,
       "lastAutoFarmDate": "Tue Dec 09 2025"
@@ -67,13 +67,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "shop-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765317394586,
+  "timestamp": 1765317443420,
   "version": "1.0"
 }
