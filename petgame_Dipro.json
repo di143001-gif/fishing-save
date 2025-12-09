@@ -52,7 +52,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765276250217,
+    "lastLogin": 1765276280349,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735,
     "whiteStones": 0
@@ -62,9 +62,9 @@
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
-    "battleCombo": 1,
+    "battleCombo": 0,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765276250217,
+  "timestamp": 1765276280349,
   "version": "1.0"
 }
