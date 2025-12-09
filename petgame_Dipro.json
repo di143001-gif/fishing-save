@@ -7,7 +7,7 @@
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
-      "playTime": 48,
+      "playTime": 50,
       "enemiesDefeated": 29,
       "bossesDefeated": 0,
       "maxCombo": 28,
@@ -52,7 +52,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765276280349,
+    "lastLogin": 1765276284647,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765234629735,
     "whiteStones": 0
@@ -60,11 +60,11 @@
   "gameState": {
     "currentScreen": "battle-screen",
     "currentBattleArea": "forest",
-    "isInBattle": false,
+    "isInBattle": true,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765276280349,
+  "timestamp": 1765276284647,
   "version": "1.0"
 }
