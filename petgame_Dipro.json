@@ -2,25 +2,25 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 4700,
+    "coins": 1920,
     "gems": 50,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 102,
-      "enemiesDefeated": 430,
+      "enemiesDefeated": 435,
       "bossesDefeated": 5,
       "maxCombo": 46,
-      "totalExp": 13500,
+      "totalExp": 13710,
       "itemsBought": 4,
-      "coinsEarned": 27380,
+      "coinsEarned": 27800,
       "upgradesDone": 12,
-      "gachaCount": 87,
-      "totalStones": 83,
+      "gachaCount": 98,
+      "totalStones": 87,
       "autoFarmTotalSeconds": 41137,
-      "autoFarmBattles": 355,
+      "autoFarmBattles": 360,
       "autoFarmLosses": 35,
-      "autoFarmWins": 230,
+      "autoFarmWins": 235,
       "totalPurchasedFarmTime": 4500
     },
     "pet": {
@@ -28,7 +28,7 @@
       "type": "water",
       "icon": "🐉",
       "level": 10,
-      "exp": 20,
+      "exp": 230,
       "baseHealth": 180,
       "baseAttack": 15,
       "baseDefense": 12,
@@ -38,10 +38,11 @@
     "inventory": {
       "equipment": [
         "wooden_sword",
-        "iron_sword"
+        "iron_sword",
+        "mystic_staff"
       ],
       "consumables": {
-        "health_potion": 1,
+        "health_potion": 2,
         "energy_potion": 0,
         "exp_potion": 1,
         "evolution_stone": 0
@@ -61,12 +62,12 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765410732707,
+    "lastLogin": 1765410749288,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
-    "whiteStones": 38,
+    "whiteStones": 42,
     "autoFarm": {
-      "dailyAutoFarmSeconds": 51,
+      "dailyAutoFarmSeconds": 58.5,
       "lastAutoFarmDate": "Thu Dec 11 2025",
       "purchasedSeconds": 4500
     },
@@ -74,13 +75,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "battle-screen",
+    "currentScreen": "gacha-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 46,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765410732707,
+  "timestamp": 1765410749288,
   "version": "1.0"
 }
