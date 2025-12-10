@@ -28,7 +28,7 @@
       "type": "water",
       "icon": "🐉",
       "level": 3,
-      "exp": 55,
+      "exp": 155,
       "baseHealth": 180,
       "baseAttack": 15,
       "baseDefense": 12,
@@ -42,7 +42,7 @@
       "consumables": {
         "health_potion": 4,
         "energy_potion": 0,
-        "exp_potion": 1,
+        "exp_potion": 0,
         "evolution_stone": 0
       }
     },
@@ -60,7 +60,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373104358,
+    "lastLogin": 1765373106495,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 25,
@@ -80,6 +80,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373104358,
+  "timestamp": 1765373106495,
   "version": "1.0"
 }
