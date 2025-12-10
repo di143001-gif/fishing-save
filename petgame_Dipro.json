@@ -40,7 +40,6 @@
         "wooden_sword",
         "wooden_sword",
         "iron_sword",
-        "phoenix_armor",
         "iron_sword",
         "iron_armor"
       ],
@@ -53,7 +52,7 @@
     },
     "equipment": {
       "weapon": "iron_sword",
-      "armor": null,
+      "armor": "phoenix_armor",
       "helmet": null,
       "boots": null,
       "accessory": null
@@ -65,7 +64,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765370661145,
+    "lastLogin": 1765370671669,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 19,
@@ -78,13 +77,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "pet-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765370661145,
+  "timestamp": 1765370671669,
   "version": "1.0"
 }
