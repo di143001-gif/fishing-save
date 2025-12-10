@@ -2,18 +2,18 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 7680,
+    "coins": 7710,
     "gems": 12,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 94,
-      "enemiesDefeated": 341,
+      "enemiesDefeated": 342,
       "bossesDefeated": 3,
-      "maxCombo": 31,
-      "totalExp": 9995,
+      "maxCombo": 32,
+      "totalExp": 10010,
       "itemsBought": 4,
-      "coinsEarned": 20360,
+      "coinsEarned": 20390,
       "upgradesDone": 10,
       "gachaCount": 43,
       "totalStones": 58,
@@ -28,7 +28,7 @@
       "type": "water",
       "icon": "🐉",
       "level": 5,
-      "exp": 15,
+      "exp": 30,
       "baseHealth": 180,
       "baseAttack": 15,
       "baseDefense": 12,
@@ -60,7 +60,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373276310,
+    "lastLogin": 1765373278874,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 25,
@@ -77,9 +77,9 @@
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
-    "battleCombo": 31,
+    "battleCombo": 32,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373276310,
+  "timestamp": 1765373278874,
   "version": "1.0"
 }
