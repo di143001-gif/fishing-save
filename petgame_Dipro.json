@@ -39,7 +39,7 @@
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
-        "exp_potion": 1,
+        "exp_potion": 0,
         "evolution_stone": 0
       }
     },
@@ -57,7 +57,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765369725359,
+    "lastLogin": 1765369739790,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 1,
@@ -69,13 +69,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "battle-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765369725359,
+  "timestamp": 1765369739790,
   "version": "1.0"
 }
