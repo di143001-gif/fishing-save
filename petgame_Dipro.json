@@ -3,7 +3,7 @@
     "username": "Dipro",
     "level": 1,
     "coins": 1680,
-    "gems": 12,
+    "gems": 6,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
@@ -21,7 +21,7 @@
       "autoFarmBattles": 281,
       "autoFarmLosses": 35,
       "autoFarmWins": 156,
-      "totalPurchasedFarmTime": 900
+      "totalPurchasedFarmTime": 2700
     },
     "pet": {
       "name": "Pet Đặc Biệt",
@@ -62,26 +62,26 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373422855,
+    "lastLogin": 1765373430760,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 38,
     "autoFarm": {
       "dailyAutoFarmSeconds": 4191,
       "lastAutoFarmDate": "Wed Dec 10 2025",
-      "purchasedSeconds": 900
+      "purchasedSeconds": 2700
     },
     "dailyAutoFarmSeconds": 29383,
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "shop-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 45,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373422855,
+  "timestamp": 1765373430760,
   "version": "1.0"
 }
