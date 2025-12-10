@@ -14,7 +14,7 @@
       "totalExp": 10590,
       "itemsBought": 4,
       "coinsEarned": 21560,
-      "upgradesDone": 10,
+      "upgradesDone": 11,
       "gachaCount": 65,
       "totalStones": 71,
       "autoFarmTotalSeconds": 34596,
@@ -56,16 +56,16 @@
       "accessory": null
     },
     "upgrades": {
-      "weapon": 8,
+      "weapon": 9,
       "armor": 4,
       "helmet": 1,
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373434637,
+    "lastLogin": 1765373438385,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
-    "whiteStones": 38,
+    "whiteStones": 30,
     "autoFarm": {
       "dailyAutoFarmSeconds": 4191,
       "lastAutoFarmDate": "Wed Dec 10 2025",
@@ -82,6 +82,6 @@
     "battleCombo": 45,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373434637,
+  "timestamp": 1765373438385,
   "version": "1.0"
 }
