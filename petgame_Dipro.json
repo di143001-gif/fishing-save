@@ -7,7 +7,7 @@
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
-      "playTime": 76,
+      "playTime": 78,
       "enemiesDefeated": 155,
       "bossesDefeated": 0,
       "maxCombo": 28,
@@ -57,7 +57,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765364679877,
+    "lastLogin": 1765365141026,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 1,
@@ -76,6 +76,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765364679878,
+  "timestamp": 1765365141027,
   "version": "1.0"
 }
