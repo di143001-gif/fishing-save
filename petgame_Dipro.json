@@ -7,7 +7,7 @@
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
-      "playTime": 96,
+      "playTime": 98,
       "enemiesDefeated": 355,
       "bossesDefeated": 5,
       "maxCombo": 45,
@@ -62,7 +62,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373407470,
+    "lastLogin": 1765373422855,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 38,
@@ -75,13 +75,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "gacha-screen",
+    "currentScreen": "main-menu",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 45,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373407470,
+  "timestamp": 1765373422855,
   "version": "1.0"
 }
