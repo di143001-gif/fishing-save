@@ -2,32 +2,32 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 8230,
+    "coins": 10670,
     "gems": 5,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 82,
-      "enemiesDefeated": 231,
+      "enemiesDefeated": 261,
       "bossesDefeated": 0,
       "maxCombo": 28,
-      "totalExp": 6850,
+      "totalExp": 8070,
       "itemsBought": 4,
-      "coinsEarned": 13960,
+      "coinsEarned": 16400,
       "upgradesDone": 6,
       "gachaCount": 10,
-      "totalStones": 24,
+      "totalStones": 31,
       "autoFarmTotalSeconds": 31788,
-      "autoFarmBattles": 201,
+      "autoFarmBattles": 231,
       "autoFarmLosses": 35,
-      "autoFarmWins": 76
+      "autoFarmWins": 106
     },
     "pet": {
       "name": "Đại Bàng",
       "type": "air",
       "icon": "🦅",
-      "level": 12,
-      "exp": 15,
+      "level": 13,
+      "exp": 35,
       "baseHealth": 140,
       "baseAttack": 14,
       "baseDefense": 4,
@@ -58,12 +58,12 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765369967796,
+    "lastLogin": 1765370120269,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
-    "whiteStones": 12,
+    "whiteStones": 19,
     "autoFarm": {
-      "dailyAutoFarmSeconds": 774,
+      "dailyAutoFarmSeconds": 1077,
       "lastAutoFarmDate": "Wed Dec 10 2025"
     },
     "dailyAutoFarmSeconds": 29383,
@@ -77,6 +77,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765369967796,
+  "timestamp": 1765370120269,
   "version": "1.0"
 }
