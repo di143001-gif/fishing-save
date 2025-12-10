@@ -27,7 +27,7 @@
       "icon": "🦅",
       "level": 8,
       "exp": 765,
-      "baseHealth": 90,
+      "baseHealth": 140,
       "baseAttack": 14,
       "baseDefense": 4,
       "baseSpeed": 12
@@ -37,7 +37,7 @@
         "wooden_sword"
       ],
       "consumables": {
-        "health_potion": 1,
+        "health_potion": 0,
         "energy_potion": 0,
         "exp_potion": 1,
         "evolution_stone": 0
@@ -57,7 +57,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765365150074,
+    "lastLogin": 1765369722942,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 1,
@@ -69,13 +69,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "gacha-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765365150074,
+  "timestamp": 1765369722942,
   "version": "1.0"
 }
