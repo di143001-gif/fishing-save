@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 2640,
+    "coins": 2990,
     "gems": 12,
     "energy": 14,
     "maxEnergy": 100,
@@ -38,7 +38,6 @@
     "inventory": {
       "equipment": [
         "wooden_sword",
-        "wooden_sword",
         "iron_sword",
         "iron_sword",
         "iron_armor"
@@ -64,7 +63,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373038056,
+    "lastLogin": 1765373085146,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 25,
@@ -77,13 +76,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "battle-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373038056,
+  "timestamp": 1765373085146,
   "version": "1.0"
 }
