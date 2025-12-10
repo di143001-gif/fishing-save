@@ -15,7 +15,7 @@
       "itemsBought": 4,
       "coinsEarned": 8060,
       "upgradesDone": 6,
-      "gachaCount": 2,
+      "gachaCount": 3,
       "totalStones": 13,
       "autoFarmTotalSeconds": 31788,
       "autoFarmBattles": 125,
@@ -33,7 +33,9 @@
       "baseSpeed": 12
     },
     "inventory": {
-      "equipment": [],
+      "equipment": [
+        "wooden_sword"
+      ],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -55,25 +57,25 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765317458398,
+    "lastLogin": 1765341996776,
     "freeGachaAvailable": false,
-    "lastFreeGacha": 1765234629735,
+    "lastFreeGacha": 1765341994709,
     "whiteStones": 1,
     "autoFarm": {
       "dailyAutoFarmSeconds": 0,
-      "lastAutoFarmDate": "Tue Dec 09 2025"
+      "lastAutoFarmDate": "Wed Dec 10 2025"
     },
     "dailyAutoFarmSeconds": 29383,
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "gacha-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765317458398,
+  "timestamp": 1765341996776,
   "version": "1.0"
 }
