@@ -41,7 +41,7 @@
         "wooden_sword",
         "wooden_sword",
         "wooden_sword",
-        "mystic_staff"
+        "iron_sword"
       ],
       "consumables": {
         "health_potion": 9,
@@ -51,7 +51,7 @@
       }
     },
     "equipment": {
-      "weapon": "iron_sword",
+      "weapon": "mystic_staff",
       "armor": "phoenix_armor",
       "helmet": null,
       "boots": null,
@@ -64,7 +64,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765410589269,
+    "lastLogin": 1765410605798,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 36,
@@ -77,13 +77,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "gacha-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 46,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765410589269,
+  "timestamp": 1765410605798,
   "version": "1.0"
 }
