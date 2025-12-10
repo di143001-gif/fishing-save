@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 3630,
+    "coins": 3330,
     "gems": 0,
     "energy": 14,
     "maxEnergy": 100,
@@ -15,7 +15,7 @@
       "itemsBought": 4,
       "coinsEarned": 8060,
       "upgradesDone": 6,
-      "gachaCount": 7,
+      "gachaCount": 8,
       "totalStones": 13,
       "autoFarmTotalSeconds": 31788,
       "autoFarmBattles": 125,
@@ -57,7 +57,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765342016402,
+    "lastLogin": 1765342020712,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 1,
@@ -76,6 +76,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765342016402,
+  "timestamp": 1765342020712,
   "version": "1.0"
 }
