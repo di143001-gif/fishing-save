@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 4740,
+    "coins": 6490,
     "gems": 12,
     "energy": 14,
     "maxEnergy": 100,
@@ -37,8 +37,7 @@
     },
     "inventory": {
       "equipment": [
-        "iron_sword",
-        "iron_armor"
+        "iron_sword"
       ],
       "consumables": {
         "health_potion": 4,
@@ -61,7 +60,7 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765373094795,
+    "lastLogin": 1765373104358,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 25,
@@ -81,6 +80,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765373094795,
+  "timestamp": 1765373104358,
   "version": "1.0"
 }
