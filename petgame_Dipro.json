@@ -2,8 +2,8 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 6640,
-    "gems": 0,
+    "coins": 2240,
+    "gems": 50,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
@@ -15,8 +15,8 @@
       "itemsBought": 4,
       "coinsEarned": 24920,
       "upgradesDone": 12,
-      "gachaCount": 76,
-      "totalStones": 81,
+      "gachaCount": 87,
+      "totalStones": 83,
       "autoFarmTotalSeconds": 41137,
       "autoFarmBattles": 323,
       "autoFarmLosses": 35,
@@ -36,11 +36,14 @@
       "isSpecial": true
     },
     "inventory": {
-      "equipment": [],
+      "equipment": [
+        "wooden_sword",
+        "iron_sword"
+      ],
       "consumables": {
-        "health_potion": 0,
+        "health_potion": 1,
         "energy_potion": 0,
-        "exp_potion": 0,
+        "exp_potion": 1,
         "evolution_stone": 0
       }
     },
@@ -58,10 +61,10 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765410611690,
+    "lastLogin": 1765410619633,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
-    "whiteStones": 36,
+    "whiteStones": 38,
     "autoFarm": {
       "dailyAutoFarmSeconds": 0,
       "lastAutoFarmDate": "Thu Dec 11 2025",
@@ -71,13 +74,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "gacha-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 46,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765410611690,
+  "timestamp": 1765410619633,
   "version": "1.0"
 }
