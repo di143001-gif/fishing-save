@@ -2,7 +2,7 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 8990,
+    "coins": 5390,
     "gems": 7,
     "energy": 14,
     "maxEnergy": 100,
@@ -15,8 +15,8 @@
       "itemsBought": 4,
       "coinsEarned": 18420,
       "upgradesDone": 10,
-      "gachaCount": 21,
-      "totalStones": 34,
+      "gachaCount": 32,
+      "totalStones": 46,
       "autoFarmTotalSeconds": 32285,
       "autoFarmBattles": 254,
       "autoFarmLosses": 35,
@@ -24,15 +24,16 @@
       "totalPurchasedFarmTime": 900
     },
     "pet": {
-      "name": "Đại Bàng",
-      "type": "air",
-      "icon": "🦅",
-      "level": 13,
-      "exp": 1045,
-      "baseHealth": 140,
-      "baseAttack": 14,
-      "baseDefense": 4,
-      "baseSpeed": 12
+      "name": "Pet Đặc Biệt",
+      "type": "water",
+      "icon": "🐉",
+      "level": 1,
+      "exp": 0,
+      "baseHealth": 180,
+      "baseAttack": 15,
+      "baseDefense": 12,
+      "baseSpeed": 9,
+      "isSpecial": true
     },
     "inventory": {
       "equipment": [
@@ -41,7 +42,7 @@
         "iron_sword"
       ],
       "consumables": {
-        "health_potion": 2,
+        "health_potion": 3,
         "energy_potion": 0,
         "exp_potion": 0,
         "evolution_stone": 0
@@ -61,10 +62,10 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765370564066,
+    "lastLogin": 1765370590999,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
-    "whiteStones": 1,
+    "whiteStones": 13,
     "autoFarm": {
       "dailyAutoFarmSeconds": 1809.5,
       "lastAutoFarmDate": "Wed Dec 10 2025",
@@ -81,6 +82,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765370564066,
+  "timestamp": 1765370590999,
   "version": "1.0"
 }
