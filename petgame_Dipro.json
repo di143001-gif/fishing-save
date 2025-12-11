@@ -2,33 +2,33 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 17270,
+    "coins": 19490,
     "gems": 50,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 114,
-      "enemiesDefeated": 601,
+      "enemiesDefeated": 613,
       "bossesDefeated": 5,
       "maxCombo": 46,
-      "totalExp": 21470,
+      "totalExp": 22590,
       "itemsBought": 4,
-      "coinsEarned": 43250,
+      "coinsEarned": 45470,
       "upgradesDone": 18,
       "gachaCount": 109,
-      "totalStones": 118,
+      "totalStones": 119,
       "autoFarmTotalSeconds": 42082,
-      "autoFarmBattles": 526,
+      "autoFarmBattles": 538,
       "autoFarmLosses": 35,
-      "autoFarmWins": 401,
+      "autoFarmWins": 413,
       "totalPurchasedFarmTime": 4500
     },
     "pet": {
       "name": "Pet Đặc Biệt",
       "type": "water",
       "icon": "🐉",
-      "level": 16,
-      "exp": 490,
+      "level": 17,
+      "exp": 10,
       "baseHealth": 180,
       "baseAttack": 15,
       "baseDefense": 12,
@@ -58,12 +58,12 @@
       "boots": 1,
       "accessory": 1
     },
-    "lastLogin": 1765412464943,
+    "lastLogin": 1765412501544,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
-    "whiteStones": 28,
+    "whiteStones": 29,
     "autoFarm": {
-      "dailyAutoFarmSeconds": 1297.5,
+      "dailyAutoFarmSeconds": 1345.5,
       "lastAutoFarmDate": "Thu Dec 11 2025",
       "purchasedSeconds": 4500
     },
@@ -71,13 +71,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pet-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 46,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765412464943,
+  "timestamp": 1765412501544,
   "version": "1.0"
 }
