@@ -22,15 +22,15 @@
       "totalPurchasedFarmTime": 0
     },
     "pet": {
-      "name": "Chưa có pet",
-      "type": null,
-      "icon": "❓",
+      "name": "Sét",
+      "type": "lightning",
+      "icon": "⚡",
       "level": 1,
       "exp": 0,
-      "baseHealth": 0,
-      "baseAttack": 0,
-      "baseDefense": 0,
-      "baseSpeed": 0
+      "baseHealth": 80,
+      "baseAttack": 18,
+      "baseDefense": 3,
+      "baseSpeed": 10
     },
     "inventory": {
       "equipment": [],
@@ -62,18 +62,18 @@
     "autoFarm": {
       "dailyAutoFarmSeconds": 0,
       "purchasedSeconds": 0,
-      "lastAutoFarmDate": null
+      "lastAutoFarmDate": "Fri Dec 12 2025"
     },
-    "lastLogin": 1765545139065
+    "lastLogin": 1765545152167
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pet-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765545139065
   },
-  "timestamp": 1765545139065,
+  "timestamp": 1765545152167,
   "version": "1.0"
 }
