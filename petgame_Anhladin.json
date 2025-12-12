@@ -1,0 +1,79 @@
+{
+  "playerData": {
+    "username": "Anhladin",
+    "coins": 1000,
+    "gems": 10,
+    "whiteStones": 0,
+    "stats": {
+      "playTime": 0,
+      "enemiesDefeated": 0,
+      "bossesDefeated": 0,
+      "maxCombo": 0,
+      "totalExp": 0,
+      "itemsBought": 0,
+      "coinsEarned": 0,
+      "upgradesDone": 0,
+      "gachaCount": 0,
+      "totalStones": 0,
+      "autoFarmTotalSeconds": 0,
+      "autoFarmBattles": 0,
+      "autoFarmWins": 0,
+      "autoFarmLosses": 0,
+      "totalPurchasedFarmTime": 0
+    },
+    "pet": {
+      "name": "Chưa có pet",
+      "type": null,
+      "icon": "❓",
+      "level": 1,
+      "exp": 0,
+      "baseHealth": 0,
+      "baseAttack": 0,
+      "baseDefense": 0,
+      "baseSpeed": 0
+    },
+    "inventory": {
+      "equipment": [],
+      "consumables": {
+        "health_potion": 0,
+        "energy_potion": 0,
+        "exp_potion": 0
+      }
+    },
+    "equipment": {
+      "weapon": null,
+      "armor": null,
+      "helmet": null,
+      "boots": null,
+      "accessory": null
+    },
+    "upgrades": {
+      "weapon": 1,
+      "armor": 1,
+      "helmet": 1,
+      "boots": 1,
+      "accessory": 1
+    },
+    "gacha": {
+      "freeGachaAvailable": true,
+      "lastFreeGacha": 0,
+      "history": []
+    },
+    "autoFarm": {
+      "dailyAutoFarmSeconds": 0,
+      "purchasedSeconds": 0,
+      "lastAutoFarmDate": null
+    },
+    "lastLogin": 1765545139065
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "currentBattleArea": "forest",
+    "isInBattle": false,
+    "currentEnemy": null,
+    "battleCombo": 0,
+    "lastSaveTime": 1765545139065
+  },
+  "timestamp": 1765545139065,
+  "version": "1.0"
+}
