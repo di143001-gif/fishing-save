@@ -58,7 +58,7 @@
       "boots": 7,
       "accessory": 1
     },
-    "lastLogin": 1765517116122,
+    "lastLogin": 1765551879227,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 6,
@@ -71,13 +71,13 @@
     "lastAutoFarmDate": "Wed Dec 10 2025"
   },
   "gameState": {
-    "currentScreen": "pet-screen",
+    "currentScreen": "battle-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 46,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765517116122,
+  "timestamp": 1765551879227,
   "version": "1.0"
 }
