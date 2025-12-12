@@ -3,7 +3,7 @@
     "username": "Anhladin",
     "coins": 1000,
     "gems": 10,
-    "whiteStones": 0,
+    "whiteStones": 1,
     "stats": {
       "playTime": 0,
       "enemiesDefeated": 0,
@@ -13,8 +13,8 @@
       "itemsBought": 0,
       "coinsEarned": 0,
       "upgradesDone": 0,
-      "gachaCount": 0,
-      "totalStones": 0,
+      "gachaCount": 1,
+      "totalStones": 1,
       "autoFarmTotalSeconds": 0,
       "autoFarmBattles": 0,
       "autoFarmWins": 0,
@@ -64,16 +64,18 @@
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Fri Dec 12 2025"
     },
-    "lastLogin": 1765545152167
+    "lastLogin": 1765545183955,
+    "freeGachaAvailable": false,
+    "lastFreeGacha": 1765545181868
   },
   "gameState": {
-    "currentScreen": "pet-screen",
+    "currentScreen": "gacha-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765545139065
   },
-  "timestamp": 1765545152167,
+  "timestamp": 1765545183955,
   "version": "1.0"
 }
