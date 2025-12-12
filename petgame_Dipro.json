@@ -2,25 +2,25 @@
   "playerData": {
     "username": "Dipro",
     "level": 1,
-    "coins": 22720,
+    "coins": 22980,
     "gems": 50,
     "energy": 14,
     "maxEnergy": 100,
     "stats": {
       "playTime": 116,
-      "enemiesDefeated": 638,
+      "enemiesDefeated": 640,
       "bossesDefeated": 5,
-      "maxCombo": 47,
-      "totalExp": 24610,
+      "maxCombo": 48,
+      "totalExp": 24740,
       "itemsBought": 6,
-      "coinsEarned": 49400,
+      "coinsEarned": 49660,
       "upgradesDone": 26,
       "gachaCount": 109,
       "totalStones": 126,
       "autoFarmTotalSeconds": 42082,
-      "autoFarmBattles": 562,
+      "autoFarmBattles": 563,
       "autoFarmLosses": 35,
-      "autoFarmWins": 437,
+      "autoFarmWins": 438,
       "totalPurchasedFarmTime": 4500
     },
     "pet": {
@@ -28,7 +28,7 @@
       "type": "water",
       "icon": "🐉",
       "level": 18,
-      "exp": 330,
+      "exp": 460,
       "baseHealth": 180,
       "baseAttack": 15,
       "baseDefense": 12,
@@ -58,12 +58,12 @@
       "boots": 7,
       "accessory": 1
     },
-    "lastLogin": 1765551922163,
+    "lastLogin": 1765551926306,
     "freeGachaAvailable": false,
     "lastFreeGacha": 1765341994709,
     "whiteStones": 12,
     "autoFarm": {
-      "dailyAutoFarmSeconds": 42,
+      "dailyAutoFarmSeconds": 47,
       "lastAutoFarmDate": "Fri Dec 12 2025",
       "purchasedSeconds": 4500
     },
@@ -75,9 +75,9 @@
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
-    "battleCombo": 47,
+    "battleCombo": 48,
     "lastSaveTime": 1765067128843
   },
-  "timestamp": 1765551922163,
+  "timestamp": 1765551926306,
   "version": "1.0"
 }
