@@ -34,7 +34,6 @@
     },
     "inventory": {
       "equipment": [
-        "wooden_sword",
         "leather_boots"
       ],
       "consumables": {
@@ -44,7 +43,7 @@
       }
     },
     "equipment": {
-      "weapon": null,
+      "weapon": "wooden_sword",
       "armor": null,
       "helmet": null,
       "boots": null,
@@ -67,16 +66,16 @@
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765599638540
+    "lastLogin": 1765599661080
   },
   "gameState": {
-    "currentScreen": "shop-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765599638540,
+  "timestamp": 1765599661080,
   "version": "1.0"
 }
