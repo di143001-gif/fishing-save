@@ -1,23 +1,23 @@
 {
   "playerData": {
     "username": "Anhladiv1",
-    "coins": 5710,
+    "coins": 5950,
     "gems": 10,
-    "whiteStones": 24,
+    "whiteStones": 25,
     "stats": {
       "playTime": 16,
-      "enemiesDefeated": 158,
+      "enemiesDefeated": 161,
       "bossesDefeated": 0,
       "maxCombo": 1,
-      "totalExp": 4625,
+      "totalExp": 4745,
       "itemsBought": 5,
-      "coinsEarned": 9510,
+      "coinsEarned": 9750,
       "upgradesDone": 0,
       "gachaCount": 0,
-      "totalStones": 24,
+      "totalStones": 25,
       "autoFarmTotalSeconds": 0,
-      "autoFarmBattles": 158,
-      "autoFarmWins": 157,
+      "autoFarmBattles": 161,
+      "autoFarmWins": 160,
       "autoFarmLosses": 1,
       "totalPurchasedFarmTime": 0
     },
@@ -26,7 +26,7 @@
       "type": "lightning",
       "icon": "⚡",
       "level": 10,
-      "exp": 125,
+      "exp": 245,
       "baseHealth": 80,
       "baseAttack": 18,
       "baseDefense": 3,
@@ -34,9 +34,9 @@
     },
     "inventory": {
       "equipment": [
-        "iron_sword",
         "iron_helmet",
-        "iron_boots"
+        "wooden_sword",
+        "leather_boots"
       ],
       "consumables": {
         "health_potion": 0,
@@ -45,10 +45,10 @@
       }
     },
     "equipment": {
-      "weapon": "wooden_sword",
+      "weapon": "iron_sword",
       "armor": null,
       "helmet": null,
-      "boots": "leather_boots",
+      "boots": "iron_boots",
       "accessory": null
     },
     "upgrades": {
@@ -64,20 +64,20 @@
       "history": []
     },
     "autoFarm": {
-      "dailyAutoFarmSeconds": 472,
+      "dailyAutoFarmSeconds": 480,
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765605737955
+    "lastLogin": 1765605745594
   },
   "gameState": {
-    "currentScreen": "shop-screen",
+    "currentScreen": "inventory-screen",
     "currentBattleArea": "cave",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765605737955,
+  "timestamp": 1765605745594,
   "version": "1.0"
 }
