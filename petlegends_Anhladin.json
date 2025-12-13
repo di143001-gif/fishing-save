@@ -1,0 +1,103 @@
+{
+  "player": {
+    "username": "Anhladin",
+    "createdAt": "2025-12-13T13:28:18.684Z",
+    "coins": 1000,
+    "gems": 50,
+    "mysticalStones": 0,
+    "premiumCurrency": 0,
+    "mainPet": {
+      "id": null,
+      "type": null,
+      "name": "Chưa có pet",
+      "icon": "❓",
+      "level": 1,
+      "exp": 0,
+      "stats": {
+        "health": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0
+      },
+      "equipment": {
+        "weapon": null,
+        "armor": null,
+        "helmet": null,
+        "boots": null,
+        "accessory": null
+      },
+      "skills": []
+    },
+    "inventory": {
+      "equipment": [],
+      "consumables": {},
+      "materials": {},
+      "maxSlots": 50
+    },
+    "collection": {
+      "pets": [],
+      "items": [],
+      "totalValue": 0,
+      "rarityCount": {
+        "common": 0,
+        "rare": 0,
+        "epic": 0,
+        "legendary": 0,
+        "mythical": 0,
+        "divine": 0
+      }
+    },
+    "achievements": [],
+    "quests": [],
+    "skills": {
+      "combat": {},
+      "gathering": {},
+      "crafting": {}
+    },
+    "stats": {
+      "totalPlayTime": 0,
+      "enemiesDefeated": 0,
+      "bossesDefeated": 0,
+      "highestCombo": 0,
+      "legendaryDrops": 0,
+      "mythicalDrops": 0,
+      "divineDrops": 0,
+      "totalCoinsEarned": 0,
+      "totalGemsEarned": 0
+    },
+    "autoFarm": {
+      "unlocked": false,
+      "dailyLimit": 1800,
+      "usedToday": 0,
+      "purchasedTime": 0,
+      "lastReset": "Sat Dec 13 2025"
+    },
+    "gacha": {
+      "freePulls": 1,
+      "lastFreePull": null,
+      "pityCounter": {
+        "epic": 0,
+        "legendary": 0,
+        "mythical": 0
+      },
+      "history": []
+    },
+    "lastLogin": "2025-12-13T13:28:18.690Z",
+    "lastSave": 1765632498691,
+    "version": "2.0"
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "lastArea": "forest",
+    "playTime": 0,
+    "totalBattles": 0,
+    "highestCombo": 0,
+    "dailyStats": {
+      "battles": 0,
+      "drops": 0,
+      "coinsEarned": 0
+    }
+  },
+  "version": "2.0",
+  "timestamp": "2025-12-13T13:28:18.691Z"
+}
