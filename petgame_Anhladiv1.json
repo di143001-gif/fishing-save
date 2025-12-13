@@ -1,11 +1,11 @@
 {
   "playerData": {
     "username": "Anhladiv1",
-    "coins": 4320,
+    "coins": 4670,
     "gems": 10,
     "whiteStones": 28,
     "stats": {
-      "playTime": 16,
+      "playTime": 18,
       "enemiesDefeated": 172,
       "bossesDefeated": 0,
       "maxCombo": 1,
@@ -33,9 +33,7 @@
       "baseSpeed": 10
     },
     "inventory": {
-      "equipment": [
-        "wooden_sword"
-      ],
+      "equipment": [],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -62,11 +60,11 @@
       "history": []
     },
     "autoFarm": {
-      "dailyAutoFarmSeconds": 512,
+      "dailyAutoFarmSeconds": 514,
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765605778203
+    "lastLogin": 1765605780184
   },
   "gameState": {
     "currentScreen": "inventory-screen",
@@ -76,6 +74,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765605778203,
+  "timestamp": 1765605780184,
   "version": "1.0"
 }
