@@ -34,7 +34,6 @@
     },
     "inventory": {
       "equipment": [
-        "iron_helmet",
         "wooden_sword",
         "leather_boots"
       ],
@@ -47,7 +46,7 @@
     "equipment": {
       "weapon": "iron_sword",
       "armor": null,
-      "helmet": null,
+      "helmet": "iron_helmet",
       "boots": "iron_boots",
       "accessory": null
     },
@@ -64,11 +63,11 @@
       "history": []
     },
     "autoFarm": {
-      "dailyAutoFarmSeconds": 480,
+      "dailyAutoFarmSeconds": 481,
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765605745594
+    "lastLogin": 1765605746619
   },
   "gameState": {
     "currentScreen": "inventory-screen",
@@ -78,6 +77,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765605745594,
+  "timestamp": 1765605746619,
   "version": "1.0"
 }
