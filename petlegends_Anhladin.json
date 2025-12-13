@@ -59,7 +59,7 @@
       "crafting": {}
     },
     "stats": {
-      "totalPlayTime": 214,
+      "totalPlayTime": 259,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "highestCombo": 0,
@@ -93,8 +93,9 @@
       ]
     },
     "lastLogin": "2025-12-13T13:28:18.690Z",
-    "lastSave": 1765632713520,
-    "version": "2.0"
+    "lastSave": 1765635787184,
+    "version": "2.0",
+    "skillPoints": 0
   },
   "gameState": {
     "currentScreen": "main-menu",
@@ -108,6 +109,6 @@
       "coinsEarned": 0
     }
   },
-  "version": "2.0",
-  "timestamp": "2025-12-13T13:31:53.522Z"
+  "version": "1.0",
+  "timestamp": "2025-12-13T14:23:07.185Z"
 }
