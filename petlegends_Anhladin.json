@@ -2,7 +2,7 @@
   "player": {
     "username": "Anhladin",
     "createdAt": "2025-12-13T13:28:18.684Z",
-    "coins": 1000,
+    "coins": 1500,
     "gems": 50,
     "mysticalStones": 0,
     "premiumCurrency": 0,
@@ -47,7 +47,9 @@
         "divine": 0
       }
     },
-    "achievements": [],
+    "achievements": [
+      "first_pet"
+    ],
     "quests": [],
     "skills": {
       "combat": {},
@@ -55,7 +57,7 @@
       "crafting": {}
     },
     "stats": {
-      "totalPlayTime": 0,
+      "totalPlayTime": 34,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "highestCombo": 0,
@@ -83,11 +85,11 @@
       "history": []
     },
     "lastLogin": "2025-12-13T13:28:18.690Z",
-    "lastSave": 1765632498691,
+    "lastSave": 1765632533518,
     "version": "2.0"
   },
   "gameState": {
-    "currentScreen": "main-menu",
+    "currentScreen": "pet-screen",
     "lastArea": "forest",
     "playTime": 0,
     "totalBattles": 0,
@@ -99,5 +101,5 @@
     }
   },
   "version": "2.0",
-  "timestamp": "2025-12-13T13:28:18.691Z"
+  "timestamp": "2025-12-13T13:28:53.518Z"
 }
