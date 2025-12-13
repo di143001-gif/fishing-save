@@ -1,23 +1,23 @@
 {
   "playerData": {
     "username": "Anhladiv1",
-    "coins": 2650,
+    "coins": 2890,
     "gems": 10,
     "whiteStones": 11,
     "stats": {
-      "playTime": 8,
-      "enemiesDefeated": 70,
+      "playTime": 10,
+      "enemiesDefeated": 73,
       "bossesDefeated": 0,
       "maxCombo": 1,
-      "totalExp": 1095,
+      "totalExp": 1215,
       "itemsBought": 2,
-      "coinsEarned": 2450,
+      "coinsEarned": 2690,
       "upgradesDone": 0,
       "gachaCount": 0,
       "totalStones": 11,
       "autoFarmTotalSeconds": 0,
-      "autoFarmBattles": 69,
-      "autoFarmWins": 69,
+      "autoFarmBattles": 72,
+      "autoFarmWins": 72,
       "autoFarmLosses": 0,
       "totalPurchasedFarmTime": 0
     },
@@ -26,7 +26,7 @@
       "type": "lightning",
       "icon": "⚡",
       "level": 5,
-      "exp": 95,
+      "exp": 215,
       "baseHealth": 80,
       "baseAttack": 18,
       "baseDefense": 3,
@@ -60,11 +60,11 @@
       "history": []
     },
     "autoFarm": {
-      "dailyAutoFarmSeconds": 204,
+      "dailyAutoFarmSeconds": 215,
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765603962099
+    "lastLogin": 1765603974475
   },
   "gameState": {
     "currentScreen": "battle-screen",
@@ -74,6 +74,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765603962099,
+  "timestamp": 1765603974475,
   "version": "1.0"
 }
