@@ -5,7 +5,7 @@
     "gems": 10,
     "whiteStones": 18,
     "stats": {
-      "playTime": 10,
+      "playTime": 12,
       "enemiesDefeated": 112,
       "bossesDefeated": 0,
       "maxCombo": 1,
@@ -60,11 +60,11 @@
       "history": []
     },
     "autoFarm": {
-      "dailyAutoFarmSeconds": 333,
+      "dailyAutoFarmSeconds": 335,
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765604136820
+    "lastLogin": 1765604139811
   },
   "gameState": {
     "currentScreen": "battle-screen",
@@ -74,6 +74,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765604136820,
+  "timestamp": 1765604139811,
   "version": "1.0"
 }
