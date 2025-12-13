@@ -1,0 +1,86 @@
+{
+  "player": {
+    "username": "Anhladib",
+    "createdAt": "2025-12-13T15:20:48.556Z",
+    "gems": 1000,
+    "coins": 50,
+    "mysticalStones": 0,
+    "mainPet": {
+      "id": "water_turtle_1765639248562",
+      "type": "water_turtle",
+      "name": "Rùa Nước",
+      "icon": "🐢💧",
+      "level": 1,
+      "exp": 0,
+      "stats": {
+        "health": 150,
+        "attack": 10,
+        "defense": 20,
+        "speed": 5
+      },
+      "equipment": {
+        "weapon": null,
+        "armor": null,
+        "helmet": null,
+        "boots": null,
+        "accessory": null
+      },
+      "skills": []
+    },
+    "inventory": {
+      "equipment": [
+        "wooden_sword",
+        "leather_armor"
+      ],
+      "consumables": {
+        "health_potion": 5,
+        "exp_potion": 2
+      },
+      "materials": {},
+      "maxSlots": 50
+    },
+    "collection": {
+      "items": [
+        "wooden_sword",
+        "leather_armor"
+      ],
+      "totalValue": 0
+    },
+    "achievements": [],
+    "skills": {},
+    "stats": {
+      "totalPlayTime": 0,
+      "enemiesDefeated": 0,
+      "bossesDefeated": 0,
+      "highestCombo": 0,
+      "legendaryDrops": 0,
+      "totalGemsEarned": 0,
+      "totalCoinsEarned": 0
+    },
+    "autoFarm": {
+      "usedToday": 0,
+      "purchasedTime": 0,
+      "lastReset": "Sat Dec 13 2025"
+    },
+    "gacha": {
+      "freePulls": 1,
+      "lastFreePull": null,
+      "pityCounter": {
+        "epic": 0,
+        "legendary": 0
+      },
+      "history": []
+    },
+    "lastLogin": "2025-12-13T15:20:48.563Z",
+    "lastSave": 1765639248564,
+    "version": "1.0"
+  },
+  "gameState": {
+    "currentScreen": "main-menu",
+    "lastArea": "forest",
+    "playTime": 0,
+    "totalBattles": 0
+  },
+  "version": "1.0",
+  "timestamp": "2025-12-13T15:20:48.564Z"
+}
