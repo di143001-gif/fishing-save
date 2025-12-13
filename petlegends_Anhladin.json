@@ -57,7 +57,7 @@
       "crafting": {}
     },
     "stats": {
-      "totalPlayTime": 34,
+      "totalPlayTime": 94,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "highestCombo": 0,
@@ -85,11 +85,11 @@
       "history": []
     },
     "lastLogin": "2025-12-13T13:28:18.690Z",
-    "lastSave": 1765632533518,
+    "lastSave": 1765632593747,
     "version": "2.0"
   },
   "gameState": {
-    "currentScreen": "pet-screen",
+    "currentScreen": "achievements-screen",
     "lastArea": "forest",
     "playTime": 0,
     "totalBattles": 0,
@@ -101,5 +101,5 @@
     }
   },
   "version": "2.0",
-  "timestamp": "2025-12-13T13:28:53.518Z"
+  "timestamp": "2025-12-13T13:29:53.748Z"
 }
