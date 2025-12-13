@@ -1,7 +1,7 @@
 {
   "playerData": {
     "username": "Anhladiv1",
-    "coins": 1000,
+    "coins": 500,
     "gems": 10,
     "whiteStones": 0,
     "stats": {
@@ -10,7 +10,7 @@
       "bossesDefeated": 0,
       "maxCombo": 0,
       "totalExp": 0,
-      "itemsBought": 0,
+      "itemsBought": 1,
       "coinsEarned": 0,
       "upgradesDone": 0,
       "gachaCount": 0,
@@ -33,7 +33,9 @@
       "baseSpeed": 10
     },
     "inventory": {
-      "equipment": [],
+      "equipment": [
+        "wooden_sword"
+      ],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -64,16 +66,16 @@
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765599619765
+    "lastLogin": 1765599625876
   },
   "gameState": {
-    "currentScreen": "pet-screen",
+    "currentScreen": "shop-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765599619765,
+  "timestamp": 1765599625876,
   "version": "1.0"
 }
