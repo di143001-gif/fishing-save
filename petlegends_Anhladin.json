@@ -36,10 +36,12 @@
     },
     "collection": {
       "pets": [],
-      "items": [],
-      "totalValue": 0,
+      "items": [
+        "beginner_sword"
+      ],
+      "totalValue": 10,
       "rarityCount": {
-        "common": 0,
+        "common": 1,
         "rare": 0,
         "epic": 0,
         "legendary": 0,
@@ -57,7 +59,7 @@
       "crafting": {}
     },
     "stats": {
-      "totalPlayTime": 94,
+      "totalPlayTime": 154,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "highestCombo": 0,
@@ -75,21 +77,27 @@
       "lastReset": "Sat Dec 13 2025"
     },
     "gacha": {
-      "freePulls": 1,
+      "freePulls": 0,
       "lastFreePull": null,
       "pityCounter": {
         "epic": 0,
-        "legendary": 0,
-        "mythical": 0
+        "legendary": 1,
+        "mythical": 1
       },
-      "history": []
+      "history": [
+        {
+          "item": "Kiếm Tân Thủ",
+          "rarity": "epic",
+          "timestamp": "2025-12-13T13:30:23.167Z"
+        }
+      ]
     },
     "lastLogin": "2025-12-13T13:28:18.690Z",
-    "lastSave": 1765632593747,
+    "lastSave": 1765632653745,
     "version": "2.0"
   },
   "gameState": {
-    "currentScreen": "achievements-screen",
+    "currentScreen": "gacha-screen",
     "lastArea": "forest",
     "playTime": 0,
     "totalBattles": 0,
@@ -101,5 +109,5 @@
     }
   },
   "version": "2.0",
-  "timestamp": "2025-12-13T13:29:53.748Z"
+  "timestamp": "2025-12-13T13:30:53.746Z"
 }
