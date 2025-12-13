@@ -64,7 +64,7 @@
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765603958953
+    "lastLogin": 1765603962099
   },
   "gameState": {
     "currentScreen": "battle-screen",
@@ -74,6 +74,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765603958953,
+  "timestamp": 1765603962099,
   "version": "1.0"
 }
