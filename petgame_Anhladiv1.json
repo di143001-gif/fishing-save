@@ -1,23 +1,23 @@
 {
   "playerData": {
     "username": "Anhladiv1",
-    "coins": 4670,
+    "coins": 6090,
     "gems": 10,
-    "whiteStones": 16,
+    "whiteStones": 18,
     "stats": {
       "playTime": 10,
-      "enemiesDefeated": 95,
+      "enemiesDefeated": 112,
       "bossesDefeated": 0,
       "maxCombo": 1,
-      "totalExp": 2105,
+      "totalExp": 2815,
       "itemsBought": 2,
-      "coinsEarned": 4470,
+      "coinsEarned": 5890,
       "upgradesDone": 0,
       "gachaCount": 0,
-      "totalStones": 16,
+      "totalStones": 18,
       "autoFarmTotalSeconds": 0,
-      "autoFarmBattles": 95,
-      "autoFarmWins": 94,
+      "autoFarmBattles": 112,
+      "autoFarmWins": 111,
       "autoFarmLosses": 1,
       "totalPurchasedFarmTime": 0
     },
@@ -25,8 +25,8 @@
       "name": "Sét",
       "type": "lightning",
       "icon": "⚡",
-      "level": 7,
-      "exp": 5,
+      "level": 8,
+      "exp": 15,
       "baseHealth": 80,
       "baseAttack": 18,
       "baseDefense": 3,
@@ -60,11 +60,11 @@
       "history": []
     },
     "autoFarm": {
-      "dailyAutoFarmSeconds": 281,
+      "dailyAutoFarmSeconds": 333,
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765604074103
+    "lastLogin": 1765604136820
   },
   "gameState": {
     "currentScreen": "battle-screen",
@@ -74,6 +74,6 @@
     "battleCombo": 1,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765604074103,
+  "timestamp": 1765604136820,
   "version": "1.0"
 }
