@@ -33,9 +33,7 @@
       "baseSpeed": 10
     },
     "inventory": {
-      "equipment": [
-        "leather_boots"
-      ],
+      "equipment": [],
       "consumables": {
         "health_potion": 0,
         "energy_potion": 0,
@@ -46,7 +44,7 @@
       "weapon": "wooden_sword",
       "armor": null,
       "helmet": null,
-      "boots": null,
+      "boots": "leather_boots",
       "accessory": null
     },
     "upgrades": {
@@ -66,16 +64,16 @@
       "purchasedSeconds": 0,
       "lastAutoFarmDate": "Sat Dec 13 2025"
     },
-    "lastLogin": 1765599661080
+    "lastLogin": 1765599686553
   },
   "gameState": {
-    "currentScreen": "inventory-screen",
+    "currentScreen": "battle-screen",
     "currentBattleArea": "forest",
     "isInBattle": false,
     "currentEnemy": null,
     "battleCombo": 0,
     "lastSaveTime": 1765599606277
   },
-  "timestamp": 1765599661080,
+  "timestamp": 1765599686553,
   "version": "1.0"
 }
