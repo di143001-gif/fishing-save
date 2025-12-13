@@ -2,8 +2,8 @@
   "player": {
     "username": "Anhladib",
     "createdAt": "2025-12-13T15:20:48.556Z",
-    "gems": 1000,
-    "coins": 50,
+    "gems": 1100,
+    "coins": 60,
     "mysticalStones": 0,
     "mainPet": {
       "id": "water_turtle_1765639248562",
@@ -46,10 +46,12 @@
       ],
       "totalValue": 0
     },
-    "achievements": [],
+    "achievements": [
+      "first_pet"
+    ],
     "skills": {},
     "stats": {
-      "totalPlayTime": 0,
+      "totalPlayTime": 46,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "highestCombo": 0,
@@ -63,16 +65,22 @@
       "lastReset": "Sat Dec 13 2025"
     },
     "gacha": {
-      "freePulls": 1,
+      "freePulls": 0,
       "lastFreePull": null,
       "pityCounter": {
-        "epic": 0,
-        "legendary": 0
+        "epic": 1,
+        "legendary": 1
       },
-      "history": []
+      "history": [
+        {
+          "item": "Kiếm Gỗ",
+          "rarity": "common",
+          "timestamp": "2025-12-13T15:21:23.818Z"
+        }
+      ]
     },
     "lastLogin": "2025-12-13T15:20:48.563Z",
-    "lastSave": 1765639248564,
+    "lastSave": 1765639295226,
     "version": "1.0"
   },
   "gameState": {
@@ -82,5 +90,5 @@
     "totalBattles": 0
   },
   "version": "1.0",
-  "timestamp": "2025-12-13T15:20:48.564Z"
+  "timestamp": "2025-12-13T15:21:35.227Z"
 }
