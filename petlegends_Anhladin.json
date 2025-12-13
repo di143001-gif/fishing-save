@@ -59,7 +59,7 @@
       "crafting": {}
     },
     "stats": {
-      "totalPlayTime": 154,
+      "totalPlayTime": 214,
       "enemiesDefeated": 0,
       "bossesDefeated": 0,
       "highestCombo": 0,
@@ -93,11 +93,11 @@
       ]
     },
     "lastLogin": "2025-12-13T13:28:18.690Z",
-    "lastSave": 1765632653745,
+    "lastSave": 1765632713520,
     "version": "2.0"
   },
   "gameState": {
-    "currentScreen": "gacha-screen",
+    "currentScreen": "main-menu",
     "lastArea": "forest",
     "playTime": 0,
     "totalBattles": 0,
@@ -109,5 +109,5 @@
     }
   },
   "version": "2.0",
-  "timestamp": "2025-12-13T13:30:53.746Z"
+  "timestamp": "2025-12-13T13:31:53.522Z"
 }
