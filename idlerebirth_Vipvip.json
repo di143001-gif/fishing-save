@@ -20,18 +20,18 @@
     "totalRebirthPoints": 0,
     "achievements": [],
     "stats": {
-      "totalPlayTime": 0,
+      "totalPlayTime": 16,
       "totalGoldEarned": 0,
       "totalExpEarned": 0,
       "totalEnemiesDefeated": 0,
       "totalBossesDefeated": 0,
       "totalIdleTime": 0,
-      "totalDamageDealt": 0
+      "totalDamageDealt": 9.4
     },
     "idleTime": 0,
     "lastIdleReward": 1765687401667,
     "lastLogin": "2025-12-14T04:43:21.667Z",
-    "lastSave": 1765687401668,
+    "lastSave": 1765687418051,
     "version": "1.0"
   },
   "gameState": {
@@ -40,5 +40,5 @@
     "playTime": 0
   },
   "version": "1.0",
-  "timestamp": "2025-12-14T04:43:21.668Z"
+  "timestamp": "2025-12-14T04:43:38.052Z"
 }
