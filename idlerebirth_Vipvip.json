@@ -2,10 +2,10 @@
   "player": {
     "username": "Vipvip",
     "createdAt": "2025-12-14T04:43:21.661Z",
-    "gold": 636,
+    "gold": 669,
     "gems": 20,
     "level": 3,
-    "exp": 111,
+    "exp": 114,
     "maxExp": 225,
     "baseHealth": 100,
     "baseAttack": 10,
@@ -31,18 +31,18 @@
       "first_stage"
     ],
     "stats": {
-      "totalPlayTime": 196,
-      "totalGoldEarned": 786,
-      "totalExpEarned": 361,
+      "totalPlayTime": 226,
+      "totalGoldEarned": 819,
+      "totalExpEarned": 364,
       "totalEnemiesDefeated": 9,
       "totalBossesDefeated": 1,
-      "totalIdleTime": 282.151,
+      "totalIdleTime": 312.252,
       "totalDamageDealt": 1687.5999999999988
     },
-    "idleTime": 282.151,
-    "lastIdleReward": 1765687683818,
+    "idleTime": 312.252,
+    "lastIdleReward": 1765687713919,
     "lastLogin": "2025-12-14T04:43:21.667Z",
-    "lastSave": 1765687684820,
+    "lastSave": 1765687714818,
     "version": "1.0"
   },
   "gameState": {
@@ -51,5 +51,5 @@
     "playTime": 0
   },
   "version": "1.0",
-  "timestamp": "2025-12-14T04:48:04.820Z"
+  "timestamp": "2025-12-14T04:48:34.818Z"
 }
