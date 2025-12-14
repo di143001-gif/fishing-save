@@ -31,18 +31,18 @@
       "first_stage"
     ],
     "stats": {
-      "totalPlayTime": 136,
+      "totalPlayTime": 166,
       "totalGoldEarned": 323,
       "totalExpEarned": 113,
       "totalEnemiesDefeated": 9,
       "totalBossesDefeated": 1,
       "totalIdleTime": 0,
-      "totalDamageDealt": 1258.5999999999988
+      "totalDamageDealt": 1588.5999999999988
     },
     "idleTime": 0,
     "lastIdleReward": 1765687401667,
     "lastLogin": "2025-12-14T04:43:21.667Z",
-    "lastSave": 1765687538051,
+    "lastSave": 1765687655283,
     "version": "1.0"
   },
   "gameState": {
@@ -51,5 +51,5 @@
     "playTime": 0
   },
   "version": "1.0",
-  "timestamp": "2025-12-14T04:45:38.051Z"
+  "timestamp": "2025-12-14T04:47:35.283Z"
 }
