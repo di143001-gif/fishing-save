@@ -2,36 +2,38 @@
   "player": {
     "username": "Vipvip",
     "createdAt": "2025-12-14T04:43:21.661Z",
-    "gold": 100,
-    "gems": 10,
+    "gold": 230,
+    "gems": 20,
     "level": 1,
-    "exp": 0,
+    "exp": 15,
     "maxExp": 100,
     "baseHealth": 100,
     "baseAttack": 10,
     "baseDefense": 5,
     "baseSpeed": 1,
-    "currentStage": 1,
-    "highestStage": 1,
+    "currentStage": 3,
+    "highestStage": 3,
     "upgrades": {},
     "skills": {},
     "rebirthCount": 0,
     "rebirthPoints": 0,
     "totalRebirthPoints": 0,
-    "achievements": [],
+    "achievements": [
+      "first_stage"
+    ],
     "stats": {
-      "totalPlayTime": 16,
-      "totalGoldEarned": 0,
-      "totalExpEarned": 0,
-      "totalEnemiesDefeated": 0,
+      "totalPlayTime": 46,
+      "totalGoldEarned": 130,
+      "totalExpEarned": 15,
+      "totalEnemiesDefeated": 2,
       "totalBossesDefeated": 0,
       "totalIdleTime": 0,
-      "totalDamageDealt": 9.4
+      "totalDamageDealt": 257.19999999999993
     },
     "idleTime": 0,
     "lastIdleReward": 1765687401667,
     "lastLogin": "2025-12-14T04:43:21.667Z",
-    "lastSave": 1765687418051,
+    "lastSave": 1765687448052,
     "version": "1.0"
   },
   "gameState": {
@@ -40,5 +42,5 @@
     "playTime": 0
   },
   "version": "1.0",
-  "timestamp": "2025-12-14T04:43:38.052Z"
+  "timestamp": "2025-12-14T04:44:08.052Z"
 }
